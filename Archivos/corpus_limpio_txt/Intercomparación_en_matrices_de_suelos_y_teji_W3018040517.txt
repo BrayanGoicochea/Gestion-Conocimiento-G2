@@ -1,0 +1,137 @@
+- 103 -
+
+Intercomparación en matrices de suelos y tejido vegetal de los laboratorios de RELASE
+
+Intercomparison in soil matrices and plant tissue from RELASE laboratories
+
+Intercomparação em matrizes de solo e tecido vegetal de laboratórios RELASE
+
+Bolívar Aucatoma Guerrero baucatoma@cincae.org
+
+Centro de Investigación de la Caña de Azúcar del Ecuador (CINCAE), Ecuador
+
+Artículo recibido enero 2018, arbitrado febrero 2018 y publicado en mayo 2018
+
+RESUMEN La Red de Laboratorios de Análisis de Suelos del Ecuador (RELASE) ha trabajado con 15 laboratorios en Ecuador, en matrices de suelos y tejido vegetal, con el fin de normalizar la mayor cantidad de parámetros para cada tipo de muestra, obteniendo entre 4 a 8 parámetros normalizados de 12 en suelos y entre 3 a 6 parámetros normalizados para tejido vegetal de 10 evaluados. Además, se incrementaron los parámetros (Boro y Azufre) analizados en cada intercomparación. Se realizaron dos intercomparaciones anuales durante dos años, enviaron una muestra por matriz, y en la segunda intercomparación del primer año y primera del segundo año se trabajaron con dos muestras. En éste ciclo se trabajó con un material de referencia certificado (MRC) de tejido vegetal, obteniendo el promedio de laboratorios de RELASE un 80% de parámetros con un error menor al 10% y solo el caso del Fe con 11,7% y el B con el 24,4%. De los resultados de la segunda intercomparación del segundo año, se obtuvo como dato relevante que en tejido vegetal el 100% de parámetros analizados estuvieron normalizados, incluido el B y S. Así como que los elementos K, Mn, S y B el 100% de laboratorios se mostraron como satisfactorios. En la matriz suelos se mostraron normalizados el 58% del total de parámetros evaluados, siendo que el Ca y pH tuvieron el 100% de laboratorios con datos satisfactorios.
+
+Palabras clave: Interlaboratorios; matriz; suelo; tejido vegetal; normalizado y satisfactorio ABSTRACT The Network of Soil Analysis Laboratories of Ecuador (RELASE) has worked with 15 laboratories in Ecuador, in soil matrices and plant tissue, in order to normalize the greatest number of parameters for each type of sample, obtaining between 4 to 8 12 normalized parameters in soils and between 3 to 6 normalized parameters for plant tissue of 10 evaluated. In addition, the parameters (Boron and Sulfur) analyzed in each intercomparison were increased. Two annual comparisons were made for two years, they sent one sample per matrix, and in the second intercomparison of the first year and the first of the second year, and two samples were worked on. In this cycle, we worked with a certified reference material (MRC) of plant tissue, obtaining the average of RELASE laboratories with 80% of parameters with an error of less than 10% and only the case of Fe with 11.7% and the B with 24.4%. From the results of the second intercomparison in 2014, it was obtained as relevant data that in plant tissue 100% of the parameters analyzed were normalized, including B and S. As well as elements K, Mn, S and B 100% of Labs were shown to be satisfactory. In the soil matrix 58% of the total parameters evaluated were normalized, being that Ca and pH had 100% of laboratories with satisfactory data.
+
+Key words: Interlaboratory; matrix; soil; plant tissue; normalized and satisfactory ALFA, Revista de Investigación en Ciencias Agronómicas y Veterinarias https://doi.org/10.33996/revistaalfa.v3i8.60 Mayo – Agosto 2019 Volumen 3, Número 8 ISSN: 2664 – 0902 ISSN-L: 2664 – 0902 pp. 103 - 113
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 104 - Intercomparación en matrices de suelos y tejido vegetal de los laboratorios de RELASE RESUMO A Rede de Laboratórios de Análise de Solo do Equador (RELASE) trabalhou com 15 laboratórios no Equador, em matrizes de solo e tecidos vegetais, a fim de normalizar o maior número de parâmetros para cada tipo de amostra, obtendo entre 4 e 8 12 parâmetros normalizados em solos e entre 3 a 6 parâmetros normalizados para tecido vegetal de 10 avaliados. Além disso, os parâmetros (boro e enxofre) analisados em cada intercomparação foram aumentados. Foram feitas duas comparações anuais por dois anos, eles enviaram uma amostra por matriz e, na segunda intercomparação do primeiro ano e no primeiro do segundo ano, duas amostras foram trabalhadas. Nesse ciclo, trabalhamos com um material de referência certificado (MRC) de tecido vegetal, obtendo a média dos laboratórios RELASE com 80% de parâmetros com erro inferior a 10% e apenas o caso do Fe com 11,7% e o B com 24,4%. A partir dos resultados da segunda intercomparação do segundo ano, foram obtidos como dados relevantes que no tecido vegetal 100% dos parâmetros analisados foram normalizados, incluindo B e S. Assim como os elementos K, Mn, S e B 100% dos laboratórios mostrou-se satisfatório. Na matriz do solo, 58% dos parâmetros totais avaliados foram normalizados, sendo que o Ca e o pH possuíam 100% dos laboratórios com dados satisfatórios.
+
+Palavras-Chave: Interlaboratorial; matriz; solo; tecido vegetal; normalizado e satisfatório
+
+INTRODUCCIÓN Los ensayos de intercomparación de aptitud a los laboratorios permiten tener una herramienta de control de calidad al poder comparar los resultados con otros laboratorios que realizan análisis semejantes, también permiten monitorear el comportamiento de los resultados a lo largo del tiempo y detectar tendencias, que de ser necesario se realizarán acciones preventivas o correctivas. Las intercomparaciones se fundamentan en la organización, desarrollo y evaluación de ensayos de muestras similares por varios laboratorios, de acuerdo con condiciones preestablecidas. La norma ISO/IEC 17025:2005 en su numeral 5.9 indican “El laboratorio debe tener procedimientos de control de calidad para realizar el seguimiento de la validez de los ensayos y las calibraciones llevados a cabo” (ISO, 2005). La intercomparación de laboratorios puede tener varios fines, entre los más relevantes tenemos: Probar la competencia (prueba de aptitud), analizar la reproducibilidad de resultados de medición, probar la equivalencia de los resultados con la referencia, probar la equivalencia de los resultados entre sí, probar las diferencias entre métodos. En una intercomparación cada laboratorio aporta con los resultados de los parámetros en los que participa, con los cuales se realizan los test estadísticos que permitirán la evaluación de los datos outliers, la normalidad del método de ensayo y la evaluación de desempeño de cada laboratorio. Entre los estadísticos más utilizados se encuentran la Media, desviación estándar, Q-Dixon, test de Grubbs y Cochran, Z-score, etc. En la figura 1 se muestra un ejemplo de un gráfico de intercomparación de 6 laboratorios. (Llamosa, y Villarreal, 2010).
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 105 - Bolívar Aucatoma Guerrero Figura 1. Gráfico típico de una intercomparación.
+
+En Ecuador no existe un organismo oficial que regule los métodos de ensayo y la calidad de los resultados de análisis de suelos y tejidos vegetales con fines de fertilización. Es así que en el año 2001 se crea la Red de Laboratorios de Análisis de Suelos del Ecuador, cobijada por la Sociedad Ecuatoriana de la Ciencia del Suelo, con la finalidad de mejorar la calidad analítica de los resultados de los laboratorios de análisis químico del suelo en primera instancia y que luego se extendió a tejido vegetal. Se han realizado dos intercomparaciones por año en los años 2013 y 2014. También en este periodo se preparó un material de referencia de tejido vegetal, con la participación de los laboratorios miembros de RELASE, analizando la misma muestra en tres intercomparaciones diferentes, con lo cual se obtuvieron valores promedios (Aucatoma, 2011, 2013 y 2014), de los parámetros que se muestran en el tabla 1, éste material servirá para que los miembros de RELASE ajusten sus métodos de ensayo. Además, se trabajó con el material de referencia certificado (IPE 945), realizándose una comparación (Aucatoma, 2013) entre RELASE y el MRC, obteniéndose resultados satisfactorios con errores menores al 10%, excepto para el caso de los microelementos Fe con 11,7% y del B de 22,4%. Esto muestra que los laboratorios están ajustados con sus metodologías de análisis. (Tabla 2).
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 106 - Intercomparación en matrices de suelos y tejido vegetal de los laboratorios de RELASE Tabla 1. Promedios de tres intercomparaciones del Tejido Vegetal a usarse como Material de Referencia de RELASE, segundo año.
+
+Parámetros
+
+Unidades Material Referencia Tejido Vegetal
+
+Promedio
+
+D.S
+
+n ±1,96s/√n I II III Ls Li N
+
+% 1,59 1,67 1,71 1,66 0,12 29 1,70 1,61 P 0,26 0,27 0,24 0,26 0,03 28 0,27 0,25 K 1,5 1,34 1,38 1,41 0,13 26 1,46 1,36 Ca 0,24 0,44 0,45 0,39 0,22 30 0,47 0,31 Mg 0,15 0,15 0,16 0,15 0,04 28 0,17 0,14 S 0,12 0,12 0,12 0,12 0,04 14 0,14 0,10 Zn
+
+ppm 25,65 21,76 20,68 22,70 2,96 24 23,9 21,5 Cu 7,19 6,33 6,16 6,52 1,89 28 7,22 5,83 Fe 118 90,63 87,65 96,42 26,89 28 106,4 86,5 Mn 35,82 35,65 32,86 34,73 4,90 26 36,6 32,8 B 10,13 21,26 20,66 19,06 20,58 17 28,8 9,3
+
+Tabla 2. Evaluación de Error porcentual entre MRC IPE 945 y Promedio de intercomparación de RELASE, primer año. Parámetros Unidades PROMEDIO C.V % M.R.C ERROR % NORMALIDAD N
+
+2,05 3,07 2,07 1,0 NORMALIZADO P
+
+0,18 5,18 0,18 2,3 NORMALIZADO K
+
+1,31 8,74 1,43 8,4 NORMALIZADO Ca % 1,70 23,80 1,81 6,1 NO NORMALIZADO Mg
+
+0,26 6,18 0,27 2.3 NORMALIZADO S
+
+0,15 25,04 0,17 9,6 NO NORMALIZADO Zn
+
+50,71 29,48 46,30 9,5 NO NORMALIZADO Fe
+
+ppm 99,27 23,75 88,90 11,7 NO NORMALIZADO Mn
+
+69,80 7,01 69,50 0,4 NORMALIZADO B
+
+31,47 25,02 25,30 24,4 NO NORMALIZADO
+
+En matriz suelos y tejido vegetal en el año 2013 en la primera intercomparación se analizó 1, en la segunda intercomparación 2 muestras y en el 2014 en la primera intercomparación 2 muestras, obteniéndose para el caso de suelos entre 4 a 8 parámetros normalizados de los 12 evaluados, mostrando entre un 75 al 100% de laboratorios como satisfactorios en los parámetros normalizados como se muestran en la tabla 3 en el caso de tejido vegetal se obtuvieron entre 3 a 6 parámetros normalizados de los diez que se evaluaros, de los cuales se mostraron entre un 82 al 100% de laboratorios como satisfactorios, como se puede ver en la tabla 4.(Aucatoma, 2013, 2013 y 2014).
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 107 - Bolívar Aucatoma Guerrero Tabla 3. Porcentaje de parámetros satisfactorios de muestras de suelos en resultados normalizados.
+
+Tabla 4. Porcentaje de parámetros satisfactorios de muestras de tejido vegetal en resultados normalizados.
+
+PARÁMETROS INTERCOMPARACIÓN I -2013 II -2013 I -2014 N 100 82 100 90 90 P 100 91 100 90 X K X 91 91 80 70 Ca X X X 80 X Mg 100 100 82 80 X Zn 90 X 73 X 90 Cu 90 X X X X Mn 100 100 91 80 X Fe X X X X X S X X X X X B X X X X X X= PARÁMETROS NO NORMALIZADOS.
+
+El estudio mantuvo como principal objetivo mejorar la calidad analítica de los resultados de los laboratorios de análisis químico del suelo y tejido vegetal de los miembros de la RELASE. A fin de incluir las determinaciones de Boro y Azufre dentro de los parámetros en suelos y plantas, para conseguir que los nuevos laboratorios tengan PARÁMETROS INTERCOMPARACIÓN I -2013 II -2013 I -2014 pH 91 100 - 92 93 Materia Orgánica 100 100 X X 83 P X 83 X X X K 91 100 89 X X Ca 91 75 92 X 92 Mg 91 X 83 X X Zn X X X 60 83 Cu X 100 92 83 92 Mn 91 83 X 83 75 Fe X 75 X X X S 100 X X X 100 B X X X 83 X X= PARÁMETROS NO NORMALIZADOS.
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 108 - Intercomparación en matrices de suelos y tejido vegetal de los laboratorios de RELASE una referencia para que logren ajustar sus resultados de análisis y así proporcionar una herramienta para los laboratorios acreditados o en proceso de acreditación con la norma ISO/IEC 17025, en pruebas de evaluación de desempeño analítico. MATERIALES Y MÉTODOS Los laboratorios miembros de la RELASE se les asignó códigos para mantener la confidencialidad, los laboratorios y ciudad de procedencia se detallan en la tabla 5.
+
+Tabla 5. Laboratorios miembros de RELASE. Periodo de 24 meses Nombre Ciudad Clínica Agrícola (AGROBIOLAB) Quito Centro de Investigación de la Caña de Azúcar (CINCAE) El Triunfo Laboratorio de Análisis de Suelos, Plantas y Aguas (INIAP-E.E. Litoral Sur) Guayaquil Laboratorio de Análisis de Suelos, Plantas y Aguas (INIAP- E.E. Santa Catalina) Quito Laboratorio de Análisis de Suelos, Plantas y aguas (INIAP- E.E. Pichilingue) Quevedo Laboratorio de Análisis de Suelos, Plantas y aguas (INIAP- E.E. El Austro) Cuenca Laboratorio Agropecuario Santo Domingo Laboratorio de Campo del Ingenio San Carlos Marcelino Maridueña Laboratorio de Suelos AGROCALIDAD Tumbaco Laboratorio NEMALAB Machala Laboratorio de Química Agrícola y Suelos Universidad Central Quito Laboratorio de Análisis de Suelos y Foliar. Universidad Tecnológica Equinoccial de Santo Domingo de los Colorados Santo Domingo de los Tsachilas Laboratorio Métodos Instrumentales. Universidad Particular de Loja Loja Laboratorio Agropecuario Santo Domingo de los Tsachilas Laboratorio de Análisis de Suelos, Plantas y aguas (INIAP- E.E. Central Amazónica) Joya de los Sachas
+
+Matrices y parámetros analizados Para esta intercomparación se enviaron una muestra de suelo y una de tejido vegetal, sobre las cuales se evaluaron los parámetros descritos en la Tabla 6. El envío se realizó el 11 de septiembre del 2014, se informó a los laboratorios participantes del envío por medio de correo electrónico.
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 109 - Bolívar Aucatoma Guerrero Tabla 6. Parámetros y matrices evaluadas en el ejercicio de intercomparación. SUELOS TEJIDO VEGETAL Materia Orgánica Nitrógeno pH Fósforo Fósforo Potasio Potasio Calcio Calcio Magnesio Magnesio Azufre Azufre Cobre Cobre Hierro Hierro Manganeso Manganeso Zinc Zinc Boro Boro
+
+Preparación, envío de las muestras, recepción y entrega de resultados Las muestras de suelos y foliar son secadas a 60°C en una estufa con recirculación de aire, posteriormente se muelen, homogenizan y pasan por un tamiz de tamaño de poro de 1000 um en suelos y 500 um en tejido vegetal. Las muestras se envían en fundas ziploc a 11 laboratorios de suelos y 10 de foliares. Los resultados se receptan de acuerdo al formato entregado por la coordinación, con cinco repeticiones y las unidades utilizadas en reportes de suelos y foliares. El formato también reporta el coeficiente de variación intra laboratorio que se acepta para cada parámetro (Aucatoma, 2012) que se reporten en la Tabla 7. Los resultados se receptaron vía correo electrónico hasta el 30 de septiembre del 2014.
+
+Tabla 7. Coeficientes de Variación intra e interlaboratorios aceptados para cada parámetro analítico. SUELOS FOLIARES PARÁMETRO Coeficiente de Variación PARÁMETRO Coeficiente de Variación
+
+Interlaboratorios Intralaboratorio
+
+Interlaboratorios Intralaboratorio pH 5 4 N 10 6 M.O. 20 6 P 10** 6 P 20 6 K 10 6 K 20 6 Ca 10 6 Ca 20 6 Mg 15 6 Mg 20 6 Zn 15 6 Zn 15 6 Cu 20 6 Cu 20 6 Mn 10 6 Mn 20 6 Fe 20 6 Fe 20 6
+
+** para valores > 0.15%, se considera el 10% de coeficiente de variación; para muestras < a 0.15% de concentración se admitirá hasta el 15% de C.V.
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 110 - Intercomparación en matrices de suelos y tejido vegetal de los laboratorios de RELASE Tratamiento estadístico Con los datos enviados por cada laboratorio se realizaron test estadísticos para determinar datos discrepantes (outliers) Q-Dixon (Miller, y Miller, 2002) y Cochran (Burke, 2001), ecuación 1 y 2, así como la repetitividad de cada laboratorio test de Grubbs (Miller, y Miller, 2002) ecuación 3. Estas pruebas utilizan las medias y las desviaciones estándar de cada laboratorio y las de los demás.
+
+Una vez eliminados datos discrepantes se utilizó el coeficiente de variación para determinar si cada parámetro está normalizado o no. La evaluación de desempeño se realiza utilizando el test estadístico “z” score en el cual se involucra la media de cada laboratorio, la media y desviación estándar grupal. Esta clasificación está basada en el criterio de “z” score (Miller, y Miller, 2002),
+
+RESULTADOS Y DISCUSIÓN El pH, contenido de materia orgánica, P, K, Ca, Mg y B se mostraron normalizados, siendo el 58% del total de parámetros evaluados. El Ca y pH tuvieron el 100% de laboratorios como satisfactorios, el Mg y materia orgánica el 91% están normalizados y el 9% no satisfactorios, el P también muestra EL 91% como satisfactorio pero el 9% es cuestionable, el K tiene el 82% como satisfactorio y el 9 % cuestionable y 9% no satisfactorio, el Boro obtuvo un 86 % de laboratorios satisfactorios y un 14% como no satisfactorios. (Tabla 8).
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 111 - Bolívar Aucatoma Guerrero Tabla 8. Evaluación del grado de satisfacción de los resultados de 11 laboratorios pertenecientes a RELASE en siete parámetros de análisis de suelos en la segunda intercomparación del 2014.
+
+PH MO P K Ca Mg B LAB 1 S S C S S S NS LAB 2 S S S S S S S LAB 4 S S S S S S S LAB 6 S S S S S S S LAB 7 S S S S S S S LAB 8 S S S S S S S LAB 9 S S S C S S - LAB 10 S S S S S S - LAB 11 S S S S S S - LAB 12 S NS S NS S NS - LAB 15 S S S S S S S S: Satisfactorio. C: Cuestionable. NS: No Satisfactorio
+
+En la matriz de tejido vegetal el 100% de parámetros analizados estuvieron normalizados, incluido el B y S. En los elementos K, Mn, S y B el 100% de laboratorios se mostraron como satisfactorios. En los elementos N, P, Ca, Zn y Fe el 90% de laboratorios se tuvieron como satisfactorios, el 10% como no satisfactorios y cuestionable en el caso del fósforo. En el Mg el 80% de laboratorios se tuvieron como satisfactorios, el 10% cuestionable y 10% como no satisfactorio. (Tabla 9).
+
+Tabla 9. Evaluación del grado de satisfacción de los resultados de 10 laboratorios pertenecientes a RELASE en once parámetros de análisis de tejido vegetal en la segunda intercomparación del 2014. S: Satisfactorio. C: Cuestionable. NS: No Satisfactorio
+
+N P K Ca Mg Zn Cu Fe Mn S B LB-1 NS S S S S S S S S S S LB-2 S S S S C S S S S S S LB-4 S S S S S S S S S S S LB-6 S S S S S S S S S S S LB-7 S S S S S S S S S S S LB-8 S S S S S S S S S S S LB-10 S S S S S S S S S - - LB-11 S S S S S S S S S - - LB-13 S C S NS NS NS S NS S - - LB-15 S S S S S S S S S S S
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 112 - Intercomparación en matrices de suelos y tejido vegetal de los laboratorios de RELASE CONCLUSIONES Cumpliendo con lo estipulado por los laboratorios miembros de la RELASE se realizaron dos intercomparaciones anuales, en muestras de suelos y tejido vegetal en los años 2013 y 2014, con lo cual se ha garantizado que los laboratorios tengan una herramienta de control y mejora, en el aseguramiento de la calidad de sus resultados. Se incluyeron el análisis de los elementos B y S en muestras de suelos y foliares, logrando que participen 7 laboratorios miembros de RELASE y que en la segunda intercomparación del 2014 se encuentre normalizado el boro en la matriz suelo obteniendo como satisfactorio 6 de los siete laboratorios participantes y boro y azufre en tejido vegetal, teniendo el 100% de laboratorios participantes como satisfactorio. Esto indica que existieron mejoras en la exactitud de los resultados, principalmente por el uso del MRC que ayudó a estandarizar los métodos de cada laboratorio. En la matriz de suelos se encuentra en esta segunda intercomparación del 2014 un 58 % de parámetros normalizados y en tejido vegetal se ha llegado al 100%. En suelos se ha mantenido el % de parámetros normalizado y en tejido vegetal se ha mejorado respecto a la intercomparación de 2012 que se obtuvo 60 y 88 % en suelos y tejido vegetal respectivamente. Realizar estudios a diferentes niveles de concentración en suelos, para determinar coeficientes de variación intralaboratorios que permitan mejorar la determinación de la normalidad de cada parámetro, dando un especial énfasis en los elementos P y Zn, el fósforo por la variabilidad en sus resultados y el zinc por los bajos contenidos que presentan en los suelos. Correlacionar entre la extracción de Olsen Modificado y otros extractantes en la determinación de contenido disponible de fósforo. Probar en suelos con materiales de referencia para los contenidos de materia orgánica y pH, de los cuales si existen en el mercado. Para el caso de Olsen Modificado desarrollar al menos tres materiales de referencia de la RELASE.
+
+Agradecimiento Un agradecimiento fraterno a todos los laboratorios miembros de RELASE, por la participación en el análisis de muestras, participación en las reuniones de trabajo, con lo cual se ha podido mejorar la calidad de análisis que entregamos a los clientes. Un especial agradecimiento a la Dirección de los Laboratorios de Agrocalidad por la donación material de referencia certificado de tejido vegetal (IPE 945).
+
+REFERENCIAS Aucatoma G. Bolívar. 2014. Décimo Ejercicio de Intercomparación organizado por la red de laboratorios de análisis de suelos del Ecuador (RELASE). Joya de los Sachas. 136p Aucatoma G. Bolívar. 2013. Noveno Ejercicio de Intercomparación organizado por la red de laboratorios de análisis de suelos del Ecuador (RELASE). 131p Aucatoma G. Bolívar. 2013. Octavo Ejercicio de Intercomparación organizado por la red de laboratorios de análisis de suelos del Ecuador (RELASE). Tumbaco. 63p Aucatoma G. Bolívar. 2012. Sexto Ejercicio de Intercomparación organizado por la red de laboratorios de análisis de suelos del Ecuador (RELASE). Marcelino Maridueña. 104p Aucatoma G. Bolívar. 2011. Quinto Ejercicio de Intercomparación organizado por la red de laboratorios de análisis de suelos del Ecuador (RELASE). Cuenca. 63p Burke, S., 2001. Missing Values, Outliers, robust statistics & Non-parametric methods (en línea). LC GC Europe. Jan
+
+Alfa, Revista de Investigación en Ciencias Agronómicas y Veterinarias Vol. 3, Nro. 8, Mayo – Agosto 2019
+
+- 113 - Bolívar Aucatoma Guerrero consultado 1 Oct. 2018 en http://cpdee.ufmg.br/~fcampelo/files/di sciplinas/old/20121/Referencias/Burke2 001%20-%204Missing%20Values,%20outliers,%20Robu st%20Statistics%20and%20Non-.pdf. ISO 17025, 2005. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración. Segunda Edición. Suiza 2005, 38p Llamosa, L.E. y Villarreal M.F., 2010. Intercomparación entre Laboratorios de Investigación en Física Experimental. Scientia et Technica Año XVII, No 46, Diciembre 2010. Universidad Tecnológica de Pereira. ISSN 0122-1701 Miller, J.N. y Miller J.C., 2002. Estadística y Quimiometría para Química Analítica. Cuarta Edición. Madrid 2002, 296p

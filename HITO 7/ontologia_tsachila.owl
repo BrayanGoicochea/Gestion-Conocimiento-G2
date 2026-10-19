@@ -1,0 +1,2349 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologia_tsachila#"
+     xml:base="http://www.semanticweb.org/ontologia_tsachila#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologia_tsachila">
+        <rdfs:comment xml:lang="es">Ontología formal del Conocimiento Etnobotánico y Medicina Ancestral Tsáchila.</rdfs:comment>
+        <rdfs:label xml:lang="es">Ontología Etnobotánica Tsáchila</rdfs:label>
+    </owl:Ontology>
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta">
+        <rdfs:label xml:lang="es">Planta</rdfs:label>
+        <rdfs:comment xml:lang="es">Entidad vegetal empleada en la medicina tradicional Tsáchila</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Patologia">
+        <rdfs:label xml:lang="es">Patologia</rdfs:label>
+        <rdfs:comment xml:lang="es">Enfermedad, síntoma o dolencia tratada</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#PartePlanta">
+        <rdfs:label xml:lang="es">PartePlanta</rdfs:label>
+        <rdfs:comment xml:lang="es">Órgano vegetal utilizado (hojas, corteza, fruto, raíz, etc.)</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Preparacion">
+        <rdfs:label xml:lang="es">Preparacion</rdfs:label>
+        <rdfs:comment xml:lang="es">Forma galénica o ritual de elaboración del remedio</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica">
+        <rdfs:label xml:lang="es">FamiliaBotanica</rdfs:label>
+        <rdfs:comment xml:lang="es">Taxonomía botánica de las especies</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui">
+        <rdfs:label xml:lang="es">NombreTsafiqui</rdfs:label>
+        <rdfs:comment xml:lang="es">Denominación vernácula en lengua tsáfiqui</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico">
+        <rdfs:label xml:lang="es">NombreCientifico</rdfs:label>
+        <rdfs:comment xml:lang="es">Nomenclatura botánica binomial</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Receta">
+        <rdfs:label xml:lang="es">Receta</rdfs:label>
+        <rdfs:comment xml:lang="es">Fórmula medicinal tradicional compuesta</rdfs:comment>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Actor">
+        <rdfs:label xml:lang="es">Actor</rdfs:label>
+        <rdfs:comment xml:lang="es">Especialista o practicante tradicional de la salud (p. ej., Poné)</rdfs:comment>
+    </owl:Class>
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#trataA">
+        <rdfs:label xml:lang="es">trataA</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#usaParte">
+        <rdfs:label xml:lang="es">usaParte</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#preparadoComo">
+        <rdfs:label xml:lang="es">preparadoComo</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#perteneceAFamilia">
+        <rdfs:label xml:lang="es">perteneceAFamilia</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#tieneNombreTsafiqui">
+        <rdfs:label xml:lang="es">tieneNombreTsafiqui</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#tieneNombreCientifico">
+        <rdfs:label xml:lang="es">tieneNombreCientifico</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#administradoPor">
+        <rdfs:label xml:lang="es">administradoPor</rdfs:label>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Actor"/>
+    </owl:ObjectProperty>
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Synechanthus_warsewiczianu">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Synechanthus warsewiczianu</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Araceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Araceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Piper_tuberculatum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Piper tuberculatum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Piperaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Piperaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Castilla_elástica">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Castilla elástica</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Moraceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Moraceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dioscórea_trífida">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Dioscórea trífida</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dioscoreacea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Dioscoreacea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cucurbitaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Cucurbitaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cleome_pilosa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Cleome pilosa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Capparaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Capparaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Rostonea_regia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Rostonea regia</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Areaceas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Areaceas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Nepenthes_sp">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Nepenthes sp.</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Nepenthaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Nepenthaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Petiveria_alliaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Petiveria alliaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Apiaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Apiaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Clibadium_laxum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Clibadium laxum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Asteraceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Asteraceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Heliconiaceae_Sp">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Heliconiaceae Sp.</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Heliconiaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Heliconiaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Calathea_crotalifera">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Calathea crotalifera</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Marantaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Marantaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ajengibre</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#hojas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">hojas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#infusión">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">infusión</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#sistema_nervioso">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">sistema nervioso</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#raíces">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">raíces</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#infecciones_estomacales">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">infecciones estomacales</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#limpieza_de_las_vías_urinarias">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">limpieza de las vías urinarias</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#inflamación_de_los_riñones">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">inflamación de los riñones</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#sumo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">sumo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#limpieza_de_la_vista">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">limpieza de la vista</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ají de rana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#semillas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">semillas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#seco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">seco</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#escalofríos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">escalofríos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#fiebre">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">fiebre</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#dolor_muscular">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">dolor muscular</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Betilla</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#aromas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">aromas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#zumo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">zumo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#baño_energético">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">baño energético</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#ambiental">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">ambiental</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chapil">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Chapil</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#fruto">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">fruto</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Colinarashili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Colin´arashili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#corteza_de_la_raíz">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">corteza de la raíz</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cordoncillo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Cordoncillo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#limpia_shamanica">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">limpia shamanica</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#baño_purificador">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">baño purificador</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Copal">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Copal</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#resina_seca">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">resina seca</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#corteza">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">corteza</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#antorcha">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">antorcha</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#PabanShili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Paban´Shili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#liana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">liana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Guayusa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Guayusa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Punta_lanza">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Punta lanza</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mordidas_de_serpiente">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Mordidas de serpiente</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Infusión">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Infusión</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Suashili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Suashili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Estrés">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Estrés</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Fruto">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Fruto</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Achiote</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_la_vejiga">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Inflamación de la vejiga</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Problemas_del_sistema_respiratorio">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Problemas del sistema respiratorio</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cáncer">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Cáncer</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hojas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Hojas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Frutos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Frutos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pasta_de_la_semilla">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Pasta de la semilla</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cataplasma">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Cataplasma</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Catarata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Catarata</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Barbasco_de_rama">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Barbasco de rama</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ramas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Ramas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tritura">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Tritura</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Bastón de faraón</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dolor_de_cabeza">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Dolor de cabeza</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Migraña">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Migraña</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Quemazón_de_la_cintura">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Quemazón de la cintura</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_los_ovarios">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Inflamación de los ovarios</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Flor">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Flor</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Extracto_macerado">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Extracto macerado</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Baños_frescos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Baños frescos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Vías_urinarias">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Vías urinarias</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_la_próstata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Inflamación de la próstata</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bixaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Bixaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mali">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Mali</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Rubiaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Rubiaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bixa_orellana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Bixa orellana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Buaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Buaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Carapa_meglatocarpa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Carapa meglatocarpa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Meliaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Meliaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Genipa_americana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Genipa americana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Fiebre_amarilla">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Fiebre amarilla</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Viruela">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Viruela</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Semilla">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Semilla</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mu_Queká">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Mu Queká</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Poné">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Actor"/>
+        <rdfs:label xml:lang="es">Poné</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ayahuasca</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bebida_sagrada">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Bebida sagrada</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Banisteriopsis_caapi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Banisteriopsis caapi</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Malpighiaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Malpighiaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#ayahuasca">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">ayahuasca</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mú">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Mú</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pitumbaka">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Pi'tumbaka</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Alpinia_purpurata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Alpinia purpurata</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zingiberaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Zingiberaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Burutunka">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Burutunka</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Abelmoschus">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Abelmoschus</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Malvaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Malvaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ajo de monte</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tsa_senco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Tsa senco</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mansoa_alliacea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Mansoa alliacea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bignoniaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Bignoniaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo_Pole">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ampo Pole</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pe_Ampo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Pe Ampo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Catatola_costaricensis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Catatola costaricensis</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Icacinaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Icacinaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Albahaca_de_monte">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Albahaca de monte</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Paban_tefun">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Paban tefun</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ocimum_micranthum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Ocimum micranthum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Lamiaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Lamiaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Amansadora">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Amansadora</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mipakí">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Mipa'kí</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Commelina_diffusa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Commelina diffusa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Commelinaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Commelinaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Nepi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Nepi</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tsa_Kajali">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Tsa Kaja'li</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Phyllanthaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Phyllanthaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Fabaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Fabaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ishan_luli">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Ishan luli</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Etlingera_elatior">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Etlingera elatior</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Bejuco</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Parishili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Parishi'li</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cyclanthaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Cyclanthaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Elenashili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Elena'shili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Prestonia_mollis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Prestonia mollis</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Apocynaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Apocynaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Biblia</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Yoshilipa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Yoshilipa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Justicia_lanthina">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Justicia lanthina</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Acanthaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Acanthaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pituli">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Pituli</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Geonoma">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Geonoma</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Arecaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Arecaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caucho">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Caucho</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Sabe">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Sabe</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ficus_insipida">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Ficus insipida</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caña_agria">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Caña agria</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kocomla">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Ko'comla</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Gynerium_sagittatum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Gynerium sagittatum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Poaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Poaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Colin_arashili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Colin arashili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Polybotrya_alfredii">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Polybotrya alfredii</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dryopteridaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Dryopteridaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Shiliampo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Shili'ampo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Piper_sp">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Piper sp</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cho_chola">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Cho chola</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dacryodes_peruviana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Dacryodes peruviana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Burseraceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Burseraceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Culantro_de_poso">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Culantro de poso</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chiliangua">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Chiliangua</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Eryngium_foetidum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Eryngium foetidum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Guayosa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Guayosa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ilex_guayusa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Ilex guayusa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Aquifoliaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Aquifoliaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Helecho">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Helecho</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hará">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Hará</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Polybotrya_osmundacea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Polybotrya osmundacea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Hierba de serpiente</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pini_tape">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Pini ta'pe</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Triolena_pustulata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Triolena pustulata</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Melastomataceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Melastomataceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hiel_del_sol">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Hiel del sol</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Yokantsa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Yo'kantsa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Asteraceae_sp">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Asteraceae sp.</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_del_trueno">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Hierba del trueno</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kuntata_pe">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Kuntata pe</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Floscopa_peruviana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Floscopa peruviana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hoja_de_Yuca">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Hoja de Yuca</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ku_chu">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Ku chu</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Manihot_esculenta">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Manihot esculenta</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Euphorbiaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Euphorbiaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ishentape">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ishentape</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palicourea_crocea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Palicourea crocea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Katsa_tape">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Katsa tape</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Solanum_schlechtendalianum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Solanum schlechtendalianum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Solanaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Solanaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Matico</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wapinku">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Wa'pinku</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Piper_secundum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Piper secundum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Malaria">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Malaria</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chan_kui">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Chan kui</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mendoncia_sericea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Mendoncia sericea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mendonciaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Mendonciaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mocora">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Mocora</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Joro">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Joro</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Astrocaryum_standleyanum">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Astrocaryum standleyanum</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ortiga brava</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tini">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Tini</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Urtica_dioica">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Urtica dioica</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Urticaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Urticaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Oton_korotape">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Oton korotape</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ruellia_colorata">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Ruellia colorata</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Palma</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tsetsero">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Tse'tsero</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Synechanthus_warscewiczianus">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Synechanthus warscewiczianus</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Ampo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ámpo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Ámpo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pakigua">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Pakigua</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Parashili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Parashili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Castilla_elastica">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Castilla elastica</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Papa_chilma">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Papa chilma</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tsan_pó">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Tsan pó</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dioscorea_trifida">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Dioscorea trifida</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dioscoreaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Dioscoreaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco_pescadito">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Bejuco pescadito</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Watsa_senko">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Watsa senko</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cucurbitaceae_sp">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Cucurbitaceae sp.</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_de_murciélago">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Planta de murciélago</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Shupantape">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Shu'pantape</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma_real">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Palma real</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kati">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Ka'ti</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Roystonea_regia">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Roystonea regia</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_insectívora">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Planta insectívora</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tso_potede">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Tso potede</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_zorrilla">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Planta zorrilla</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bopitape">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Bo'pitape</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Petiveria_alliacea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Petiveria alliacea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Petiveriaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Petiveriaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pinta">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Pinta</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Platanillo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Platanillo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Na_luáno">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Na luáno</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Heliconia_sp">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Heliconia sp.</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bacuaja_bijagua">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Bacua'ja bijagua</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Puban_kará">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Puban kará</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Siparuna_thecaphora">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Siparuna thecaphora</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Siparunaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Siparunaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Espasmo de arco</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Gesneriaceae_sp">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Gesneriaceae sp.</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Gesneriaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Gesneriaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#San_juanillo_del_monte">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">San juanillo del monte</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Jelen_di_ku">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Jelen di ku</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Renealmia_thyrsoidea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Renealmia thyrsoidea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Simayuca">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Simayuca</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Lutum_baka">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Lutum baka</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Manihot_pavoniana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Manihot pavoniana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Shua_shili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Shua shili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caesalpinia_spinosa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Caesalpinia spinosa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tangaré">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Tangaré</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Lon_kó">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Lon kó</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Carapa_guianensis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Carapa guianensis</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Uña de gato</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Meshetewewe">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Meshe'tewe'we</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uncaria_guianensis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Uncaria guianensis</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_vaca">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Uña de vaca</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tsantsalo_shili">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Tsantsa'lo shili</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cayaponia_bonplandii">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Cayaponia bonplandii</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wito">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Wito</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wuarande">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Wuarande</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Zaragoza</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaracoza">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
+        <rdfs:label xml:lang="es">Zaracoza</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Aristolochia_pilosa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Aristolochia pilosa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Aristolochiaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Aristolochiaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zarzaparrilla">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Zarzaparrilla</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Smilax_officinalis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Smilax officinalis</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Smilacaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Smilacaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chiakú_Tape">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Chiakú Tape</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Selaginella_tomentosa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
+        <rdfs:label xml:lang="es">Selaginella tomentosa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Selaginellaceae">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
+        <rdfs:label xml:lang="es">Selaginellaceae</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Afecciones_del_sistema_respiratorio">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Afecciones del sistema respiratorio</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cáncer_de_piel">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Cáncer de piel</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Semillas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Semillas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cataplasma_de_hojas_calientes">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Cataplasma de hojas calientes</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Alteraciones_del_sistema_nervioso">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Alteraciones del sistema nervioso</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_riñones">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Inflamación de riñones</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cataratas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Cataratas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Raíz">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Raíz</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Sumo_directo_para_ojos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Sumo directo para ojos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mal_aliento">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Mal aliento</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Semillas_tiernas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Semillas tiernas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mala_vibra">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Mala vibra</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Raíz_machacada">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Raíz machacada</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Baño_energético">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Baño energético</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Intoxicación_espiritual">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Intoxicación espiritual</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Parásitos_intestinales">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Parásitos intestinales</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Corteza">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Corteza</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cocción_ritual_en_olla_de_barro">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Cocción ritual en olla de barro</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_ovarios">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Inflamación de ovarios</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Inicio_de_párkinson">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Inicio de párkinson</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Picadura_de_insectos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Picadura de insectos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Trastornos_de_los_nervios">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Trastornos de los nervios</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Diabetes">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Diabetes</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Triglicéridos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Triglicéridos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Problemas_renales">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Problemas renales</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Infección_dental">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Infección dental</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tallo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Tallo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Picadura_de_serpiente">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Picadura de serpiente</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Infusión_de_hojas_maceradas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Infusión de hojas maceradas</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mordedura_de_serpiente">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Mordedura de serpiente</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hemorragias">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Hemorragias</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dolor_de_articulaciones">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Dolor de articulaciones</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Macerado_con_aguardiente_y_ruda">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Macerado con aguardiente y ruda</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Gastritis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Gastritis</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Infección_intestinal">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Infección intestinal</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Baños_desinflamantes">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Baños desinflamantes</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_la_vista">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Inflamación de la vista</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Diarrea">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Diarrea</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Resfríos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Resfríos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cocción_de_tallo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Cocción de tallo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mordedura_de_serpientes">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Mordedura de serpientes</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Liana">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Liana</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Maceración_con_licor_y_espasmo_de_arco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Maceración con licor y espasmo de arco</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Donbada_Kapi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdfs:label xml:lang="es">Don'bada Kapi</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Té_de_raíces_hervidas_con_piedras_de_río">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Té de raíces hervidas con piedras de río</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Muturupi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdfs:label xml:lang="es">Muturu'pi</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Desintoxicación_corporal">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Desintoxicación corporal</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hojas_de_múturu">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Hojas de múturu</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uru_Mala">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdfs:label xml:lang="es">Uru Mala</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chicha_de_yuca_fermentada_en_hoja_de_bijao">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Chicha de yuca fermentada en hoja de bijao</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Yomala">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdfs:label xml:lang="es">Yo'mala</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chicha_ceremonial_con_hongo_oreja_de_cerdo_y_maíz">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdfs:label xml:lang="es">Chicha ceremonial con hongo oreja de cerdo y maíz</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kanthi_Pi">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdfs:label xml:lang="es">Kanthi Pi</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hojas_de_tabaco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
+        <rdfs:label xml:lang="es">Hojas de tabaco</rdfs:label>
+    </owl:NamedIndividual>
+
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Synechanthus_warsewiczianu">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Araceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Piper_tuberculatum">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Piperaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Castilla_elástica">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Moraceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Dioscórea_trífida">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dioscoreacea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cucurbitaceae">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cucurbitaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cleome_pilosa">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Capparaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Rostonea_regia">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Areaceas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Nepenthes_sp">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Nepenthaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Petiveria_alliaceae">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Apiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Clibadium_laxum">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Asteraceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Heliconiaceae_Sp">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Heliconiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Calathea_crotalifera">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Marantaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#infusión"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#sistema_nervioso"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#raíces"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#infecciones_estomacales"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#limpieza_de_las_vías_urinarias"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#inflamación_de_los_riñones"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#sumo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#limpieza_de_la_vista"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#semillas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#seco"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#escalofríos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#fiebre"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#dolor_muscular"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#aromas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#zumo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#baño_energético"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#ambiental"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chapil">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#fruto"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Colinarashili">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#corteza_de_la_raíz"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cordoncillo">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#limpia_shamanica"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cordoncillo">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#baño_purificador"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Copal">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#resina_seca"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Copal">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#corteza"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Copal">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#antorcha"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#PabanShili">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#liana"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#PabanShili">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#infusión"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Guayusa">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Punta_lanza">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mordidas_de_serpiente"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Punta_lanza">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Infusión"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Suashili">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Estrés"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Suashili">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Fruto"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_la_vejiga"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Problemas_del_sistema_respiratorio"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cáncer"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Frutos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Pasta_de_la_semilla"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cataplasma"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Catarata"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Barbasco_de_rama">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Barbasco_de_rama">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ramas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Barbasco_de_rama">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tritura"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Estrés"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dolor_de_cabeza"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Migraña"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Quemazón_de_la_cintura"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_los_ovarios"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Flor"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Extracto_macerado"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Baños_frescos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Vías_urinarias"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_la_próstata"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Bixaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mali">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Rubiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bixa_orellana">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Buaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Carapa_meglatocarpa">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Meliaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Genipa_americana">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Rubiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Carapa_meglatocarpa">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#semillas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Fiebre_amarilla"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Viruela"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Semilla"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mu_Queká"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mu_Queká">
+        <administradoPor rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Poné"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Bebida_sagrada"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <administradoPor rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Poné"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Banisteriopsis_caapi">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Malpighiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Banisteriopsis_caapi">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#ayahuasca"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mú"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Bixa_orellana"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Pitumbaka"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Alpinia_purpurata"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Zingiberaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Burutunka"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Abelmoschus"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Malvaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tsa_senco"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mansoa_alliacea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Bignoniaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo_Pole">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Pe_Ampo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo_Pole">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Catatola_costaricensis"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo_Pole">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Icacinaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Albahaca_de_monte">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Paban_tefun"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Albahaca_de_monte">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ocimum_micranthum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Albahaca_de_monte">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Lamiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Amansadora">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mipakí"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Amansadora">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Commelina_diffusa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Amansadora">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Commelinaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Nepi"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Banisteriopsis_caapi"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Malpighiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Barbasco_de_rama">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tsa_Kajali"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Barbasco_de_rama">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Phyllanthaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Barbasco_de_rama">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Fabaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ishan_luli"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Etlingera_elatior"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Zingiberaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Parishili"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cyclanthaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cyclanthaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Elenashili"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Prestonia_mollis"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Betilla">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Apocynaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Yoshilipa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Justicia_lanthina"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Acanthaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chapil">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Pituli"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chapil">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Geonoma"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chapil">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Arecaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caucho">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Sabe"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caucho">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ficus_insipida"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caucho">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Moraceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caña_agria">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Kocomla"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caña_agria">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Gynerium_sagittatum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caña_agria">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Poaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Colin_arashili">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Colinarashili"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Colin_arashili">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Polybotrya_alfredii"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Colin_arashili">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dryopteridaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cordoncillo">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Shiliampo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cordoncillo">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Piper_sp"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Cordoncillo">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Piperaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Copal">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cho_chola"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Copal">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dacryodes_peruviana"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Copal">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Burseraceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Culantro_de_poso">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Chiliangua"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Culantro_de_poso">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Eryngium_foetidum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Culantro_de_poso">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Apiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Guayusa">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Guayosa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Guayusa">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ilex_guayusa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Guayusa">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Aquifoliaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Helecho">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hará"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Helecho">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Polybotrya_osmundacea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Helecho">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dryopteridaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Pini_tape"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Triolena_pustulata"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Melastomataceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hiel_del_sol">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Yokantsa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hiel_del_sol">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Asteraceae_sp"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hiel_del_sol">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Asteraceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_del_trueno">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Kuntata_pe"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_del_trueno">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Floscopa_peruviana"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_del_trueno">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Commelinaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hoja_de_Yuca">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ku_chu"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hoja_de_Yuca">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Manihot_esculenta"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hoja_de_Yuca">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Euphorbiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ishentape">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ishentape"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ishentape">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Palicourea_crocea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ishentape">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Rubiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Katsa_tape">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Katsa_tape"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Katsa_tape">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Solanum_schlechtendalianum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Katsa_tape">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Solanaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Wapinku"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Piper_secundum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Piperaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Malaria">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Chan_kui"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Malaria">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mendoncia_sericea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Malaria">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mendonciaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mocora">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Joro"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mocora">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Astrocaryum_standleyanum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Mocora">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Arecaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tini"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Urtica_dioica"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Urticaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Oton_korotape">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Oton_korotape"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Oton_korotape">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ruellia_colorata"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Oton_korotape">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Acanthaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tsetsero"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Synechanthus_warscewiczianus"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Arecaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ámpo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Piper_tuberculatum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ampo">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Piperaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pakigua">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Parashili"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pakigua">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Castilla_elastica"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pakigua">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Moraceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Papa_chilma">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tsan_pó"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Papa_chilma">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dioscorea_trifida"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Papa_chilma">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dioscoreaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco_pescadito">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Watsa_senko"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco_pescadito">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cucurbitaceae_sp"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco_pescadito">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cucurbitaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_de_murciélago">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Shupantape"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_de_murciélago">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cleome_pilosa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_de_murciélago">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Capparaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma_real">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Kati"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma_real">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Roystonea_regia"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Palma_real">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Arecaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_insectívora">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tso_potede"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_insectívora">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Nepenthes_sp"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_insectívora">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Nepenthaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_zorrilla">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Bopitape"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_zorrilla">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Petiveria_alliacea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta_zorrilla">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Petiveriaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pinta">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Pinta"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pinta">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Clibadium_laxum"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Pinta">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Asteraceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Platanillo">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Na_luáno"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Platanillo">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Heliconia_sp"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Platanillo">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Heliconiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bacuaja_bijagua">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Bacuaja_bijagua"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bacuaja_bijagua">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Calathea_crotalifera"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bacuaja_bijagua">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Marantaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Puban_kará">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Puban_kará"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Puban_kará">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Siparuna_thecaphora"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Puban_kará">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Siparunaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Punta_lanza"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Gesneriaceae_sp"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Gesneriaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#San_juanillo_del_monte">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Jelen_di_ku"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#San_juanillo_del_monte">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Renealmia_thyrsoidea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#San_juanillo_del_monte">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Zingiberaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Simayuca">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Lutum_baka"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Simayuca">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Manihot_pavoniana"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Simayuca">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Euphorbiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Suashili">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Shua_shili"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Suashili">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Caesalpinia_spinosa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Suashili">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Fabaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tangaré">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Lon_kó"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tangaré">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Carapa_guianensis"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Tangaré">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Meliaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Meshetewewe"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Uncaria_guianensis"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Rubiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_vaca">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tsantsalo_shili"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_vaca">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cayaponia_bonplandii"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_vaca">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cucurbitaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wito">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mali"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wito">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Genipa_americana"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wito">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Rubiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wuarande">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Wuarande"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wuarande">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Siparuna_thecaphora"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Wuarande">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Siparunaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Zaracoza"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Aristolochia_pilosa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Aristolochiaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zarzaparrilla">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Zarzaparrilla"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zarzaparrilla">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Smilax_officinalis"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zarzaparrilla">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Smilacaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chiakú_Tape">
+        <tieneNombreTsafiqui rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Chiakú_Tape"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chiakú_Tape">
+        <tieneNombreCientifico rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Selaginella_tomentosa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chiakú_Tape">
+        <perteneceAFamilia rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Selaginellaceae"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Afecciones_del_sistema_respiratorio"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cáncer_de_piel"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Semillas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cataplasma_de_hojas_calientes"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <administradoPor rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Poné"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Alteraciones_del_sistema_nervioso"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_riñones"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cataratas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Raíz"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajengibre">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Sumo_directo_para_ojos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mal_aliento"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Semillas_tiernas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ají_de_rana">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cataplasma"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mala_vibra"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Raíz_machacada"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ajo_de_monte">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Baño_energético"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Intoxicación_espiritual"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Parásitos_intestinales"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Bejuco"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Corteza"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cocción_ritual_en_olla_de_barro"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bastón_de_faraón">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_ovarios"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inicio_de_párkinson"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Picadura_de_insectos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bejuco">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Corteza"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Trastornos_de_los_nervios"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Diabetes"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Triglicéridos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Biblia">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Infusión"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caña_agria">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Problemas_renales"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caña_agria">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Infección_dental"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caña_agria">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tallo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Picadura_de_serpiente"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Picadura_de_insectos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hierba_de_serpiente">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Infusión_de_hojas_maceradas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mordedura_de_serpiente"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hemorragias"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Dolor_de_articulaciones"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Espasmo_de_arco">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Macerado_con_aguardiente_y_ruda"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Gastritis"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Infección_intestinal"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Matico">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Baños_desinflamantes"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_la_vista"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Diarrea"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Raíz"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Inflamación_de_la_próstata"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Resfríos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Tallo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uña_de_gato">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Cocción_de_tallo"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Mordedura_de_serpientes"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Picadura_de_insectos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Liana"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Zaragoza">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Maceración_con_licor_y_espasmo_de_arco"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Donbada_Kapi">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Té_de_raíces_hervidas_con_piedras_de_río"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Donbada_Kapi">
+        <administradoPor rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Poné"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Muturupi">
+        <trataA rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Desintoxicación_corporal"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Muturupi">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas_de_múturu"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uru_Mala">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Chicha_de_yuca_fermentada_en_hoja_de_bijao"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Yomala">
+        <preparadoComo rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Chicha_ceremonial_con_hongo_oreja_de_cerdo_y_maíz"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kanthi_Pi">
+        <usaParte rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Hojas_de_tabaco"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kanthi_Pi">
+        <administradoPor rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Poné"/>
+    </rdf:Description>
+</rdf:RDF>

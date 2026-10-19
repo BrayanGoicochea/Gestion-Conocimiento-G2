@@ -1,0 +1,175 @@
+International Journal of Physical Sciences and Engineering Available online at http://sciencescholar.us/journal/index.php/ijpse Vol. 2 No. 2, August 2018, pages: 21~31 e-ISSN : 2550-6943, p-ISSN : 2550-6951 http://dx.doi.org/10.29332/ijpse.v2n2.137
+
+21
+
+Flow of Guineal River within the Framework of Local Energy Development
+
+Jose Andres Rengifo Pinargote a, Miryan Elizabeth Duartez Velez b, Carlos Gustavo Villacreses Viteri c, Vazquez Perez Antonio d,
+
+Article history: Received 9 August 2017, Accepted in revised form 1 March 2018, Approved 20 June 2018, Available online 30 June 2018 Correspondence Author a
+
+Abstract
+
+Although currently, more than 70% of the energy generated in Ecuador is of hydraulic origin, in the province of Manabí the source of basic generation is still thermal, with a high cost of kWh generated and with high rates of CO2 emissions to the atmosphere. However, in the territory of the province, several rivers can provide potential water energy that has could use in the generation of electricity. The work shows the results of the analysis of the Guineal River's energy potential, which has was carried out by applying the study of the river flow in 18 sampling points that are close to rural communities where the quality of the electric service has deficiencies. The results obtained were presented in tables that have can be used to generate projects aimed at introducing electricity generation technology, constituting a local development solution to the energy problem.
+
+Keywords Energy problem; Framework; Guineal river flow; Local energy development; Hydraulic origin; e-ISSN: 2550-6943, p-ISSN: 2550-6951 ©Copyright 2018. The Author. SS Journals Published by Universidad Técnica de Manabí. This is an open-access article under the CC BY-SA 4.0 license (https://creativecommons.org/licenses/by-sa/4.0/) All rights reserved.
+
+Contents Abstract ................................................................................................................................................................................................... 21 1. Introduction ................................................................................................................................................................................... 22 2. Research Method ......................................................................................................................................................................... 25 3. Results and Analysis ................................................................................................................................................................... 26
+
+a Graduated from Civil Engineering, FCMFQ Universidad Técnica de Manabí, Portoviejo, Ecuador b Graduated from Civil Engineering, FCMFQ Universidad Técnica de Manabí, Portoviejo, Ecuador c Full Professor, Master, Lawyer, Civil Engineering, FCMFQ Universidad Técnica de Manabí, Portoviejo, Ecuador d Professor, Master, Lawyer, Civil Engineering, FCMFQ Universidad Técnica de Manabí, Portoviejo, Ecuador
+
+e-ISSN : 2550-6943  p-ISSN : 2550-6951 IJPSE
+
+Vol. 2 No. 2, August 2018, pages: 21~31 22 4. Conclusion ...................................................................................................................................................................................... 27
+
+Conflict of interest statement and funding sources ........................................................................................................... 28
+
+Statement of authorship ................................................................................................................................................................ 28
+
+Acknowledgements .................................................................................................................................................................... 28
+
+References ...................................................................................................................................................................................... 29
+
+Biography of Authors ................................................................................................................................................................. 31
+
+1. Introduction
+
+El río Guineal nace en el sector de Santo Domingo – La Crucita - Villa Monserrate, en las estribaciones de la cordillera del Pucón y atraviesa el territorio de Noboa y Sixto Durán en toda su extensión geográfica, recibiendo las aguas de los afluentes secundarios conocidos como: Andrecillo, Grande, El Encuentro, Guesbol, San José de los Tres Ríos, atravesando el cantón 24 de Mayo, hasta llegar al Cantón Olmedo, Manabí, Ecuador, tomando el nombre de río Puca [1]. El río cuenta con una longitud de 62,62 km, y su cuenca se extiende en 541,58 km2. En la figura 1 se muestra un mapa con la cuenca del río Guineal.
+
+Figura 1. Cuenca hidrográfica del río Guineal Fuente: profesores de la carrera de Ingeniería Civil de la UTM.
+
+IJPSE e-ISSN: 2550-6943  p-ISSN: 2550-6951
+
+Pinargote, J., Vélez, M., Viteri, C., & Antonio, V. (2018). Flow of guineal river within the framework of local energy development. International Journal Of Physical Sciences And Engineering (IJPSE), 2(2), 21-31. doi:10.29332/ijpse.v2n2.137 23 Particularly, the Noboa region has an average annual rainfall of 405.2 m3/ha, which is equivalent to approximately 5 005 030.4 m3 of water that feeds the flow of the Guineal River [1]. Rivers are an essential element of nature. In addition to being primary sources of drinking water, they are home to a large part of the natural wealth of the planet and are important for those who live by fishing and agricultural production on its banks. The rivers constitute a system of linear, vector, hierarchical and structured circulation to transfer sediments and vital fluids through the watersheds and their mouths, performing complex dynamic, mechanical, energetic, chemical and biochemical reactions, with the purpose of providing sustenance in all his journey to life in its different forms [2]. The river is an energetic vector, an integral part of the water hydrological cycle and only crosses the terrestrial surface, interconnecting the upper solid collector (glaciers) with the lower solid collector (oceans) and in this route they fulfill a supreme and specialized mission, deploying selective work such as erosion, physical attack, chemical, biochemical, transport, selection and sedimentation in deposition basins such as alluvial, fluvial cones, deltas etc. [2]. The interruption and pollution of the rivers can modify and alter the normal flow of the hydrological cycle of the water, causing serious disturbances in the climate of the earth, in the isostatic processes and in the conservation of diverse ecosystems. The shortage of this precious resource can trigger wars in the future, serious social conflicts of a national and international nature that are exacerbated, even more, with the high rate of growth of the world population [2]. The river is defined as a natural stream of water of continuous and constant flow, endowed with flow and speed. From the environmental point of view, it is considered as a flow or system of energy vectors component of a larger system called the water hydrological cycle, which allows the continuity of complex functional interrelations between the various forms of energy represented by the liquid flow (ocean) , gaseous flow (atmosphere), the paleoflow (lithosphere) and living beings. Therefore, this vectorial component (river), allows the functional energetic interconnection between the three states of the matter and the {fourth plasmatic state represented by the energy of the sun [2]. The water hydrological cycle at its upper end is connected to a larger macro system, formed by the flows from the Sun and the Cosmos that inject different forms of energy into the Earth [3], allowing the transformation of plasma and electromagnetic energy into other forms such as kinetics, potential, calorific, mechanical, photochemical etc .; that by evaporation they raise to the highest levels of the atmosphere at different altitudes and latitudes thousands of millions of Km3 of water under the liquid and/or gaseous state; while in its lower connection the hydrological cycle is complemented by the river, linking this upper macrosystem with another lower energetic geosystem coming from the interior of the earth; from which thermal, plasma and electromagnetic energy also flows, which, during their journey through the earth's surface, return thousands and millions of Km3 of sediments and water to the seas and oceans to balance the materials given by the ocean to the atmosphere, thus allowing the gradual transformation of kinetic energy into potential energy stored in seas and oceans [4]. At the end of the 19th century, hydroelectric power became a source to generate electricity. The first hydroelectric power station was built in North America in 1879. In 1881, the streetlights of the city of Niagara Falls were powered by hydroelectric power. In 1882 the first hydroelectric power station was built in the United States and began operating in Appleton, Wisconsin. Hydroelectric energy is used in a hydroelectric power station to generate energy. They are the current result of the evolution of the old mills that took advantage of the current of the rivers to move a wheel. In general, these plants take advantage of the gravitational potential energy that the water mass of a natural channel possesses by virtue of a vertical drop, also known as a geodetic jump. The water in its fall between two levels of the channel is passed through a hydraulic turbine, which transmits the energy to a generator where it is transformed into electrical energy [5]. Before 2007 in Ecuador, only 15% of the hydroelectric potential was used and 70% is currently being used, with which hydroelectric capacity has increased notably in recent years, in which thermal generation has also been eliminated. , with obsolete plants that are highly polluting and quite expensive [6]. The execution of the eight hydroelectric projects in Ecuador (Coca Codo Sinclair, Sopladora, Toachi Pilaton, Minas-San Francisco, Mazar-Dudas, Manduriacu, Delsitanisagua and Quijos) has required an investment of more than 5 billion dollars that allowed an increase 2 700 MW of power to the interconnected national system,
+
+e-ISSN : 2550-6943  p-ISSN : 2550-6951 IJPSE
+
+Vol. 2 No. 2, August 2018, pages: 21~31 24 which demands 3 100 MW of power to meet all the needs of the population [5]. All this has allowed the country to stop being an importer of electricity to become an exporter of this item. In addition to the aforementioned power plants, there are others of lower power that contribute to the policy of energy sustainability, among which we can mention [7]: The Calope hydroelectric plant with an installed capacity of 16.5 MW located in the canton of La Mana, in the province of Cotopaxi; The Copal hydroelectric power station located in Morona Santiago province has a pass-through work, designed to capture 36 m3 / s of water from the Negro River, it is built with a system of gates to dislodge the large floods of the river that reach the 1 500 m3 / s; The Bimbe hydroelectric plant located in the province of Santo Domingo de los Tsachilas, which is a run-of-river plant, designed to capture 5 m3 / s of water from the Bimbe and; The El Batán hydroelectric power station located in the Pichincha province, near the city of Quito, which is designed to capture 2 m3 / s of water from the sewer system of the capital city of the country that exits through the Batan tunnel. There are five other hydroelectric plants of Empresa Eléctrica Quito (EEQ), located in Cumbayá, Guangopolo, Nayón, Pasochoa and Los Chillos, producing 97.22 MW in total and allowing the generation of clean energy for the energy supply of part of the consumption in the district [8]. The Central Agoyán that was conceived to take advantage of the flow of the Pastaza River, is located in the province of Tungurahua 180 km southeast of Quito and 5 km east of the city of Baños in the area called Agoyán of the Ulba parish, in the Main entry route to the Ecuadorian Amazon sector. The global extension of the area of influence of the Central is 5.00 km2 with an average annual production of 1 080 GWH. The maximum level of the reservoir is at an altitude of 1651 m.s.m. [9]. The small hydroelectric plants according to the definition of the United Nations Development Organization can be classified as follows [10]: a) Central Nano or Pico: Correspond to plants whose power generation is less than 1kW. They are fundamentally used for family supply and mechanical applications. b) Micro plants: Correspond to the plants whose power generation is between 1kW and 100kW. Its main use in the world has been to supply communal electricity networks in isolated sectors. c) Mini Centrals: Are those that have a generation capacity between 100kW and 1,000kW. These have been used in the world to supply several nearby communities as well as for connection to the national power grid. d) Small Power Plants: That whose installed power is in the range of 1MW to 5MW. They have been used to feed small cities and surrounding areas and also to connect them to the national electricity grid.
+
+The small hydropower plants have a group of advantages in relation to thermal power plants, among which are the following [11]: a) They are included among the clean energy generation technologies; b) They are cheaper with low operation and maintenance costs; c) They are reliable and offer a long service life; d) They offer high efficiency (70% -90%) that greatly exceeds the other sources of electricity generation; e) They guarantee a high level of prediction that depends on the annual precipitation patterns; f) They have a high plant factor in renewable energy sources.
+
+The potential energy of a body is the ability of a system to perform a job according to its position or configuration in relation to a reference plane [12]. The hydraulic potential can be calculated by applying equation 1 [13]:
+
+𝑃= 𝐴∗𝐶∗𝐺
+
+(1) where: P → Power (v) A → Height (m) C → Flow (l / s) G → Gravity (acceleration due to gravity 9.81 m/s)
+
+IJPSE e-ISSN: 2550-6943  p-ISSN: 2550-6951
+
+Pinargote, J., Vélez, M., Viteri, C., & Antonio, V. (2018). Flow of guineal river within the framework of local energy development. International Journal Of Physical Sciences And Engineering (IJPSE), 2(2), 21-31. doi:10.29332/ijpse.v2n2.137 25 The objective of the work is to present the results of the analysis of the flow of the Guineal River and its influence in terms of the local energy development of the territory.
+
+2. Research Methods
+
+The field research method was used for the realization of the gauging of the Guineal River in the 18 sampling points for the study, constituting an important information to define the potential for the generation of electricity that could benefit the rural communities that are nearby. to the riverbed. In addition, the descriptive research method was used, since information was obtained about the determination of small hydraulic potentials in the Guineal River and its possible use to generate electricity in order to meet the demand in isolated communities or in the way of connecting to the network, so that the quality of the service can be improved in areas far from the generation centers, increase efficiency and contribute to the preservation of the environment through the contribution of clean energy. The flow gauging method was used by studying the speed per known area, which is one of the simplest ways to study the hydraulic potential of the river. With this method, the velocity of the surface water circulating in the river is measured, taking the time it takes for a floating object to arrive from one point to another in a uniform section, following the following procedure [14][18]: a) A section of the stream is taken; b) The cross-sectional area is measured and perpendicular to the main flow that flows through the river bed; c) An object that floats upstream of the first control point is launched and when the body passes through the said point, the time taken for the trip to the control point downstream begins. The result of the speed is adjusted by a factor of 0.8 to 0.9. For example: if the place where the gauging is going to take place is 5m wide and 10m long and the river is 0.5m deep, the data will be used to calculate the total area, where the speed will be taken. with the object that was thrown into the river.
+
+The calculation of the area of the river bed is made using equation 2 [14][17]. 𝐴∗𝑝= 𝐿𝑟
+
+(2) where: A → width of the river (m) p → depth (m), several depth measurements are taken in the transversal profile (at least three) and an average is calculated. Lr → river bed (m)
+
+d) Then the calculation of the speed of travel of the object thrown into the river current is made, for which equation 3 is used [13]. 𝐷/𝑡= 𝑉𝑟
+
+(3) donde: D→ distancia del recorrido (m) t→ tiempo (s) Vr→ velocidad de recorrido (m/s) e) La última operación que se realiza es el cálculo del caudal y se obtiene aplicando la ecuación 4 [13][16]. 𝑄𝑟=Lr*Vr
+
+(4)
+
+The investigative techniques used to correspond to the following: 1) The specialized interview, which focused on the personnel specialized in the subject of the Technical University of Manabí, as well as the factors of the communities that were studied. 2) The social data survey was carried out in order to define an approximation regarding the community's notion of the importance of electric service, efficiency and energy saving, as well as the role that the hydraulic potential can play to cover the demand for energy, improve the electric service and contribute to the protection of the environment.
+
+e-ISSN : 2550-6943  p-ISSN : 2550-6951 IJPSE
+
+Vol. 2 No. 2, August 2018, pages: 21~31 26 3) The analytical that was applied to carry out an exhaustive analysis of the results of the interviews and the gathering of social data in the communities studied, as well as the economic and environmental analysis that can be derived from the research work; 4) The statistics that served to graph the results of the investigation. 5) For the measurement of the flow, the technique used was the capacity, which allowed to determine the flow at each of the 18 sampling points.
+
+Population and sample
+
+The population is constituted by the people that occupy positions in the parochial boards and the citizenship in general, with respect to achieving an approximation on the notion that has the community of the importance of the electrical service, the efficiency and the saving of energy, as well as the role that can play the hydraulic potential to meet the demand for electricity, improve service and contribute to the protection of the environment. The calculation of the sample was made according to equation 5 [15].
+
+n = (𝑍2) 𝑃 𝑄 𝐸2
+
+(5) Where: n → Sample size Z → Confidence level = 1.96 P → Probability of occurrence = 0.5 Q → Probability of non-occurrence = 0.5 E → Probability of error = 0.1
+
+3. Results and Analysis
+
+Results of the social data survey
+
+Table 1 shows the statistical analysis on the collection of social data in the communities studied.
+
+Table 1 Social data survey
+
+Informative data Site / Community Distance from the community to the river Amount Entities Calculation of the demand Quality of service electric Houses People Economic Schools Other (m) (U) (U) (U) (U) (U) (kW) Rio Chico 83 25 60 1 1 1 75 Regular Noboa 148 12 40 1 1 -- 36 Regular Caña Brava 228 10 40 1 1 -- 30 Wrong San Jacinto de mocora grande 88 100 1000 1 1 1 300 Wrong Las Pajitas 27 100 330 1 1 -- 300 Regular La Primavera 49 30 75 1 1 1 90 Regular La Norma 40 20 75 1 1 -- 60 Regular La Cruz 54 13 40 1 1 1 39 Regular La Clemencia 139 75 200 1 1 -- 225 Regular La Delicia 42 150 200 1 -- -- 450 Regular Los Limos 96 10 30 1 -- -- 30 Good Riecito 70 20 65 1 1 -- 60 Good El Esfuerzo 79 30 NO 1 -- -- 90 Regular El Matecito 190 15 60 1 1 1 45 Regular
+
+IJPSE e-ISSN: 2550-6943  p-ISSN: 2550-6951
+
+Pinargote, J., Vélez, M., Viteri, C., & Antonio, V. (2018). Flow of guineal river within the framework of local energy development. International Journal Of Physical Sciences And Engineering (IJPSE), 2(2), 21-31. doi:10.29332/ijpse.v2n2.137 27 La Florida 30 30 95 1 1 -- 90 Regular La Y entrada Olmedo Bellavista 130 50 150 1 1 -- 150 Regular El Calvo 175 100 400 1 1 -- 300 Regular San Roquer 200 100 350 1 1 1 300 Regular
+
+By carrying out the survey of social data in the communities studied, it was possible to verify that at distances between 27m and 228m from the course of the Guineal River there are 18 rural communities, with a total population of approximately 210 inhabitants residing in 890 dwellings. The main economic activity is agricultural production, with a total of 39 small economic entities and services, both public and private. The electricity demand is calculated at 2 670 kW and in general, the quality of the electric service is evaluated as regular, with two sites where it is evaluated poorly: Caña Brava and San Jacinto de Mocora Grande. Table 2 shows the results of the calculation of river flow in the studied sites
+
+Table 2 Flow calculations
+
+Site / community Distance between point A y B (m) Weather (s) Width From the river (m) Speed (m/seg) Average depth (m) Area from the river (m2) Flow (m3/seg) Rio Chico 36,0 75 8,2 0,5 0,47 3,9 1,87 Noboa 29,8 56 11,7 0,5 0,23 2,7 1,45 Caña Brava 27 47 12,3 0,6 0,37 4,6 2,61 San Jacinto de mocora grande 21,5 43 11,8 0,5 0,29 3,4 1,69 Las Pajitas 23,6 32 20,6 0,7 0,19 4,0 2,93 La Primavera 25,4 42 5,4 0,6 0,18 1,0 0,60 La Norma 42,0 75 21,5 0,6 0,22 4,8 2,67 La Cruz 38,0 74 20,0 0,5 0,29 5,7 2,94 La Clemencia 30,0 82 19,3 0,4 0,36 7,0 2,57 La Delicia 27,3 46 20,5 0,6 0,42 8,5 5,09 Los Limos 27,0 57 7,6 0,5 0,17 1,3 0,60 Riecito 26,2 70 10,0 0,4 0,18 1,8 0,66 El Esfuerzo 29,4 63 6,0 0,5 0,12 0,7 0,32 El Matecito 17,9 59 3,6 0,3 0,14 0,5 0,15 La Florida 26,3 50 9,8 0,5 0,17 1,7 0,89 La Y entrada Olmedo Bellavista 28,6 75 5,7 0,4 0,23 1,3 0,49 El Calvo 27,4 60 5,1 0,5 0,12 0,6 0,28 San Roque 38,0 75 19,3 0,5 0,26 4,9 2,50
+
+The study of the flow allowed to verify that in the La Delicia site the highest flow measured with 5.09 m3/s is presented. There are other 6 sites that have flow rates above 2 m3/s. Other 3 sites above 1 m3/s and 8 sites with flow rates between 0.15 m3 / s and 0.89 m3 / s. The analyzed data allow evaluating that in all the measured sites technologies can be applied with the purpose of improving the electric service in the rural areas studied.
+
+4. Conclusion
+
+When analyzing the socioeconomic situation of the communities considered for research, it was possible to determine that these depend entirely on agricultural activity and that they have electricity, but in most cases the energy is not coming with the technical parameters of quality required, situation that becomes more
+
+e-ISSN : 2550-6943  p-ISSN : 2550-6951 IJPSE
+
+Vol. 2 No. 2, August 2018, pages: 21~31 28 conflictive during the winter months with the rains, where there are frequent interruptions of the electric service. After carrying out the flow measurements in the 18 sampling points, it was possible to determine that in all the cases there are propitious conditions for its use as renewable energy, for which hydraulic micro electric turbines of electricity generation can be installed, which will allow the improvement of the quality of the electric service, contributing with the reduction of CO2 emissions to the atmosphere, according to the need of each one of the communities.
+
+Conflict of interest statement and funding sources The author(s) declared that they have no competing interest. The study was financed by personal funding.
+
+Statement of authorship The author(s) have a responsibility for the conception and design of the study. The author(s) have approved the final article.
+
+Acknowledgments The authors thank the directors of the faculty for allowing the study, as well as thanking the community near the Guineal River for its support in the research.
+
+IJPSE e-ISSN: 2550-6943  p-ISSN: 2550-6951
+
+Pinargote, J., Vélez, M., Viteri, C., & Antonio, V. (2018). Flow of guineal river within the framework of local energy development. International Journal Of Physical Sciences And Engineering (IJPSE), 2(2), 21-31. doi:10.29332/ijpse.v2n2.137 29 References 1. Gobierno parroquial de Noboa. (2011). "Inormación Territorial," Plan de Desarrollo y de Ordenamiento Territorial. PDOT 2011 NOBOA vol. CODIMA Corporación de Desarrollo Integral Manabita. View in (Google Scholar)
+
+2. Díaz, H. C., & Torres, J. G. Importancia de los ríos en el entorno ambiental. Revista del Instituto de Investigación de la Facultad de Ingeniería Geológica, Minera, Metalurgica y Geográfica, 3(5), 57-63. View in (Google Scholar)
+
+3. Rodríguez, G. M., & Vázquez, P. A. (2015). Libro Guía de la Energía Solar en la provincia de Manabí. View in (Google Scholar)
+
+4. T. A. López. (2017). "La importancia de los ríos en la vida," Consultado el 6 de mayo de 2018. View in (Google)
+
+5. M. Lincango. (2018). "Ecuador. Sus principales centrales hidroeléctricas. ," Consultado el 6 de abril de 2018. View in (Google)
+
+6. MEER. (2013) "El potencial hidroeléctrico del Ecuador se duplicó en 6 años," Consultado el 6 de septiembre de 2016. View in (Google)
+
+7. CBS ING S.A. (2017). "Ingeniería," Consultado el 7 de septiembre de 2016. View in (Google)
+
+8. ECUADORINMEDIATO. (2014). "Cinco centrales hidroeléctricas de la EEQ generan energía limpia," Consultado el 6 de septiembre de 2016. View in (Google)
+
+9. ESPOL. (2016). "Centrales hidroeléctricas del Ecuador," Consultado el 7 de septiembre de 2016. View in (Google)
+
+10. H. Ulloa. (2018). "Energía de pequeñas centrales hidráulicas," Ley de fomento a las ERNC en Chile. IEE3372. Consultado el 7 de abril de 2018. View in (Google)
+
+11. M. González. (2018). "Fundamentos de las centrales hidroeléctricas pequeñas y sus obras anexas," Divición de estudios y desarrollo. Chile,. Consultado el 7 de abril de 2018. View in (PDF)
+
+12. Criollo Cabrera, X. L., Damián, Q., & Lautaro, C. (2011). Diseño de una mini central de energía hidroeléctrica en la planta de tratamiento de aguas residuales de la ciudad de Cuenca (Bachelor's thesis). View in (Google Scholar)
+
+13. Atom. (2016). "Cálculo fácil de la energía que podemos obtener de un salto de agua," Consultado el 7 de septiembre de 2016. View in (Google)
+
+14. CORANTIOQUIA, "Medición de caudal," Manual Piraguero, Universidad de Medellin. Programa Integral RedAgua. ISBN: 978-958-57280-7-3 2014. View in (Google Scholar)
+
+e-ISSN : 2550-6943  p-ISSN : 2550-6951 IJPSE
+
+Vol. 2 No. 2, August 2018, pages: 21~31 30 15. Herrera, M. (2012). Fórmula para cálculo de la muestra poblaciones finitas. Postgrado de Pediatría, Hospital Roosevelt. View in (Google Scholar)
+
+16. Cedeño, M. L. D., Arteaga, M. G. D., Pérez, A. V., & Arteaga, M. L. D. (2017). Regulatory Framework for Renewable Energy Sources in Ecuador Case Study Province of Manabí. International Journal of Social Sciences and Humanities (IJSSH), 1(2), 29-42. View in (Google Scholar)
+
+17. Gámez, M. R., Pérez, A. V., Será, A. S., & Ronquillo, Z. M. (2017). Renewable Energy Sources and Local Development. International Journal of Social Sciences and Humanities (IJSSH), 1(2), 10-19. View in (Google Scholar)
+
+18. Omer, A. M. (2017). Sustainable Development and Environmentally Friendly Energy Systems. International Journal of Physical Sciences and Engineering (IJPSE), 1(1), 1-39. View in (Google Scholar)
+
+IJPSE e-ISSN: 2550-6943  p-ISSN: 2550-6951
+
+Pinargote, J., Vélez, M., Viteri, C., & Antonio, V. (2018). Flow of guineal river within the framework of local energy development. International Journal Of Physical Sciences And Engineering (IJPSE), 2(2), 21-31. doi:10.29332/ijpse.v2n2.137 31 Biography of Authors
+
+José Andrés, Graduated from the civil engineering career of the Universidad Técnica de Manabí, Portoviejo, Ecuador Email: Rengifo.joseandres@outlook.com
+
+Miryan Elizabeth Graduated from the civil engineering career of the Universidad Técnica de Manabí, Portoviejo, Ecuador Email: mireliduarve@hotmail.com
+
+Carlos Gustavo, Lawyer, Civil Engineer, Dean of the Faculty of Physical and Chemical Mathematical Sciences of the Universidad Técnica de Manabí. Email: cavistarr@gmail.com
+
+Antonio, Lawyer, Master, a student of the doctoral program of the University of Alicante Spain, Specialist in energy regulatory framework and local development Email: Antoniov5506@gmail.com

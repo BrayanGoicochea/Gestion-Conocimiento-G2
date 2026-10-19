@@ -1,0 +1,33 @@
+Las obras que se publican en Revista Gner@ndo están bajo la licencia de Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional ISSN: 2806-5905 Analysis of solar radiation in tributaries of the Toachi River to feed monitoring stations for hydrological and meteorological variables Abstract The monitoring of hydrological and meteorological variables is of vital importance in areas such as agriculture, electricity generation, risk prevention and drinking water systems; There must be stations on the tributaries of the rivers of interest. Currently there are solutions that allow continuous monitoring of these variables, however, for the location of a station of this type, a supply of electrical energy and connection to a data network is required and, being remote, these resources are limited and, in several cases, non-existent. An alternative for the supply of electrical energy is the use of photovoltaic panels, however, for the sizing of these systems, the historical daily and monthly averages of solar radiation in the area must be available, which according to several authors are key data for the design since they do not alter significantly over time. This project proposes an analysis and presents the solar radiation obtained on the banks of the Pilatón River (tributary of the Toachi River) by a pyranometer where the maximum, minimum and average values of 3 months (June, July and August) are determined; A methodology was used with a positivist paradigm and a quantitative approach without manipulation of variables, it was determined that solar radiation reaches levels close to 1000 W/m^2 between 10:00 and 11:00 hours, so it is concluded that in During this period of time, maximum power is obtained to supply energy to electronic devices and recharge the accumulators that will provide energy in hours of absence of solar radiation. Keywords: Pyranometer, Solar Radiation, Monitoring Station, Photovoltaic systems.
+
+Instituto Superior Tecnológico Tsa´chila Universidad de las Fuerzas Armadas ESPE Instituto Superior Tecnológico Tsa´chila Instituto Superior Tecnológico Tsa´chila
+
+El monitoreo de variables hidrológicas y meteorológicas es de vital importancia en áreas como la agricultura, generación de energía eléctrica, prevención de riesgos y sistemas de agua potable; Se debe contar con estaciones en los afluentes de los ríos de interés. Actualmente existen soluciones que permiten el monitoreo continuo de estas variables, sin embargo, para la ubicación de una estación de este tipo se requiere suministro de energía eléctrica y conexión a una red de datos y al ser remotas estos recursos son limitados y en varios casos inexistentes. Una alternativa para el suministro de energía eléctrica es el uso de paneles fotovoltaicos, sin embargo, para el dimensionamiento de estos sistemas se debe contar con los promedios históricos diarios y mensuales de la radiación solar de la zona que según varios autores son datos claves para el diseño ya que no se alteran significativamente en el tiempo. El presente proyecto propone un análisis y presenta la radiación solar obtenida en las riberas del río Pilatón (afluente del río Toachi) por un piranómetro donde se determina los valores máximos, mínimos y promedio de 3 meses (junio, julio y agosto); se utilizó una metodología con un paradigma positivista y un enfoque cuantitativo sin manipulación de variables, se determinó que la radiación solar alcanza niveles cercanos a 1000 W/m^2 entre las 10:00 y 11:00 horas por lo que se concluye que en este lapso de tiempo se obtiene la máxima potencia para el suministro de energía a los dispositivos electrónicos y la recarga de los acumuladores que proveerán energía en horas de ausencia de radiación solar. Palabras clave: Piranómetro, Radiación Solar, Estación de Monitoreo, Sistemas fotovoltaicos.
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+(a)
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 𝑊/𝑚2 0 200 400 600 800 1000 1200 14/06/2023 00:00 21/06/2023 00:00 28/06/2023 00:00 05/07/2023 00:00 12/07/2023 00:00 19/07/2023 00:00 26/07/2023 00:00 02/08/2023 00:00 RADIACIÓN SOLAR PROMEDIO
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+𝑊/𝑚2
+
+REVISTA MULTIDISCIPLINAR G-NER@NDO ISNN: 2806-5905
+
+(2019). Empirical models for estimating monthly global solar radiation: A most comprehensive review and comparative case study in China. Renewable and Sustainable Energy Reviews, 108, 91–111. https://doi.org/10.1016/j.rser.2019.03.033 Gopinathan, K. K. (1988). A simple method for predicting global solar radiation on a horizontal surface. Solar & Wind Technology, 5(5), 581–583. https://doi.org/10.1016/0741983X(88)90050-1 Jakhrani, A. Q., Othman, A. K., Rigit, A. R. H., & Samo, S. R. (2010). A simple method for the estimation of global solar radiation from sunshine hours and other meteorological parameters. 2010 IEEE International Conference on Sustainable Energy Technologies, ICSET 2010. https://doi.org/10.1109/ICSET.2010.5684439 Naserpour, S., Zolfaghari, H., & Zeaiean Firouzabadi, P. (2020). Calibration and evaluation of sunshine-based empirical models for estimating daily solar radiation in Iran. Sustainable Energy Technologies and Assessments, 42. https://doi.org/10.1016/j.seta.2020.100855 Performance and reliability evaluation of concentrated photovoltaic (CPV) power plants. 2015 IEEE 42nd Photovoltaic Specialist Conference, PVSC 2015. https://doi.org/10.1109/PVSC.2015.7356185 Swiss energy strategy 2050: Research on photovoltaic electricity production. 2015 10th International Conference on Ecological Vehicles and Renewable Energies, EVER 2015. https://doi.org/10.1109/EVER.2015.7112992

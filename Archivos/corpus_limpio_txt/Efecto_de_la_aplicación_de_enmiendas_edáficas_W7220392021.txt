@@ -1,0 +1,315 @@
+http://polodelconocimiento.com/ojs/index.php/es Pol. Con. (Edición núm. 110) Vol. 10, No 9 Septiembre 2025, pp. 797-816 ISSN: 2550 - 682X DOI: 10.23857/pc.v10i9.10353
+
+Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.)
+
+Effect of soil amendments on flowering and fruit set in cocoa crops (Theobroma cacao L.)
+
+Efeito dos corretivos do solo na floração e frutificação em culturas de cacaueiro (Theobroma cacao L.)
+
+Correspondencia: jmontoya@uagraria.edu.ec
+
+Ciencias de la Educación Artículo de Investigación
+
+* Recibido: 26 de julio de 2025 *Aceptado: 24 de agosto de 2025 * Publicado: 10 de septiembre de 2025
+
+I. Investigador Universidad Agraria, Ecuador. II. Investigador Universidad Agraria, Ecuador.
+
+Montoya Bazán José Leonardo I jmontoya@uagraria.edu.ec https://orcid.org/0000-0002-0237-6189 Loor Vega Jairo Isaí II jloor@uagraria.edu.ec https://orcid.org/0009-0004-9012-8362
+
+798 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) Resumen Este estudio se centró en determinar el efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.). Tras realizar el análisis e interpretación de los datos, se concluyó que el tratamiento T2 (Algas Marinas) obtuvo los mejores resultados en lo que respecta a cojines florales y frutos cuajados. En relación con el segundo objetivo específico, se analizó la variable de rendimiento del cultivo, identificando que el tratamiento T2 (Algas Marinas) fue el mejor tratamiento, con un valor de 1041 kg/ha; seguido de T1 (Muriato de Potasio) con un valor de 997,20 kg/ha; seguido del T3 (Nitrato de Potasio) con un valor de 887 kg/ha. El tratamiento promedio más bajo fue T4 (Testigo Absoluto) con 809 kg/ha de la productividad del cultivo de cacao. Asimismo, en función del tercer objetivo específico, se llevó a cabo un análisis económico basado en la relación beneficios/costos, en el cual se identificó al tratamiento T2 (Algas Marinas) como el más rentable. Basado en los resultados de esta investigación, donde el tratamiento más efectivo fue el T2 (Algas Marinas), por lo cual, se recomienda su empleo como método de enmiendas edáficas en el cultivo de cacao. Palabras Clave: Algas; cacao; enmiendas; floración; potasio.
+
+Abstract This study focused on determining the effect of soil amendments on flowering and fruit set in cocoa crops (Theobroma cacao L.). After analyzing and interpreting the data, it was concluded that treatment T2 (seaweed) obtained the best results in terms of flower cushions and fruit set. Regarding the second specific objective, the crop yield variable was analyzed, identifying treatment T2 (seaweed) as the best, with a value of 1041 kg/ha; followed by T1 (potassium muriate) with a value of 997.20 kg/ha; followed by T3 (potassium nitrate) with a value of 887 kg/ha. The lowest average treatment was T4 (absolute control) with 809 kg/ha of cocoa crop productivity. Likewise, based on the third specific objective, an economic analysis was carried out based on the benefit/cost ratio, in which treatment T2 (seaweed) was identified as the most profitable. Based on the results of this research, where the most effective treatment was T2 (seaweed), its use is therefore recommended as a soil amendment method in cocoa cultivation. Keywords: Algae; cocoa; amendments; flowering; potassium.
+
+799 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí Resumo Este estudo centrou-se na determinação do efeito dos corretivos do solo na floração e frutificação em culturas de cacau (Theobroma cacao L.). Após a análise e interpretação dos dados, concluiu-se que o tratamento T2 (algas marinhas) obteve os melhores resultados em termos de almofadas florais e frutificação. Relativamente ao segundo objetivo específico, foi analisada a variável produtividade da cultura, identificando o tratamento T2 (algas) como o melhor, com um valor de 1041 kg/ha; seguido do T1 (muriato de potássio) com um valor de 997,20 kg/ha; seguido do T3 (nitrato de potássio) com um valor de 887 kg/ha. O tratamento com média mais baixa foi o T4 (controlo absoluto) com 809 kg/ha de produtividade da cultura do cacau. Da mesma forma, com base no terceiro objectivo específico, foi realizada uma análise económica com base na relação benefício/custo, na qual o tratamento T2 (algas marinhas) foi identificado como o mais rentável. Com base nos resultados desta investigação, onde o tratamento mais eficaz foi o T2 (algas marinhas), recomenda-se a sua utilização como método de correção do solo na cultura do cacau. Palavras-chave: Algas; cacau; emendas; floração; potássio.
+
+Introducción 1.1 Antecedentes del problema En el año 1600, el cacao en Ecuador estaba monopolizado para fines comerciales. Había pequeñas plantaciones a orillas del río Guayas y se extendieron a orillas de sus afluentes, el Daule y el Babahoyo, río arriba, lo que dio como resultado el nombre de cacao "Arriba", reconocido mundialmente por su aroma floral (Escobar, 2019).
+
+Se han identificado varios problemas con el manejo técnico del cultivo en los sitios de producción de cacao, incluida la fertilización, el control de plagas, enfermedades y malezas. Estos conocimientos limitan la producción de cacao. (Jara, 2020, p.12) La falta de información en nutrición por parte de los agricultores, el uso de fertilizantes de manera empírica sin recomendaciones técnicas y el abuso de fertilizantes nitrogenados han provocado el deterioro del recurso suelo, lo que ha obstaculizado la absorción de elementos en las raíces de las plantas. La comprensión de la etapa fenológica del cultivo es fundamental para tomar decisiones, ya que la aplicación de extractos y aminoácidos durante la floración mejora y la absorción de minerales (Arciniegas, 2020).
+
+800 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) Considerado estratégico en la política de desarrollo rural, sustitución de cultivos y restitución de tierras, el cultivo de cacao ha experimentado una alta demanda en los últimos años y el número de hectáreas cultivadas ha aumentado. Las condiciones agroclimáticas favorecen el cultivo, que requiere de mano de obra y pocos recursos de capital (Luna, 2019).
+
+1.2 Planteamiento y formulación del problema 1.2.1 Planteamiento del problema Los pequeños productores de cacao enfrentan una complicada situación socioeconómica debido a la baja productividad de las plantaciones. Esto se debe a factores como la presencia de enfermedades y razones genéticas, así como al mal uso de fertilizantes que deterioran el suelo, lo que resulta en pérdidas económicas tanto para los pequeños como para los grandes productores de cacao. 1.2.2 Formulación del problema ¿Qué efectos tuvo la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.)?
+
+1.3 Justificación de la investigación La presente investigación implemento alternativas para mejorar las características agronómicas del cultivo de cacao que beneficien al pequeño productor, basándose en los antecedentes positivos en el uso de fertilizantes y enmiendas orgánicas en el cultivo de cacao. 1.4 Delimitación de la investigación • Espacio: Se realizó el estudio en el cantón Naranjal provincia del Guayas. • Población: Este trabajo de investigación benefició a los productores de cacao, en especial los del cantón Naranjal.
+
+1.5 Objetivo general Evaluar el efecto de enmiendas edáficas en la floración y cuajado de frutos para mejorar la productividad de Cacao. 1.6 Objetivos específicos
+
+801 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí • Determinar el efecto de las combinaciones de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.). • Establecer el tratamiento que ayude a mejorar los rendimientos en el cultivo de cacao. • Realizar el análisis económico de los tratamientos en estudio.
+
+Materiales y métodos 2.1 Enfoque de la investigación El presente trabajo estuvo enfocado en determinar el efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.). 2.1.1 Tipo de investigación El presente estudio tiene los siguientes tipos de investigación: • Experimental: Examina cómo las enmiendas edáficas mejoraron las características agronómicas durante la floración y el cuajado del fruto del cultivo de cacao. • Descriptiva: Se evaluó y analizó cada variable para documentarla de manera descriptiva en todos los datos recopilados durante esta investigación. • Documental: Todos los datos, incluidos los resultados evaluados y analizados, se presentaron textualmente cuando este estudio llegó a su fin.
+
+2.1.2 Diseño de investigación El estudio utilizó un diseño de bloques completos al azar (DBCA) con cuatro tratamientos que fueron evaluados mediante cinco repeticiones. Esto permitió llevar a cabo un experimento con 20 unidades experimentales. 2.2 Metodología 2.2.1 Variables 2.2.1.1. Variable independiente Enmiendas edáficas y cultivo de cacao. 2.2.1.2 Variables dependientes • Número de cojines florales (n): 15 días después de la última etapa de aplicación de los tratamientos, se llevó a cabo un conteo visual para determinar el número de cojinetes florales. Para este conteo, se tomaron al azar 10 plantas de cada tratamiento por parcela experimental.
+
+802 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) • Número de frutos cuajados (n): El número de frutos cuajados por cada planta en tres muestreos, tomados tres días después de cada tratamiento de la tercera etapa, se utilizó para calcular la variable número de frutos cuajados. • Número de frutos dañados (n): Contar el número de frutos dañados por cada planta es la forma de calcular el número de frutos dañados por planta. Esta variable, al igual que los frutos cuajados, se calculó en diciembre, tres días después de la aplicación de las enmiendas edáficas, sumando los frutos que se perdieron en cada medición para obtener un resultado total al final de todos los muestreos. • Rendimiento (kg/ha): Para realizar el análisis de rendimiento del cultivo las semillas de cacao se cosecharon, se secaron, y el resultado se calculó en kilogramos por hectárea. • Análisis económico (b/c): Se empleó la metodología de la relación beneficios/costos, que tomó en cuenta los rendimientos obtenidos y los costos variables de cada tratamiento. 2.2.2Tratamientos Los tratamientos experimentales constaron de cuatro tratamientos y cinco repeticiones como se detallan a continuación: Tabla 1. Descripción de los tratamientos experimentales N Tratamiento Dosis/ha Aplicaciones 1 Muriato de potasio 150 kg 1-30-60 2 Algas marinas 2 L 1-30-60 3 Nitrato de potasio 130 kg 1-30-60 4 Testigo absoluto Sin aplicación Sin aplicación Los Autores, 2025 • Manejo del ensayo • Preparación del terreno El ensayo se llevó a cabo en un cultivo que ya ha sido establecido y los datos se registraron en la cosecha. Se realizaron cuatro tratamientos y cinco repeticiones. Durante el tiempo de investigación, se realizaron todas las labores culturales necesarias para el normal desarrollo del cultivo. • Material genético: Cultivo de cacao ya establecido. • Riego: Se aplicó riego por microaspersión para agregar humedad al suelo, lo que permitió que la planta absorba el agua según la humedad del suelo cuando lo necesite.
+
+803 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí • Control de malezas: Se realizó el control de malezas presentes en el suelo del cultivo, de forma mecánica con la ayuda de una moto guadaña. • Fertilización: La fertilización del cultivo se mantuvo según la tabla de tratamientos. • Control de enfermedades: Se utilizó solo cuando fue necesario, productos convencionales recomendados por el agricultor. 2.2.3 Diseño experimental Tabla 2. Esquema de análisis de varianza Fuente de variación Formula Desarrollo Grados de libertad Tratamientos t-1 (4-1) 3 Repeticiones r-1 (5-1) 4 Error (t-1) (r-1) (4-1) (5-1) 12 Total T*r-1 4*5-1 19 Los Autores, 2025 Tabla 3. Descripción de las parcelas experimentales Descripción Cantidad No. de tratamiento 4 No. de repeticiones 5 No. de parcelas 20 Distancia entre repeticiones y parcelas 3 m Largo de la parcela 15 m Ancho de la parcela 12 m Área de la parcela 180 m2 Área total del ensayo 5802 m2 Los Autores, 2025
+
+2.2.4 Recolección de datos 2.2.4.1 Recursos • Recursos materiales: Machete, cintas, dosificador, baldes, pala, estaquillas, piolas, flexómetro, bomba, cámara e insumos. • Recursos humanos: Tesista, tutor, encargado de la finca en estudio.
+
+804 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) • Recursos económicos: El presente trabajo de investigación fue financiado por recursos propios del tesista. Tabla 4. Recursos económicos Descripción Cantidad Total ($) Terreno (Arrendar) 1 200,00 Flexómetro 1 5,00 Muriato de potasio 150 kg 105,00 Nitrato de potasio 130 kg 111,00 Algas marinas 2 L 30,00 Pasajes 15 70,00 Alimentación Insecticida Mano de obra 15 1 1 80,00 25,00 100,00 Papelería 400 80,00 Total
+
+806.00 Los Autores, 2025 2.2.4.2 Métodos y técnicas • Método inductivo: Este método permite observar los resultados obtenidos con la finalidad de cumplir los objetivos específicos e hipótesis planteada. • Método deductivo: Parte de los datos generales aceptados como valederos, para deducir por medio del razonamiento lógico, varias suposiciones, es decir; parte de verdades previamente establecidas como principios generales. • Método sintético: Mediante este método se logra establecer y relacionar los resultados para construir la discusión, conclusiones relacionadas bajo la perspectiva de totalidad de la investigación. • Técnica: El ensayo se llevó a cabo en un cultivo que ya ha sido establecido y los datos se registraron en la cosecha. Se realizaron cuatro tratamientos y cinco repeticiones. Durante el tiempo de investigación, se realizaron todas las labores culturales necesarias para el normal desarrollo del cultivo.
+
+805 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí
+
+2.2.5 Análisis estadístico 2.2.5.1 Diseño estadístico En un diseño que incluyó cuatro tratamientos y cinco repeticiones, se utilizó un análisis de varianza con la prueba de Tukey al 5% de significancia para comparar las medias. 2.2..5.2 Hipótesis estadística • Ho: Ninguna de las aplicaciones de enmiendas edáficas tuvo resultados en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.). • Ha: Al menos una de las aplicaciones de enmiendas edáficas tuvo resultados en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.). Resultados
+
+• 3.1. Determinación del efecto de las combinaciones de enmiendas edáficas en el número de cojinetes florales, frutos cuajados y frutos dañados en el cultivo de cacao • 3.1.1. Cojines florales La tabla 5 muestra las medias obtenidas al evaluar el número de cojines florales. Según el análisis de varianza, se encontró un coeficiente de variación de 4,24 % y un valor p entre los tratamientos fue de <0,0001, lo que indica que la hipótesis nula fue rechazada y se encontró significancia estadística entre los tratamientos. T2 (Algas Marinas) fue el mejor tratamiento, con un valor de 44,20 %; seguido de T1 (Muriato de Potasio) con un valor de 37,80 %; seguido del T3 (Nitrato de Potasio) con un valor de 36,40%. El tratamiento promedio más bajo fue T4 (Testigo Absoluto) con 31,80 % de número de cojines florales por cada planta de cacao. Tabla 5. Cojines florales (n) Variable
+
+N
+
+R²
+
+R² Aj CV
+
+Cojines florales (n) 20
+
+0,93
+
+0,89
+
+4,24
+
+Análisis de la Varianza (SC tipo III) F.V.
+
+SC
+
+gl CM F
+
+p-valor Modelo
+
+400,55 7 57,22 22,59 <0,0001
+
+Tratamientos 393,35 3 131,12 51,76 <0,0001
+
+Repeticiones 7,20 4 1,80 0,71 0,6003
+
+806 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) Error
+
+30,40 12 2,53
+
+Total
+
+430,95 19
+
+Tratamientos
+
+Medias n E.E.
+
+T4TestigoAbsoluto
+
+31,80 5 0,71 A
+
+T3NitratoPotasio
+
+36,40 5 0,71
+
+B
+
+T1MuriatoPotasio
+
+37,80 5 0,71
+
+B
+
+T2AlgasMarinas
+
+44,20 5 0,71
+
+C
+
+Medias con una letra común no son significativamente diferentes (p > 0,05) Los Autores, 2025
+
+3.1.2. Frutos cuajados (n) La tabla 6 muestra las medias obtenidas al evaluar el número de frutos cuajados. Según el análisis de varianza, se encontró un coeficiente de variación de 4,78 % y un valor p entre los tratamientos fue de <0,0001, lo que indica que la hipótesis nula fue rechazada y se encontró significancia estadística entre los tratamientos. T2 (Algas Marinas) fue el mejor tratamiento, con un valor de 84,40; seguido de T1 (Muriato de Potasio) con un valor de 75,60; seguido del T3 (Nitrato de Potasio) con un valor de 72,80. El tratamiento promedio más bajo fue T4 (Testigo Absoluto) con 63,60 de número de frutos cuajados por cada planta de cacao. Tabla 6. Frutos cuajados (n) Variable
+
+N
+
+R²
+
+R² Aj CV
+
+Frutos cuajados (n)
+
+20
+
+0,93
+
+0,89 4,78
+
+Análisis de la Varianza (SC tipo III) F.V.
+
+SC gl CM F
+
+p-valor Modelo
+
+1602,20 7 228,89 22,59 <0,0001
+
+Tratamientos 1573,40 3 524,47 51,76 <0,0001
+
+Repeticiones 28,80 4 7,20 0,71 0,6003
+
+Error
+
+121,60
+
+12 10,13
+
+Total
+
+1723,80 19
+
+Tratamientos Medias n E.E.
+
+T4TestigoAbsoluto 63,60 5 1,42 A
+
+T3NitratoPotasio 72,80 5 1,42
+
+B
+
+807 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí T1MuriatoPotasio 75,60 5 1,42
+
+B
+
+T2AlgasMarinas 88,40 5 1,42
+
+C
+
+Medias con una letra común no son significativamente diferentes (p > 0,05) Los Autores, 2025 3.1.3. Frutos dañados (n) La tabla 7 muestra las medias obtenidas al evaluar el número de frutos dañados. Según el análisis de varianza, se encontró un coeficiente de variación de 7,94 % y un valor p entre los tratamientos fue de <0,0001, lo que indica que la hipótesis nula fue rechazada y se encontró significancia estadística entre los tratamientos. T2 (Algas Marinas) tuvo 53,40 un mayor número de frutos dañados debido a que poseía mayor número de cojines florales; seguido de T1 (Muriato de Potasio) con un valor de 40,60; seguido del T3 (Nitrato de Potasio) con un valor de 37,80. El tratamiento que menos frutos dañados tuvo fue T4 (Testigo Absoluto) con 23,60 debido a que obtuvo un menor número de cojines florales. Tabla 7. Frutos dañados (n) Variable
+
+N
+
+R²
+
+R² Aj CV
+
+Frutos dañados (n)
+
+20
+
+0,93
+
+0,89
+
+7,94
+
+Análisis de la Varianza (SC tipo III) F.V.
+
+SC gl CM F
+
+p-valor Modelo
+
+1602,20 7 228,89 22,59 <0,0001
+
+Tratamientos 1573,40 3 524,47 51,76 <0,0001
+
+Repeticiones 28,80 4 7,20 0,71 0,6003
+
+Error
+
+121,60 12 10,13
+
+Total
+
+1723,80 19
+
+Test:Tukey Alfa=0,05 DMS=5,97726 Error: 10,1333 gl: 12 Tratamientos
+
+Medias n E.E.
+
+T4TestigoAbsoluto
+
+28,60 5 1,42 A
+
+T3NitratoPotasio
+
+37,80 5 1,42
+
+B
+
+T1MuriatoPotasio
+
+40,60 5 1,42
+
+B
+
+808 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) T2AlgasMarinas
+
+53,40 5 1,42
+
+C
+
+Medias con una letra común no son significativamente diferentes (p > 0,05) Los Autores, 2025 3.2 Establecimiento del tratamiento que ayude a mejorar los rendimientos en el cultivo de cacao 3.2.1. Rendimiento (kg/ha) La tabla 8 muestra las medias obtenidas al evaluar el rendimiento del cultivo. Según el análisis de varianza, se encontró un coeficiente de variación de 3,37 % y un valor p entre los tratamientos fue de <0,0001, lo que indica que la hipótesis nula fue rechazada y se encontró significancia estadística entre los tratamientos. T2 (Algas Marinas) fue el mejor tratamiento, con un valor de 1041 kg/ha; seguido de T1 (Muriato de Potasio) con un valor de 997,20 kg/ha; seguido del T3 (Nitrato de Potasio) con un valor de 887 kg/ha. El tratamiento promedio más bajo fue T4 (Testigo Absoluto) con 809 kg/ha de la productividad del cultivo de cacao. Tabla 8. Rendimiento (kg/ha) Variable
+
+N
+
+R²
+
+R² Aj CV
+
+Rendimiento (kg/ha) 20
+
+0,94
+
+0,90 3,37
+
+Análisis de la Varianza (SC tipo III) F.V.
+
+SC gl CM
+
+F
+
+p-valor Modelo
+
+171988,85 7 24569,84 24,89 <0,0001
+
+Tratamientos 166382,15 3 55460,72 56,19 <0,0001
+
+Repeticiones 5606,70 4 1401,68 1,42 0,2862
+
+Error
+
+11844,10 12 987,01
+
+Total
+
+183832,95 19
+
+Tratamientos Medias n E.E.
+
+T4TestigoAbsoluto 809,00 5 14,05 A
+
+T3NitratoPotasio 887,00 5 14,05 B
+
+T1MuriatoPotasio 997,20 5 14,05
+
+C T2AlgasMarinas 1041,00 5 14,05
+
+C
+
+Medias con una letra común no son significativamente diferentes (p > 0,05) Los Autores, 2025
+
+809 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí 3.3. Realización del análisis económico de los tratamientos en estudio
+
+3.3.1. Análisis económico El análisis económico se efectuó en la tabla 9; para lo cual fue necesario conocer los valores de los rendimientos (kg/ha). Según los datos de los rendimientos en cada tratamiento y con la relación beneficio/costo se logró demostrar que el tratamiento que predominó en el estudio fue el T2 (Algas Marinas), con un beneficio/costo de 2,28; lo que significa que por cada dólar invertido se generó una ganancia de 1,28 dólares; seguido por T1 (Muriato de Potasio), con un valor de 2,15 con un retorno de 1,15 dólares; seguido por T3 (Nitrato de Potasio), con un valor de 1,91 con un retorno de 0,91 dólares y por último el T4 (Testigo Absoluto) con un valor de 1,78 con un retorno de 0,78 dólares, siendo el de menor promedio entre tratamientos. Tabla 9. Análisis económico del cultivo de cacao Tratamientos Rendimient o (kg/ha) Precio comercia l kg/$ Bien bruto $ Costos de Producció n $ Bien neto $ Beneficios / Costos T1MuriatoPotasio 997,2 6,60 6581,5 2 3060 3521,5 2 2,15 T2AlgasMarinas 1041 6,60 6870,6 0 3020 3850,6 0 2,28 T3NitratoPotasio 887 6,60 5854,2 0 3060 2794,2 0 1,91 T4TestigoAbsolut o 809 6,60 5339,4 0 3000 2339,4 0 1,78 Los Autores, 2025
+
+Discusión Este estudio se centró en determinar el efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.). Tras realizar el análisis e interpretación de los datos, se concluyó que el tratamiento T2 (Algas Marinas) obtuvo los mejores resultados en lo que respecta a cojines florales y frutos cuajados. Esto concuerda con lo señalado por Ronquillo (2023) en su investigación utilizó una distribución completamente al azar,
+
+810 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) compuesto de cinco tratamientos y cinco repeticiones, obteniéndose un total de 25 unidades experimentales, mediante la prueba de Tukey al 5% de significancia. En cuanto a la eficacia de los tratamientos en el porcentaje de cuajado de frutos el mejor resultado lo obtuvo el T4 (AlgasMarinas 28g), seguido de T3 (AlgasMarinas 21g). Los de menores promedios fueron los tratamientos: T5 (T. Absoluto) y T1 (Potasio). Asimismo, Alegre (2024) En su investigación se realizó con el objetivo de evaluar el efecto del uso de diferentes dosis de un bioestimulante a base de extracto de algas marinas (Ascophyllum nodosum) sobre el crecimiento de plántulas de café (Coffea arabica) cv. Cuscatleco, en vivero bajo condiciones de La Molina, Perú. Se utilizó el diseño completamente al azar con cuatro tratamientos y 26 repeticiones. Siendo los tratamientos los siguientes: T1: control, T2: plantas con Algax 5 ml/l, T3: plantas con Algax 7.5 ml/l y T4: plantas con Algax 10 ml/l. Se realizaron cuatro aplicaciones del extracto con un intervalo de 15 días. Se determinó en la aplicación de algas en dosis de 10ml que incrementó el crecimiento de las plántulas en aspectos agronómicos. En relación con el segundo objetivo específico, se analizó la variable de rendimiento del cultivo, identificando que el tratamiento T2 (Algas Marinas) fue el mejor tratamiento, con un valor de 1041 kg/ha; seguido de T1 (Muriato de Potasio) con un valor de 997,20 kg/ha; seguido del T3 (Nitrato de Potasio) con un valor de 887 kg/ha. El tratamiento promedio más bajo fue T4 (Testigo Absoluto) con 809 kg/ha de la productividad del cultivo de cacao. Esto coincide con lo expuesto por Mejía (2022) en su estudio el objetivo de la investigación fue determinar el efecto de la aplicación de cuatro dosis de un biofertilizante a base de algas sobre el cultivo del cacao en el Recinto Río Chico I, Lorenzo de Garaicoa, Simón Bolívar, Guayas. El diseño experimental que se utilizó fue un Diseño en Cuadrado Latino (DCL), el cual estuvo compuesto de cinco tratamientos consistentes en cuatro dosis del biofertilizante motivo del estudio junto con un testigo absoluto, siendo los tratamientos 1 (Algavell 1 l/ha), 2 (Algavell 3 l/ha), 3 (Algavell 5 l/ha), 4 (Algavell 7 l/ha) y un testigo absoluto, este trabajo dio como resultado al primer tratamiento como el más rentable en cuanto a incremento de productividad para los agricultores. Según Nakayama (2020) indica que se alcanza mejores rendimientos en las plantaciones de cacao se relacionan con las buenas prácticas de manejo agronómico, entre ellas la fertilización que mejora las condiciones físico-químicas del suelo. El principal objetivo cuando se realizan investigaciones en el uso de fertilizantes es incrementar los rendimientos de los cultivos. Así estudios en cacao demuestran aumentos de producción con el uso de algas marinas en función de tratamientos de fertilización.
+
+811 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí Asimismo, en función del tercer objetivo específico, se llevó a cabo un análisis económico basado en la relación beneficios/costos, en el cual se identificó al tratamiento T2 (Algas Marinas) como el más rentable. Según Viscarra (2022) en su investigación usó un biofertilizante a base de extractos de algas marinas, realizando un diseño por bloques completos al azar (DBCA), el cual consta de 4 tratamientos con 5 repeticiones, fueron analizados mediante medias de Tukey con el uso del software Infostat dando como resultado, en cuanto a comportamiento agronómico del cultivo es mejor el tratamiento T2 (Extracto de Algas Marinas y elementos nutritivos, 1.5Kg/Ha) y en costo beneficio también con un 2.91$, siendo el más bajo el tratamiento 4 (testigo convencional) por ende, se recomienda el uso de algas marinas en las plantaciones de cacao por mejorar las características agronómicas del cultivo. Además, de acuerdo con Tinimpaguay (2023) En su trabajo de investigación, que lo realizó en cultivo de cacao establecido, en el cantón Milagro, provincia del Guayas, la finalidad principal fue evaluar la aplicación de algas marinas y ácidos húmicos para el mejoramiento de la productividad del cultivo de cacao (Theobroma cacao), la investigación fue de tipo experimental se utilizó un diseño de ANOVA, los tratamientos a evaluarse consistieron en que tres dosis ácido húmico (1l, 2l y 3l), y tres dosis de algas marinas (1l, 2l y 3l). Tras analizar económicamente los tratamientos en estudio en base a la relación beneficio/costo, los resultados fueron los siguientes: El tratamiento 6 obtuvo el mayor promedio (3 litros de algas marinas).
+
+Conclusiones Una vez analizados los datos de esta investigación, se puede concluir lo siguiente: En cuanto a la variable de cojines florales y cuajado de frutos, según el primer objetivo específico, el tratamiento T2 (Algas Marinas) fue el mejor tratamiento; seguido de T1 (Muriato de Potasio); seguido del T3 (Nitrato de Potasio). El tratamiento promedio más bajo fue T4 (Testigo Absoluto) para estas variables. En cuanto al rendimiento del cultivo, el tratamiento T2 (Algas Marinas) fue el mejor tratamiento, con un valor de 1041 kg/ha; seguido de T1 (Muriato de Potasio) con un valor de 997,20 kg/ha; seguido del T3 (Nitrato de Potasio) con un valor de 887 kg/ha. El tratamiento promedio más bajo fue T4 (Testigo Absoluto). Finalmente, se realizó un análisis económico de cada tratamiento, considerando la relación beneficio/costo. Se logró demostrar que el tratamiento que predominó en el estudio fue el T2 (Algas Marinas), con un beneficio/costo de 2,28; lo que significa que por cada dólar invertido se generó
+
+812 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) una ganancia de 1,28 dólares; seguido por T1 (Muriato de Potasio), con un valor de 2,15 con un retorno de 1,15 dólares; seguido por T3 (Nitrato de Potasio), con un valor de 1,91 con un retorno de 0,91 dólares y por último el T4 (Testigo Absoluto) con un valor de 1,78 con un retorno de 0,78 dólares, siendo el de menor promedio entre tratamientos. En conclusión, el uso de Algas Marinas en dosis de 2 litros por hectárea aumenta significativamente la productividad del cultivo de cacao.
+
+Recomendaciones De acuerdo con esta investigación, se recomienda lo siguiente: Llevar a cabo estudios a largo plazo para evaluar los efectos continuos del uso de algas marinas en distintas etapas del ciclo de vida del cacao, desde el crecimiento inicial hasta la madurez y la cosecha. Explorar una gama más amplia de dosis de algas marinas con el fin de identificar las concentraciones más eficientes para diferentes tipos de suelos y etapas del cultivo, tomando en cuenta también su impacto en la calidad de la fruta. Investigar cómo interactúa las algas marinas con otros insumos químicos como los herbicidas y fungicidas, y cómo influye esta interacción en el cultivo. Comparar diferentes métodos de enmiendas del suelo, como el empleo de otras fuentes orgánicas, para determinar cuál es más eficaz en términos de mejora del rendimiento y rentabilidad. Basado en los resultados de esta investigación, donde el tratamiento más efectivo fue el T2 (Algas Marinas), por lo cual, se recomienda su empleo como método de enmiendas edáficas en el cultivo de cacao.
+
+813 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí Referencias AEFA. (2018). Algas marinas. Fertilizantes orgánicos. https://aefa-agronutrientes.org/que-es-aefa Agrobanco. (2022). Propuesta de manejo integrado de la moniliasis (Monilliopthotora roreri) del cacao (Theobroma cacao) en Santo Domingo de los Tsachilas. Quito. http://www.dspace.uce.edu.ec Agripac. (2023). Descripción de muriato de potasio. https://www.e-agrizon.com/wpcontent/uploads/2020/11/Muriato-de-potasio-ranulado-de-Agripac.pdf Alegre, M. (2024). Extracto de algas marinas y crecimiento de plántulas de café en vivero https://repositorio.lamolina.edu.pe/handle/20.500.12996/6426 Álvarez, M. (2020). Morfología de los frutos y características físicoquímicas del mucílago del cacao de tres zonas del Estado Aragua. Agronomía Tropical. http://ve.scielo.org/scielo.php?pid=S0002192X2002000400006&script=sci_arttext&tlng= e Andrade, E. (2018). Incidencia del tiempo de polinización artificial y la relación estambre flor sobre la fecundación y desarrollo inicial de mazorca en cuatro clones de cacao (Theobroma cacao L.). https://repositorio.umsa.bo/bitstream/handle/123456789/4442/T719.pdf?sequence=1&isA llowed=y Arciniega, M. (2020). Aplicación de amonio y nitrato en plantas. 817http://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S140531952014000 800004&amp;lng=es&amp;tlng=es. Arvelo, P. (2020). Manual técnico del cultivo de cacao. http://www.sidalc.net/cgibin/wxis.exe/?IsisScript=iicacr.xis&method=post&formato=2&c antidad=1&expresion=mfn=035013 Batista, H. (2019). Cultivo del cacao. http://infocafes.com/portal/wpcontent/uploads/20101/cacao-1.pdf Escobar, C. (2019). Estudio de factibilidad para la producción de cacao. Universidad Central del Ecuador. Estrada, J. (2019). Las Flores. Morfologia del cultivo de cacao. https://vivaelcacao.coLa%20flor%20del%20cacao%20est%C3%A1,parte%20masculina% 20y%20otra%20femenina.
+
+814 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.) Foster, L. (2020). Cadena Productiva de Cacao: . Costa Rica: Políticas y Acciones San José, 24 p. Gallardo, J. (2019). Diagnòstico y propuestas de parametros para la estandarizaciòn y homogenizacion del tratamiento poscosecha del cacao. http://agroaldia.mintudio_poscosecha_cacao.pdf Haifa, L. (2019). Potassium Nitrate Asosiation. http://www.kno3.org/es/productfeatures-abenefits/potassium-nitrate-product-featuresand- benefits-overview Halevy, A. H. (2019). Handbook of Flowering: Volume IV. CRC press. iFMRNQwE22lJWKHQ&redir_esc=y#v=onepage&q=CRC%20Handbook%20of%20flo wering.%20CRC%20Handbook%20of%20Flowering%2C Herrera, J. (2020). Diagnóstico del estado nutricional y recomendaciones de fertiización en cacao CCN-51. http://repositorio.ug.edu.ec/bitstream/redug/28440/1/ Hormoza, P. (2020). Utilizacion de Rizotrones para el Estudio de la Dinámica del Crecimiento de Raíces d. Bogotá – Colombia.: CENIPALMA. . Hurtado, J. (2017). El Proyecto de Investigación. Metodología de la Investigación Holística. . Caracas - Venezuela. : Ediciones Quirón. 20 p. ICCO. (2018). Estadísticas de la producción Mundial de cacao. . Londres. Jara, L. (2020). Producción de cacao. Cultivo de cacao. https://www.agricultura.gob.ec/produccion-de-cacao-apunta-a-romper-record-este-ano/ Luna, D. (2019). Diagnóstico de condiciones sociales y económicas. . Gobernación del cauca. Medellín, S. (2022). Cultivo y proceso de produccion tradicional. http://www.unirioeditora.com.ar/wpcontent/uploads/2018/08/978-987-688-204-0.pdf Mejía, G. (2022). Respuesta del cacao (Theobroma cacao L.) a cuatro dosis de un biofertilizante a base de algas marinas en Río chico, Simón Bolívar, Guayas chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/http://181.198.35.98/Archivos/ME JIA%20ALVARADO%20GABRIEL%20MAURICIO.PDF Morán, Á. (2019). IInfluencia del boro en la floración y rendimiento del cacao variedad CCN-51 en la zona de mata de cacao. https://revistas.utb.edu.ec/index.php/fadmi/article/view/355/268 Nakayama, L. (2020). Avaliação do estado nutri-cional das combinações híbridas de cacaueiro cultivado no Latossolo Amarelo Distrofico Típico. Agrotropica 22(1):5 - 10.
+
+815 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Montoya Bazán José Leonardo, Loor Vega Jairo Isaí Paredes, G. (2019). Suelo. Concepto de suelo agrícola. https://unlp.edu.ar/frontend/media/52/27752/f8cb0e577b80bbe6aa23dd8ad9098379.pdf Ramírez, S. (2020). La moniliasis un desafio para lograr la sostenibilidad del sistema cacao en México. Tecnología En Marcha, 21(1), 97–110. Ramos, G. (2020). Caracteres morfológicos en cacao. http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S000292X2004000100004 Redondo. (2019). Prácticas para el cultivo de cacao. http://repositorio.uaaan.mx:8080/xmlui/bitstream/handle/123456789/6348/T15036%20G ORDILLO%20MORENO%2C%20 Rípodas, M. (2021). Evaluación de diferentes tipos de fertilizantes químicos. Universidad Pública de Navarra. Rivera, P. (2018). Efecto del tipo y tiempo de fermentación en la calidad física y química del cacao (Theobroma cacao L.) tipo nacional. Ciencia y Tecnología, 5(1), 7–12. https://doi.org/10.18779/cyt.v5i1.77 Rottenberg, O. (2019). El Arte de la nutrición foliar, mecanismos de absorción. Publicaciones Científicas de Haifa Chemicals LDT. México DF. Ronquillo, M. (2023). Efecto de la aplicación de algas marinas sobre la germinación y características agronómicas del cacao ccn-51 en vivero chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://cia.uagraria.edu.ec/Archivos/RON QUILLO%20CALDERON%20MARIA%20ISABEL.pdf Sánchez, L. (2022). Precipitaciones en el cultivo de cacao. http://repo.uta.edu.ec/bitstream/123456789/6530/1/Tesis68%20%20%20Ingenier%C3%A Da%20Agron%C3%B3mica%20-CD%20209.pdf Tinimpaguay, M. (2023). Aplicación de ácido fúlvico orgánico para el mejoramiento de la productividad del cultivo de cacao (Theobroma cacao L.) chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://cia.uagraria.edu.ec/Archivos/TINI MPAGUAY%20CAJAMARCA%20MARIELA%20ELIZABETH.pdf Viscarra, F. (2024). Evaluación del efecto de biofertilizantes a base de algas marinas en el cultivo de cacao (Theobroma cacao L.), cantón Echeandia chromeextension://efaidnbmnnnibpcajpcglclefindmkaj/https://cia.uagraria.edu.ec/Archivo s/VISCARRA%20ESPIN%20FABRICIO%20ANDREY.pdf.
+
+816 Pol. Con. (Edición núm. 110) Vol. 10, No 9, Septiembre 2025, pp. 797-816, ISSN: 2550 - 682X Efecto de la aplicación de enmiendas edáficas en la floración y cuajado del fruto del cultivo de cacao (Theobroma cacao L.)
+
+© 2025 por los autores. Este artículo es de acceso abierto y distribuido según los términos y condiciones de la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) (https://creativecommons.org/licenses/by-nc-sa/4.0/).

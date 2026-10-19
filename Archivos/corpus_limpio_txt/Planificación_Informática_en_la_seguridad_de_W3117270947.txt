@@ -1,0 +1,129 @@
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+Planificación Informática en la seguridad de información del Distrito de Salud 23D03
+
+Information Security Planning in Health District 23D03
+
+Alex Darío Palma-Rivera alexpalma@tsachila.edu.ec Instituto Superior Tecnológico Tsachila, Santo Domingo Ecuador https://orcid.org/0000-0002-0646-0185
+
+Diego Javier Bastidas-Logroño info@sistemasdj.com Instituto Tecnológico Superior Tsáchila, Santo Domingo Ecuador https://orcid.org/0000-0003-3924-7468
+
+Paulo César Galarza-Sánchez paulogalarza@tsachila.edu.ec Instituto Superior Tecnológico Tsachila, Santo Domingo Ecuador https://orcid.org/0000-0003-4668-1158
+
+Recepción: 21 de agosto 2020 Revisado: 30 de septiembre 2020 Aprobación: 04 de noviembre 2020 Publicación: 16 de noviembre 2020
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+RESUMEN Objetivo: Analizar la planificación Informática en la seguridad de información del Distrito de Salud 23D03. Método: De tipo descriptiva con diseño no experimental observacional en una muestra poblacional de 196 trabajadores del Distrito de Salud 23D03. Resultados: La administración interna del departamento de tecnología se basa en el soporte técnico y administración de los servicios de red. Conclusión: La planificación ha permitido una mejora en el cumplimiento y ordenamiento de la gestión, cumpliendo necesidades como la de garantizar la disponibilidad de los datos, mejorar el uso de equipo TIC por parte de los usuarios internos y se evita que los terminales sean dispositivos vulnerables para el robo de información.
+
+Descriptores: Investigación sobre servicios de salud; administración financiera de hospitales; administración financiera. (Fuente: DeCS2020).
+
+ABSTRACT Objective: to analyze the Information security planning of the Health District 23D03. Method: Descriptive type with non-experimental observational design in a population sample of 196 workers from Health District 23D03. Results: the internal administration of the technology department is based on technical support and administration of network services. Conclusion: Planning has allowed an improvement in compliance and management ordering, meeting needs such as guaranteeing data availability, improving the use of ICT equipment by internal users, and preventing terminals from being vulnerable devices for the theft of information.
+
+Descriptors: Health services research; financial management, hospital; financial management. (Source: DeCS2020).
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+INTRODUCCIÓN El análisis de una planificación informática permite conocer las dificultades que muestra la institución con respecto a la gestión TIC 1 2, presentar una corrección y generar mejoras en la seguridad de la información, con respecto al uso de terminales, puertos vulnerables en los servidores y tomando en consideración la integración del usuario final al proceso. La planificación informática basada en un estándar ayuda en gran porcentaje a mejorar la seguridad de la información siempre y cuando se apliquen todos los procedimientos establecidos, se ejecute la verificación y control de los mismos 3 4. El beneficio de la planificación informática repercute no únicamente a la parte administrativa de la institución en evaluación de su gestión, también se ve reflejada en la ciudadanía, por cuanto accede, a servicios TIC en el departamento de atención ciudadana con mayor eficiencia 5 6 7. De ese modo, es importante generar un sistema de planificación informática en instituciones hospitalarias de salud, por cuanto esto permite optimizar los procesos internos para brindar un mejor servicio al usuario, incluso, a través de la inteligencia artificial, se busca brindar diagnosis al paciente, lo cual indica que cada vez se empleará con mayor fuerza y eficacia, la automatización 8 9 10. En este sentido, la investigación tiene por objetivo analizar la planificación Informática en la seguridad de información del Distrito de Salud 23D03.
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+MÉTODO Ámbito espacial de la investigación La investigación se desarrolló en el Distrito de Salud 23D03 ubicado en La Concordia, Cantón La Concordia de la Provincia de Santo Domingo de los Tsáchilas – Ecuador.
+
+Tipo y diseño de investigación De tipo descriptiva con diseño no experimental observacional
+
+Muestra poblacional Estuvo conformada por 196 trabajadores del Distrito de Salud 23D03
+
+Técnica e instrumento de recolección de información Se aplicó la encuesta como técnica y cuestionario como instrumento, el cual estuvo conformado por 17 ítems de 5 alternativas en escala Likert, siendo validado por juicio de expertos y cálculo de fiabilidad de Alfa de Cronbach, teniendo resultado de 0,89 considerado confiable para su aplicación.
+
+Análisis de la información Se procedió a analizar en razón de la estadística descriptiva, así como el FODA.
+
+Consideraciones éticas Los investigadores declaran no existir conflicto de interés con la muestra poblacional, así como tampoco se realizaron experimentos con humanos o animales.
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+RESULTADOS
+
+Se presentan a continuación los resultados:
+
+Figura 1. Uso de software.
+
+El 79% de los equipos encuestados trabajan con Linux, mientras que el 21% lo hace con software Office o privado, lo cual, contradice los mandatos de la Contraloría General de la República del Ecuador, donde se exhorta al uso público de software en la administración pública.
+
+0 20 40 60 80 100 120 140 160 180 Linux Office
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+Tabla 1. FODA descriptivo del Distrito de Salud 23D03.
+
+FORTALEZAS OPORTUNIDADES Apoyo de la Dirección distrital para la generación de ideas de oportunidades de mejora. Incorporación de buenas prácticas y estándares de las TIC. Líderes de área en coordinación permanente con una visión clara de los objetivos que persigue la institución. Débil gestión de los procesos de TI, falta de políticas, procedimientos, estándares y evaluaciones de servicio. Personal comprometido y efectivo en todas las áreas de trabajo, con capacidad técnica y experiencia profesional. Falta de gestión de servicios TI, catálogo de servicios y difusión del mismo. DEBILIDADES AMENAZAS Políticas de Estado que impiden la colaboración particular para la mejora en el equipamiento de recursos tics Cambios inesperados en las competencias y estructura de la organización Iniciativa Gubernamental del Plan Nacional de Gobierno electrónico. Procedimientos administrativos burocráticos en las adquisiciones. Desarrollos de nuevas tecnologías y buenas prácticas de gestión enfocadas a los sistemas educativos. Resistencia al cambio, falta de disposición y compromiso de las direcciones, para la incorporación y mejora de las TIC Capacidad de adaptación de las herramientas tecnológicas para generar soluciones a bajos costos con seguridad y fácil acceso a la información. Limitaciones gubernamentales en la asignación de recursos económicos.
+
+Fuente: Encuesta aplicada.
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+Para el manejo de capacitaciones al personal de la institución se cuenta con un plan de capacitaciones elaborado por el encargado de TIC y aprobado por la autoridad encargada de la institución, de la misma forma se cumple el cronograma de mantenimiento y revisiones de los equipos, y finalmente se verificó el almacenamiento de la información diaria, almacenada en un servidor local, esa información proviene de los terminales que tienen la cuenta de Dropbox para el ingreso de datos relacionados a la entidad. Por otro lado, la administración interna del departamento de tecnología se basa en el soporte técnico y administración de los servicios de red, además se cuenta con un servidor de almacenamiento donde se respaldan los backup de la institución, y se realizó una evaluación de seguridades en el servidor, en donde se ha encontrado puertos abiertos.
+
+DISCUSIÓN Y CONCLUSIONES La planificación informática del distrito 23D03 de salud – La Concordia, está basada en un modelo de uso implementado por la Contraloría General del Estado, y por el Instituto Nacional de Estadísticas y Censos INEC, éste modelo se ha originado a partir de diferentes enfoques de gestión, específicamente en COBIT 5, orientado a la gestión TIC empresarial y la norma ISO 27001, que se resume en el mejoramiento de la gestión de la seguridad de la información con el fin de garantizar la disponibilidad y acceso a los datos mediante el uso de las buenas prácticas, el análisis de los diferentes apartados enmarcados en la planificación ha permitido una mejora en el cumplimiento y ordenamiento de la gestión, cumpliendo necesidades como la de garantizar la disponibilidad de los datos, mejorar el uso de equipo TIC por parte de los usuarios internos y se evita que los terminales sean dispositivos vulnerables para el robo de información 11 12 13 14 15.
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+CONFLICTO DE INTERÉS Los autores declaran que no tienen conflicto de interés en la publicación de este artículo.
+
+FINANCIAMIENTO Autofinanciado.
+
+AGRADECIMIENTO Al Instituto Superior Tecnológico Tsachila, Santo Domingo; por apoyar el desarrollo la investigación.
+
+REFERENCIAS 1. Lima, Francisca Fabiana Fernandes, Alencar, Nadyelle Elias Santos, Fernandes, Márcia Astrês, Moura, Elaine Cristina Carvalho, & Silva-Júnior, Fernando José Guedes da. Planejamento estratégico situacional em uma instituição psiquiátrica: contribuições e desafíos [Situational strategic planning in a psychiatric institution: contributions and challenges]. SMAD. Revista eletrônica saúde mental álcool e drogas, 2020; 15(2), 20-28.
+
+2. Duque, Francisco Javier Valencia, & Arias, Johnny Alexander Tamayo. (2017). Modelos de auditoría continua: una propuesta taxonómica [Continuous audit models: a taxonomic proposal]. JISTEM - Journal of Information Systems and Technology Management, 14(3), 463-481.
+
+3. Proaño Escalante, Rodrigo Arturo, Saguay Chafla, Ciro Napoleón, Jácome Canchig, Segundo Bolívar, & Sandoval Zambrano, Fanny. Sistemas basados en conocimiento como herramienta de ayuda en la auditoría de sistemas de información [Knowledge based systems as an aid in information systems audit]. Enfoque UTE, 2017; 8(Supl. 1), 148159. https://doi.org/10.29019/enfoqueute.v8n1.122
+
+4. Segura-Vera M. Atención primaria en salud y TIC: Una mirada desde la perspectiva de Haberlas [Primary health care and ICT: A look from Haberlas's perspective]. Salus [Internet]. 2015; 19( Suppl): 5-10.
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+5. Plazzotta F, L, González-Bernaldo-de-Quirós F. Sistemas de Información en Salud: Integrando datos clínicos en diferentes escenarios y usuarios [Health Information Systems: Integrating clinical data in different scenarios and users]. Rev. perú. med. exp. salud publica [Internet].2015; 32(2): 343-351.
+
+6. Ramírez-Gerardo O, Lino-Gamiño J. Modelo de gestión de servicios de cómputo en la nube para las compañías de consumo [Model of cloud computing services management for consumer product companies]. Nova scientia [revista en la Internet]. 2019; 11(23): 00020. https://doi.org/10.21640/ns.v11i23.1987
+
+7. Caiza - Acero, Marcos, Bolaños - Burgos, Francisco, Las implementaciones de las normas de seguridad de la información: estudio de caso la Sociedad de Lucha Contra el Cáncer del Ecuador [The implementations of the information security regulations: case study the Society for the Fight Against Cancer of Ecuador]. ReCIBE. Revista electrónica de Computación, Informática, Biomédica y Electrónica [Internet]. 2014; (3). 8. Valencia, Francisco, Marulanda, Carlos, & López, Marcelo. Gobierno de las Tecnologías de la Información. Uso y Prácticas en las Entidades Públicas del Triángulo del Café, Colombia [Information Technology Government. Use and Practices in the Public Entities of the Coffee Triangle, in Colombia]. Información tecnológica, 2018; 29(3), 249-256.
+
+9. Torres-Salgado MK. Arquitectura de procesos con indicadores estratégicos en los servicios médicos de consulta externa en hospitales de alta especialidad. Gac Med Mex. 2019;155(6):576-584. doi: 10.24875/GMM.19005474. PMID: 31787764.
+
+10. Dorado-Díaz PI, Sampedro-Gómez J, Vicente-Palacios V, Sánchez PL. Applications of Artificial Intelligence in Cardiology. The Future is Already Here. Rev Esp Cardiol (Engl Ed). 2019 Dec;72(12):1065-1075. English, Spanish. doi: 10.1016/j.rec.2019.05.014. Epub 2019 Oct 12. PMID: 31611150.
+
+11. Rojo MG. Inteligencia artificial en Anatomía Patológica [Artificial intelligence in Pathological Anatomy]. Rev Esp Patol. 2019 Oct-Dec;52(4):205-207. Spanish. doi: 10.1016/j.patol.2019.09.001. PMID: 31530402.
+
+12. Gegúndez Fernández JA. Technification versus humanisation. Artificial intelligence for medical diagnosis. Arch Soc Esp Oftalmol. 2018 Mar;93(3):e17-e19. English, Spanish. doi: 10.1016/j.oftal.2017.11.004. Epub 2017 Dec 24. PMID: 29279238.
+
+Revista Arbitrada Interdisciplinaria de Ciencias de la Salud. SALUD Y VIDA Volumen 4. Número 8. Año 4. Julio – Diciembre 2020 Hecho el depósito de Ley: FA2016000010 ISSN: 2610-8038 FUNDACIÓN KOINONIA (F.K). Santa Ana de Coro, Venezuela.
+
+Alex Darío Palma-Rivera; Diego Javier Bastidas-Logroño; Paulo César Galarza-Sánchez
+
+13. Núñez Reiz A, Armengol de la Hoz MA, Sánchez García M. Big Data Analysis and Machine Learning in Intensive Care Units. Med Intensiva. 2019 Oct;43(7):416-426. English, Spanish. doi: 10.1016/j.medin.2018.10.007. Epub 2018 Dec 24. PMID: 30591356.
+
+14. Ayed I, Ghazel A, Jaume-I-Capó A, Moyà-Alcover G, Varona J, Martínez-Bueso P. Vision-based serious games and virtual reality systems for motor rehabilitation: A review geared toward a research methodology. Int J Med Inform. 2019 Nov;131:103909. doi: 10.1016/j.ijmedinf.2019.06.016. Epub 2019 Jul 10. PMID: 31557701.
+
+15. De Freitas, Vidalina. (2009). Análisis y evaluación del riesgo de la información: caso de estudio Universidad Simón Bolívar [Information risk analysis and evaluation: case study Simón Bolívar University]. Enlace, 6(1), 43-55.
+
+2020 por los autores. Este artículo es de acceso abierto y distribuido según los términos y condiciones de la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) (https://creativecommons.org/licenses/by-nc-sa/4.0/).

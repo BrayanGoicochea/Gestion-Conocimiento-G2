@@ -1,0 +1,95 @@
+
+1. TIPOS DE RELACIONES (ARISTAS / EDGES)
+--------------------------------------------------------------------------------
+A partir del análisis del archivo 'tripletas_extraidas.json', se identifican y 
+normalizan las siguientes 7 relaciones dirigidas principales:
+
+* trata_a -> [:TRATA_A]
+  - Significado: La entidad cura, alivia o interviene en una patología o síntoma.
+  - Ejemplo real: (Achiote) -[:TRATA_A]-> (Inflamación de la vejiga)
+
+* usa_parte -> [:USA_PARTE]
+  - Significado: Órgano o estructura botánica empleada en el remedio.
+  - Ejemplo real: (Ajengibre) -[:USA_PARTE]-> (raíces)
+
+* preparado_como -> [:PREPARADO_COMO]
+  - Significado: Método de elaboración, técnica galénica o forma resultante.
+  - Ejemplo real: (Ají de rana) -[:PREPARADO_COMO]-> (Cataplasma)
+
+* pertenece_a_familia -> [:PERTENECE_A_FAMILIA]
+  - Significado: Taxonomía biológica botánica de orden superior.
+  - Ejemplo real: (Achiote) -[:PERTENECE_A_FAMILIA]-> (Bixaceae)
+
+* nombre_tsafiqui -> [:TIENE_NOMBRE_TSAFIQUI]
+  - Significado: Denominación ancestral en el idioma Tsáfiqui.
+  - Ejemplo real: (Achiote) -[:TIENE_NOMBRE_TSAFIQUI]-> (Mú)
+
+* nombre_cientifico -> [:TIENE_NOMBRE_CIENTIFICO]
+  - Significado: Nomenclatura botánica binomial en latín.
+  - Ejemplo real: (Achiote) -[:TIENE_NOMBRE_CIENTIFICO]-> (Bixa orellana)
+
+* administrado_por -> [:ADMINISTRADO_POR]
+  - Significado: Rol social o especialista ceremonial que dirige la cura.
+  - Ejemplo real: (Don'bada Kapi) -[:ADMINISTRADO_POR]-> (Poné)
+
+--------------------------------------------------------------------------------
+2. CATEGORÍAS DE ENTIDADES (NODOS / LABELS)
+--------------------------------------------------------------------------------
+
+1. :Planta
+   - Definición: Especies vegetales individuales de la farmacopea Tsáchila.
+   - Rol en el grafo: Nodo núcleo / Sujeto principal.
+   - Ejemplos: Achiote, Ajengibre, Ají de rana, Ajo de monte, Ampo Pole, 
+     Albahaca de monte, Amansadora, Ayahuasca, Bastón de faraón, Betilla, 
+     Biblia, Chapil, Caucho, Caña agria, Hierba de serpiente, Matico, 
+     Ortiga brava, Uña de gato, Zaragoza.
+
+2. :Patologia (o :Sintoma)
+   - Definición: Enfermedades clínicas, dolencias corporales o afecciones espirituales.
+   - Rol en el grafo: Objeto de la relación [:TRATA_A].
+   - Ejemplos del Dataset:
+     * Físicas/Infecciosas: Inflamación de la vejiga, Problemas del sistema 
+       respiratorio, Cáncer, Infecciones estomacales, Fiebre, Escalofríos, 
+       Dolor muscular, Catarata, Vías urinarias, Migraña, Mordedura de serpiente, 
+       Picadura de insectos, Gastritis, Diabetes, Triglicéridos, Diarrea, Resfríos.
+     * Culturales/Espirituales: Mala vibra, Intoxicación espiritual, Estrés.
+
+3. :PartePlanta
+   - Definición: Órgano morfológico vegetal cosechado y aprovechado terapéuticamente.
+   - Rol en el grafo: Objeto de la relación [:USA_PARTE].
+   - Ejemplos del Dataset: Hojas, Raíz, Raíces, Corteza, Corteza de la raíz, 
+     Semillas, Semillas tiernas, Fruto, Frutos, Flor, Tallo, Liana, Bejuco, 
+     Ramas, Resina seca, Zumo.
+
+4. :Preparacion (o :FormaUso)
+   - Definición: Procedimiento galénico, técnica culinaria o método ritual de uso.
+   - Rol en el grafo: Objeto de la relación [:PREPARADO_COMO].
+   - Ejemplos del Dataset: Infusión, Cataplasma, Cataplasma de hojas calientes, 
+     Baño energético, Baño purificador, Extracto macerado, Sumo directo para ojos, 
+     Pasta de la semilla, Maceración con licor y espasmo de arco, Tritura, Antorcha, 
+     Chicha fermentada, Cocción ritual.
+
+5. :FamiliaBotanica
+   - Definición: Agrupación taxonómica formal de las especies.
+   - Rol en el grafo: Objeto de la relación [:PERTENECE_A_FAMILIA].
+   - Ejemplos del Dataset: Bixaceae, Zingiberaceae, Malvaceae, Bignoniaceae, 
+     Icacinaceae, Lamiaceae, Commelinaceae, Malpighiaceae, Fabaceae, Apocynaceae, 
+     Acanthaceae, Arecaceae, Moraceae, Poaceae, Piperaceae, Burseraceae, Apiaceae, 
+     Melastomataceae, Asteraceae, Rubiaceae, Solanaceae, Urticaceae, Cucurbitaceae.
+
+6. :Receta (o :PreparacionCeremonial)
+   - Definición: Fórmulas tradicionales compuestas por múltiples ingredientes, 
+     con nombre propio en lengua originaria y asociadas a rituales de curación.
+   - Rol en el grafo: Sujeto con identidad propia conectado a preparaciones y actores.
+   - Ejemplos del Dataset: 
+     * Don'bada Kapi (Té de raíces y piedras de río Baba)
+     * Muturu'pi (Brebaje desintoxicante de árbol de múturu)
+     * Uru Mala (Chicha ceremonial de yuca en hoja de bijao)
+     * Yo'mala (Chicha del sol con hongo oreja de cerdo y maíz)
+     * Kanthi Pi (Bebida ritual de hojas de tabaco)
+     * Mu Queká (Preparación ritual a base de achiote)
+
+7. :Actor
+   - Definición: Persona, jerarquía social o especialista que lidera la sanación.
+   - Rol en el grafo: Objeto de la relación [:ADMINISTRADO_POR].
+   - Ejemplo principal: Poné (Chamán o médico tradicional Tsáchila).
