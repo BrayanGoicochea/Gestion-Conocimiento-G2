@@ -1,0 +1,251 @@
+1
+
+EVALUATION OF PHYTOCHEMICAL ANALYSIS, METAL ION CONTENTS, IN CORRELATION TO IN VITRO ANTIOXIDANT ACTIVITY OF FICUS ELASTICA AND CYAMOPSIS TETRAGONOLOBA
+
+Manish Kaushik1,2, Akash Jain3*
+
+Address(es): 1 Research Scholar, M.M. College of Pharmacy, M.M.( Deemed to be University), Mullana, Haryana, India-133207.Orcid ID: 0000-0002-1691-4187. 2 Assoc. Professor, SBS College of Pharmacy, Palampur, Himachal Pradesh-176061, India. 3 Professor, M.M. College of Pharmacy, M.M.(Deemed to be University), Mullana, Haryana, India-133207.Orcid ID: 0000-0001-5703-6117.
+
+*Corresponding author: akash2911@gmail.com; manishkaushik63@gmail.com
+
+ABSTRACT
+
+Keywords: Analysis, Atomic Absorption Spectrophotometer, Cyamopsis tetragonoloba, Ficus elastica, HPLC, metal ions
+
+INTRODUCTION
+
+It is known to all that, Oxidative stress, which is brought on by excessive ROS production, can result in a variety of illnesses. Under these circumstances, the body needs the help of antioxidant-rich diet to counteract free radicals and undo the damaging effects of oxidative stress. Medicinal herbs, fruits, vegetables, cereals, and other foods are known to contain a variety of phenolic compounds with potent antioxidant properties. There is a strong correlation between these substances and their capacity as antioxidants (Tripathi et al., 2007). The use of natural antioxidants derived from plant extracts or isolated plant products is on the rise in substitute of synthetic antioxidants, which raise safety concerns. Therefore, the present study was selected fortwo different plants but they both generate latex, such plants wereCyamopsis tetragonoloba and Ficus elastica. Cyamopsis tetragonoloba (L.) Taub. (CT) is commonly known as Guar bean (F: Leguminosae). The plant is annually grown with trifoliate leaves. Leaflets are elliptic and acute with hairy forms whereas the fruits are thick. Inside fruits, seeds are arranged in compressed form with square type seeds. The plant is native to India and well distributed in Rajasthan, Haryana, Gujarat and Punjab (Bagenia and Chaturvedi, 2018). The plant is traditionally used for arthritis, enlarged liver, head-swellings, laxative and in asthma (Sharma et al., 2010). The plant is also having multiple therapeutic activities viz. antidiabetic (Saeed et al., 2012), antiviral (Kaushik et al., 2020), anticoagulant activity (Hassan et al., 2010), antimicrobial (Jerine Peter et al., 2020), antiasthamatic (Sharma et al., 2010), Anthelmintic (Tahmouzi et al., 2023) and wound healing (Tahmouzi et al., 2023) activities etc. All these activities are mainly due to presence of a vast number of active constitutions. It was reported that bioactive compounds as a source of secondary metabolites in plants, are responsible for various activities (Seca and Pinto, 2018). Very scanty reports on antioxidant study on the said plant (Seema et al., 2011). Furthermore, metallic ions are very essential for production of secondary metabolites. There are many literatures available on the same (Locatelli et al.,2016; Das et al.,2019) but no such literature available on the said plant. Furthermore, Ficus elastic Roxb. ex Hornem(FE) (F: Moraceae) is commonly known as rubber plant, having large green color leaves (around 10 to 35 cm in length) with pink stipules. The plant is widely distributed in India, Nepal, Buthan, Myanmar, Malaysia, and Indonesia (Arsyad et al., 2023). Traditionally, the plant is used in digestive, reproductive, endocrine, respiratory systems, gastrointestinal, cardiovascular diseases, diabetes, stomach ulcer, muscle pain and recently it is used in cancer therapy (Shi et al., 2018; Gurung et al., 2021).It has many pharmacological activities with the presence of various phytochemicals in various parts of the plants viz. antibacterial, antifungal, and antiproliferative properties due to the active principles of Ficusamide, ficusoside B, elastiquinone, elasticoside, and elasticamide.Very scanty reports are available on antioxidant property of the said plant (Phan Van et al., 2012; Mbosso Teinkela et al., 2016). Many literatures already reported antioxidant activity of many plant extracts with various in vitro assay methods, but no literature told the role of metal ion content in the plant and their role in antioxidant activity. Thereafter, an interrelationship among the identified plant constituents along with the metal ion content and antioxidant activity was carried out in the present investigation which was first time report on the selected plant duos.
+
+MATERIALS AND METHODS
+
+Chemicals 2, 2-diphenyl-1-picrylhydrazyl (DPPH) and Quercetin was purchased from Sigma-Aldrich Chemical Co. (Milwaukee, WI, USA). Sodium carbonate (Na2CO3), Sodium phosphate (NaH2PO4) was purchased from Himedia Laboratories Pvt. Ltd. (Mumbai, India). Methanol, Ferric chloride (FeCl3), Potassium Ferricyanide (K3Fe (CN)6), Trichloroacetic acid, Folin- Ciocalteau reagent, Methanol, Ascorbic acid, Gallic acid was purchased from SRL Pvt. Ltd. (Mumbai, India). Ammonium molybdate ((NH4)2MoO4) and Aluminium chloride (AlCl3) were purchased from SD Fine-Chem Chem. Ltd. (Mumbai, India). All other chemicals used were of analytical grade.
+
+Collection of Plant Materials
+
+The plant materials CT and FE were collected from cultivated zone of Palakard, Kerala and botanically authenticated by Dr. K. Madhava Chetty, Sri Venkateshwara University, Tirupati, Andhra Pradesh, India. A voucher specimen with accession number 0597 and 0908 respectively was deposited to the said plant material.
+
+The present study was aimed with the identification of potent active phytochemicals followed by HPLC determination of presence of required bioactive components in Ficus elastica and Cyamopsis tetragonoloba. Thereafter, total phenolics were estimated and compared based on phytochemical screening. Determination of metal ions from the leaves of both plants was estimated by Atomic Absorption Spectrophotometer and finally, results were correlated with the potent antioxidant activity. DPPH, and Hydrogen per oxide scavenging assay methods were carried out for the antioxidant assay.IC50 value was determined as 3.45 and 134.78 µg/ml for CT extracts in DPPH and H2O2 assays respectively. Phytochemical analysis showed presence of alkaloids, glycosides, flavonoids, phenolics, tannins, terpenoids, and sterols in Ficus elastica leaves and alkaloids, glycosides, flavonoids, phenolics, and sterols in Cyamopsis tetragonoloba beans when various chemical tests were performed. TLC was identified various alkaloids and flavonoids from both the plants. Presence of beta- sitosterol and lupeol were identified and estimated by HPLC method (3.41 and 5.37 mg beta sitosterol and lupeol respectively in CT extract and 6.48 and 3.01 mg beta sitosterol and lupeol respectively in FE extract). Metal ions viz. Fe, Mg, Cu and Zn were identified as essential heavy metals with very negligible non essential heavy metals viz. Cd, Ni, As and Pb were estimated from both the plants whereas, Na, Ca, and K were higher in both of them. Finally correlation study among the metal ions, total phenolics, with antioxidant potentiality was established and confirmed the role of plant constituents in effective said activity. ARTICLE INFO Received 24. 5. 2024 Revised 19. 5. 2025 Accepted 20. 5. 2025 Published 1. 6. 2025 Regular article https://doi.org/10.55251/jmbfs.11371
+
+J Microbiol Biotech Food Sci / Kaushik and Jain 2025 : 14 (6) e11371
+
+2
+
+Preparation of plant sample for metal ion determination
+
+Using an Atomic Absorption Spectrophotometer (AAS, Perkin Elmer, PinAAcle 900T, Mumbai, India), 100 g of dried powder was utilized to determine the elements, particularly a few heavy metals and several important elements contained in the leaves. Three potent acid combinations were used to break down the powdered leaves. Concentrated nitric acid, concentrated sulfuric acid, and 60% perchloric acid were combined to form a triacid mixture (100: 10: 40). Fe, Mn, Mg, Cu, Zn, Pb, Cd, Ni, As, and Cr were estimated. 15 ml of ternary acid combination, which had been earlier made with three concentrated acids, was combined with 5 g of powdered plant samples. The mixture was then digested at 180 to 200 degrees Celsius until dense white vapors evolved and produced residue. The residue was filled with a volumetric flask to a specific capacity after being further diluted with glass distilled water. After that, the mixture was prepared for the analysis of harmful heavy metals such as Cd, Cr, Pb, As, and Ni, as well as Fe, Cu, Mn, Mg, and Zn with slit 0.7 (Atomic Absorption Condition) and 0.2 (Flame Emission Condition) by using air acetylene gas. Further some macronutrients like Na, and K were determined by flame photometry method whereas Mg, and Ca, were analyszed by Atomic Absorption spectrophotometer (Ahmed, 2018; Das et al., 2019).
+
+Preparation of Plant extracts
+
+500 g of shade dried leaves (dried for 28 days) of Ficus elastica and beans of Cyamopsis tetragonoloba, were subjected to course powdered by mixer grinder and further extraction using ethanol as solvent by soxhlet method. The extraction condition was 45 degree C for 8 hrs followed by filtration of the extracts and evaporation of the excess solvent using rotary flash evaporator (Remi, Bio Techno Lab, Mumbai, India) at 40 degree C for 45 min. Resulted viscous extract was weighed for practical yield and preserved in screw capped glass bottle by kept in refrigeration condition at 4 degree C for further investigation.
+
+Phytochemical screening
+
+Various chemical tests were conducted with the extracts as per the method described earlier. The tests were series of qualitative chemical tests targeting specific classes of compounds, such as alkaloids, flavonoids, glycosides, tannins, saponins, and other phytochemicals.
+
+TLC and HPLC analysis
+
+Further, the extract was run with TLC for identification and separation of the phytoconstituents. The mobile phase was used as benzene and methanol (9:1) for identification of beta sitosterol and lupeol. Standard Lupeol and β-sitosterol were procured from Sigma-Aldrich (Bengaluru, India)(Purity of standard leupeol was 99.5% and beta sitosterol was 98.5%), and was used as standard for the HPLC analysis (Shimadzu, Mumbai, India). C18 column was used and methanol, water (70: 30) was used as mobile phase. Detection was carried out at 208 nm after prepared sample and standard solutions. Injection was 10 µl with flow rate 1.0 ml/min.
+
+Determination of total Phenolics
+
+Modified Folin–Ciocalteu colorimetric method was applied for analysis of total phenolic content for both the said ethanol extracts using 650 nm as absorbance (Siddiqui et al., 2017). Gallic acid in varied concentration was prepared and series of absorbance recorded. Finally, absorbance vs concentrations were plotted as standard curve. Sample (1mg/ml) was mixed in 1ml of Folin-phenol Ciocalteu's reagent separately and then total phenolic content was measured in mg gallic acid equivalents (GAE) per gram of dry weight (mg/g).
+
+Antioxidant Activity
+
+DPPH free radical scavenging activity
+
+The DPPH Assay was conducted as per the method followed earlier with slight modifications (Valko et al., 2007). 1000 microliters of different concentrations (530 μl/ml) of the extracts dissolved in ethanol were added to 4 ml of a 0.004% methanol solution of DPPH. Following a 30-minute incubation period at room temperature, the absorbance was measured at 517 nm against a blank and IC50 was calculated from % inhibition. Ascorbic acid was used as a standard and dissolved in distilled water to make the stock solution with the same concentration of ethanol extracts of FE and CT plants. The DPPH radical scavenging effect was calculated as the percentage inhibition (I%) using the formula: % inhibition=(1-Ablank/ASample)×100 Where Ablank is the absorbance of the control reaction containing all reagents except the test compound, and Asample is the absorbance of the test compound. The inhibition values were calculated for various concentrations of the extracts from FE and CT. The experiments were performed in triplicate to ensure accuracy and reproducibility of results.
+
+Hydrogen Peroxide Scavenging Activity
+
+Initially, a solution of hydrogen peroxide (H2O2) at a concentration of 40 mM was prepared in phosphate buffer (pH 7.4). Subsequently, extracts at concentrations ranging from 10 to 320 μg/ml dissolved in methanol were added to 0.6 ml of the H2O2 solution. The absorbance of the reaction mixture was then measured at 230 nm (Hazra et al., 2008). A blank solution, consisting of phosphate buffer without H2O2, was included for reference. The percentage of hydrogen peroxide scavenging activity was calculated using the following formula: % Inhibition=(Acontrol-Asample/Acontrol)×100 Where AControl represents the absorbance of the control (i.e., the reaction mixture without the sample or standards), and Asample is the absorbance in the presence of the sample or standards. This assay provides insights into the ability of the extracts to scavenge hydrogen peroxide, an important reactive oxygen species implicated in oxidative stress-related diseases.
+
+Correlation study
+
+Metal ion content was correlated with the total phenolic content and antioxidant activity and further total phenol content was correlated with the potent antioxidant activity and results were compared among the two said plants.
+
+Statistical interpretation
+
+All the values were replicated thrice, mean ± SEm (Standard Error Mean) (n=3). Thereafter, the significant difference at p < 0.05 was determined and the means were statistically analyzed using a one-way ANOVA.
+
+RESULTS
+
+Analysis of Elements
+
+All the said elements were analyzed by Atomic Absorption Spectrophotometer and resulted Zn and Cu content were higher in leaves of FE plant whereas, Mg and Cu content were higher in CT beans. Thereafter, content of Fe and Mn content was lesser than Zn and Cu in both the plants (Table-1). Interestingly, non- essential heavy metals viz. Ni, Cd, As, Pb and Cr content were negligible to below detectable level that indicated risk factor was less. Higher amount of Na, Ca and K were resulted from both the plants.
+
+Table1 Analysis of Elements in dried plant samples Elements Slit Gas used FE plant (mg/kg) CT plant (mg/kg) Zn
+
+0.7 (Atomic Absorption Condition) 0.2 (Flame Emission Condition) Air Acetylene 5.23 ± 0.23 3.46 ± 0.27 Cu Air Acetylene 4.29 ± 0.11 4.08 ± 0.53 Fe Air Acetylene 2.10 ± 1.04 1.37 ± 1.20 Mg Air Acetylene 1.21 ± 0.06 3.82 ± 0.41 Mn Air Acetylene 0.97 ± 0.25 0.84 ± 0.23 As Air Acetylene ND ND Co Air Acetylene 0.012 ± 1.27 0.010 ± 1.33 Ni Air Acetylene ND ND Pb Air Acetylene ND ND Cr Air Acetylene ND 0.003 ± 0.01 Na
+
+31.8 ± 0.37 39.8 ± 0.67 Ca 4.9 ± 0.21 11.6 ± 1.21 K 26.7 ± 0.20 34.4 ± 1.04 Mean ± SEm (n = 3); ND = Not detected
+
+Extraction of plant materials
+
+500 g of dried powdered samples were extracted by ethanol and resulted the practical yields were 67.7 g and 84.3g for FE and CT plants respectively. The percentage yield was tabulated in figure-1.
+
+J Microbiol Biotech Food Sci / Kaushik and Jain 2025 : 14 (6) e11371
+
+3
+
+Figure1 Percent yield of both the FE and CT plant ethanol extract
+
+Phytochemical Screening of Extracts
+
+In the present study, various chemical tests were performed and resulted the presence of carbohydrates, proteins, tannins, alkaloids, flavonoids, glycosides, steroids, terpenoids, and amino acids in FE extract whereas carbohydrates, flavonoids, glycosides, terpenoids, tannins, steroids, and amino acid were present in CT extract (Table-2).
+
+Table2 Qualitative analysis of Phytochemicals of FE and CT extracts Name of chemical test FE extract CT extract Alkaloids ++ ++ Protein + ++ Carbohydrate + + Glycosides + ++ Tannins and Phenolic compounds ++ + +++ Flavonoids ++ +++ Steroids ++ +++ Amino acids + + Saponins + ++ Terpenoids ++ +++ (+++ indicates strongly present, ++ indicates moderately present,+ indicates less presence)
+
+TLC and HPLC analysis
+
+Based on the chemical tests, further, TLC was performed and resulted presence of steroidal compound and terpenoids when compared with the standard phytochemicals. It was observed that, beta sitosterol was identified in both the extracts with the Rf values of 0.57 and 0.59 for FE and CT respectively (Figure-2) and lupeol was identified at Rf of 0.36 and 0.34 for CT and FE extract respectively.
+
+Figure 2 TLC of FE and CT extract for presence of Beta-Sitosterol
+
+Figure 3 TLC of FE and CT extract for presence of Lupeol
+
+Based on the TLC, further HPLC was carried out and observed that at Rt of 5.15 min lupeol was eluted followed by beta sitosterol was eluted at Rt of 8.89 min in the CT and FE extracts respectively (Figure-4 and 5). The same were confirmed with standard lupeol and beta sitosterol graphs (Figure-6 and 7).
+
+Figure 4 HPLC graph for CT beans extract
+
+Figure5 HPLC graph for FE leaves extract
+
+Figure6 HPLC graph for standard Lupeol
+
+y = 3,32x + 10,22 R² = 1 0 2 4 6 8 10 12 14 16 18 20 FE plant CT plant FE plant CT plant Per cent Yield
+
+J Microbiol Biotech Food Sci / Kaushik and Jain 2025 : 14 (6) e11371
+
+4
+
+Figure 7 HPLC graph for standard beta-sitosterol
+
+Content of constituents was listed in table-3, where beta sitosterol content was more in FE extract and Lupeol content was more in CT extract.
+
+Table 3 Quantitative estimation of CT and FE extracts Extracts Beta sitosterol (mg) Lupeol (mg) FE extract 6.48 ± 0.23 3.01 ± 0.41 CT extract 3.41 ± 0.11 5.37 ± 0.26 Values are represented as mean ± SEm (n=3)
+
+Total phenol content
+
+The total phenol content in FE and CT was determined using the FC (FolinCiocalteu) reagent method. A standard curve of gallic acid (standard phenol) was constructed to quantify the total phenol content. The linear equation obtained from the standard curve was(y = 0.0007x +0.067; R2 = 0.999) In this equation, y represents the absorbance measured after the reaction of extracts with the FC reagent at 650 nm, and x represents the concentration of gallic acid per milliliter(Figure-8).
+
+Figure 8 Standard gallic acid curve
+
+The absorbance of FE sample was 0.217 and CT sample was 0.326. Now, based on the standard curve of Gallic acid, absorbance of the samples was replaced in “y” value and from the above results, the total phenol content in CT and FE was calculated to be 370 and 214.28 milligrams of gallic acid equivalent per gram (where the absorbance of CT was 0.326 and FE was 0.217).
+
+Test for Anti-Oxidant Activity
+
+DPPH scavenging assay
+
+In this assay, the scavenging potential of FE and CT was observed to be concentration-dependent, with the scavenging activity increasing as the concentration of the extracts increased. The results are presented as percent inhibition (mean) ± SEm and IC50 (half-maximal inhibitory concentration) values in micrograms per milliliter (µg/ml). Standard ascorbic acid graph was plotted (5 to 30 µg/ml) and from that IC50 value was determined after calculation of percent inhibition (Figure-9). At a concentration of 50 μg/ml, the DPPH scavenging activity of CTwas determined as84.75 ± 0.06%, while for FE, it was 79.53 ± 0.14%. Additionally, the scavenging potential of both the plant extracts was compared with that of the standard antioxidant, ascorbic acid. The DPPH scavenging activity of ascorbic acid was found to be 98.08 ± 0.22 %. Thereafter, the IC50 values for all was calculated from the standard graph where ascorbic acid was determined as 3.09 µg/ml (Figure-10), while those of FE and CT were found to be 3.78 µg/ml and 3.45 µg/ml, respectively (Table-4).
+
+Figure 9 Standard curve for Ascorbic acid
+
+Figure 10 Per cent inhibition of Ascorbic acid
+
+Table 4 Per cent inhibition of CT, FE and ascorbic acid with IC50 value in DPPH method Component Conc. (µg/ml) % inhibition IC50 value (µg/ml)
+
+Ascorbic acid 5 19.82 ±0.23
+
+3.09 10 33.04 ±0.11 15 47.01 ±0.26 20 61.19 ±0.36 25 78.89 ±0.42 30 98.08 ±0.31
+
+CT extract 05 13.64±0.30
+
+3.45 10 25.47 ±0.23 15 44.45 ±0.11 20 58.74 ±0.72 25 77.50 ±0.32 30 84.75 ±0.06
+
+FE extract 05 9.38 ±0.01
+
+3.78 10 23.13 ±0.31 15 38.59 ±0.22 20 56.28 ±0.11 25 69.08 ±0.41 30 79.53 ±0.14 Values are mean ± SEm; (n =3).
+
+Hydrogen peroxide scavenging assay
+
+The similar effect resulted with the hydrogen peroxide assay method where dose dependent activity was recorded. The antioxidant activity of FE against hydrogen peroxide radical was determined as62.73 ± 0.62% at 320 μg/ml while for CT, it was found to be 63.58 ± 0.28% at the same concentration (Figure11). Comparatively, the percent inhibition of hydrogen peroxide by ascorbic acid was found to be 67.23 ± 0.56%. Furthermore, the IC50 values, indicating the concentration required to inhibit hydrogen peroxide radical activity by 50%, were determined. The IC50 value of ascorbic acid was calculated to be 99.55 µg/ml. In contrast, the IC50 values of CT and FE were found to be 134.78 µg/ml and 146.66 µg/ml, respectively (Table-5). y = 0,1455x - 0,0998 R² = 0,994 0 0,1 0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9 0 2 4 6 8 Absorbance Lineárna (Absorbance) Concentration (µg/ml) Absorbance y = 15,515x + 2,0353 R² = 0,994 0 20 40 60 80 100 120 0 2 4 6 8 Ascorbic acid % inhibition Lineárna (% inhibition) Concentration (µg/ml) % inhibition
+
+J Microbiol Biotech Food Sci / Kaushik and Jain 2025 : 14 (6) e11371
+
+5
+
+Figure 11 Comparative hydrogen peroxide scavenging activity between Ascorbic acid (AA) and extracts
+
+Table 5 Per cent inhibition of CT, FE and ascorbic acid with IC50 value in H2O2 scavenging assay Component Conc. (µg/ml) % inhibition IC50 value (µg/ml)
+
+Ascorbic acid 10 17.29 ±0.23
+
+99.55 20 39.95 ±0.14 40 54.20 ±0.46 80 60.77 ±0.62 160 64.79 ±0.45 320 67.23 ±0.56
+
+CT extract 10 14.25±0.52
+
+134.78 20 38.73 ±0.23 40 48.72 ±0.54 80 52.61 ±0.27 160 61.99 ±0.16 320 63.58 ±0.28
+
+FE extract 10 12.55 ±0.34
+
+146.66 20 35.81 ±0.54 40 47.38 ±0.24 80 51.40 ±0.64 160 61.02 ±0.33 320 62.73 ±0.62 Values are mean ± SEm; (n =3).
+
+Correlation study
+
+Metal ion content was correlated with the presence of plant secondary metabolites and helped in content of beta sitosterol and lupeol content and showed positive correlation (Table-6 and 7).
+
+Table 6 Correlation study between Zn content in extracts with secondary metabolites
+
+Zn in FE extract Beta-sitosterol in FE Lupeol in FE extract Zn in FE extract 1
+
+Beta-sitosterol in FE 0.998** 1
+
+Lupeol in FE extract 0.979* 0.962 1 Significant at *p<0.05; **p< 0.01
+
+Table 7 Correlation study between Cu content in extracts with secondary metabolites
+
+Cu in CT extract Beta-sitosterol in CT Lupeol in CT extract Cu in CT extract 1
+
+Beta-sitosterol in CT 0.978** 1
+
+Lupeol in CT extract 0.943* 0.577 1 Significant at *p<0.05; **p< 0.01
+
+Similarly, total yield of the extract also showed positive correlation with the separated compounds (Figure-12). Thereafter, yield of FE extract also showed positive correlation with the content of beta sitosterol (Figure-13).
+
+Figure 12 Correlation study of Lupeol content with yield of CT extract
+
+Figure 13 Correlation study of Beta-sitosterol content with yield of FE extract
+
+Furthermore, yield of the extracts were correlated with the total phenolic content (Table-8) and total phenolic content was further correlated with the antioxidant study (Figure-14 and 15). Interestingly, in both the cases showed positive correlation.
+
+Table 8 Correlation study among the extracts with total phenolics content
+
+Yield of FE Yield of CT Total phenolics in FE extract Total Phenolics in CT extract Yield of FE 1
+
+Yield of CT 0.996** 1
+
+Total phenolics in FE extract 0.950* 0.877 1
+
+Total Phenolics in CT extract 0.954 0.929 0.572 1 Significant at *p<0.05; **p< 0.01
+
+Figure14 Correlation study of total phenolics with DPPH inhibition activity
+
+0 10 20 30 40 50 60 70 80 10 20 40 80 160 320 % inhibition of AA % inhibition of CT % inhibition of FE Concentration (µg/ml) Per cent inhibition H2O2 scavenging Assay y = 0,0643x - 0,0493 R² = 0,9643 5,33 5,34 5,35 5,36 5,37 5,38 5,39 5,4 5,41 83,6 83,8 84 84,2 84,4 84,6 84,8 Content of Lupeol in CT Content of Lupeol Yield of CT beans extract Content of Lupeol (mg) y = 0,1824x - 5,8646 R² = 0,9546 6,4 6,42 6,44 6,46 6,48 6,5 6,52 6,54 6,56 67,2 67,4 67,6 67,8 68 68,2 Content of Beta sitosterol in FE extract Content of Beta sitosterol Yield of FE extract (g) Content of beta-sitosterol (mg) y = 3,031x + 115,44 R² = 0,9843 367 368 369 370 371 372 373 374 83 83,5 84 84,5 85 CT Extract % phenol content Lineárna (% phenol content) % DPPH inhibition phenol content (mg/G)
+
+J Microbiol Biotech Food Sci / Kaushik and Jain 2025 : 14 (6) e11371
+
+6
+
+Figure 15 Correlation study of total phenolics with H2O2 scavenging activity
+
+DISCUSSION
+
+Macro and micro elements plays a major role in biosynthesis of many secondary metabolites and actively participate in the growth of the plants. Based on the concept, in the present study elemental analysis for the dried leaves and beans samples of FE and CT plants was carried out where Zn and Cu content were higher in FE leaves which were essential for production of many secondary metabolites. Thereafter, Mg and Cu content were higher in CT dried beans. Hence, the content of secondary metabolites enhanced. Earlier literatures also revealed the same (Das and Tribedi, 2015). As per WHO guideline, optimum Cu content recorded as 5 to 30 mg/kg and the optimum Mg concentration ranges 0.09–0.40% for woody plants are satisfactory for the plant growth. Zn content 30 and 100 µg/g dry weight is optimum for plant growth (Das et al., 2017). Thereafter, ethanol solvent was used for the extraction which was safe and easily available. Ethanol was the best solvent because it has high dielectric constant and easily available. Thereafter, maximum bioactive compounds are highly soluble in ethanol and hence ethanol was the best choice of solvent (Das et al., 2023; Das and Singirikoda, 2023). Earlier literature also revealed the same with the ethanol solvent which enhanced the solubility of maximum plant secondary metabolites from plants (Mahardika and Roanisca, 2019; Huaman-Castilla et al., 2019). Due to ethanol solvent, the present study showed higher yield in CT beans extract than FE leaves extract. Further, various phytochemical studies for both the extracts were carried out and revealed the presence of many groups of plant constituents and based on that further, TLC was performed to detect and separate the specific constituents. It was showed that presence of lupeol and beta sitosterol as major constituents in the both plants commonly. Many literatures revealed the TLC of lupeol and beta sitosterol in various plants extracts (Thatipelli et al., 2023). It was revealed that higher content of beta sitosterol and lupeol with the higher yield of the plant extracts. Total phenolics was determined and showed positive correlation with the yield. Earlier literature also reported that the total phenolic content dependent on solvent used for extraction and also on the yield of the extract (Noreen et al., 2017). Finally, antioxidant activity was carried out by DPPH and hydrogen peroxide scavenging assay methods. Free radicals are thought to have a significant role in the onset of chronic illnesses. Because of their demonstrated antioxidant activity and ability to reduce oxidative stress-induced tissue damage, which is linked to a number of chronic diseases, plant polyphenols are crucial parts of the human diet (Rio et al., 2013). Since the majority of phenolic chemicals are polar, higher polarity solvents like ethanol have been used to effectively and yield-fully extract them. Across the range of extracts examined, a significant difference in total phenolic content was noted, with ethanol extract exhibiting the largest variation, up to a 15-fold increase in the present study.The current research, which is consistent with earlier findings, demonstrated a favorable correlation between high antioxidant activity and phenolic content for several extracts of this plant (Jorge et al., 2015).Many other literatures also revealed correlation study between the yield with total phenolic content, antioxidant properties and correlation among metal ions (Das et al., 2019; Das et al., 2022). Further it was observed that IC50 value was inversely proportional with the antioxidant activity but the antioxidant activity was showed as dose dependent. Many literatures also reported that lesser IC50 values indicate higher the activity. In the present study, the same result observed (Rivero-Cruz et al., 2020; Itam et al., 2021). Though both the said plant extracts showed positive antioxidant activity but interestingly, CT beans extract showed higher result in terms of yield, total phenolic content, an even antioxidant activity than FE leaves extract due to presence of major macronutrients in high content than FE leaves. The result was similar with the earlier report (Rana et al., 2019).
+
+CONCLUSION
+
+In the present study, beta sitosterol and lupeol was identified and estimated from FE and CT plant ethanol extracts. Further, the study revealed the presence of antioxidant property and step by step correlated with the element content in plants; their role in production of secondary metabolites, total phenolics content and their effects on antioxidant property was established. This was first time established the correlation study among the elemental content, yield, phenolics content and antioxidant property. Dose dependent antioxidant activity with the presence of phenolic compound and triterpenoids was established and among them CT extract showed comparatively higher than FE extract but both are potential source in pharmaceutical products to enhance human health by strengthening the antioxidant defense system's ability to fend off the generation of free radicals. In future, they will help in food preservation, sources of potent antioxidant and protect products from microbial attack. Further, it is necessary to isolate the compounds responsible for activities and molecular study for the establishment of mechanism for therapeutic activities.
+
+Conflict of Interest: None reported.
+
+Funding: Self funding.
+
+REFERENCES
+
+Ahmed, M. A. (2018). Determination of Na, K and Fe in Lactuca Sativa by using Atomic Absorption Spectrophotometric and Flame Photometric Techniques.Al Mustansiriyah Journal of Pharmaceutical Sciences, 17(2), 6. http:// doi:10.32947/ajps.v17i2.37 Arsyad, A.S., Fakhrudin, N., &Nurrochmad, A. (2023).Phytochemistry, traditional uses, and pharmacologicalactivities of FicuselasticaRoxb. ex Hornem: A review. J Herbmed Pharmacol. 12(1), 41-53. http://doi: 10.34172/jhp.2023.04. Bagenia, P.S., &Chaturvedi, D. (2018). Knowledge Status of Cluster Bean (Cyamopsistetragonoloba) Growers in Hyper Arid Zone of Rajasthan, India.Int.J.Curr.Microbiol.App.Sci. 7(1), 26472.https://doi.org/10.20546/ijcmas.2018.701.029 Das, K., &Tribedi, S.(2015). Effect of Zn, Fe and Cu Content on Phytochemical Investigations and Antimicrobial Potential of Alternanthera brasiliana (L.) O. Kuntze Leaf Extracts Procured From Two Different States of India. Turk J Pharm Sci., 12(3), 345-356. http://doi: 10.5505/tjps.2015.25733 Das, K., Gowthami, V., & Dang, R. (2017). Comparative proximate analysis, phytochemical screening and antioxidant study of leaf and root extracts of Decalepis hamiltonii Wight &Arn. Annals of Phytomedicine.6(2), 119-25. http://doi.10.21276/ap.2017.6.2.12 Das, K., Deb, S., &Karanth, T. (2019). Phytochemical Screening and Metallic Ion Content and Its Impact on the Antipsoriasis Activity of Aqueous Leaf Extracts of Calendula officinalis and Phlebodiumdecumanum in an Animal Experiment Model. Turk J Pharm Sci., 16(3), 292-302. http://doi:10.4274/tjps.galenos.2018.44265 Das, K., Saifulla Khan, M., Namratha, N., Swetha, R., &Gezici, S. (2019). Comparative phytochemical screening, elemental content and chromatographic evaluation for detection and quantification of polyphenolic compounds for strong antioxidant activity of various extracts of Abutilon indicum (Link) Sweet leaves.Annals of Phytomedicine, 8(1), 36-44. http://doi:10.21276/ap.2019.8.1.4 Das, K., Iyer, K.R., Orfali, R., Syed Mohammed, B.A., Norah, S. Al.O., Alotaibi, F.S., Alshehri, S., Mohammed, S.A.Q., Ahamd, A., Nada Bin, M., Alrashed, A., Mohzari, Y.A., & Mohammed, G. (2023). In silico studies and evaluation of in vitro antidiabetic activity of berberine from ethanol seed extract of Cosciniumfenestratum (Gaertn.)Colebr.Journal of King Saud University – Science.35(5), 102666.https://doi.org/10.1016/j.jksus.2023.102666 Das, K., &Singirikonda, S. (2023). Elemental impact on antibacterial study of hydroalcoholic leaves extract of Belosynapsis vivipara.Notulae Scientia Biologicae. 15(1), 11409.http://doi: 10.15835/nsb15111409. Das, K., Syed Mohammed, B.A., Saifulla Khan, M., Amrutha, S., Alamri, A.S., Alhomrani, M., Alsanie, W.F., Bhaskar, A., Chandanashree, G., &Harshita, P. (2022). Phytochemical investigation and evaluation of in vitro anti-inflammatory activity of Euphorbia hirta ethanol leaf and root extracts: A comparative study. Journal of King Saud University – Science. 34 (7): 102261.http://doi:10.1016/j.jksus.2022.102261. Gurung, A.B., Ali, M.A., Lee, J., Farah, M.A., &Al-Anazi, K.M. (2021).Molecular docking and dynamics simulation study of bioactive compounds from Ficus carica L. with important anticancer drug targets. PLoS One, 16(7), e0254035. http://doi: 10.1371/journal.pone.0254035. Hassan, S.M., Byrd, A.U., Berhow, M.A., Catwright, A.L., &Bailey, C.A. (2010). Haemolytic and antimicrobial activities of saponin- rich extract from guar meal. J Ethanopharmacol., 119, 600-605.http://doi:10.1016/j.foodchem.2009.06.066. Hazra, B., Biswas, S., &Mandal, N. (2008). Antioxidant and free radical scavenging activity of Spondias pinnata. BMC Complement Altern Med., 8, 63. http://doi: 10.1186/1472-6882-8-63. Huaman-Castilla, N.L., Martínez-Cifuentes, M., Camilo, C., Pedreschi, F., Mariotti-Celis, M., &Pérez-Correa, J.R. (2019).The Impact of Temperature and Ethanol Concentration on the Global Recovery of Specific Polyphenols in an Integrated HPLE/RP Process on Carménère Pomace Extracts. Molecules., 24(17), 3145. http://doi: 10.3390/molecules24173145. Itam. A., Wati, M.S., Agustin, V., Sabri, N., Jumanah, R.A., &Efdi, M. (2021). Comparative Study of Phytochemical, Antioxidant, and Cytotoxic Activities and y = 1,2999x - 216,68 R² = 0,9163 58 59 60 61 62 63 64 65 212 214 216 218 FE extract H2O2 scavenging of FE extract Lineárna (H2O2 scavenging of FE extract) total Phenol content (mg/g) % H2O2 inihibition activity
+
+J Microbiol Biotech Food Sci / Kaushik and Jain 2025 : 14 (6) e11371
+
+7
+
+Phenolic Content of Syzygium aqueum (Burm. f. Alston f.) Extracts Growing in West Sumatera Indonesia. Scientific World Journal. 2021,5537597. http://doi: 10.1155/2021/5537597. Jerine Peter, S., Ram Kumar, K.,Arun Raj, N., Sangeetha, N., Manisha, P., Kumari, U., & Evan Prince, S. (2020). Evaluation of the antioxidant and potential binding affinity of Cyamopsis tetragonoloba seed against the receptor responsible for gouty arthritis. Research J. Pharm. and Tech. 13(5), 2275-81. http://doi.10.5958/0974-360X.2020.00410.2 Jorge, E.W.P., Juan, C.C.E., Raul, R.H., Maria L.C.I., López, L.I., NevárezMoorillón, G.V., &Aguilar, C.N. (2015). Total phenolic content, in vitro antioxidant activity and chemical composition of plant extracts from semiarid Mexican region. Asian Pac J Trop Med., 8(2), 104-111. http://doi: 10.1016/S19957645(14)60299-6. Kaushik, S., Kaushik, S., Kumar, R., Dar, L., &Yadav, J.P. (2020).In-vitro and in silico activity of Cyamopsis tetragonoloba (Gaur) L. supercritical extract against the dengue-2 virus.Virus disease. 31(4), 470-478. http://doi: 10.1007/s13337-02000624-9. Locatelli, F.M., Goo, K.S., &Ulanova, D. (2016).Effects of trace metal ions on secondary metabolism and the morphological development of streptomycetes. Metallomics., 8(5), 469-80. http://doi: 10.1039/c5mt00324e. Mahardika, R.G., &Roanisca, O. (2019). Microwave-Assisted Extraction of Polyphenol Content from Leaves of Tristaniopsis merguensis Griff.AJChE.,19 (2), 110 – 119.https://doi.org/10.22146/ajche.50448 MbossoTeinkela, J.E., SiweNoundou, X., Nguemfo, E.L., Meyer, F., Djoukoue, A., &Van Antwerpen, P. (2016).Identification of compounds with antiproliferative activity from the wood of Ficus elastic Roxb.exHornem. aerial roots. Fitoterapia., 112, 65-73. http://doi: 10.1016/j.fitote.2016.05.002 Noreen, H., Semmar, N., Farman, M., &McCullagh, J.S.O. (2017). Measurement of total phenolic content and antioxidant activity of aerial parts of medicinal plant Coronopus didymus. Asian Pacific Journal of Tropical Medicine.,10(8), 792-802. http://doi:10.1016/j.apjtm.2017.07.024 Phan Van, K., Chau Van, M., Nguyen Xuan , N., Bui Huu, T., Tran Hong, Q., Hoang Le Tuan, A., Nguyen Xuan , C.,Troung Nam, H., &Seung Hyun, K. (2012). Chemical constituents of the Ficus elastic leaves and their antioxidant activities.33 (10), 3461-64.https://doi.org/10.5012/bkcs.2012.33.10.3461 Rana, Z.H., Alam, M.K., &Akhtaruzzaman, M. (2019). Nutritional Composition, Total Phenolic Content, Antioxidant and α-Amylase Inhibitory Activities of Different Fractions of Selected Wild Edible Plants.Antioxidants (Basel).8(7), 203.http://doi: 10.3390/antiox8070203. Rio, D.D., Rodriguez-Mateos, A., Spencer, J.P.E., Tognolini, M., Borges, G., &Crozier, A. (2013). Dietary (poly)phenolics in human health: structures, bioavailability, and evidence of protective effects against chronic diseases. Antioxid Redox Signal.,18 (14), 1818-1892.http://doi:10.1089/ars.2012.4581 Rivero-Cruz, J.F., Granados-Pineda, J., Pedraza-Chaverri, J., Pérez-Rojas, J.M., Kumar-Passari, A., Diaz-Ruiz, G., &Rivero-Cruz, B.E. (2020). Phytochemical Constituents, Antioxidant, Cytotoxic, and Antimicrobial Activities of the Ethanolic Extract of Mexican Brown Propolis. Antioxidants (Basel), 9(1), 70.http://doi: 10.3390/antiox9010070. Saeed, S., Mosa-Al-Reza, H., &Fatemeh, A.N. (2012). Antihyperglycemic and antihyperlipidemic effects of guar gum on streptozotocin-induced diabetes in male rats. Pharmacogn. Mag., 8(29), 65–72.http://doi:10.4103/0973-1296.93328 Seca, A.M.L., &Pinto, D.C.G.A. (2018). Plant Secondary Metabolites as Anticancer Agents: Successes in Clinical Trials and Therapeutic Application. Int J Mol Sci., 19(1), 263.http://doi: 10.3390/ijms19010263. Seema, S., Priya, C.N., &Vijayalakshmi, K. (2011). Comparative study on antioxidant potential and anticataract activity of Cyperus rotundus and Cyamopsis tetragonolobus. The Bioscan., 6(1), 6166.https://thebioscan.com/index.php/pub/article/view/1204 Sharma, P., Hullatti, K.K., Kupastt, I.J., &Sharma, S. (2010). Studies on antiasthmatic effect of leaves of Cyamopsis tetragonoloba (L.) Taub.J Natural Remedies., 10(1), 34.http://doi:10.18311/jnr/2010/430 Shi, Y., Mon, A.M., Fu, Y., Zhang, Y., Wang, C., Yang, X., &Wang, Y. (2018). The genus Ficus (Moraceae) used in diet: its plant diversity, distribution, traditional uses and ethnopharmacological importance. J Ethnopharmacol.,226, 185-96. http://doi: 10.1016/j.jep.2018.07.027. Siddiqui, N., Rauf, A., Latif, A., &Mahmood, Z. (2017). Spectrophotometric determination of the total phenolic content, spectral and fluorescence study of the herbal Unani drug Gul-e-Zoofa (NepetabracteataBenth).J. Taibah Univ. Med. Sci., 12 (4), 360-363.https://doi.org/10.1016/j.jtumed.2016.11.006 Tahmouzi, S., Meftahizadeh, H., Eyshi, S., Mahmoudzadeh, A., Alizadeh, B., Mollakhalili-Meybodi, N., &Hatami, M. (2023). Application of guar (Cyamopsis tetragonoloba L.) gum in food technologies: A review of properties and mechanisms of action. 11(9), 4869-97. https://doi.org/10.1002/fsn3.3383 Thatipelli, S., Shanmugam, M., Ramachandran, S., & Pushparathinam, G. (2023).Screening and validated semi - quantification high-performance thin layer chromatography method development for lupeol, lupeol acetate, β-sitosterol, ρcoumaric acid and proto-catechuic acid in the root extracts of Hemidesmus indicus (L.) R.Br. &Decalepis hamiltonii Wight &Arn.J Applied Res Med Aromatic Plants, 36, 100510. http://doi:10.1016/j.jarmap.2023.100510 Tripathi, R., Mohan, H., &Kamat, J.P. (2007). Modulation of oxidative damage by natural products. Food Chem., 100, 81–90. http://doi:10.1016/j.foodchem.2005.09.012 Valko, M., Leibfritz, D., Moncol, J., Cronin, M.T., Mazur, M., &Telser, J. (2007).Free radicals and antioxidants in normal physiological functions and human disease.Int. J. Biochem. Cell Biol. 39, 44–84. http://doi: 10.1016/j.biocel.2006.07.001.

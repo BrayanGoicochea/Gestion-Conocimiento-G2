@@ -1,0 +1,115 @@
+Pharmacy Education (2024) 24(3) 153 - 158 https://doi.org/10.46542/pe.2024.243.153158
+
+Pharmacy Education 24(3) 153 - 158
+
+153 ISSN 1477-2701 online © 2024 FIP
+
+IGSCPS SPECIAL EDITION RESEARCH ARTICLE An in silico study of the effects of chemical compounds in Petiveria alliacea leaf extract on inflammatory mediators Nurmawati Fatimah1 , Arifa Mustika2 , Sri Agus Sudjarwo3 , Ahmad Cholifa Fahruddin4 , Lutfiah Anjarwati4
+
+1 Doctoral Programme of Medical Science, Faculty of Medicine, Universitas Airlangga, Surabaya, Indonesia 2 Department of Anatomy, Histology and Pharmacology, Faculty of Medicine, Universitas Airlangga, Surabaya, Indonesia 3 Faculty of Veterinary Medicine, Universitas Airlangga, Surabaya, Indonesia 4 Faculty of Medicine, Universitas Airlangga, Surabaya, Indonesia
+
+Introduction Diabetic patients face an elevated risk, two to three times higher, of developing cardiovascular diseases and are more susceptible to myocardial infarction, stroke, and heart failure, as evidenced by studies (Ogurtsova et al., 2017; Tate et al.,2019). Notably, the prognosis for diabetic patients afflicted with cardiovascular diseases is considerably worse than that for their non-diabetic counterparts. Among the complications stemming from diabetes mellitus in the cardiovascular system, diabetic cardiomyopathy stands out. This disease, which has the potential to culminate in a fatality, stems from diabetes mellitus and leads to heart failure (Kobayashi & Liang, 2015). Central to myocardial alterations triggered by diabetes mellitus is oxidative stress, a primary component that triggers these changes. Prolonged exposure to oxidative stress in diabetes mellitus fosters chronic inflammation and fibrosis (Muthmainah et al., 2019; De Geest & Mishra, 2022). Characterised by excessive secretion of proinflammatory cytokines, diabetes mellitus represents a chronic inflammatory condition. Emerging evidence underlines the pivotal role of interleukin-1β (IL-1β), a central player in numerous Keywords Anti-inflammatory Immunology Non-communicable disease Petiveria alliacea Plant extract Correspondence Arifa Mustika Universitas Airlangga Surabaya Indonesia arifa-m@fk.unair.ac.id Abstract Background: Petiveria alliacea (P. alliacea) is a botanical species renowned for its bioactive compounds and is utilised for medicinal purposes worldwide. In Southwestern Nigeria, P. alliacea finds common application in herbal medicine to address diverse ailments, including diabetes due to chronic inflammation. Objective: This study investigates the drug-like molecular properties of chemical compounds in P. alliacea, targeting the interleukin one receptor (IL1R) and Tumor Necrosis Factor-alpha receptor (TNFAR). Method: The target binding of the P. alliacea chemical compounds was evaluated through drug-likeness tests on the SCFBIO server. All compounds found in P. alliacea adhere to Lipinski’s Rule of Five, classifying them as drug-like molecules. Employing molecular docking simulations on PyRx v9.9.0, the interaction dynamics between P. alliacea ligands and IL1R and TNFAR were simulated. Result: Among the compounds found in P. alliacea, namely astilbin and isoarborinol, emerge as potential candidates for IL1R and TNFAR protein inhibitors due to their notably elevated negative binding affinity values and involve Van der Waals, hydrogen and alkyl bond interactions. Then, a response was elicited that was marked by diminished oxidative stress and antiinflammatory activity. Conclusion: P. alliacea has the potential to inhibit proinflammatory proteins, such as IL1R and TNFAR, due to its content, namely astilbin and isoarborinol.
+
+Fatimah et al.
+
+Effects of P. alliacea leaf extract compounds on inflammation Pharmacy Education 24(3) 153 - 158
+
+154
+
+inflammatory diseases, as a significant instigator of systemic tissue inflammation in diabetes mellitus (Sumpter et al., 2011). The expression of IL-1β is apparent under high glucose conditions in human monocytes and macrophages, pancreas, and myocardium (Niu et al., 2014). Proinflammatory cytokines, including IL-1β, play a significant role in the genesis of cardiovascular complications associated with diabetes mellitus (Raines & Ferri, 2005). Importantly, IL-1β is implicated in both diabetes pathogenesis and the induction of cardiomyocyte apoptosis (Shen et al., 2015). Petiveria alliacea (P. alliacea), commonly known as Guinea Hen Weed, boasts a plethora of bioactive compounds that render it a staple in traditional medicine across diverse regions (Cseke et al., 2016). In Southwestern Nigeria, it goes by the monikers "Awogba" or "Ojusaju" in the Yoruba language, "Kanunfari" in Hausa in the Northern region, and "Akwa-Ose" in Igbo in the South-East region. In this locale, P. alliacea finds application in herbal medicine to combat various ailments such as diabetes, arthritis, toothache, and skin infections. Notably, essential oils from this plant are chiefly constituted by phytol (Oluwa et al., 2017). Moreover, the extract of P. alliacea can lower blood glucose levels in rat models of diabetes mellitus through the activation of AMPK-α (Mustika, Indrawati, & Sari, 2017). The self-nanoemulsifying drug delivery system (SNEDDS) derived from the plant's leaf extract has demonstrated efficacy in reducing homeostatic model assessment-insulin resistance (HOMA-IR) values, along with suppressing TNF-α and IL6 levels in the streptozotocin-induced diabetic rat model (Olomieja et al., 2021). Apart from these attributes, the plant's flavonoids hold significance due to their multifaceted functionalities. These compounds encompass antimalarial, antioxidant, antiinflammatory, and antithrombotic properties. Furthermore, they are potentially anti-cancer and antiinflammatory agents, inhibiting inducible nitric oxide synthetase (iNOS) expression and, subsequently, NFκB activation (Mustika, & Sari, 2021). This study aims to evaluate the activity of diverse compounds within Guinea Hen Weed (P. alliacea) and conduct an in-silico analysis of these compounds concerning their interaction with target proinflammatory cytokine proteins, including IL-1β and TNFα.
+
+Methods Ligand preparation The chemical compounds analysed in this study were ligands extracted from the SDF file. These compounds included myricetin, myricitrin, nonadecanoic acid, pinitol, quercetin, quinone, senfol, (2-hydroxyethyl) cysteine sulfoxides, allantoin, astilbin, barbinervic acid, benzaldehyde, benzoic acid, coumarin, daucosterol, dibenzyl disulfide, dibenzyl trisulfide, engeletin, isoarborinol acetate, isoarborinol, leridol, and lignoceric acid. The PubChem database (https://pubchem.ncbi.nlm.nih.gov/) served as the source for these compounds, along with additional details such as CID and citation references. Converting the SDF file to the PDB format for the ligands was facilitated using OpenBabel v2.3.1 software to enhance molecular flexibility (Onyango et al., 2022).
+
+Target retrieval This study's focus involved the binding targets of the compounds within P. alliacea, namely the Interleukin 1 receptor (IL1R) and Tumor Necrosis Factor-alpha receptor (TNFAR). The 3D structures of these targets were procured from the RCSB PDB database (https://www.rcsb.org/). To optimise and prepare these targets for molecular docking, PyMol v2.5 uses the edu version, free software was employed to eliminate water molecules and contaminant ligands (Rigsby and Parker, 2016).
+
+Drug-likeness identification To determine the drug-like nature of the chemical compounds in Guinea Hen Weed (P. alliacea), a druglikeness test was conducted using the SCFBIO server (http://www.scfbioiitd.res.in/software/drugdesign/lipinski.jsp). This evaluation leveraged Lipinski's Rule of Five, a criteria involving molecular mass, LogP (lipophilicity), hydrogen bond donors, hydrogen bond acceptors, and molar refractivity (Lipinski, 2004). The drug-likeness test aimed to ascertain the similarity between the properties of the query compounds and established drug-like molecules by referencing the five parameters stipulated by Lipinski's Rule of Five (Lipinski, 2004).
+
+Molecular docking The interaction simulation involving the ligands from Guinea Hen Weed (P. alliacea) with IL1R and TNFAR was executed via molecular docking simulations using PyRx 9.9.0 $Id: LICENSE.txt 112 2012-02-13 22:33:36Z sarkiss $ Copyright (c) [2008-Forever], Sargis Dallakyan and individual contributors, all rights reserved
+
+Fatimah et al.
+
+Effects of P. alliacea leaf extract compounds on inflammation Pharmacy Education 24(3) 153 - 158
+
+155
+
+software. The primary objective of these docking simulations was to ascertain the binding activity of the ligands and their specific interaction patterns with the respective targets. This affinity, quantified as negative energy, signifies the stability of the molecular complexes formed upon the interaction between the ligand and the target (Lipinski, 2004; Wijaya et al., 2021).
+
+Chemical interaction Detection and classification of chemical interactions within the ligand-protein complexes constituted another facet of this study. Employing Discovery Studio 2016 software, various chemical bond interactions were identified, including van der Waals, hydrogen, hydrophobic, and electrostatic bonds (Lipinski, 2004). Characterised by their weak bond nature, these interactions can trigger distinct biological responses, influencing aspects such as molecular complex stability and inhibition degree (Lipinski, 2004).
+
+Structural visualisation The visualisation of ligand-target complexes in 3D structures was accomplished using PyMol v2.5 software, employing colour-coding and structure selection methodologies. The colour scheme employed was contingent on the atomic composition of the ligand and the singular protein structure. This study opted for a combination of structural representations such as cartoons, sticks, and transparent surfaces, adhering to established publication standards (Onyango et al., 2022).
+
+Results Structural visualisation of the ligands and targets from the docking simulation of astilbin IL1R (B) isoarborinol TNFAR can be seen in Figure 1. Figure 2 shows the molecular interaction of astilbin IL1R and isoarborinol TNFAR. Table I shows Docking results for guinea hen weed P. alliacea compound-target interactions and the drug-likeness analysis.
+
+Figure 1: Structural visualisation of the ligands and targets from the docking simulation (A) Astilbin_IL1R (B) Isoarborinol_TNFAR
+
+Fatimah et al.
+
+Effects of P. alliacea leaf extract compounds on inflammation Pharmacy Education 24(3) 153 - 158
+
+156
+
+(A)
+
+(B) Figure 2: Visualisation of molecular interaction (A) Astilbin_IL1R (B) Isoarborinol_TNFAR
+
+Table I: Docking results for guinea hen weed (P. alliacea) compound-target interactions and the drug-likeness analysis Compounds Binding affinity (kcal/mol) Molecular mass (≥500D) High lipophilicity (≥5) Hydrogen bond donor (≥5) Hydrogen bond acceptor (≥10) Molar refractivit y (40-100) Probable IL1R TNFAR Myricetin -7.9 -6.7 318,000 1.716 6 8 75.715 Drug-like molecule Myricitrin -7.4 -7.2 464,000 0.002 8 12 106.526 Drug-like molecule Nonadecanoic acid -5.8 -4.3 298,000 5.243 1 2 104.661 Drug-like molecule Pinitol -5.2 -4.8 194,000 -3.180 5 6 40.830 Drug-like molecule Quercetin -7.9 -6.7 302,000 2.010 5 7 74.050 Drug-like molecule Quinone -5.0 -3.9 108,000 0.250 0 2 28.293 Drug-like molecule Senfol -4.3 -3.6 144,000 1.192 0 2 39.785 Drug-like molecule (2-hydroxyethyl) cysteine sulfoxides -4.9 -4.0 206,000 2.953 1 2 58.473 Drug-like molecule Allantoin -5.3 -3.9 158,000 -2.179 5 7 33.181 Drug-like molecule Astilbin -8.2 -7.5 450,000 0.038 7 11 104.471 Drug-like molecule Barbinervic acid -7.2 -6.5 488,000 5.176 4 5 135.483 Drug-like molecule Benzaldehyde -5.4 -5.3 106,000 1.499 0 1 31.829 Drug-like molecule Benzoic acid -6.3 -4.5 122,000 1.384 1 2 33.401 Drug-like molecule Coumarin -6.2 -5.3 146,000 1.618 0 2 41.110 Drug-like molecule Daucosterol -4.5 -7.4 312,000 -0.053 5 6 77.145 Drug-like molecule Dibenzil disulfida -7.0 -4.2 246,000 4.768 0 0 75.473 Drug-like molecule Dibenzyl trisulfide -7.0 -4.2 278,000 5.416 0 0 83.064 Drug-like molecule Engeletin -8.0 -7.0 434,000 0.332 6 10 102806 Drug-like molecule Isoarborinol acetate -3.6 -6.8 468,000 8.595 0 2 140.197 Drug-like molecule Isoarborinol -6.0 -7.6 426,000 8.024 1 1 130.649 Drug-like molecule Leridol -6.8 -6.6 314,000 2.908 2 5 84.077 Drug-like molecule Lignoceric acid -5.9 -3.9 368,000 6.775 1 2 131.996 Drug-like molecule
+
+Fatimah et al.
+
+Effects of P. alliacea leaf extract compounds on inflammation Pharmacy Education 24(3) 153 - 158
+
+157
+
+Discussion The target protein IL1R (RCSB ID: 1G0Y) possesses a sequence length of 162 amino acids, a resolution of 3.00 Å, and a structural weight of 38.32 kDa. It is characterised by the chain R. Similarly, the target protein TNFAR (RCSB ID: 1NCF) boasts a resolution of 2.25 Å, a structural weight of 36.67 kDa, and is constituted by chains A and B. The process of drug-likeness identification entailed assessing the resemblance of the query compounds' properties to those of established drug molecules based on specific physicochemical parameters such as molecular mass, high lipophilicity (LogP), hydrogen bond donors, hydrogen bond acceptors, and molar refractivity. This assessment adhered to Lipinski's Rule of Five, which stipulates that a query compound should adhere to at least two specific rules to exhibit similarity to a drug molecule (De Geest & Mishra, 2022). Notably, all the compounds found in Guinea Hen Weed (P. alliacea) demonstrate drug-like attributes as they meet the criteria of at least two rules outlined by Lipinski's Rule of Five (Table I). Ligand activity, in this context, corresponds to the magnitude of the binding energy score. The binding affinity, a negative energy metric, materialises when the ligand connects with the target (Ogurtsova et al., 2017). The ligand's activity level hinges on the binding affinity value it forms upon interaction with the target. Within this framework, negative binding affinity values denote the bond's strength, with higher negative values indicating more robust ligand bonds (Lipinski, 2004). The results of the docking simulations unveiled that among the various compounds within Guinea Hen Weed (P. alliacea), Astilbin and Isoarborinol displayed notably superior negative binding affinity values compared to their counterparts (refer to Table I). Moreover, both Astilbin and Isoarborinol exhibited the potential to elicit the inhibition of IL1R and TNFAR activity. The ligand-protein complexes that garnered the highest negative binding affinity values from the docking simulations are showcased through a combination of stick structures, transparent surfaces, and cartoons embellished with a single stain (see Figure 1). Chemical interactions between the ligands and their targets emerge from specific weak bonds encompassing van der Waals, hydrogen, hydrophobic, and electrostatic bonds (see Figure 2). These weak bond categories contribute to initiating distinct biological responses, serving, for instance, as inhibitory agents. To maintain stability, the count of unfavourable bond interactions within molecular complexes must remain below three (Widyananda et al., 2021). Conclusion In conclusion, this study highlights the significance of certain chemical compounds found within Guinea Hen Weed (P. alliacea), with Astilbin and Isoarborinol emerging as notable contenders. These compounds stand out due to their elevated negative binding affinity values and propensity to foster weak bond interactions, including van der Waals, hydrogen, and alkyl bonds. The influence of these weak bonds may trigger ligand activity and affect the inhibition of both IL1R and TNFAR, subsequently eliciting a response marked by diminished oxidative stress and anti-inflammatory activity.
+
+Author contributions N.F and A.M conceived and designed the experiments; N.F and S.A.S performed the experiments; N.F and A.M analysed the data; A.C.F and L. A wrote the paper.
+
+Acknowledgement We thank Jalan Tengah (http://jalantengah.site) for editing the manuscript and Faisal Akhmal Muslikh, who helped with the journal's layout.
+
+Source of funding The authors have no conflicts of interest to declare. All authors have seen and agreed with the manuscript’s contents, and there is no financial interest to report.
+
+References Cseke, L. J., Kirakosyan, A., Kaufman, P. B., Warber, S., Duke, J. A., & Brielmann, H. L. (2016). Natural products from plants. CRC press.
+
+De Geest, B., & Mishra, M. (2022). Role of oxidative stress in diabetic cardiomyopathy. Antioxidants, 11(4), 784. https://doi.org/10.3390/antiox11040784.
+
+Kobayashi, S., & Liang, Q. (2015). Autophagy and mitophagy in diabetic cardiomyopathy. Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease, 1852(2), 252‒261. https://doi.org/10.1016/j.bbadis.2014.05.020.
+
+Lipinski, C. A. (2004). Lead-and drug-like compounds: the rule-of-five revolution. Drug discovery today: Technologies, 1(4), 337‒341. https://doi.org/10.1016/j.ddtec.2004.11.007
+
+Mustika, A., Fatimah, N., & Sari, G. M. (2021). The selfnanoemulsifying drug delivery system of Petiveria alliacea
+
+Fatimah et al.
+
+Effects of P. alliacea leaf extract compounds on inflammation Pharmacy Education 24(3) 153 - 158
+
+158
+
+extract reduced the homeostatic model assessment-insulin resistance value, interleukin-6, and tumor necrosis factor-α level in diabetic rat models. Veterinary World, 14(12), 3229. https://doi.org/10.14202/vetworld.2021.3229-3234.
+
+Mustika, A., Indrawati, R., & Sari, G. M. (2017). Effect of singawalang leaf extract (Petiveria alliacea) in reducing blood glucose levels by increasing AMPK-α1 expression in diabetes mellitus model rats. Indonesian Journal of Clinical Pharmacy, 6(1). https://doi.org/10.15416/ijcp.2017.6.1.22.
+
+Muthmainah, M., Yarso, K. Y., Purwanto, B., Mudigdo, A., & Mustofa, M. (2019). 1, 4-bis-3, 4, 5-trimethoxy-phenyltetrahydro-furo (3, 4-c) furan from mahogany (Swietenia macrophylla king) seed significantly reduces glucose and malondialdehyde levels in diabetic wistar rats. Bali Medical Journal, 8(2), 661‒666. https://doi.org/10.15562/bmj.v%25vi%25i.1227.
+
+Niu, J., Gilliland, M. G. F., Jin, Z., Kolattukudy, P. E., & Hoffman, W. H. (2014). MCP-1and IL-1β expression in the myocardia of two young patients with Type 1 diabetes mellitus and fatal diabetic ketoacidosis. Experimental and Molecular Pathology, 96(1), 71‒79. https://doi.org/10.1016/j.yexmp.2013.11.001.
+
+Ogurtsova, K., da Rocha Fernandes, J. D., Huang, Y., Linnenkamp, U., Guariguata, L., Cho, N. H., ... & Makaroff, L. E. (2017). IDF diabetes atlas: Global estimates for the prevalence of diabetes for 2015 and 2040. Diabetes research and clinical practice, 128, 40‒50. https://doi.org/10.1016/j.diabres.2017.03.024
+
+Olomieja, A. O., Olanrewaju, I. O., Ayo-Ajayi, J. I., Jolayemi, G. E., Daniel, U. O., & Mordi, R. C. (2021). Antimicrobial and Antioxidant properties of Petiveria alliacea. In IOP Conference Series: Earth and Environmental Science. 655(1), p. 012015). IOP Publishing. https://doi.org/10.1088/17551315/655/1/012015.
+
+Oluwa, A., Avoseh, O., Omikorede, O., Ogunwande, I., & Lawal, O. (2017). Study on the chemical constituents and anti-inflammatory activity of essential oil of Petiveria alliacea L. British Journal of Pharmaceutical Research, 15(1), 1‒8. https://doi.org/10.15416/ijcp.2017.6.1.22.
+
+Onyango, H., Odhiambo, P., Angwenyi, D., & Okoth, P. (2022). In silico identification of new anti-SARS-CoV-2 main protease (M pro) molecules with pharmacokinetic properties from natural sources using molecular dynamics (MD) simulations and hierarchical virtual screening. Journal of Tropical Medicine, 2022, 1‒22. https://doi.org/10.1155/2022/3697498.
+
+Raines, E. W., & Ferri, N. (2005). Thematic review series: The immune system and atherogenesis. Cytokines affecting endothelial and smooth muscle cells in vascular disease. Journal of lipid research, 46(6), 1081‒1092. https://doi.org/10.1194/jlr.R500004-JLR200.
+
+Rigsby, R.E., Parker, A.B. (2016) Using the PyMOL application to reinforce visual understanding of protein structure. Biochemistry and Molecular Biology Education: A Bimonthly Publication of the International Union of Biochemistry and Molecular Biology, 44(5), 433–437. https://doi.org/10.1002/bmb.20966
+
+Shen, S., Guo, X., Yan, H., Lu, Y., Ji, X., Li, L., ... & Zhao, B. (2015). A miR-130a-YAP positive feedback loop promotes organ size and tumorigenesis. Cell research, 25(9), 997‒ 1012. https://doi.org/10.1038/cr.2015.98
+
+Sumpter, K. M., Adhikari, S., Grishman, E. K., & White, P. C. (2011). Preliminary studies related to anti‐interleukin‐1β therapy in children with newly diagnosed type 1 diabetes. Pediatric diabetes, 12(7), 656‒667. https://doi.org/10.1111/j.1399-5448.2011.00761.x.
+
+Tate, M., Prakoso, D., Willis, A. M., Peng, C., Deo, M., Qin, C. X., Walsh, J. L., Nash, D. M., Cohen, C. D., Rofe, A. K., Sharma, A., Kiriazis, H., Donner, D. G., De Haan, J. B., Watson, A. M. D., De Blasio, M. J., & Ritchie, R. H. (2019). Characterising an alternative murine model of diabetic cardiomyopathy. Frontiers in physiology, 10, 1395. https://doi.org/10.3389/fphys.2019.01395
+
+Widyananda, M. H., Pratama, S. K., Samoedra, R. S., Sari, F. N., Kharisma, V. D., Ansori, A. N. M., & Antonius, Y. (2021). Molecular docking study of sea urchin (Arbacia lixula) peptides as multi-target inhibitor for non-small cell lung cancer (NSCLC) associated proteins. Journal of Pharmacy Pharmacognosy Reearchs, 9(4), 484‒496. https://doi.org/10.56499/jppres21.1047_9.4.484.
+
+Wijaya, R. M., Hafidzhah, M. A., Kharisma, V. D., Ansori, A. N. M., & Parikesit, A. A. (2021). COVID-19 in silico drug with Zingiber officinale natural product compound library targeting the Mpro protein. Makara Journal of Science, 25. 162–171. https://doi.org/10.7454/mss.v25i3.1244

@@ -1,0 +1,275 @@
+Vol. 9(6), pp. 179-192, 10 February, 2015 DOI: 10.5897/JMPR2014.5685 Article Number: 915206C50871 ISSN 1996-0875 Copyright © 2015 Author(s) retain the copyright of this article http://www.academicjournals.org/JMPR Journal of Medicinal Plants Research
+
+Full Length Research Paper
+
+Ethnobotanical survey and in vitro antiplasmodial activity of medicinal plants used to treat malaria in Kagera and Lindi regions, Tanzania
+
+Ramadhani S.O. Nondo*1, Denis Zofou3, Mainen J. Moshi1, Paul Erasto2, Samuel Wanji4, Moses N. Ngemenya3, Vincent P.K. Titanji3, Abdul W. Kidukuli1 and Pax J. Masimba1
+
+1Institute of Traditional Medicine, Muhimbili University of Health and Allied Sciences P.O.Box 65001, Dar es Salaam, Tanzania. 2National Institute for Medical Research P.O.Box 9653, Dar es Salaam, Tanzania. 3Biotechnology Unit, University of Buea, P.O.Box 63 Buea, South West Region, Cameroon. 4Research Foundation in Tropical Diseases and Environment P.O.Box 474, Buea, South West Region-Cameroon.
+
+Received 10 November, 2014; Accepted 5 February, 2015
+
+Tanzania has over 12,000 plant species, some of which are endemic and have potential to yield useful medicines. This study seeks to document such plants used as traditional medicines for treatment of malaria in Kagera region of northwestern Tanzania and Lindi region in south eastern Tanzania. The study also reports on the antiplasmodial activity against chloroquine-resistant Plasmodium falciparum (Dd2) strain of some of the documented plants using the parasite lactate dehydrogenase method. A total of 108 plant species, among which the families Compositae (14; 12.96%), Fabaceae (12; 11.11%), Euphorbiaceae (8; 7.41%), Melastomataceae (6; 5.56%) and Myrtaceae (4; 3.70%) were documented. Sixteen (16; 44.4%) of 36 extracts from 31 plant species that were tested inhibited malaria parasites growth by more than 50%. Bersema abyssinica stem bark extract was the most active with 86.67% inhibition rate followed by Bridelia micrantha stem bark extract with 71.87% inhibition rate. These results confirm the potential for plants used in traditional medicine to yield active antimalarial compounds. Further in vitro and in vivo screening supported by bioassay-guided isolation of active compounds from plants showing good safety margin is suggested.
+
+Key words: Ethnobotanical survey, medicinal plants, malaria, treatment, in vitro antiplasmodial, Tanzania.
+
+INTRODUCTION
+
+Human malaria is caused by five Plasmodium species namely; P. falciparum, P. vivax, P. ovale, P. malariae and P. knowlesi, but Plasmodium falciparum is the most widespread and virulent species (World Health
+
+*Corresponding author. E-mail: nondo75@yahoo.com Author(s) agree that this article remain permanently open access under the terms of the Creative Commons Attribution License 4.0 International License
+
+180 J. Med. Plants Res.
+
+Organization (WHO), 2013; Cox-sigh and Singh, 2008). Malaria in Tanzania is mainly caused by P. falciparum with Anopheles gambiae complex being the main vector United States Agency for International Development (USAID, 2014). Tanzania has high malaria prevalence and it is among six African countries that have many reported cases of malaria, with an estimated 10 to 12 million cases and 60,000 to 80,000 malaria-related deaths per year (USAID, 2014; WHO, 2012). Although the Tanzania HIV/AIDS and Malaria Indicator Survey (2011/2012) reported a decrease in the prevalence of malaria in Tanzania, the trend remains unchanged. Prevalence is still high in rural areas and the Lake Victoria zone as compared to other parts of the country Tanzania Commission for AIDS (TACAIDS, 2013). Malaria is a curable disease that is treated by both modern drugs and herbal medicines (Kinung’hi et al., 2010; Gessler et al., 1995). However, the emergence of P. falciparum strains resistant to almost all classes of antimalarial drugs dictates that efforts be increased to develop new antimalarial drug candidates (Dondorp et al., 2009; Wongsrichanalai et al., 2002). Since most antimalarial drugs that are currently being used like quinine and artemisinin derivatives originate from traditionally used medicinal plants (Wells, 2011), this source has a great potential to provide new antimalarial molecules. Tanzania is estimated to have over 12,000 higher plant species, of which 10% are used for medicinal purposes, and may yield active antimalarial compounds (Mahunnah et al., 2012). Previous reports confirm that some of these plants are used in traditional medicine for treatment of malaria (Gessler et al., 1995), and malaria is leading among diseases that are popularly treated with medicinal plants (Moshi et al., 2009; Mahunnah, 1987). Some of these plants have been reported in previous studies (Moshi et al., 2009; Gessler et al., 1995; Mahunnah, 1987), but many have not been documented and only a few have been tested for antimalarial activity. Therefore, this study reports plant species used for treatment of malaria in Kagera and Lindi regions of Tanzania and results of some of the plants that were screened for in vitro antiplasmodial activity.
+
+MATERIALS AND METHODS
+
+Documentation, identification and collection of the medicinal plants used for treatment of malaria
+
+Disease-specific ethnobotanical survey was conducted in six villages in Kagera region (North-west of Tanzania) and one village in Lindi region (South east of Tanzania). In Kagera region the study was conducted in November, 2012 in Buzi Bukombe, Buzi Kishura and Kwamkenge villages in Bukoba rural district, Buleza village in Muleba disctrict, Rwambaizi village in Karagwe district, and Kashozi
+
+village in Misenyi district. The study in Lindi region was conducted in July, 2012 in Mchakama village located in Kilwa district. Information was collected from well known and experienced traditional healers and herbalists who were informants in a previous ethnomedical study (Moshi et al., 2009). Before collecting information all the participants were informed about the study objectives and agreed to participate by signing an informed consent form. Vernacular names of the plants, part(s) used, method for preparation, route of administration and possible signs of toxicity were documented. Preliminary identification was done by a Botanist, Mr. Haji. O. Selemani, in the field and further authenticated in the Herbarium. Voucher specimens are deposited in the Herbaria at Muhimbili University of Health and Allied Sciences and at the Botany Department, University of Dar es Salaam. The selection of the plants to be tested for antimalarial activity was based on absence in the literature of previous antimalarial testing, reported antimalarial use in other countries or emphasis made by the traditional healers regarding efficacy for malaria treatment. This study received ethical clearance (Ref. No. MU/DRP/AEC/Vol.XIII/01st August 2011) from the Muhimbili University of Health and Allied Sciences Institutional Review Board.
+
+Preparation of extracts
+
+Dry powdered plant materials were macerated in 80% ethanol, at room temperature, for 24 h and then filtered through cotton wool to separate the liquid crude extracts from the solid materials. The solid plant materials were macerated again in the same solvent for another 24 h and the extracts obtained from the first and the second extractions were mixed before drying. The liquid crude extracts were concentrated under vacuo by using Heldolph® rotary evaporator (Heldolph instruments GmbH, Schwabach, Germany) to obtain viscous extracts which were further dried by using a freeze drier (Edwards High Vacuum International, Crawley Sussex, England).
+
+In vitro antiplasmodial screening
+
+Malaria parasites
+
+Blood stage chloroquine-resistant P. falciparum Dd2 strains (Pf Dd2; MRA-156 deposited by TE Wellems, Lot# 59443398) were used. The parasites were donated to the University of Buea in Cameroon by BEI-resources (MR4/ATCC® Manassas, VA, USA).
+
+Malaria culture medium
+
+RPMI-1640 (Lot# RNBC 8874) culture medium with L-glutamine and 20 mM HEPES (Sigma®, Steinheim, Germany) was used.
+
+In vitro culture of malaria parasites
+
+P. falciparum Dd2 laboratory strains were maintained in culture according to the method of Trager and Jensen (Trager and Jensen, 1976) with modifications (Zofou et al., 2013). The parasites were grown in O+ red blood cells (RBCs) maintained in complete malaria culture medium composed of RPMI-1640 medium supplemented with 2 mg/ml NaHCO3, 10 µg/ml hypoxanthine, 2 mg/ml glucose, 1% albumax II as source of proteins, lipids and 10 µg/ml gentamicin. The cultures were incubated at 5% CO2, 5% O2, 90%
+
+N2 in a humidified incubator set at 37°C (SHEL LAB® Sheldon Mfg Inc, OR, USA). All materials were purchased from SIGMA (Sigma®, Steinheim, Germany) except Albumax II (GIBCO™, Invitrogen) and gentamicin (ROTEX MEDICA, Trittau - Germany) which were supplied locally in Cameroon.
+
+Preparation of plant extracts and standard drug
+
+Stock solutions of 400 µg/ml for each crude extract was prepared by first dissolving 4 mg of crude extract into 100 µl dimethyl sulfoxide (Sigma®) followed by addition of RPMI-1640 medium to 10 ml. Artemether (Sigma®) was first dissolved in dimethyl sulfoxide and then diluted with RPMI-1640 medium to 5 µg/ml. All solutions were sterilized by using 0.22 µm syringe-adapted filters (Corning®, NY, USA) and stored at 4°C until use.
+
+In vitro antiplasmodial activity assay
+
+In vitro antiplasmodial activity was assessed using the parasite lactate dehydrogenase (pLDH) assay (Makler et al., 1993). Nonsynchronized 1% parasitized red blood cells (pRBCs) at 2%
+
+Nondo et al 181
+
+haematocrit (hct) in 96 well cell culture plates (Costar®, Corning, NY, USA) were incubated in triplicates with 100 µg/ml crude extracts or with 1.25 µg/ml artemether. Wells with parasitized cells but without extract or drug served as negative controls (100% parasite growth) and wells without parasitized cells but with red blood cells only at 2% hct served as blank controls. The plates were incubated for 48 h at 37°C in a humidified incubator set at 5% CO2, 5% O2, 90% N2. After incubation for 48 h parasite growth was confirmed by the aid of a light/UV fluorescence microscope (TENSION®, China) with Acridine orange filter (λmax Abs = 490 nm; λmax Em = 525 nm) and a counting device (Lennox Grain Analysis NG NG21, SPI®, USA) before the plates were frozen overnight at - 20°C. In the pLDH assay the plates were thawed at room temperature to hemolyse red blood cells, and the 10 µL of malaria culture were incubated with 50 µL Malstat solutions and 12.5 µL nitroblue tetrazolium/phenazine ethosulfate for 1 h in darkness. Parasite growth was determined by measuring the activity of pLDH enzymes at 650 nm using a microplate reader (Emax-Molecular Devices Corporation, California, USA) and the optical density (OD) values obtained were used to calculate antiplasmodial activity. The average OD value of the blank control (2%hct RBC only) was subtracted from all OD values. The antiplasmodial activity was expressed as percentage inhibition rate of parasites growth.
+
+(OD negative control – OD treated) %Growth inhibition rate (%IR) =
+
+× 100
+
+OD negative control
+
+RESULTS
+
+Documentation and identification of medicinal plants used for treatment of malaria in Kagera and Lindi regions, Tanzania
+
+A total of 108 plants species distributed into 41 plant families were documented and identified in six villages in Tanzania (Table 1). Fourteen plant species (12.96%) belonged to the family Compositae, 12 plant spp (11.11%) belonged to Fabaceae, 8 plant spp (7.41%) belonged to Euphorbiaceae, 6 plant spp (5.56%) belonged to Melastomataceae and 4 plant spp (3.70%) belonged to Myrtaceae. The families Anacardiaceae, Graminae, Labiatae, Meliaceae and Rutaceae each had 3 plant spp (2.78%) while other families were represented by 2 or 1 plant spp (Figure 1). The reported medicinal plants were identified as trees (37%), herbaceous plants (34%), shrubs (20%), climbers (5%), grass (2%) and wood climbers (2%) as shown in Figure 2. In addition, all the reported medicinal plants are administered orally, mostly as decoctions. Boiling was the most common method of preparation (Table 1). Leaves were the most used part of the plants, representing 46% of all plant parts reported followed by stem bark (19%), aerial parts (15%), roots (8%), whole plants (4%), seeds (4%), fruits
+
+(3%) and whole stem (1%) as shown in Figure 3.
+
+In vitro antiplasmodial activity of the extracts
+
+The results reported in Table 2 show that 16 (44.4%) out of the 36 extracts of 31 plant species that were tested inhibited the growth of the chloroquine-resistant Dd2 malaria parasite strains by more than 50%. The extract of Bersema abyssinica stem barks was the most active with 86.67% inhibition rate followed by the extract of Bridelia micrantha stem barks which inhibited parasite growth by 71.87%. The ethanol extracts of Anthocleista grandiflora stem barks, Funtumia Africana stem bark and leaves, and extracts from leaves of Vernonia glabra, Ipomoea rubens, Pycnanthus angolensis, Eriobotrya japonica and Oxyanthus speciosus were the least active with growth inhibition rate of less than 30% against the chloroquine- resistant Dd2 strains (Table 2).
+
+DISCUSSION
+
+The results of the current study support results of previous ethnobotanical studies done in Tanzania and outside Tanzania. In previous studies Abrus precatorius, Adansonia digitata, Azadirachta indica, Cassia
+
+182 J. Med. Plants Res.
+
+Figure 1. Distribution of plant species into different families
+
+Figure 2. Percentage use of different types of plants. WC = wood climber, G = grass, SH = shrub, CL = climber, T = tree, H = herbs
+
+didymobotrya, Dombeya shupangae, Ethrina sacleuxii, Lantana camara, Mangifera indica, Maytenus senegalensis, Momordica foetida, Parinari excelsa, Pseudospondias microcarpa, Psidium guajava, Syzygium
+
+Nondo et al 183
+
+Figure 3. Percentage use of different plant parts. L = leaves, F = fruits, S = seeds, WP = whole plant, R = root, SB = stem bark, ST = whole stem, AP = aerial part.
+
+cordatum, Todalia asiatica, Vangueria infausta, Vernonia amygdalina, and Zanthoxylum chalybeum were reported to be used in the treatment of malaria in Tanzania and some of them have shown good in vitro antimalarial activity against multi-drug resistant P. falciparum K1 malaria parasites (Amri et al., 2012; Augustino et al., 2011; Gessler et al., 1994; Weenen et al., 1990). Similarly, Erythrina abyssinica, Markhamia lutea, Teclea nobilis, Adansonia digitata, Lantana camara, Azadirachta indica, Zynthoxylum chalybeum, Maytenus senegalensis, Vernonia amygdalina, Momordica foetida, Mangifera indica, Moringa oleifera, Leonotis nepetifolia, Maesa lanceolata, Psidium guajava, Funtumia africana, Canna indica, Cymbopogon citratus and Pycnanthus angolensis are used in traditional medicine for malaria treatment in Kenya, Uganda, Cameroon and Nigeria (Lacroix et al., 2011; Nguta et al., 2010; Tabuti et al., 2008; Titanji et al., 2008; Katuura et al., 2007; Odugbemi et al., 2007). It is notable that some of the reported plants belong to the families Compositae (13%), Euphorbiaceae (7.4%), Fabaceae (11.1%), and Rubiaceae (9.2%) which are known to contain chemical compounds with good antimalarial properties (Ntie-Kang et al., 2014; Batista et al., 2009). The study has provided useful information that supports traditional healers’ claims for antimalarial activity and earlier observations that plants used in traditional medicine are a potential source of new antimalarial lead compounds (Onguéné et al., 2013; Bero et al., 2009). All the extracts tested for in vitro antiplasmodial activity at 100 µg/ml inhibited the growth of malaria parasites to different percentages. Bersama abyssinica, Bridelia micrantha, Canarium schweinfurthii and Antiaris toxicaria stem bark extracts; Aspilia natalensis, Aspilia mossambicensis and Desmodium salicifolium aerial part extracts; Maesa lanceolata and Rhytignia obscura leaf extracts; Pycnanthus angolensis fruit and Hallea rubrostipulata root extracts inhibited parasite growth by more than 60%. The ethanol extract of B. abyssinica was the most active with 86.67% inhibition rate against Dd2. In a previous study Kassa et al. (1996) reported that the ethanol extract of B. abyssinica stem bark exhibited good in vitro antimalarial activity against P. falciparum tineFAC-2/ Ethiopia with IC50 = 11 µg/ml. Similarly, a study done in Cameroon by Ngemenya et al. (2005) showed that the methanol extract of B. abyssinica leaves exhibited good in vitro antiplasmodial activity with an IC50 of 2.7 µg/ml. Meanwhile, the chloroform extract of M. lanceolata was reported to exhibit very good antiplasmodial
+
+184 J. Med. Plants Res.
+
+Table 1. Medicinal plants used traditionally in the treatment of malaria in Kagera and Lindi regions, Tanzania
+
+Family Plant species Vernacular name Nature Part (s) used Preparation Voucher number Acanthaceae Acanthus pubescens (Oliv.) Vatke Amatoju SH R, L Decoction RN 01 Thunbergia alata (Sims) Wankula CL WP Decoction RN 02
+
+Agavaceae Dracaena steudneri Engl. Omugorogoro T SB Decoction RN 03
+
+Anacardiaceae Pseudospondias microcarpa (A. Rich) Engl Omuziru T L Decoction RN 04 Rhus vulgaris Meikle Omukanja SH R, L, F Root and leaf Decoction. Ripe fruits eaten RN 05 Mangifera indica L. Omnembe, Mwembe T SB Decoction RN 06
+
+Apocynaceae Funtumia africana (Benth) Staff Mwezamaino, Omwelamaino T L Decoction RN 07 Holarrhena pubescens (Huch – Ham) G.Don Nalupande SH R Decoction 4665
+
+Araliaceae Schefflera goetzenii Harms Olugogome T SB, L Decoction RN 08 Bignoniaceae Markhamia lutea (Benth) K. Schum Omushambya T SB Decoction RN 09
+
+Bombacaceae Adansonia digitata L. Mbuyu T L, F Leaves are eaten like vegetables. Powder from dry fruits used to make juice RN10
+
+Bulsaninaceae Impatiens gomphophylla Bak.f Olwita mkole H L Decoction RN 11 Burseraceae Canarium schweinfurthii Engl. Omubafu wa kike/muubani wa kike T SB, L Decoction RN 12
+
+Celastraceae Salacia lovettii N. Hallé & B. Mathew Omzindabikaka T SB, L Decoction RN 13 Maytenus senegalensis (Lam.) Exel Omunyaburiko T SB, L Decoction RN14
+
+Compositae Bidens schimperi Sch. Bip ex Walp Orwongwa H AP Fresh aerial parts pounded then mixed with clean water, taken orally. RN 15 Aspilia mossambicensis (Oliv.) Wild Eshurwa rusharila, Esisa H AP, WP Fresh aerial parts pounded then mixed with clean water, taken orally. RN 16 Gynura scandens O. Hoffm Ekizimya mulilo CL L Fresh leaves squeezed to get juice. Juice taken orally RN17 Vernonia colorata (Wild.) Drake Ekishura SH L Decoction RN 18
+
+Nondo et al 185
+
+Table 1. Cont’d
+
+Vernonia amygdalina Delile Omubilizi T L Decoction RN 19 Crassocephalum mannii (Hook.f) Milne-Redh Omugango T SB, L Decoction Voucher not collected
+
+Crassocephalum vitellinum (Benth) S. Moore Ekishenda H AP, L Decoction or fresh leaves squeezed to get juice, taken orally. RN 20 Aspilia pluriseta (Schweinf) Lusharila eshurwa H AP Decoction RN 21 Bidens pillosa L. Akakurura H AP Decoction RN22 Aspilia natalensis (Sond) Wild Kanyamoisa H L Decoction. Fresh leaves squeezed and liquid obtained applied in the nose RN 23 Melanthera scandens (Schum &Thonn) Roberty Omlela H L Decoction RN 24 Guizotia scabra (Vis.) Chiov Echihongosheija H L Decoction RN 25 Senecio spp Ekikarabwe H L Decoction Voucher not collected Vernonia glabra (Steetz) Vatke Msangusangu H L Decoction 4664
+
+Convolvulaceae Ipomoea rubens Choisy Kataba CL L Decoction RN 26 Cucurbitaceae Momordica foetida Schum. Orwihula SH WP Decoction RN 27
+
+Euphorbiace Alchornea cordifolia (Schum & Thonn) Müell. Arg Omujululuzi SH L Decoction or young fresh leaves pounded then mixed with water, taken orally RN 28 Sapium ellipticum (Hochst.) Pax Omushasha T L, SB Decoction of leaves or stem bark. Fresh leaves can be used to prepare cold infusion RN 29 Phyllanthus nummulariifolius Poir Karungi H AP Decoction RN 30 Ricinodendron heudelotii (Baill) Pax Kabaka njagala SH L Decoction RN 31 Croton macrostachyus Dell Omwowa T SB Decoction RN 32 Bridelia micrantha (Hochst.) Bail Omushamako T R,SB Decoction RN 33 Acalypha indica L. Obweya H L, S Decoction RN 34 Canna indica L. Maruru H S Seeds grounded, powder used to make warm infusion. RN 35
+
+Fabaceae Erythrina abyssinica D.C Omulinzi T SB Decoction RN 36 Cassia didymobotrya Fress Omulembelembe SH L Decoction RN 37 Desmodium salicifolium (Poir) DC Batengeliange/Omukongoranwa H AP, L Decoction RN 38
+
+186 J. Med. Plants Res.
+
+Table 1. Cont’d.
+
+Tephrosia aequilata Bak Endalabugazi H WP Decoction Voucher not collected Kotschya africana Endl. Ekyangwe ekiango H AP Decoction RN 39 Eriosema parviflorum E. Mey Mshelere H L Decoction or fresh leaves squeezed to get juice, taken orally RN 40 Dalbergia malangensis E.P Sousa Omugorora WC L Decoction RN 41 Macrotyloma axillare (E. Mey) Verdc Akaihabukuru CL AP Decoction RN 42 Indigofera arrecta A. Rich Omusoroka H AP Decoction or aerial parts pounded then mixed with water, taken orally. RN 43 Abrus precatorius L. Karigoligo CL L Fresh leaves pounded then mixed with water, taken orally. RN 44 Erythrina schliebenii Harms Mlindimila T SB Decoction 4661 Erythrina sacleuxii Hua Mlindimila T SB Decoction 4662
+
+Graminae Pennisetum purpureum Schum Olutete G L Decoction RN 45 Vossia cuspidata (Roxb) Grift Ekishararago G L Decoction RN 46 Cymbopogon citratus L. Mchaichai G L Hot infusion RN 47
+
+Labiatae Platostoma africanum P. Beauv. Nyanjaeyera SH AP Dry powder used to make warm infusion RN 48 Leonotis nepaetifolia (L.) R. Br Ekitatelante H L Decoction RN 49 Ocimum kilimandscharicum Gürke Kaswagara H S Powder from dry seeds used to make warm water infusion RN 50
+
+Loganiaceae
+
+Anthocleista grandiflora Gilg Mgabaigana T L, R, SB Decoction RN 51 Strychnos spinosa Lam. Orurema SH L Dry powder used to make warm infusion or decoction bathed to children Voucher not collected
+
+Lythraceae Lawsonia inermis L. Eina H L, S Leaf decoction. Powdered seeds used to make warm infusion RN 52
+
+Melastomataceae Dissotis rotundifolia (Sm) Triana Obwehehe/Obwee H AP Decoction or fresh aerial parts pounded then mixed with clean water, taken orally RN 53 Melastomastrum capitatum (Vahl) A. & R. Fern) Katuntun H AP Fresh aerial parts pounded then mixed with clean water. Dry aerial parts used to prepare warm infusion RN 54
+
+Nondo et al 187
+
+Table 1. Cont’d.
+
+Dissotis melleri Hook.f. Ekituntun/Etuntun H AP Aerial parts pounded then mixed with water, taken orally RN 55 Melastomastrum segregatum (Benth) A.& R Fern. Eitulu H AP Decoction or cold infusion. RN 56 Dissotis brazzae Cogn Bulitulo H AP Decoction RN 57 Pilea holstii Engl. Omufura/Eimyo SH L Fresh leaves squeezed then mixed with water, taken orally. RN 58
+
+Meliaceae Trichilia emetica Vahl. Omushunguti, Mushunguti T SB, L Decoction RN 59 Pseudobersama mosssambicensis (Sim) Verdc Omusiibi T SB, L Decoction Voucher not collected Azadirachta indica A. Juss. Mwarobaini T L Decoction RN 60
+
+Melianthaceae Bersama abyssinica Omujalya SH R, SB, L Decoction RN 61 Moraceae Antiaris toxicaria (Pers) Lesch Omujuju T SB, L Decoction RN 62
+
+Moringaceae Moringa oleifera (Lam.) Mlonge T L Decoction. Dry powder used to make warm infusion RN 63
+
+Myristicaceae Pycnanthus angolensis (Welw.) Warb Omunonoba T SB Decoction RN 64 Myrsinaceae Maesa lanceolata Forsk Omuzilanyama/ Omuhanga T RB, SB, L Decoction RN 65
+
+Myrtaceae Syzygium guineense (Willd.) DC Omuchwezi T L Decoction RN 66 Syzygium cordatum Krause Omugege SH SB, L Fresh leaves or stem barks grounded then mixed clean with water, taken orally RN 67 Syzygium cumini (L.) Skeels Mzambarau T SB, L, F Decoction of stem bark or leaf. Ripe fresh fruits eaten RN 68 Psidium guajava L. Mpera T L Fresh leaves pounded then mixed with clean water, used orally RN 69
+
+Onagraceae Ludwigia octovalvis (Jacq.) Haven ssp. brevisepala (Brenan) P.H. Raven Wejunge H L Decoction RN 70
+
+Palmae Raphia farinifera (Gaertn) Hyl. Omubobo T ST, R Decoction Voucher not collected
+
+188 J. Med. Plants Res.
+
+Table 1. Cont’d.
+
+Polygonaceae Polygonum senegalense Meisn Kinyanyanja H AP Decoction or aerial parts pounded then mixed with water, taken orally. RN 71 Rumex abyssinica Akanulilizi H AP Aerial parts pounded then mixed with water, taken orally RN 72
+
+Punicaceae Punica granatum L. Omukomamanga T F Outer part of the fruits dried then powdered. Powder used to make warm infusion RN 73
+
+Rosaceae Eriobotrya japonica (Thunb.) Lindl Musharazi/Omusharazi T R, SB, L Root decoction. Powdered dry stem barks and leaves used to prepare warm infusion. Fresh fruits eaten. RN 74
+
+Rubiaceae Spermacoce princeae (K. Schum) Verdc Ekaiza nkoju H AP Decoction RN 75 Psydrax parviflora (afzel) Bridson ssp. Rubrocostata (Robyn) Bridson Omushangati T SB, L Decoction of SB or leaves. Fresh leaves squeezed to get juice. RN 76 Tricalysia coriacea (Benth.)Hiern Omushekera SH L, F Fresh leaves pounded then mixed with clean water or fresh leaves boiled RN 77 Vangueria infausta Burch Mtugunda, Amabungo SH L Decoction Voucher not collected Rytigynia obscura Robyns Omulokola/Lulokola SH L Decoction RN 78 Oxyanthus speciosus DC Omwanikibira T L Decoction RN 79 Pentas bussei (K. Krause) Rusharila kibira H AP Decoction RN 80 Pavetta lynesii Bridson Orwingula, Omuingula SH L Decoction RN 81 Chassalia umbraticola Vatke Mwataibare SH SB, L Decoction RN 82 Hallea rubrostipulata (K. Schum) J.F. Leny Mchunguchugu T SB, R Decoction 4663
+
+Rutaceae Zanthoxylum chalybeum Engl. Omutaregwairungu T SB Decoction RN 83 Toddalia asiatica (L.) Lam Orukwatango CL L Decoction Voucher not collected Teclea nobilis Delile Omuzo T R Decoction RN 84
+
+Sapindaceae Lecaniodiscus fraxinifolius Bak Omwasha T L Decoction Voucher not collected
+
+Solanacaeae Physalis peruviana L. Kitutun kikubwa H L Fresh leaves pounded then mixed with water, used orally RN 85
+
+Nondo et al 189
+
+Table 1. Cont’d.
+
+Datura stramonium L. Ekitaigwa, Amalulu SH S Decoction RN 86
+
+Sterculiaceae Dombeya shupangae (K. Schum) Omutangarara, Mtangarara T L Decoction RN 87 Ulmaceae Trema orientalis Bullock Omuhuwe T SB, L Dry powder used to prepare warm infusion Voucher not collected Umbelliferae Centella asiatica (L.) Urb Mbatama H WP Decoction RN 88
+
+Verbenacea Clerodendrum cephalanthum Oliv Ekishekesheke WC L Decoction RN 89 Lantana camara L. Lukulata SH L Decoction RN 90 Lantana trifolia L. Omuhuchi SH AP Decoction RN 91
+
+Zingiberaceae Aframomum angustifolium (Sonn.) K. Schum Orushasha SH L Cold infusion Voucher not collected Costus afer Ker-Gawl Ekigagi H R, AP Decoction or eaten raw RN 92
+
+Plant part: R = root, ST = Stem, SB = Stem bark, AP = Aerial parts, L = Leaves, F = Fruits, S = Seeds, WP = Whole plant. Nature of the plant: SH = Shrub, H = Herb, T = Tree, CL = Climber, WC = Wood climber, G = Grass
+
+Table 2. In vitro antiplasmodial activity of 80% ethanol crude extracts at 100 µg/ml against P. falciparum Dd2 strains.
+
+Plant Family Plant species Part tested Percentage growth inhibition rate (% IR) of crude extracts at 100 µg/ml on P. falciparum Dd2 strain Acanthaceae Acanthus pubescens (Oliv.) R 41.50 ± 6.32
+
+Apocynaceae Funtumia africana (Benth) Staff SB 17.51 ± 8.07 Funtumia africana (Benth) Staff L 14.21 ± 2.74
+
+Burseraceae Canarium schweinfurthii Engl. SB 61.94 ± 15.61 Celastraceae Salacia lovetii N. Halle & B. Mathew L 32.35 ± 3.50
+
+Compositae Guizotia scabra (Vis.) Chiov WP 49.09 ± 0.03 Aspilia mosambicensis (Oliv.) Wild AP 69.34 ± 7.05 Aspilia natalensis (Sond) Wild AP 65.23 ± 0.25 Vernonia glabra (Steetz) Vatke L 12.44 ± 1.18
+
+Convolvulaceae Ipomoea rubens Choisy L 27.61 ± 1.83
+
+190 J. Med. Plants Res.
+
+Table 2. Cont’d.
+
+Euphorbiaceae Bridelia micrantha (Hochst.) Bail SB 71.87 ± 1.53 Phyllanthus nummulariifolius Poir WP 38.88 ± 7.83 Phyllanthus nummulariifolius Poir WP 51.31 ± 12.84a
+
+Fabaceae Erythrina schliebenii Harms SB 39.86 ± 13.97 Dalbergia malangensis E.P Sousa L 39.78 ± 7.88 Dalbergia malangensis E.P Sousa ST 32.37 ± 8.49 Macrotyloma axillare (E. Mey) Verdc AP 33.21 ± 1.37
+
+Desmodium salicifolium (Poir) DC AP 68.41 ± 13.33 Erythrina sacleuxii Hua SB 42.08 ± 5.49
+
+Labiatae Leonotis nepaetifolia (L.) R. Br AP 54.43 ± 9.07
+
+Loganiaceae Anthocleista grandiflora Gilg SB 9.18 ± 6.77
+
+Melastomataceae Melastomatrum capitatum (Vahl) A. & R. Fern) AP 39.06 ± 3.47 Dissotis brazzae Cogn AP 52.31 ± 0.55 Dissotis rotundifolia (Sm) Triana AP 33.64 ± 0.44
+
+Moraceae Antiaris toxicaria (Pers) Lesch L 34.72 ± 6.25 Antiaris toxicaria (Pers) Lesch SB 61.18 ± 2.02
+
+Melianthaceae Bersama abyssinica SB 86.67 ± 11.32
+
+Myristicaceae Pycnanthus angolensis (Welw.) Warb F 65.43 ± 9.62 Pycnanthus angolensis (Welw.) Warb SB 40.63 ± 8.10 Pycnanthus angolensis (Welw.) Warb L 28.63 ± 5.07
+
+Myrsinaceae Maesa lanceolata Forsk L 53.46 ± 1.86 Myrtaceae Syzygium cordatum Krause SB 55.46 ± 13.43 Rosaceae Eriobotrya japonica (Thunb.) Lindl L 20.52 ± 3.35
+
+Rubiaceae Hallea rubrostipulata (K. Schum) J.F.Leny R 64.54 ± 7.56 Hallea rubrostipulata (K. Schum) J.F.Leny SB 53.22 ± 5.58 Pentas bussei (K. Krause) AP 59.92 ± 4.41 Oxyanthus speciosus DC L 29.19 ± 9.66 Rhytignia obscura Robyns L 22.35 ± 5.42
+
+Artemether (1.25 µg/ml) 91.98 ± 10.46
+
+WP= whole plant; L= leaves; SB= stem bark; ST= stem; AP= aerial parts (stem plus leaves); R= root; F= fruits a= aqueous extract
+
+activity with IC50 = 1.6 µg/ml against P. falciparum clinical isolates (Katuura et al., 2007). Most plants tested in this study showed low parasite growth inhibition rate. It is not easy to identify the specific reasons for low activity but factors such as the solvent used for extraction, the method of preparation, storage conditions, and variation in the active constituents due to seasonal or geographical and model of testing may also reduce the efficacy of the extract (Weeneen et al., 1990). Furthermore, Chhabra et al. (1993) reported that preparations of medicinal plants can be used orally, rubbed into scarification, inhaled as fumes, splashed on the eyes, poured into the wound or sniffed. In this study we found that all preparations were administered orally in the form of decoction (boiled water extracts), infusion (hot water extract), juice or taken as raw fruits. In the oral route, the bioactive molecules are exposed to various barriers and enzyme systems before reaching the systemic circulation. This causes some bioactive molecules to be modified by metabolism thus, either enhance or reduce their antiplasmodial activity suggesting that the antiplasmodial activity of metabolically activated compounds may not be evident in in vitro assays.
+
+Conclusion
+
+This study reported 108 medicinal plants that are used in the traditional medicine for treatment of malaria and fevers in Kagera and Lindi regions of Tanzania. In vitro assays revealed substantial antiplasmodial activities of 15 plants out of 31 plant species tested. Although questionnaire based evidence suggested that decoctions from these plants were not acutely toxic, further toxicity testing will be required to establish their safety profile. Meanwhile these findings support the use of these plants for the traditional treatment of malaria. Further in vitro and in vivo screening supported by bioassay-guided isolation of active compounds of plants showing good safety margin are suggested.
+
+Conflict of interests
+
+The authors declare that they have no competing interests
+
+ACKNOWLEDGEMENTS
+
+This work was financed by Sida through MUHAS capacity building grants. Authors are very grateful to Sida for the financial support. We are grateful to Mr. Mohamedi Ngalanga, Mr. Didas Ngemera, Mr. Dominic Mushwahili, Mr. Buchadi Tibikunda and Mr. Papianus Rwechungura for showing us the medicinal plants traditionally used for Nondo et al 191
+
+treatment of malaria in their areas. We would like to extend our gratitude to Mr. Haji.O. Selemani (Botanist) for identification of the documented medicinal plants. Extraction of the plant extracts was done at the Institute of Traditional Medicine in Tanzania whereas in vitro antimalarial study was done at the Research Foundation in Tropical Diseases and Environment, and at the Biotechnology Unit, University of Buea in Cameroon. We are grateful to MR4/BEI-resources (Manassas, VA, USA) for donating malaria parasites used for this work.
+
+REFERENCES
+
+Amri E, Kisangau DP (2012). Ethnomedicinal study of plants used in villages around Kimboza forest reserve in Morogoro, Tanzania. J. Ethnobiol. Ethnomed. 8:1 Augustino S, Hall JB, Makonda FBS, Ishengoma RC (2011). Medicinal Resources of the Miombo woodlands of Urumwa, Tanzania: Plants and its uses. J. Med. Plants. Res. 5:6352-6372. Batista R, Silva Ade Jr J, de Oliveira AB (2009). Plant-derived antimalarial agents: new leads and efficient phytomedicines. Part II. Non-alkaloidal natural products. Molecules 14:3037-3072. Bero J, Frederich M, Quetin-Leclerq J (2009). Antimalarial compounds isolated from plants used in traditional medicine. J. Pharm. Pharmacol. 61:1401-1433. Chhabra SC, Mahunnah RL, Mshiu EN (1993). Plants used in traditional medicine in eastern Tanzania. VI. Angiosperms (Sapotaceae to Zingiberaceae). J. Ethnopharmacol. 39:83-103. Cox-singh J, Singh B (2008). Knowlesi malaria: newly emergent and of public health importance ?, Trends Parasitol. 24:406-410. Dondorp AM, Nosten F, Yi P, Das D, Phyo AP, Tarning J, Maung K, Ariey F, Hampithakpong W, Lee SJ, Ringwald P, Silamut K, Iwong M, Chotivanich K, Lim P, Herdman T, An SS, Yeung S, Singhasivanon P, Day NPJ, Lindergardh N, Socheat D, White NJ (2009). Artemisinin Resistance in Plasmodium falciparum Malaria. N. Engl. J. Med. 361:455-467. Gessler MC, Msuya DE, Nkunya MHH, Mwasumbi LB, Schar A, Heinrich M, Tanner M (1995). Traditional healers in Tanzania: the treatment of malaria with plant remedies J. Ethnopharmacol. 48:131144. Gessler MC, Nkunya MH, Mwasumbi LB, Heinrich M, Tanner M (1994). Screening Tanzanian medicinal plants for antimalarial activity. Acta Trop. 56:65-77. Kassa M, Mohana R, Hunde A (1996). Antimalarial activity of Bersama Abyssinica against Plasmodium Falciparum. Ethiop. Phar. J. 14:1621. Katuura E, Waako P, Tabuti JRS, Bukenya-Ziraba R, Ogwal-Okeng J (2007). Antiplasmodial activity of extracts of selected medicinal plants used by local communities in western Uganda for treatment of malaria. Afr. J. Ecol. 45(S3):94-98. Kinung’hi SM, Mashauri F, Mwanga JR, Nnko SE, Kaatano GM, Malima R, Mboera LE (2010). Knowledge, attitudes and practices about malaria among communities: comparing epidemic and non-epidemic prone communities of Muleba district, North-western Tanzania. BMC Public Health 10:395. Lacroix D, Prado S, Kamoga D, Kasenene J, Namukobe J, Krief S, Brunois F (2011). Antiplasmodial and cytotoxic activities of medicinal plants traditionally used in the village of Kiohima, Uganda. J. Ethnopharmacol. 133:850-855. Mahunnah RL (1987).Traditional plant medicines used by Hayas of North-western Tanzania. J. Econ. Tax. Bot. 10:371-379. Mahunnah RLA, Uiso FC, Kayombo EJ (2012). Documentation of Traditioanal Medicine in Tanzania: A Traditioanal Medicine Resource Book. Dar es Salaam University Press, Dar es Salaam – Tanzania. p. 8.
+
+192 J. Med. Plants Res.
+
+Makler MT, Hinrichs DJ (1993). Measurement of the Lactate Dehydrogenase Activity of Plasmodium falciparum as an Assessment of paraistaemia. Am. J. Trop. Med. Hyg. 48:205-210. Moshi MJ, Otieno DF, Mbabazi PK, Weisheit A (2009). The ethnomedicine of the Haya people of Bugabo ward, Kagera Region, north western Tanzania. J. Ethnobiol. Ethnomed. 5:24. Ngemenya M, Titanji V, Akam T, Yong J, Tane P, Fanso-Free S, Berzins K (2005). Antiplasmodial activity and toxicity of extracts and products from selected medicinal plants used in Cameroon. Acta Trop. 96S:S1-S506. Nguta JM, Mbaria JM, Gakuya DW, Gathumbi PK, Kiama SG (2010). Traditional antimalarial phytotherapy remedies used by the South Coast community, Kenya. J. Ethnopharmacol. 131:256-267. Ntie-Kang F, Onguéné PA, Lifongo LL, Ndom JC, Sippl W, Mbaze LM (2014). The potential of anti-malarial compounds derived from African medicinal plants. Part II : a pharmacological evaluation of nonalkaloids and non-terpenoids. Malar. J. 13:81. Odugbemi TO, Akinsulire OR, Aibinu IE, Fabeku PO (2007). Medicinal plants useful for malaria therapy in Okeigbo, Ondo state, Southwest Nigeria. Afr. J. Tradit. Compl. Alter. Med. 4:191-198. Onguéné PA, Ntie-kang F, Lifongo LL, Ndom JC, Sippl W, Meva’a ML (2013). The potential of anti-malarial compounds derived from African medicinal plants. Part I: A pharmacological evaluation of alkaloids and terpenoids. Malar. J. 12:449. Tabuti JRS (2008). Herbal medicines used in the treatment of malaria in Budiope county , Uganda. J. Ethnopharmacol. 116:33-42. TACAIDS, ZAC, NBS, OCGS, IFC International (2013). Tanzania HIV/AIDS and Malaria Indicator Survey 2011-12. Dares Salaam, Tanzania: TACAIDS, ZAC, NBS, OCGS, and ICF International. Titanji VP, Zofou D, Ngemenya MN (2008). The Antimalarial Potential of Medicinal Plants used for the Treatment of Malaria in Cameroon folk Medicine. Afr. J. Complement. Alter. Med. 5302-321. Trager W, Jensen JB (1976). Human malaria parasites in continuous culture. Science. 193:673-5.
+
+United States Agency for International Development (USAID) (2014). President’s Malaria Initiative: Tanzania Malaria Operational Plan FY 2014. Weenen H, Nkunya MH, Bray DH, Mwasumbi LB, Kinabo LS, Kilimali VA (1990). Antimalarial activity of Tanzanian medicinal plants. Planta Med. 56:368-370. Wells TN (2011). Natural products as starting points for future antimalarial therapies: going back to our roots ? Malar. J. 10(Suppl1):S3. WHO (2002). Traditional Medicine Strategy 2002-2005. WHO Press, Geneva, Switzerland. WHO/EDM/TRM/2002.1 Wongsrichanalai C, Pickard AL, Wernsdorfer WH, Meshnick SR (2002). Reviews: Epidemiology of drug-resistant malaria. Lancet Infect. Dis. 2:209-218. World Health Organization (WHO) (2012). WHO Global Malaria Programme: World Malaria Report 2012. WHO Press, Geneva, Switzerland. World Health Organization (WHO) (2013). WHO Malaria Factsheet No 94 - 2013. WHO press, Geneva, Swirtzerland. Zofou D, Tematio EL, Ntie-Kang F, Tene M, Ngemenya MN, Tane P, Titanji VPK (2013). New antimalarial hits from Dacryodes edulis (Burseraceae)- Part I: isolation, in vitro activity, in silico “druglikeness” and pharmacokinetic profiles. PloS One. 8:11

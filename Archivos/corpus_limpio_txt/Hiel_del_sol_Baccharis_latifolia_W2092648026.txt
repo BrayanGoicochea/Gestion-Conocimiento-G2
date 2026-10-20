@@ -1,0 +1,273 @@
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 76 ©ARKAT Baccharis (Compositae): a review update
+
+Maria José Abad* and Paulina Bermejo
+
+Department of Pharmacology, Faculty of Pharmacy, University Complutense, Avda. Complutense s/n, 28040, Madrid, Spain E-mail: mjabad@farm.ucm.es
+
+In honor of Professor Atta-ur-Rahman on his 65th birthday
+
+Abstract The Baccharis genus is an important source of natural medicinal products. The information collected here is an attempt to cover the most recent developments in the ethnopharmacology, pharmacology and phytochemistry of this genus. This review describes its traditional and folkloric uses, phyto-constituents and pharmacological and toxicological reports of the prominent species of the genus Baccharis. Flavonoids and other phenolic compounds, diterpenoids and volatile constituents have been reported as the major phyto-constituents of the Baccharis species. Pharmacological studies are mainly based on the anti-inflammatory, antioxidant, antimicrobial and antifungal properties. The potential for development of leads from Baccharis genus continues to grow. The information summarized here is intended to serve as a reference tool to practitioners in the fields of ethnopharmacology and chemistry of natural products.
+
+Keywords: Baccharis, ethnopharmacology, phytochemistry, pharmacology
+
+Contents
+
+Introduction 1. Medicinal Uses of Selected Baccharis Species 1.1. Medicinal uses 1.2. Methods of preparing traditional herbal remedies 2. Phytochemistry 2.1. Essential oils 2.2. Diterpenoids 2.3. Triterpenoids 2.4. Phenolic compounds
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 77 ©ARKAT 2.4.1. Flavonoids 2.4.2. Coumarins 2.4.3. Simple phenolic derivatives 3. Pharmacological Activity 3.1. Antibacterial, antifungal and antiviral activities 3.2. Anti-inflammatory and antioxidant activities 3.3. Other activities 4. Toxicological Considerations 5. Baccharis Plant Cell Cultures 6. Conclusions
+
+Introduction
+
+A well known objective in the study of medicinal plants is the discovery of new bioactive components in the search for promising drugs.1,2 It is over four years since the recompilation of our first analysis of the traditional use, scientific knowledge and major chemical constituents of several of the most commonly used medicinal plants belonging to the genus Baccharis L. (Compositae).3 The Baccharis genus has been instrumental in the discovery of natural medicinal products.4
+
+Baccharis is the largest genus in the family Compositae, with over 500 species distributed throughout the North and South American continents. The species of this genus are distributed mainly in the warm temperate and tropical regions of Brazil, Argentina, Colombia, Chile and Mexico. Over the past four years since our previous review, there has been a rapid increase in the information available on the structures and pharmacological activities of novel compounds isolated and identified from Baccharis species since 2002. Results of various projects on South American ethnobotany and some of the subsequent pharmacological and phytochemical studies on the genus Baccharis are summarized, focusing both on chemistry-pharmacology as well as on the ethnopharmacological aspects of our research. The depth and breadth of research involving Baccharis plants has been organized into easily accessible and comparable information which is presented in three sections: traditional uses, phytochemistry and pharmacological activities of Baccharis plants.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 78 ©ARKAT 1. Medicinal Uses of Selected Baccharis Species
+
+1.1. Medicinal uses
+
+The many general traditional medicinal uses of Baccharis include the treatment of wounds and ulcers, fever, gastrointestinal illnesses, as spasmolytics, diuretics and analgesics, and in the treatment of diabetes and bacterial/fungal infections;5-9 more details are given below.
+
+Baccharis articulata (Lam.) Pers. (Carquejilla) is traditionally used as a diuretic and digestive in local folk medicine of southern of Brazil, Uruguay and Argentina. Its decoctions or infusions are also an antidiabetic remedy in Paraguay. The plant is used in the form of infusions or decoctions of the aerial parts.
+
+Baccharis conferta (H.B.K.) (Quauhizquiztli) is used in the region of Veracruz, Mexico, to treat stomachaches. It is also recommended for use as a laxative and for stimulating urination. Tea made from the leaves is taken to assist weight loss.
+
+Baccharis coridifolia D.C. (Mio-Mio, Romerillo) is used externally as an antiinflammatory. Reports also indicate that the vapours of this species, when mixed with sulphur, are used to treat horse’s distemper and horse’s external parasites. The plant is used in the form of decoctions of the whole herb.
+
+Baccharis crispa Spreng. (Carqueja): decoctions from the aerial parts of the plant have been reported as digestives and antiseptic for external use.
+
+Baccharis dracunculifolia D.C.: propolis is a natural resinous exudate collected by honeybees from buds and exudates of plants. The botanical origin of Brazilian propolis was B. dracunculifolia (Alecrim do Campo) resinous exudates. Brazilian propolis is extensively used to improve health and prevent diseases, and in beverages in various countries.
+
+Baccharis floribunda H.B.K. (Niquitao) is used in Venezuela as decoctions or infusions of leaves and stems for skin infections, diabetes and rheumatism.
+
+Baccharis gaudichaudiana D.C. (Chilca melosa) is used in Paraguay as a folk medicine for the treatment of diabetes and as a tonic and for the relief of gastrointestinal ailments. Baccharis genistelloides Lam. = Baccharis trimera (Lam.) Pers. (Carqueja, Charara) has been popularly used to treat liver disease, rheumatism, diabetes, as well as digestive, hepatic and renal disorders. This plant is also used in popular medicine in Argentina as an aphrodisiac. The plant is used in the form of decoctions of the whole herb.
+
+Baccharis glutinosa (B. & P.) Pers. (Jarilla) is used in several states of Mexico for gynaecological and digestive disorders, as well as skin diseases. The leaf infusion, the traditional preparation, is preferable to the fresh and dried plant tinctures.
+
+Baccharis grisebachii Hieron (T’ola alta, Quinchamal): the aerial parts of this shrub, in the Andean provinces in Argentina, are recommended in infusion to treat gastric ulcers, as a digestive, local antiseptic and cicatrizant.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 79 ©ARKAT
+
+Baccharis heterophylla H.B.K. (Curacuata, Jarakatua) is ethnomedically used in the state of Queretara, Mexico, for alleviating gastrointestinal disorders. The plant is used in the form of infusions or decoctions of the aerial parts.
+
+Baccharis illinita D.C. (Cha-ventura, Erva milagrosa) found in Brazil’s subtropical regions is widely used in folk medicine for its anti-inflammatory, skin and mucosal healing and antiinfectious properties, as well as for its protective action against stomach ulcers. The formulation most frequently used is the tea obtained from the leaves and stems. The powder obtained from macerated and dried leaves is widely used for the cicatrization of skin wounds.
+
+Baccharis incarum Wedd. (Lejia) is used in Argentina as decoctions or poultices of leaves for healing wounds. The plant is used in the form of infusions of the leaves and/or stems.
+
+Baccharis latifolia Pers. (Chilca) is used in the form of decoctions of leaves and/or stemsin the traditional medicine of South America for the treatment of rheumatism, liver disease, wounds and ulcers.
+
+Baccharis multiflora Bent. (Quappatli, Malinalli) is used in the form of infusions of the leaves in the traditional medicine of Mexico for the treatment of catarrhs and for urinary problems.
+
+Baccharis notosergilla Griseb. (Carqueja) is used in the folk medicine of the northeast Argentina, Uruguay and Paraguay as a diuretic and digestive agent. The plant is used in the form of infusions of the leaves and/or stems.
+
+Baccharis obtusifolia H.B.K. (Chilca redonda) is used in the form of decoctions of the aerial parts in the traditional medicine of Colombia for the treatment of rheumatism, liver disease, wounds and ulcers.
+
+Baccharis pentlandii D.C. (Chilca, Mayu chilka) has been used in traditional medicine in Bolivia in the treatment of different pathologies, including inflammation and rheumatism. Baccharis rubricaulis Rubby (Chilca) is used by the rural and indigenous populations of Bolivia for treating different types of mucous ailments. The plant is used in the form of infusions or decoctions of the leaves and/or stems. Baccharis salicifolia (R. et P.) Pers. (T’ola alta, Chilca marga): an infusion of the leaves/leafy branches are applied externally as a remedy for inflammation. A decoction of the leaves and stems has also been used as a female hygienic agent.
+
+Baccharis sarothroides A. Gray (Desert broom): a tea made by boiling the twigs is rubbed on muscles for relief, and is used to treat colds. Seeds are steeped and used as a tea-like drinks for refreshment.
+
+Baccharis serraefolia D.C. (Tzajal) is a widely used plant for the treatment of diarrhoea and other gastrointestinal illnesses in Mexican traditional medicine. An infusion made from leaves of this plant is used primarily for the treatment of different types of diarrhoea, dysentery and against worms and cough.
+
+Baccharis subalata Wedd is used in the form of decoctions of the aerial parts in the traditional medicine of South America for the treatment of rheumatism, liver disease, wounds and ulcers.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 80 ©ARKAT
+
+Baccharis teindalensis L. is a herbal plant which is widely used in folk medicine in Ecuador as an anti-inflammatory, analgesic and antimicrobial remedy. The plant is used in the form of infusions or decoctions of the aerial parts.
+
+Baccharis tricuneata (L.f.) Pers. (Sanalotodo) is used in Venezuela as decoctions or infusions of leaves and stems for skin infections and diabetes.
+
+Baccharis trinervis (Lam) Pers. (Chilca) is employed in the treatment of high fever, edema, sores and muscle cramps. The plant is used in the form of infusions of the aerial parts.
+
+Baccharis tucumanensis (H. et A.) (Sancho blanco) is used in several regions of Argentina as an abortive.
+
+Baccharis vaccinoides H.B.K. (Chilco) is one of the most popular remedies from the Chiapas region of Mexico for gastrointestinal disorders. The plant is used in the form of infusions or decoctions of the whole plant.
+
+1.2. Methods of preparing traditional herbal remedies
+
+Infusion: an infusion is generally like making a cup of tea. Boil 32 parts of water (by volume), remove from heat and steep one part (by volume) of the herb in the water for 20-30 minutes. Strain and drink warm or cold. This is approximately 1 level teaspoon of dried herb per teacupful of water.
+
+Decoction: combine 32 parts of water with one part of dried herb (by weight), bring slowly to a boil, continue to boil for 10 to 20 minutes, cool until warm and strain. Pour additional water through the herb to return the volume to 32.
+
+2. Phytochemistry
+
+The phytochemistry of the Baccharis genus has been extensively studied since the early 1900s. Today, over 150 compounds have been isolated and identified from this genus. The most prominent compounds in Baccharis are diterpenoids, although it is mainly other biologically active constituents, e.g. phenolic compounds and essential oils, that have been reported in the last years. The constituents of Baccharis species compiled from different sources are presented below.
+
+2.1. Essential oils
+
+Essential oils from the Baccharis genus have been studied in several species from South America. More than 100 constituents were identified in studies of the composition of the essential oil of Argentinian Baccharis species. Malizia et al.10,11 investigated the volatile constituents of leaf oils from four species of the genus Baccharis collected in the Argentinean Patagonia: Baccharis racemosa (Ruiz et Pav.) D.C., Baccharis linearis (Ruiz et Pav.) Pers.,
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 81 ©ARKAT Baccharis obovata Hooker et Arnott and B. salicifolia. Yield on the B. racemosa oil was 2.50% and the main constituents were sabinene, β-pinene, myrcene, limonene, δ-cadinene, nerolidol, viridifloral, α-muurolol and α-cadinol. Yield on the B. linearis oil was 1.91% and the main constituents were α- and β-pinene, myrcene, limonene, bicyclogermacrene, δ-cadinene, caryophyllene oxide, cubenol and α-cadinol. Yield on the B. obovata oil was 2.82% and the main constituents were α-thujene, α- and β-pinene, sabinene, myrcene, limonene and terpinen-4ol (Figure 1). Yield on the B. salicifolia oil was 1.50% and the main constituents were α-thujene, α- and β-pinene, myrcene, α-phellandrene, limonene, β-ocimene, terpinen-4-ol (Figure 1), δcadinene and elemol. Leaves from another Argentinian Baccharis species, Baccharis tenelia Hook. et Am were collected from the Llanos region of La Rioja. Biurrun et al.12 analyzed the essential oil composition. Spathulenol (Figure 2) was the major component (29-34%) of the oil.
+
+OH
+
+Figure 1. Structure of terpinen-4-ol.
+
+O H H H
+
+Figure 2. Structure of spathulenol.
+
+Reports on the essential oil composition of Baccharis species from other South American regions have also been found in the literature. The essential oil of the aerial parts of Baccharis tricuneata (L.f.) Pers. var. ruiziana Cuatrecassas from Bolivia was analyzed.13 The oil is characterized by a high percentage of nerolidol (68%) and the presence of several minor constituents composed mainly of monoterpenes, followed by sesquiterpene hydrocarbons and oxygenated sesquiterpenes.
+
+Simoes et al.14 investigated the composition of essential oil from eight species of Baccharis belonging to section Caulopterae: B. articulata, B. crispa, Baccharis microcephala (Less.) D.C., Baccharis milleflora (Mf.), Baccharis myriocephala D.C., Baccharis stenocephala
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 82 ©ARKAT Baker, B. trimera and Baccharis usterii Heering. Despite the morphological similarity between these species, differences could be seen in the composition of their essential oils obtained by hydrodistillation. Special attention was given to B. trimera and B. crispa, since it is impossible to differentiate them in their early stages due to the absence of synflorescences. Carquejyl acetate is suggested as a marker for B. trimera. There have been extensive works on the composition of the essential oil of one of these species, B. articulata, together with the species B. trinervis. The essential oil from the aerial parts of B. trinervis obtained by hydrodistillation was analyzed.15 αThujene, α- and β-pinene, sabinene, β-phellandrene, (E)-lachnophyllum acid methyl ester and (Z)-lachnophyllum acid methyl ester were found to be the main components among the identified constituents. Essential oils of B. articulata produced from plants harvested at full flowering were also examined.16 The main components of the female plant oil were β-pinene, spathulenol (Figure 2) and (E)-nerolidol. The male plant oil contained spathulenol (Figure 2), βcaryophyllene, bicyclogermacrene and (E)-nerolidol.
+
+O O H O H O O
+
+Figure 3. Structure of gaudichaunolide B
+
+2.2. Diterpenoids
+
+Characteristic diterpenic constituents from the Baccharis genus are the neo-clerodane type diterpenes, although kaurane and labdane derivatives have also been isolated. From B. gaudichaudiana, new clerodane diterpenoids, gaudichanolides A and B (Figure 3), and a new ent-clerodane diterpene named bacchariol (Figure 4) were isolated.17,18 Guo et al.19 isolated three new ent-clerodane diterpenes from this species. Their structures were elucidated as 15,16.epoxy15α-methoxy-ent-clerod-3-en-18-oic acid, 13-epi-15,16-epoxy-15α-methoxy-ent-clerod-3-en18-oic acid and 7-oxo-16-hydroxy-ent-clerod-3-en-15-oic acid methyl ester-18,19-olide.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 83 ©ARKAT O O H OH O O O
+
+Figure 4. Structure of bacchariol.
+
+O H H OH
+
+Figure 5. Structure of labdane diterpenes from Baccharis grisebachii.
+
+Reports on clerodane diterpene components of other species of the Baccharis genus have also been found in the literature. Two clerodane-type diterpene glycoside esters, together with the known diterpene marrubiagenine, were isolated from the aerial parts of Baccharis sagittalis (Less),20 while the acetone extract of Baccharis flabellata Hook. & Arn. yielded three neoclerodane diterpenoid derivatives.21 Examples of other diterpenoids isolated from the Baccharis genus also included two labdane diterpenes from B. grisebachii (Figure 5),22 kaurane diterpenes from B. illinita flowers,23 and the aerial parts of Baccharis rufescens Spreng., which yielded the diterpene ent-3,19-disuccinyloxy-kaur-16-ene (Figure 6).24
+
+HO2CCH2CH2COO H2COCOCH2CH2CO2H H H CH2
+
+Figure 6. Structure of ent-3,19-disuccinyloxy-kaur-16-ene
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 84 ©ARKAT 2.3. Triterpenoids
+
+There have only been a few reports on the triterpene composition of the Baccharis genus in the last years. The most widespread compounds of this group reported in the genus Baccharis were oleanolic triterpenoids. Phytochemical study of chloroform extract from Baccharis pseudoteunifolia Il Teodoro shrub led to the isolation of the triterpene oleanolic acid (Figure 7) and α-spinasterol.25 Oleanolic acid (Figure 7) was also isolated from B. rufescens,24 and Baccharis ligustrina D.C., which also yielded ursolic acid.26
+
+H O H COOH
+
+Figure 7. Structure of oleanolic acid
+
+2.4. Phenolic compounds
+
+Polyphenols form a complex group of molecules associated with most plant cell walls and represent an abundant antioxidant component of the human diet. They range in chemical complexity from single phenolic acids to high-molecular-weight tannins. This sections deals mainly with those phenolic classes of pharmaceutical interest found in the Baccharis genus, namely flavones and related flavonoid glycosides, coumarins and derivatives, and simple phenolic compounds.
+
+2.4.1. Flavonoids Propolis is a natural resinous substance collected by honeybees from buds and exudates of plants. It has been used as a health food and in beverages in various countries. The botanical origin of Brazilian propolis was the resinous exudates of B. dracunculifolia.27,28 When the composition of its chemical ingredients was measured, Brazilian propolis contained high amounts of flavonoid aglycones that are useful dietary sources of flavonoids with a potency to prevent dioxin toxicity.29
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 85 ©ARKAT OH O H O O R OH OH
+
+Figure 8. Structure of quercetin (R=OH) and luteolin (R=H)
+
+The exudates and seriated extracts of the aerial parts of B. grisebachii, which is recommended as a digestive and to relieve gastric ulcers in Argentina, yielded the flavonoids 5,7,4’-trihydroxy-6-methoxyflavone and quercetin (Figure 8).30 Following the study of B. latifolia, two flavonoids were isolated from the dichloromethane extract of the aerial parts.31 Nine flavonoids were isolated from the ethanol extract of the air-dried flowers of B. illinita, namely luteolin (Figure 8), aromadendrine, naringenin, 2’-methoxychrysin, apigenin, 3-Omethylquercetin, taxifolin, quercetin (Figure 8) and chrysoeriol.23 The chloroform extract yielded the flavonoids nobiletin, tangeretin, luteolin (Figure 8), naringenin and kaempferol.
+
+Phytochemical study of the methanol extract from the B. pseudotenuifolia shrub led to the isolation of the flavonoids hispidulin, naringenin, 3’-methoxyluteolin, apigenin, kaempferol, eriodyctiol, aromadendrin, quercetin (Figure 8), 3’-methoxyquercetin, quercetin-3-O-rhamnoside and quercetin-3-O-glucoside.25 The flavonoids naringenin and hispidulin were also isolated from B. ligustrina.26 Examples of other flavonoids isolated from the Baccharis genus also included eight known flavonoids from B. gaudichaudiana,17 and the species B. rufescens, which yielded the flavonoids cirsimaritin (5,4’-dihydroxy-6,7-dimethoxyflavone) and cirsiliol (5,3’,4’- trihydroxy-6,7-dimethoxyflavone).24
+
+2.4.2. Coumarins There have only been a few reports on the coumarin composition of the Baccharis genus in the last years. These reports concern the species B. grisebachii, which yielded eight p-coumaric acid derivatives,22,30 and the Colombian plant Baccharis tricuneata L.F., which afforded the coumarin scopolin (Figure 9).32
+
+CH3O GlucO O O
+
+Figure 9. Structure of scopolin.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 86 ©ARKAT 2.4.3. Simple phenolic derivatives Reports on the simple phenolic acid composition in the Baccharis genus mainly concern the species B. dracunculifolia (Brazilian propolis). As you can see in the present review, propolis is a resinous hiveproduct collected by honeybees from plant sources. The composition of the propolis depends on the season, vegetation and the area of collection. De Alencor et al.33 investigated the phytochemical composition of Brazilian propolis produced from B. dracunculifolia in the states of Sao Paulo and Minas Gerais by Africanized Apis mellifera. A distinctive characteristic of propolis and B. dracunculifolia was that both had a high proportion of the phenolic compound artepillin C (3,5-diprenyl-4-hydroxycinnamic acid) and other dihydrocinnamic acid derivatives. Artepillin C was also identified in both propolis and resinous exudates, and both ethanol extracts contained the highest concentrations of this compound as compared with the rest of the chemical constituents.34 Based on phytochemical evidence, B. dracunculifolia was found to be the main source of propolis produced in the states of Sao Paulo and Minas Gerais from Brazil. Other simple phenolic acid derivatives such as (E)-3-(E)-3hydroxy-3-methyl-1-butenyl-4-(2,3-dihydrocinnamoyloxy)-cinnamic acid, 3,4-di-Ocaffeoylquinic acid, 3,5-di-O-caffeoylquinic acid and chlorogenic acid (Figure 10) were also isolated from the aerial parts of B. dracunculifolia.35-37
+
+O H OH O COOH O HO OH OH
+
+Figure 10. Structure of chlorogenic acid.
+
+Examples of other simple phenolic acid derivatives from the Baccharis genus also included 4’-O-β-D-glucopyranosyl-3’,5’-dimethoxy-benzylcaffeate isolated from B. articulata, a plant traditionally used in the local folk medicine of South of Brazil, Uruguay and Argentina,38 and 3,5-dicaffeoylquinic acid from the aerial parts of B. gaudichaudiana.17
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 87 ©ARKAT 3. Pharmacological Activity
+
+Pharmacological studies have generally focused on the fractions of either a plant species or a “crude drug”, considered as a preparation of either a single or a mixture of Baccharis plants. A number of studies, however, have focused on the bioactivity of specific isolated compound(s). Some of these compounds were bioassay-guided isolated after previously detecting activity on the part of the plant. The information in this section is organized by pharmacological activity, with reference to the crude extract or isolated constituents studied.
+
+3.1. Antibacterial, antifungal and antiviral activities
+
+A review of the literature concerning the evaluation of plant extracts of the Baccharis genus and secondary metabolites isolated from them reveals that many studies into their antimicrobial and antiviral activities have been carried out in recent years.
+
+Propolis is natural product that may prevent dental caries triggered by Streptococcus mutans. B. dracunculifolia, a native plant from Brazil, is the main botanical origin for production of green propolis (Brazilian propolis) by honeybees. However, whether B. dracunculifolia has an anticariogenic effect like green propolis remains unknown. Da Silva et al.39 investigated the in vitro effects of Brazilian green propolis and B. dracunculifolia extracts on cariogenic factors of Streptococcus mutans. Both extracts produced a bacteriostatic effect on Streptococcus mutans cultures at a concentration of 0.40 mg/ml. These results demonstrated that B. dracunculifolia leaf rinse and green propolis extracts have similar inhibitory effects on the Streptococcus mutans cariogenic factors evaluated, and suggest that B. dracunculifolia leaves may be a potential source for pharmaceutical products used for this purpose.
+
+Additionally, Santos et al.40 investigated the antibacterial activity on periodontopathogens of propolis samples collected in the dry and rainy seasons from an experimental apiary located in a region of Cerrado vegetation in Brazil. Antibacterial assays were performed by the method of dilution of an ethanol extract of propolis in agar, and showed that all sixteen actynomycetemcomitan strains tested were inhibited by propolis concentrations of 0.1% to 0.25%, and did not grow at all at 0.5%. The growth inhibition of six Fusobacterium spp. and sixteen black-pigmented anaerobes was observed at concentrations of 0.05% to 0.1%, and no growth was observed at 0.25%.
+
+Orsi et al.41 investigated the effects of Brazilian and Bulgarian propolis on the bactericidal activity of macrophages against Salmonella typhimurium. Macrophages play an important role in the early phase of Salmonella infection. Propolis from Brazil and Bulgaria enhanced the bactericidal activity of macrophages depending on its concentration. Brazilian propolis seemed to be more efficient than Bulgarian, due to their different chemical composition. In Bulgaria, bees collect the material mainly from the bud exudates of the poplar tree, while in Brazil B. dracunculifolia was shown to be the main source of propolis.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 88 ©ARKAT
+
+Gekker et al.42 reported that propolis inhibited viral expression of human immunodeficiency virus type-1 (HIV-1) in a concentration-dependent manner. Maximal suppression of 85 and 98% was observed at 66.6 µg/ml propolis in CD4(+) lymphocyte and microglial cell cultures, respectively. The mechanism of the antiviral property of propolis in CD4(+) lymphocytes appeared to involve, in part, inhibition of viral entry. While propolis had an additive antiviral effect on the reverse transcriptase inhibitor zidovudine, it had no noticeable effect on the protease inhibitor indinavir. The results of this in vitro study support the need for clinical trials of propolis or one or more of its components in the treatment of HIV-1 infection.
+
+Reports on antimicrobial activity in other Baccharis species have also been found in the literature. Thirty-two organic and aqueous extracts belonging to twelve Argentinian medicinal plants were tested for their in vitro trypanocidal activity on epimastigote forms of Trypanosoma cruzi.43 Among the selected species, the organic extracts of Baccharis spicata (Lam.) Baill. showed trypanocidal activity with a percentage of growth inhibition higher than 70% at a concentration of 100 µg/ml. Examples of other antimicrobial extracts of the Baccharis genus also included B. heterophylla, a plant used in Mexican traditional medicine,44 and B. glutinosa which inhibited the growth of Aspergillus flavus, Aspergillus niger, Penicillium chrysogenum, Penicillium expansum, Fusarium moniliforme and Fusarium poae moulds.45
+
+The compounds responsible for the reported antimicrobial activity in the Baccharis species are terpenoids, the main constituents of their essential oils. Derno et al.46 evaluated the antibacterial and antifungal activity of essential oils obtained from medicinal plants from Argentina. The microorganisms used were Staphylococcus aureus, Staphylococcus epidermis, Bacillus cereus, Micrococcus luteus, Enterococcus faecalis, Escherichia coli, Klebsiella spp., Proteus mirabilis, Pseudomonas aeruginosa and the yeast Candida albicans. Among the plants tested, the essential oil of B. flabellata was effective against Staphylococcus aureus. Examples of other antimicrobial essential oils of the Baccharis genus also included the essential oil of B. latifolia which showed interesting activity against Staphylococcus aureus,31 and the essential oil from aerial parts of B. trinervis which were active against four bacteria and one fungus.15
+
+Some of the antimicrobial compounds from the Baccharis genus were bioassay-guided isolated after previously detecting activity on the part of the plant. Da Silva et al.47 performed a trypanocidal bioactivity-guided study of B. dracunculifolia, the main botanical origin of Brazilian green propolis. The leaf rinse extract of B. dracunculifolia, at a concentration of 3 mg/ml, displayed 100% lysis of trypomastigote forms of the Y strain of Trypanosoma cruzi. The chromatographic fractionation of the leaf rinse extract afforded the isolation of isosakuranetin, aromadendrin-4’-methylether, baccharis oxide (Figure 11), ferulic acid, dihydrocinnamic acid, 3prenyl-4-(dihydrocinamoyloxy)-cinnamic acid and friedelanol. Isosakuranetin and baccharis oxide (Figure 11) were the most active in the trypanocidal assay, showing IC50 values (inhibitory concentration required for 50% inhibition) of 247.6 and 249.8 µM, respectively. Examples of other antimicrobial terpenoids of the Baccharis genus also included clerodane diterpenes from B. sagittalis,20 and the diterpene labda-7,13E-dien-2β,15-diol from B. grisebachii which was active
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 89 ©ARKAT towards Epidermophyton floccosum, Trichophyton rubrum, Microsporus canis and Trichophyton mentagrophytes with IC50 values between 12.5-25 µg/ml.22
+
+O O O
+
+Figure 11. Structure of baccharis oxide.
+
+Besides diterpenoids and essential oils, compounds belonging to other structural types have also been isolated from Baccharis species as antimicrobial constituents, such as 3-prenyl-pcoumaric acid and 3,5-diprenyl-p-coumaric acid from B. grisebachii which were active towards Epidermophyton floccosum and Trichophyton rubrum with IC50 values of 50 and 100-125 µg/ml, respectively.22
+
+3.2. Anti-inflammatory and antioxidant activities
+
+Various research groups initiated anti-inflammatory screening programmes on plants used in traditional medicine all over the world as anti-inflammatory agents in the treatment of several pathologies, although other uses have also been suggested. Some of these studies concern species belonging to the genus Baccharis.
+
+Fifty four different extracts of nine Bolivian plants were evaluated for their radical scavenging activity by the 2,2-diphenyl-1-picrylhydrazyl (DPPH), nitro-blue tetrazolium/hypoxanthine superoxide and hydroxyl/luminal chemiluminiscence methods, and for their antioxidant activity by the β-carotene bleaching test.48 Some ethyl acetate extracts such as those from B. pentlandii and Baccharis platypoda D.C. exhibited activities comparable to those of commercial extracts/compounds, thus making it possible to consider some of the studied plants as a potential source of antioxidants of natural origin.
+
+Organic and aqueous extracts from four Bolivian Baccharis species, B. obtusifolia, B. latifolia, B. pentlandii and B. subalata were studied for their in vitro anti-inflammatory activity in cellular systems.49 These extracts were tested for their ability to inhibit the generation of several inflammatory mediators in two experimental systems: calcium ionophore A23187stimulated mouse peritoneal macrophages validated as a source of cyclooxygenase-1 (prostaglandin E2) and 5-lipoxygenase (leukotriene C4) enzymes, and elicited mouse peritoneal macrophages stimulated with Escherichia coli lipopolysaccharide for testing cyclooxygenase-2
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 90 ©ARKAT (prostaglandin E2), nitric oxide synthase (nitric oxide) and tumour necrosis factor-α activity. Most of the extracts were active in all assays.
+
+Coelho et al.50 investigated the anti-arthritic effect of the aqueous extract of B. genistelloides. The treatment of the collagen-induced arthritis group with 4.2 mg/Kg of extract induced an important decrease (75%) in severity in all animals, while the 42 mg/Kg dose was effective in only 50% of the animals. Examples of other anti-inflammatory and antioxidant extracts of the Baccharis genus also included B. articulata extracts,38 and propolis, a beehive product with a very complex chemical composition, widely used in folk medicine because of its several therapeutic activities.51
+
+The compounds responsible for the reported anti-inflammatory and antioxidant activities in the Baccharis species are polyphenolic compounds, such as phenolic acids, flavonoids and coumarins. Some of these compounds were bioassay-guided isolated after previously detecting activity on the part of the plant. The aqueous extracts of aerial parts of B. trimera, B. crispa and B. usterii displayed significant radical scavenging activity in a DPPH assay.52 In order to identify the active principles rapidly, the crude extracts were analyzed by high performance liquid chromatography (HPLC). An HPLC-micro-fractionation of the extract of B. usterii was performed and a series of radical-scavenging quinic acid derivatives were identified as active constituents.
+
+The antioxidant activity of crude ethanol and aqueous extracts, together with dichloromethane, ethyl acetate and n-butanol fractions obtained from aqueous extract of B. articulata was detected using a DPPH assay.38 The n-butanol fraction was found to be the most active and its main compound was isolated, identified and assayed. This compound, 4’-O-β-Dglucopyranosyl-3’,5’-dimethoxybenzylcaffeate, presented a similar antioxidant capacity when compared to the reference compound, trolox.
+
+The exudates and seriated extracts from the aerial parts of B. grisebachii, which is recommended as a digestive and to relieve gastric ulcers in Argentina, showed activity as free radical scavengers and inhibited lipoperoxidation in erythrocytes.30 Assay-guided isolation led to seven p-coumaric acid derivatives and six flavonoids as the main active constituents of the crude drug. The activity towards the superoxide anion was mainly due to the flavonoid constituents 5,7,4’-trihydroxy-6-methoxyflavone and quercetin (Figure 8). Other antioxidant flavonoids from the Baccharis genus are quercetin-3-O-L-α-rhamnoside, eupafolin, rutin and 3,5-dicaffeoylquinic acid from B. gaudichaudiana, which moderate scavenging activities towards DPPH radical.17
+
+3.3. Other activities
+
+Several other pharmacological actions have been documented from the Baccharis genus and compounds isolated from its species. Many plants are used in traditional medicine as active against various effects induced by snakebite. Few attempts have been made, however, to identify the nature of natural plant products with anti-ophidian properties. B. trimera, known in Brazil as “carqueja”, has been popularly used to treat liver disease, rheumatism and diabetes, as well as in
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 91 ©ARKAT digestive, hepatic and renal disorders. The active component was identified as the clerodane diterpene 7α-hydroxy-3,13-clerodadiene-16,15:18,19-diolide. Januario et al.53 reported the antiproteolytic and anti-hemorrhagic properties of this compound against snake venoms. The compound was able to neutralize the hemorrhagic, fibrinogenolytic and caseinolytic activities of class P-1 and III metalloproteases isolated from snake venoms. However, the potential use of this inhibitor to complement anti-venom as an alternative treatment for snakebite poisoning needs to be evaluated in more detail.
+
+With this species, B. trimera, Oliveira et al.54 investigated the effects of its extracts and fractions on the glycaemia of diabetic and non-diabetic mice. In diabetic mice, the aqueous fraction of B. trimera (2000 mg/Kg twice daily) reduced the glycaemia after seven days of treatment. This effect was not associated with a reduction in body weight. These results suggest that B. trimera has a potential antidiabetic activity and indicate that food intake and body weight must be determined when evaluating metabolic parameters after prolonged administration of plant extracts. Dichloromethane and methanol extracts of B. trimera also had a relaxant effect on the smooth muscle of the corpus carvenosum of guinea pigs.55
+
+B. teindalensis is a herbal plant which is widely used in folk medicine in Ecuador as an anti-inflammatory, analgesic and antimicrobial remedy. Vidari et al.56 investigated the antidiarrhoeal and antiulcer activities of their extracts in different mouse models. These results confirm the gastrointestinal protection afforded by B. teindalensis and suggest that the antiulcer effect could be partially due to its anti-inflammatory properties. Another Baccharis species with gastroprotective action is B. illinita, a plant used in folk medicine to treat gastric disorders.57 This plant has a protective action against gastric lesions of the mucosa involving the maintenance of protective factors such as mucus, bicarbonate and blood flow, besides the reduction of gastric acid secretion.
+
+Finally, medicinal plants, including propolis and B. grisebachii, contain 3-prenyl-cinnamic acid derivatives which are claimed to induce cancer cell apoptosis and used in antitumour drugs, health foods and cosmetics.58,59
+
+4. Toxicological Considerations
+
+Though herbal products are generally regarded as safe, their toxicity in humans, plants and animals can not be ruled out. A few reports are available on the toxicological evaluation of Baccharis species.
+
+The poisonous plant B. coridifolia causes necrosis in lymphoid tissues and the gastrointestinal tract of cattle, horses, sheep and rabbits. Rissi et al.60 reported two outbreaks of B. coridifolia poisoning in cattle in southern Brazil. Cases occurred when stressed, hungry and thirsty cattle brought from pastures free of B. coridifolia were placed into pastures heavily infested by this poisonous plant. In the two outbreaks, morbidity was 21.73 and 22.51%, and lethality was virtually 100%. Clinical signs included mild bloating, instability of hind limbs,
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 92 ©ARKAT muscle tremors, dry muzzle, dry faeces or diarrhoea, polydipsia and restlessness. Consistent necrosis findings included dehydration, large amounts of ruminal fluid, reddening and erosions of the mucosae of the forestomach. Degeneration and necrosis of the lining epithelium of the forestomach and of lymphoid tissue were the main histopathological changes encountered. Varaschin and Alessi61 reported an experimental poisoning of mice in order to establish an experimental model in a laboratory animal species. Mice reproduce most of the lesions observed in naturally poisoned cattle, and the use of this species as an experimental model is valid.
+
+Other Baccharis species and compounds isolated from them have been reported to have phytotoxic properties. The inhibitory effects on plant growth by acetophenones and tremetones isolated from the aerial parts of B. linearis, Baccharis magellanica (Radin) and Baccharis umbelliformis D.C. collected in Chile were assayed.62 The effects on seedling growth, germination and respiration of the weedy target species of ryegrass, lettuce, green tomato and red clover were measured. These results indicate that the compounds interfere with the dicot preemergence properties, mainly energy metabolism of the seeds at the level of respiration. These compounds appear to have selective effects on the radicle rather than on the shoot growth of dicot seeds.
+
+Baccharis boliviensis (Wedd.) Cabr., a plant with a wide distribution in the arid regions of north-western Argentina, inhibited the germination of the cacti Trichocereus pasacana.63 Examples of another phytotoxic Baccharis species included the essential oil of B. salicifolia, which had toxic and repellent effects on Trilobium castaneum.64
+
+5. Baccharis plant cell cultures
+
+Cultured plant cells may serve as sources of the various compounds characteristic of intact plants. Although the technology for plant cell culture exists, industrial applications have been limited to date, due to low economic viability and technological feasibility on a large scale. However, several examples of plant cell cultures have been reported from the genus Baccharis. These reports concern mainly the species B. trimera.
+
+The influence of various growth regulators and medium concentrations, in different quantities, on the in vitro callus induction of B. trimera was evaluated.65 It was found that the callus initiation was dependent on both the growth regulator and medium concentration. The highest callus induction and development were obtained by using 15 µM of 1-naphthaleneacetic acid as growth regulator and half strength of salts, vitamins and myo-inositol of Murashige and Skoog medium. In vitro shoot proliferation was obtained by using thidiazuran. An experiment was carried out under greenhouse conditions to evaluate the effects of arbuscular mycorrhizal fungi on growth and production of total phenols in B. trimera.66 Arbuscular mycorrhizal fungi significantly influenced the production of total phenols in the B. trimera plants. The largest production of total phenols was obtained, independently of the manuring method, in plants inoculated with the species Glomus claruma.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 93 ©ARKAT
+
+De Bona et al.67 studied the effect of indolbutiric acid and naphthaleneacetic acid from auxins on the rooting of cuttings from three Baccharis species: B. articulata, B. trimera and B. stenocephala. However, these results suggested that auxins did not affect rooting cuttings of these species.
+
+6. Conclusions
+
+The growing significance of natural products in drug discovery and development is obvious. Baccharis has been proved to be a very valuable genus to the discovery and utilization of medicinal natural products. As the investigation continues, this genus may prove to be a rich source of lead compounds needed for the development of new therapeutical agents. The collected information provides a means to understand the latest developments in the pharmacology and phytochemistry of the genus. The information summarized here is intended to serve as a reference tool to people in all fields of ethnopharmacology and natural products chemistry.
+
+Acknowledgements
+
+This work was supported by Programa de Cooperación Científica con Iberoamérica (PR 77/008992) from Ministerio de Educación, Cultura y Deporte. The technical assistance of Ms. P. Brooke-Turner is gratefully acknowledged.
+
+References
+
+1. Heinrich, M. Curr. Top. Med. Chem. 2003, 3, 141. 2. Newman, D. J.; Cragg, G. M.; Snader, K. M. J. Nat. Prod. 2003, 66, 1022. 3. Abad, M. J.; Latourrette, A.; Bermejo, P. In Studies in Natural Products Chemistry; Atta-urRahman Ed.; Elsevier: Oxford, 2005; Vol. 30, p 703. 4. Gonzaga, L.; Costa, I. M.; Pizzolatti, M. G. Quim. Nova 2005, 28, 85. 5. De Luca, M.; Zalles, J. Flora Medicinal Boliviana. Diccionario Enciclopédico; Los Amigos del Libro: Bolivia, 1992. 6. Gupta, M. P. 270 Plantas Medicinales Iberoamericanas; Convenio Andrés Bello: Colombia, 1995. 7. Gomes, U. E.; De Carvalho, D. A. Plantas Medicinais no Dominio Dos Cerrados; Editora UFLA: Brazil, 2001. 8. Di stasi, L. C.; Akiko, C. Plantas Medicinais na Amazonia e na Mata Atlantica; Editora UNESP: Brazil, 2002.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 94 ©ARKAT 9. Lorenzi, H.; Abreu, F.J. Plantas Medicinais no Brazil, Natives e Exoticas; Grafico Osmar Gomes: Brazil, 2002. 10. Malizia, R. A.; Cardell, D. A.; Molli, J. S.; Gonzalez, S.; Guerra, P. E.; Grau, R. J. J. Essent. Oil. Res. 2005, 17, 103. 11. Malizia, R. A.; Cardell, D. A.; Molli, J. S.; Gonzalez, S.; Guerra, P. E.; Grau, R. J. J. Essent. Oil. Res. 2005, 17, 194. 12. Biurrun, F.; Julián, R. H.; Lopez, M. L.; Zygadlo, J. A. J. Essent. Oil Res. 2005, 17, 122. 13. Arze, J. B. L.; Garneau, F. X.; Collin, G.; Jean, F. I. ; Gaynon, H. J. Essent. Oil Res. 2004, 16, 429. 14. Simoes, C. A.; Debenedetti, S.; Spegazzini, E.; Mentz, L. A.; Matzenbacher, N. I.; Limberger, R. P.; Henriques, A. T. Plants Syst. Evol. 2005, 253, 23. 15. Alburquerque, M. R. J. R.; Souza, E. B.; Lins, M. V. D. S.; Nogueira, N. A. P.; Lemos, T. L. G.; Silveira, E. R.; Pessoa, O. D. L. Arkivoc 2004, 6, 59. 16. Zunino, M. P.; Lopez, M. L.; Zygadlo, J. A.; Lopez, A. G. J. Essent. Oil Res. 2004, 16, 29. 17. Akaike, S.; Sumino, M.; Sekine, T.; Seo, S.; Kimura, N.; Ikegami, F. Chem. Pharm. Bull. 2003, 51, 197. 18. Hayashi, K. I.; Kanamori, T.; Yamazoe, A.; Yamada, M.; Nozaki, H. J. Nat. Prod. 2005, 68, 1121. 19. Guo, Y.; Li, Y.; Xu, J.; Watanabe, R.; Oshima, Y.; Yamakuni, T.; Ohizumi, Y. J. Nat. Prod. 2006, 69, 274. 20. Cifuente, D. A.; Borkowski, E. J.; Sosa, M. E.; Gianello, J. C.; Giordano, D. S.; Tonn, C. E. Phytochemistry 2002, 61, 899. 21. Juan, V. F.; Rossomando, P. C.; Giordano, O. S.; Saad, J. R. Phytochemistry 2002, 61, 389. 22. Feresin, G. E.; Tapia, A.; Giménez, A.; Ravelo, A. G.; Zacchino, S.; Sortino, M.; SchmedaHirschmann, G. J. Ethnopharmacol. 2003, 89, 73. 23. Verdi, L. G.; Brighente, I. M. C.; Schripsema, J.; Braz Filho, R.; Pizzolatti, M. G. Biochem. Syst. Ecol. 2004, 32, 837. 24. Simirgiotis, M. J.; Garcia, M.; Sosa, M. E.; Giordano, O. S.; Tonn, C. E. J. Argent. Chem. Soc. 2003, 91, 109. 25. Moreira, F. P. M.; Voutinho, V.; Pimentel, A. B.; Caro, M. S. P.; Costa, I. M.; Pizzolatti, M. G.; Delle, F. Quim. Nova 2003, 26, 309. 26. Moreira, F. P. M.; Branco, A.; Pizzolatti, M. G.; Morais, A. A.; Monache, F. D. Biochem. Syst. Ecol. 2003, 31, 319. 27. Kumazawa, S.; Yoneda, M.; Shibata, I.; Kanaeda, J.; Hamasaka, T.; Nakayama, T. Chem. Pharm. Bull. 2003, 51, 740. 28. Kumazawa, S.; Moneda, M.; Nakayama, T. FFI Journal 2004, 209, 132. 29. Park, Y. K.; Fukuda, I.; Ashida, H.; Nishiumi, S.; Yoshida, K.; Daugsch, A.; Sato, H. H.; Pastore, G.M. J. Agric. Food Chem. 2005, 53, 10306. 30. Tapia, A.; Rodríguez, J.; Theoduloz, C.; Lopez, S.; Feresin, G. E.; Schmeda-Hirschmann, G. J. Ethnopharmacol. 2004, 95, 155.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 95 ©ARKAT 31. Salcedo, L.; Pillco, A.; Rodrigo, G.; Sterner, O.; Almanza, G. R. Rev. Boliv. Quim. 2003, 20, 43. 32. Cordero, C. P.; Gomez-Gonzales, S.; Leon-Acosta, C. J.; Morantes-Medina, S. J.; Aristizabal, F. A. Fitoterapia 2004, 75, 225. 33. De Alencor, S. M.; De Aguiar, C. L.; Paredes-Guzman, J.; Park, Y. K. Ciencia Rural 2005, 35, 909. 34. Park, Y. K.; Paredes, J. F.; Aguiar, C. L.; Alencao, S. M.; Fujiwara, F. Y. J. Agric. Food Chem. 2004, 52, 1100. 35. Nagatani, Y.; Warasina, T.; Noro, T. Nat. Med. 2002, 56, 195. 36. Nagatani, Y.; Warasina, T.; Noro, T. Chem. Pharm. Bull. 2002, 50, 583. 37. Midorikawa, K.; Banskota, A. H.; Tezuka, Y.; Matsushige, K.; Message, D.; Huertas, A. A. G.; Kadota, S. Wakan Iyakugaku Zasshi 2003, 20, 187. 38. De Oliveira, S. Q.; Dal-Pizzol, F.; Gosmann, G.; Guillaume, D.; Moreira, J. C. F.; Schenkel, E. P. Free Rad. Res. 2003, 37, 555. 39. Da Silva Leitao, D. P.; Da Silva Filho, A. A.; Polizello Morselli, A. C. M.; Basto, J.K.; Spadaro, A.C.C. Biol. Pharm. Bull. 2004, 27, 1834. 40. Santos, F. A.; Bastos, E. M. A. F.; Maia, A. B. R. A.; Uzeda, M.; Carvalho, M. A. R.; Farias, L. M.; Moreira, E. S. A. Phytother. Res. 2003, 17, 285. 41. Orsi, R. O.; Sforcin, J. M.; Funari, S. R. C.; Bankova, N. Int. Immunopharmacol. 2005, 5, 359. 42. Gekker, G.; Hu, S.; Spivak, M.; Lokensgard, J. R.; Peterson, P. K. J. Ethn- pharmacol. 2005, 102, 158. 43. Sulsen, V.; Guida, C.; Coussio, J.; Paveto, C.; Muschietti, L.; Martino, V. Parasitol. Res. 2006, 98, 370. 44. Rojas, A.; Mendoza, S.; Moreno, J.; Arellano, R. O. Int. J. Phytother. Phytopharmacol. 2003, 10, 416. 45. Tequida, M.; Cortez, M.; Rosas, E. C.; Lopez, S.; Corrales, C. Rev. Iberoam. Micol. 2002, 19, 84. 46. Derno, M.; Oliva, M. M.; Lopez, M. L.; Zunino, M. P.; Zygadlo, J. Pharm. Biol. 2005, 43, 129. 47. Da Silva, A. A.; Bueno, P. C. P.; Gregorio, L. E.; Andrade, M. L.; Alburquerque, S.; Bastos, J. K. J. Pharm. Pharmacol. 2004, 56, 1195. 48. Parejo, I.; Viladomat, F.; Bastida, J.; Rosas Romero, A.; Saavedra, G.; Murcia, M. A.; Jiménez, A. M.; Codina, C. Life Sci. 2003, 73, 1667. 49. Abad, M. J.; Bessa, A. L.; Ballarin, B.; Aragón, O.; Gonzales, E.; Bermejo, P. J. Ethnopharmacol 2006, 103, 338. 50. Coelho, M. G. P.; Reis, P. A.; Gava, V. B.; Marques, P. R.; Gayer, C. R.; Laranja, G. A. T.; Felzenswalb, I.; Sabino, K. C. C. Toxicol. Lett. 2004, 154, 69. 51. Sforcin, J. M.; Orsi, R. O.; Bankova, V. J. Ethnopharmacol. 2005, 98, 301.
+
+Issue in Honor of Prof. Atta-ur-Rahman ARKIVOC 2007 (vii) 76-96 ISSN 1424-6376 Page 96 ©ARKAT 52. Simoes, C. A.; Queiroz, E. F.; Henriques, A. T.; Hostettmann, K. Phytochem. Anal. 2005, 16, 307. 53. Januario, A. H.; Santos, S. L.; Marcusi, S.; Mazzi, M. V.; Pietro, R. C. L. R.; Sato, D. N.; Ellena, J.; Sampaio, S. V.; Franca, S. C.; Soares, A. M. Chem. Biol. Interact. 2004, 150, 243. 54. Oliveira, A. C. P.; Endringer, D. C.; Amorin, L. A. S.; Brandao, M. G. L.; Coelho, M. M. J. Ethnopharmacol. 2005, 102, 465. 55. Hnatyszyn, O.; Moscatelli, V.; Garcia, J.; Rondina, R.; Costa, M.; Arranz, C.; Balaszczuk, A.; Ferraro, G.; Coussio, J. P. Int. J. Phytother. Phytopharmacol. 2003, 10, 669. 56. Vidari, G.; Vita, P.; Zarzuelo, A.; Galvez, J.; Zafra, C.; Chiriboga, X.; Berenguer, B.; La Casa, C.; Alarcón de la Lastra, C.; Motilva, V.; Martin, M. J. Pharm. Biol. 2003, 41, 403. 57. Hatsuko, C.; Setim, C.; Rieck, L.; Andrade, M. C. Pharmacol. Res. 2003, 47, 93. 58. Maruyama, H.; Araki, Y.; Mishima, S.; Asao, S. U.S. Patent 4,026,760, 2004. 59. Shibata, K.; Kaneeda, J.; Kawai, M.; Yoshimura, K.; Tazawa, S. Patent 1,617,06, 2004. 60. Rissi, D. R.; Pech, R. R.; Fighera, R. A.; Cagnini, D. Q.; Kommers, G. D.; Barros, C. S. L. Pesp. Vet. Bras. 2005, 25, 111. 61. Varaschin, M. S.; Alessi, A. C. Vet. Hum. Toxicol. 2003, 45, 42. 62. Cespedes, C. L.; Uchoa, A.; Salazar, J. R.; Perich, F.; Pardo, F. J. Agric. Food Chem. 2002, 50, 2283. 63. Cazon, A.; De Viana, M. L.; Gianello, J. C. Ecol. Austral 2002, 12, 73. 64. Garcia, M.; Donadel, O. J.; Ardanaz, C. E.; Tonn, C. E.; Sosa, M. E. Pest Manag. Sci. 2005, 61, 612. 65. Silva, F.G.; Pinto, J. E. B. P.; Sales, J. F.; Divino, S. P.; Bertolucci, S. K. V. Cienc. Agrotec. 2003, 27, 541. 66. Freitas, M. S. M.; Martins, M. A.; Carvalho, A. J. C.; Carneiro, R. F. V. Rev. Bras. Plantas Med. 2004, 6, 30. 67. De Bona, C. M.; Biasi, L. A.; Zanette, F.; Nakashima, T. Rev. Bras. Plantas Med. 2005, 7, 26.

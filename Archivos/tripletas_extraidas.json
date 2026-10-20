@@ -1918,5 +1918,1121 @@
     "relacion": "administrado_por",
     "objeto": "Poné",
     "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU.pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "nombre_cientifico",
+    "objeto": "Calatola costaricensis",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Metteniusaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Barbasco de rama",
+    "relacion": "nombre_cientifico",
+    "objeto": "Phyllanthus acuminatus",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Barbasco de rama",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Phyllanthaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Bejuco",
+    "relacion": "nombre_cientifico",
+    "objeto": "Carludovica palmata",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Biblia",
+    "relacion": "nombre_cientifico",
+    "objeto": "Justicia carnea",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "nombre_tsafiqui",
+    "objeto": "Colin-arashili",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "nombre_cientifico",
+    "objeto": "Polybotrya alfredii",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Dryopteridaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Cordoncillo",
+    "relacion": "nombre_cientifico",
+    "objeto": "Piper angustifolium",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Culantro de pozo",
+    "relacion": "nombre_tsafiqui",
+    "objeto": "Chiliangua",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Culantro de pozo",
+    "relacion": "nombre_cientifico",
+    "objeto": "Eryngium foetidum",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Culantro de pozo",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Apiaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "nombre_tsafiqui",
+    "objeto": "Faban-meran",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "nombre_cientifico",
+    "objeto": "Cucurbitaceae sp.",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Cucurbitaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "nombre_tsafiqui",
+    "objeto": "Haré",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "nombre_cientifico",
+    "objeto": "Polybotrya osmundacea",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Dryopteridaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Hiel del sol",
+    "relacion": "nombre_cientifico",
+    "objeto": "Baccharis latifolia",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Matico",
+    "relacion": "nombre_cientifico",
+    "objeto": "Piper aduncum",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Malaria",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Acanthaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ortiga brava",
+    "relacion": "nombre_cientifico",
+    "objeto": "Urera baccifera",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Planta de murciélago",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Cleomaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Planta insectívora",
+    "relacion": "nombre_cientifico",
+    "objeto": "Utricularia foliosa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Planta insectívora",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Lentibulariaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Platanillo",
+    "relacion": "nombre_cientifico",
+    "objeto": "Heliconia stricta",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Espasmo de arco",
+    "relacion": "nombre_cientifico",
+    "objeto": "Columnea sanguinea",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Simayuca",
+    "relacion": "nombre_cientifico",
+    "objeto": "Manihot brachyloba",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "nombre_tsafiqui",
+    "objeto": "Shua shili",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "nombre_cientifico",
+    "objeto": "Caesalpinia spinosa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Fabaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Uña de gato",
+    "relacion": "nombre_cientifico",
+    "objeto": "Uncaria tomentosa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "nombre_tsafiqui",
+    "objeto": "Chiaké Tape",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "nombre_cientifico",
+    "objeto": "Selaginella tomentosa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "pertenece_a_familia",
+    "objeto": "Selaginellaceae",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Achiote",
+    "relacion": "usado_en_ritual",
+    "objeto": "Pintura capilar y facial ceremonial",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ajengibre",
+    "relacion": "trata_a",
+    "objeto": "Cataratas y limpieza de vista",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ají de rana",
+    "relacion": "usa_parte",
+    "objeto": "Semillas secas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ajo de monte",
+    "relacion": "trata_a",
+    "objeto": "Mala vibra y energías negativas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ajo de monte",
+    "relacion": "trata_a",
+    "objeto": "Afecciones de las vías respiratorias",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ayahuasca",
+    "relacion": "usa_parte",
+    "objeto": "Bejuco leñoso",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Bastón de faraón",
+    "relacion": "trata_a",
+    "objeto": "Estrés y cefalea",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caucho",
+    "relacion": "trata_a",
+    "objeto": "Golpes y contusiones",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caucho",
+    "relacion": "trata_a",
+    "objeto": "Parásitos internos",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caucho",
+    "relacion": "usa_parte",
+    "objeto": "Látex lechoso",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caucho",
+    "relacion": "preparado_como",
+    "objeto": "Emplasto directo",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caña agria",
+    "relacion": "trata_a",
+    "objeto": "Fiebre interna",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caña agria",
+    "relacion": "trata_a",
+    "objeto": "Infección de vías urinarias",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caña agria",
+    "relacion": "usa_parte",
+    "objeto": "Tallo suculento",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Caña agria",
+    "relacion": "preparado_como",
+    "objeto": "Jugo exprimido fresco",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Cordoncillo",
+    "relacion": "trata_a",
+    "objeto": "Hemorragias",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Cordoncillo",
+    "relacion": "trata_a",
+    "objeto": "Heridas abiertas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Cordoncillo",
+    "relacion": "usa_parte",
+    "objeto": "Hojas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Cordoncillo",
+    "relacion": "preparado_como",
+    "objeto": "Polvo secado o infusión",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Copal",
+    "relacion": "trata_a",
+    "objeto": "Purificación ambiental de la choza",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Copal",
+    "relacion": "preparado_como",
+    "objeto": "Sahumerio y antorcha",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Copal",
+    "relacion": "administrado_por",
+    "objeto": "Poné",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Culantro de pozo",
+    "relacion": "trata_a",
+    "objeto": "Cólicos estomacales",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Culantro de pozo",
+    "relacion": "trata_a",
+    "objeto": "Espasmos digestivos",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Culantro de pozo",
+    "relacion": "usa_parte",
+    "objeto": "Hojas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Culantro de pozo",
+    "relacion": "usado_en_gastronomia",
+    "objeto": "Condimento del mayón y caldos",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Guayusa",
+    "relacion": "trata_a",
+    "objeto": "Fatiga matutina",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Guayusa",
+    "relacion": "trata_a",
+    "objeto": "Retención de líquidos",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Guayusa",
+    "relacion": "usa_parte",
+    "objeto": "Hojas tostadas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Guayusa",
+    "relacion": "preparado_como",
+    "objeto": "Decocción matutina",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Guayusa",
+    "relacion": "usado_en_ritual",
+    "objeto": "Reunión de interpretación de sueños",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Matico",
+    "relacion": "trata_a",
+    "objeto": "Infecciones de garganta y amígdalas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Matico",
+    "relacion": "trata_a",
+    "objeto": "Úlceras gástricas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Matico",
+    "relacion": "preparado_como",
+    "objeto": "Gargarismos e infusión",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Mocora",
+    "relacion": "trata_a",
+    "objeto": "Dolores corporales",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Mocora",
+    "relacion": "usa_parte",
+    "objeto": "Fruto y fibras",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Mocora",
+    "relacion": "usado_en_gastronomia",
+    "objeto": "Alimento y artesanía ancestral",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ortiga brava",
+    "relacion": "trata_a",
+    "objeto": "Dolor reumático y artritis",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ortiga brava",
+    "relacion": "trata_a",
+    "objeto": "Parálisis muscular",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ortiga brava",
+    "relacion": "usa_parte",
+    "objeto": "Tallo y hojas urticantes",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ortiga brava",
+    "relacion": "preparado_como",
+    "objeto": "Ortigadura tópica directa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ortiga brava",
+    "relacion": "administrado_por",
+    "objeto": "Poné",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Papa chilma",
+    "relacion": "trata_a",
+    "objeto": "Desnutrición",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Papa chilma",
+    "relacion": "usa_parte",
+    "objeto": "Tubérculo",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Papa chilma",
+    "relacion": "usado_en_gastronomia",
+    "objeto": "Cocido tradicional con sal de monte",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Planta zorrilla",
+    "relacion": "trata_a",
+    "objeto": "Mal aire y espanto infantil",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Planta zorrilla",
+    "relacion": "trata_a",
+    "objeto": "Inflamación articular",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Planta zorrilla",
+    "relacion": "usa_parte",
+    "objeto": "Raíz y hojas",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Planta zorrilla",
+    "relacion": "preparado_como",
+    "objeto": "Baño de frotación fétido protector",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Uña de gato",
+    "relacion": "trata_a",
+    "objeto": "Artritis reumatoide",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Uña de gato",
+    "relacion": "trata_a",
+    "objeto": "Inmunodeficiencia",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Uña de gato",
+    "relacion": "trata_a",
+    "objeto": "Gastritis crónica",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Uña de gato",
+    "relacion": "usa_parte",
+    "objeto": "Corteza leñosa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Uña de gato",
+    "relacion": "preparado_como",
+    "objeto": "Decocción prolongada",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Wito",
+    "relacion": "trata_a",
+    "objeto": "Infecciones micóticas de la piel",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Wito",
+    "relacion": "usa_parte",
+    "objeto": "Fruto verde",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Wito",
+    "relacion": "preparado_como",
+    "objeto": "Jugo tintóreo negro",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Wito",
+    "relacion": "usado_en_ritual",
+    "objeto": "Pintura corporal de protección guerrera",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zaragoza",
+    "relacion": "trata_a",
+    "objeto": "Mordeduras de serpientes",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zaragoza",
+    "relacion": "trata_a",
+    "objeto": "Fiebres intermitentes",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zaragoza",
+    "relacion": "usa_parte",
+    "objeto": "Raíz leñosa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zaragoza",
+    "relacion": "preparado_como",
+    "objeto": "Tintura en alcohol de caña",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zarzaparrilla",
+    "relacion": "trata_a",
+    "objeto": "Impurezas de la sangre",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zarzaparrilla",
+    "relacion": "trata_a",
+    "objeto": "Afecciones renales",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zarzaparrilla",
+    "relacion": "usa_parte",
+    "objeto": "Raíz rizomatosa",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Zarzaparrilla",
+    "relacion": "preparado_como",
+    "objeto": "Depurativo en decocción",
+    "fuente": "Plantas Medicinales y Gastronómicas - Centro Cultural UNI-SHU (Texto Plano) (1).pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "trata_a",
+    "objeto": "Caries dentales",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "trata_a",
+    "objeto": "Afecciones cutáneas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "usa_parte",
+    "objeto": "Hojas maduras",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "preparado_como",
+    "objeto": "Masticado directo sobre pieza dental",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "preparado_como",
+    "objeto": "Infusión para lavado dérmico",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Ampo Pole",
+    "relacion": "contiene_compuesto",
+    "objeto": "Alcaloides y terpenoides antimicrobianos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "trata_a",
+    "objeto": "Procesos inflamatorios internos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "trata_a",
+    "objeto": "Dolores osteoarticulares",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "usa_parte",
+    "objeto": "Corteza de la raíz",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "preparado_como",
+    "objeto": "Decocción a fuego lento en olla de barro",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Colin-arashili",
+    "relacion": "contiene_compuesto",
+    "objeto": "Taninos condensados y flavonoides",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "trata_a",
+    "objeto": "Parásitos intestinales",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "trata_a",
+    "objeto": "Inflamación digestiva",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "usa_parte",
+    "objeto": "Tallo verde y hojas tiernas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "preparado_como",
+    "objeto": "Purgante en el ritual Shapuca",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Paban-Shili",
+    "relacion": "contiene_compuesto",
+    "objeto": "Cucurbitacinas oxigenadas amargas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "trata_a",
+    "objeto": "Afecciones del hígado",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "trata_a",
+    "objeto": "Afecciones del páncreas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "trata_a",
+    "objeto": "Inflamación de colon",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "trata_a",
+    "objeto": "Quistes y miomas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "usa_parte",
+    "objeto": "Tallo y rizoma fresco",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Helecho Haré",
+    "relacion": "preparado_como",
+    "objeto": "Extracto machacado y nebulización",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Hierba de serpiente",
+    "relacion": "trata_a",
+    "objeto": "Mordeduras de serpientes Bothrops",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Hierba de serpiente",
+    "relacion": "trata_a",
+    "objeto": "Picaduras de insectos ponzoñosos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Hierba de serpiente",
+    "relacion": "trata_a",
+    "objeto": "Falta de vigor y decaimiento físico",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Hierba de serpiente",
+    "relacion": "usa_parte",
+    "objeto": "Hojas frescas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Hierba de serpiente",
+    "relacion": "preparado_como",
+    "objeto": "Cataplasma con tabaco sobre mordedura",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Hierba de serpiente",
+    "relacion": "contiene_compuesto",
+    "objeto": "Elagitaninos inhibidores de fosfolipasas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Malaria",
+    "relacion": "trata_a",
+    "objeto": "Malaria y paludismo",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Malaria",
+    "relacion": "trata_a",
+    "objeto": "Fiebres tropicales intermitentes",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Malaria",
+    "relacion": "usa_parte",
+    "objeto": "Tallo leñoso y hojas maduras",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Malaria",
+    "relacion": "preparado_como",
+    "objeto": "Cocimiento febrífugo por 15 minutos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Malaria",
+    "relacion": "contiene_compuesto",
+    "objeto": "Glucósidos iridoides y lignanos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Bejuco pescadito",
+    "relacion": "trata_a",
+    "objeto": "Tensión muscular tras faenas de cacería",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Bejuco pescadito",
+    "relacion": "trata_a",
+    "objeto": "Mal olor corporal",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Bejuco pescadito",
+    "relacion": "usa_parte",
+    "objeto": "Tallos y hojas aromáticas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Bejuco pescadito",
+    "relacion": "preparado_como",
+    "objeto": "Ablución tibia y vaporización en cámara",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Bejuco pescadito",
+    "relacion": "contiene_compuesto",
+    "objeto": "Aceites esenciales monoterpénicos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Pinta",
+    "relacion": "trata_a",
+    "objeto": "Sobrecarga de toxinas en la sangre",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Pinta",
+    "relacion": "trata_a",
+    "objeto": "Falta de concentración en ayunos rituales",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Pinta",
+    "relacion": "usa_parte",
+    "objeto": "Hojas tiernas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Pinta",
+    "relacion": "preparado_como",
+    "objeto": "Cocción ligera sin sal para dieta del Poné",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Pinta",
+    "relacion": "contiene_compuesto",
+    "objeto": "Lactonas sesquiterpénicas y poliacetilenos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Simayuca",
+    "relacion": "trata_a",
+    "objeto": "Diabetes y glucosa elevada",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Simayuca",
+    "relacion": "trata_a",
+    "objeto": "Colesterol y triglicéridos altos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Simayuca",
+    "relacion": "usa_parte",
+    "objeto": "Semillas y tubérculo",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Simayuca",
+    "relacion": "preparado_como",
+    "objeto": "Infusión de semillas para regulación glucémica",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Simayuca",
+    "relacion": "usado_en_gastronomia",
+    "objeto": "Harina de tubérculo deshidratado molido en batán",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "trata_a",
+    "objeto": "Eczemas y hongos cutáneos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "trata_a",
+    "objeto": "Dermatitis alérgica y rozaduras",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "usa_parte",
+    "objeto": "Bejuco y corteza espinosa",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "preparado_como",
+    "objeto": "Baños locales astringentes sin enjuague",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Suashili",
+    "relacion": "contiene_compuesto",
+    "objeto": "Taninos hidrolizables de ácido gálico",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Uña de vaca",
+    "relacion": "trata_a",
+    "objeto": "Diabetes mellitus",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Uña de vaca",
+    "relacion": "trata_a",
+    "objeto": "Dolores articulares reumáticos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Uña de vaca",
+    "relacion": "trata_a",
+    "objeto": "Retención renal de líquidos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Uña de vaca",
+    "relacion": "usa_parte",
+    "objeto": "Hojas bilobuladas",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Uña de vaca",
+    "relacion": "preparado_como",
+    "objeto": "Decocción tomada como agua de pasto",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Uña de vaca",
+    "relacion": "contiene_compuesto",
+    "objeto": "Flavonoides de rutina y kaempferol",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "trata_a",
+    "objeto": "Calor corporal y sobreexcitación nerviosa",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "trata_a",
+    "objeto": "Dolores musculares extremos",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "usa_parte",
+    "objeto": "Planta entera cespitosa",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "preparado_como",
+    "objeto": "Maceración en agua bendecida de cascada",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Chiaké Tape",
+    "relacion": "contiene_compuesto",
+    "objeto": "Biflavonoides y alcaloides de selaginelina",
+    "fuente": "Monografia_Etnobotanica_Plantas_Tradicionales_UNI_SHU_Tsachila.pdf"
+  },
+  {
+    "sujeto": "Uncaria tomentosa",
+    "relacion": "contiene_compuesto",
+    "objeto": "Alcaloides oxindólicos pentacíclicos",
+    "fuente": "Uncaria_tomentosa_journalpone0054618.pdf"
+  },
+  {
+    "sujeto": "Uncaria tomentosa",
+    "relacion": "trata_a",
+    "objeto": "Inflamación articular osteoartrítica",
+    "fuente": "Uncaria_tomentosa_journalpone0131882.pdf"
+  },
+  {
+    "sujeto": "Uncaria tomentosa",
+    "relacion": "trata_a",
+    "objeto": "Inmunosupresión celular",
+    "fuente": "Uncaria_tomentosa_journalpone0257165.pdf"
+  },
+  {
+    "sujeto": "Bixa orellana",
+    "relacion": "contiene_compuesto",
+    "objeto": "Bixina y norbixina carotenoides",
+    "fuente": "Bixa_orellana_journalpone0167793.pdf"
+  },
+  {
+    "sujeto": "Bixa orellana",
+    "relacion": "trata_a",
+    "objeto": "Estrés oxidativo dérmico",
+    "fuente": "Bixa_orellana_journalpone0267381.pdf"
+  },
+  {
+    "sujeto": "Bixa orellana",
+    "relacion": "trata_a",
+    "objeto": "Infecciones por Staphylococcus aureus",
+    "fuente": "Bixa_orellana_journalpone0307957.pdf"
+  },
+  {
+    "sujeto": "Banisteriopsis caapi",
+    "relacion": "contiene_compuesto",
+    "objeto": "Alcaloides harmala (harmina, harmalina)",
+    "fuente": "Banisteriopsis_caapi_journalpone0145840.pdf"
+  },
+  {
+    "sujeto": "Banisteriopsis caapi",
+    "relacion": "trata_a",
+    "objeto": "Trastornos ansiosos y depresión refractaria",
+    "fuente": "Banisteriopsis_caapi_journalpgph0000438.pdf"
+  },
+  {
+    "sujeto": "Piper aduncum",
+    "relacion": "contiene_compuesto",
+    "objeto": "Dillapiole y fenilpropanoides volátiles",
+    "fuente": "Piper_aduncum_journalpone0198682.pdf"
+  },
+  {
+    "sujeto": "Piper aduncum",
+    "relacion": "trata_a",
+    "objeto": "Leishmaniasis cutánea",
+    "fuente": "Piper_aduncum_journalpone0262794.pdf"
+  },
+  {
+    "sujeto": "Piper aduncum",
+    "relacion": "trata_a",
+    "objeto": "Larvas de insectos vectores de dengue",
+    "fuente": "Piper_aduncum_journalpone0318639.pdf"
+  },
+  {
+    "sujeto": "Petiveria alliacea",
+    "relacion": "contiene_compuesto",
+    "objeto": "Dibencil trisulfuro y compuestos azufrados",
+    "fuente": "Petiveria_alliacea_journalpone0169373.pdf"
+  },
+  {
+    "sujeto": "Petiveria alliacea",
+    "relacion": "trata_a",
+    "objeto": "Proliferación celular anómala",
+    "fuente": "Petiveria_alliacea_journalpone0196091.pdf"
+  },
+  {
+    "sujeto": "Petiveria alliacea",
+    "relacion": "trata_a",
+    "objeto": "Dolor inflamatorio crónico",
+    "fuente": "Petiveria_alliacea_journalpone0330860.pdf"
+  },
+  {
+    "sujeto": "Ilex guayusa",
+    "relacion": "contiene_compuesto",
+    "objeto": "Cafeína, teobromina y ácido clorogénico",
+    "fuente": "Guayusa_Ilex_guayusa_W4318831763.pdf"
+  },
+  {
+    "sujeto": "Ilex guayusa",
+    "relacion": "trata_a",
+    "objeto": "Fatiga cognitiva y somnolencia",
+    "fuente": "Guayusa_Ilex_guayusa_W7163218676.pdf"
+  },
+  {
+    "sujeto": "Eryngium foetidum",
+    "relacion": "contiene_compuesto",
+    "objeto": "E-2-dodecenal y fitoesteroles volátiles",
+    "fuente": "Eryngium_foetidum_journalpone0285936.pdf"
+  },
+  {
+    "sujeto": "Eryngium foetidum",
+    "relacion": "trata_a",
+    "objeto": "Convulsiones y espasmos febriles",
+    "fuente": "Culantro_de_pozo_Eryngium_foetidum_W3177347483.pdf"
+  },
+  {
+    "sujeto": "Siparuna thecaphora",
+    "relacion": "contiene_compuesto",
+    "objeto": "Sesquiterpenos curzerenona y germacreno",
+    "fuente": "Siparuna_journalpone0187599.pdf"
+  },
+  {
+    "sujeto": "Siparuna thecaphora",
+    "relacion": "trata_a",
+    "objeto": "Cefalea tensional y fiebre puerperal",
+    "fuente": "Puban_kará_Siparuna_thecaphora_W4391991163.pdf"
   }
 ]

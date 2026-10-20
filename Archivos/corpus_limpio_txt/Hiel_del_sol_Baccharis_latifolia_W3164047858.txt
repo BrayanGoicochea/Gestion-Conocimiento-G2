@@ -1,0 +1,275 @@
+© 2021 Fernanda Pilaquinga, Camila Granja, Eliza Jara, Mauricio Moncada-Basualto, Josué Pozo-Martínez, Lenys Fernández, Patricio Espinoza-Montero, Alexis Debut, Fernanda López and Claudio Olea-Azar. This open access article is distributed under a Creative Commons Attribution (CC-BY) 4.0 license. American Journal of Applied Sciences
+
+Original Research Paper Total Phenolic Composition and Antioxidant Activity of Silver Nanoparticles using Aqueous Extract of Chilca Leaves (Baccharis Latifolia)
+
+1Fernanda Pilaquinga, 1Camila Granja, 1Eliza Jara, 2Mauricio Moncada-Basualto, 2Josué Pozo-Martínez, 1Lenys Fernández, 1Patricio Espinoza-Montero, 3Alexis Debut, 4Fernanda López and 2Claudio Olea-Azar
+
+1Facultad de Ciencias Exactas y Naturales, Escuela de Ciencias Químicas, Pontificia Universidad Católica del Ecuador, Quito, Ecuador 2Departamento de Química Inorgánica y Analítica, Universidad de Chile, Santiago, Chile 3Centro de Nanociencia y Nanotecnología, Universidad de las Fuerzas Armadas ESPE, Sangolquí, Ecuador 4Pontificia Universidad Católica del Ecuador Sede Ibarra, Ibarra, Ecuador
+
+Article history Received: 23-01-2021 Revised: 17-02-2021 Accepted: 26-02-2021
+
+Corresponding Author: Fernanda Pilaquinga Pontificia Universidad Católica del Ecuador, Facultad de Ciencias Exactas y Naturales, Escuela de Ciencias Químicas. Quito, Ecuador Email: mfpilaquingaf@puce.edu.ec Abstract: The importance of studying polyphenols as natural antioxidants has encouraged the search for new methods of rapid, simple analysis. The synthesis of silver Nanoparticles (Ag NPs) using plant extracts has been presented as an alternative to determine the presence of polyphenolic compounds. In this study, aqueous extract of chilca (Baccharis latifolia), an endemic plant species from South America known for its medicinal properties, was used. This extract, because of its composition, can convert Ag+ ions to Ag0 in a chemical reduction process. To determine the optimal conditions for microwave-assisted nanoparticle synthesis, factorial experimental designs were used and analyzed with Statgraphics software. Ag NPs characterization was carried out with transmission electron microscopy; synthesized nanoparticles measured 4.86±2.44 nm on average. For the extract and Ag NPs, total polyphenolic content and antioxidant capacity were determined using oxygen radical absorbance capacity and cyclic voltammetry analysis. The method used to prepare both plant extracts and Ag NPs was determined to be fast and reliable. In addition to being a green and economical, this method allows the direct measurement of the plant extract’s total polyphenolic content and antioxidant capacity using analytical techniques that may be potentially applicable in the pharmaceutical industry.
+
+Keywords: Silver Nanoparticles, Chilca, Baccharis latifolia, Polyphenols, Antioxidant Activity
+
+Introduction Nanomaterials are presently studied with great interest because of their novel properties (Roco and Bainbridge, 2005; Whitesides, 2005; Zaman et al., 2014). Nanoparticles of noble metals such as gold, silver and platinum have generated greater attention for their electrical, optical, thermal and catalytic properties, among others (Jemilugba et al., 2019). Silver nanoparticles (Ag NPs) also have antibacterial properties and can be used as raw material for the preparation of drugs, surgical material and food containers (Morones et al., 2005; Kim et al., 2007; Michna et al., 2019). Ag NPs are also used for other applications, such as in textiles, cosmetics, instrument analysis and water treatment (Jini and Sharmila, 2020). This versatility is the result of its high surface ratio with respect to the volume presented by the material (Zheng and Wang, 2001; Sotiriou et al., 2011; Zaman et al., 2014). Ag NPs can be prepared using chemical, electrochemical, physical and biological methods (Abou El-Nour et al., 2010; Iravani et al., 2014; Wei et al., 2015). The current chemical method has some disadvantages, including the use of expensive, toxic and dangerous reducing reagents, which negatively affect both the profitability of the process and the environment (Tripathi et al., 2019). An alternative to this method is green synthesis, a technique that consists in taking advantage of a plant’s phytochemical composition, given that several of its compounds have reducing and stabilizing properties that can be used to produce Ag NPs
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+80 (Iravani, 2011). In general, plants’ are composed of polyphenols, polysaccharides and polyoxometalates, among other molecules, which facilitate the reduction of the metal precursor (Cowan, 1999; Mittal et al., 2013; Rauwel et al., 2015). The advantage of this technique is the use of a nonpolluting reducing agent, which is also economical, readily available and easy to handle as compared to others (Devaraj et al., 2013; Tripathi et al., 2019). Polyphenols are among the most common secondary metabolites and have antioxidant characteristics (Ribeiro et al., 2010). Antioxidants are defined as compounds that prevent oxidation reactions, which means they can prevent free radical formation, thus avoiding aging and degradation processes in plants and humans, respectively (Prior et al., 1998; Kähkönen et al., 1999). The importance in determining antioxidant capacity using Ag NPs relies in the fact that it is the same reaction mechanism in which polyphenols inactivate free radicals (Avello and Suwalsky, 2006). The plant Baccharis latifolia (Fig. 1), commonly known as chilca, has antioxidant properties (Loayza et al., 1995). This endemic plant of Ecuador belongs to the Asteraceae family and is distributed throughout the Ecuadorian Andean region between 1000 to 4000 masl (Shafi et al., 2004; Jadhav et al., 2009; Palá-Paúl et al., 2019). It can reach 2 m high and 3 m wide and its leaves have a maximum length of 20 cm (Abad et al., 2006). B. latifolia is considered a medicinal plant thanks to its anti-inflammatory effect (Abad and Bermejo, 2007). It is used frequently in traditional medicine for treating stomach pains, fractures and kidney problems, among other ailments (Loayza et al., 1995; Abad et al., 2006). Several studies have shown that its aqueous extract has a bactericidal effect on different microorganisms such as Staphylococcus aureus, Bacillus subtilis, Escherichia coli and Proteus subtilis (Fogliano et al., 1999; Mantena et al., 2003; Vijayakumar et al., 2013; Zambrano-Moreno et al., 2015). Studies have shown that B. latifolia consists of sterane derivatives (Hoyos Vargas and Yep Chu, 2008). The most relevant compounds are α-phellandrene (Robledo et al., 2019), caryophyllene oxide (Meeran et al., 2019), camphene (Ceborska, 2017), terpinen-4-ol (Luo et al., 2019) and γgurjunene (Harman-Ware et al., 2017). It also contains terpenes such as α- pinene and limonene, as well as various flavonoids (da Fonseca and de Carvalho, 2006; Barrón-Yánez et al., 2011). These compounds are responsible for the plant having a high resistance to UV radiation and allow it to generate a photo protective layer that prevents the formation of free radicals that may degrade its physical structure (Bennett and Walls grove, 1994; Bourgaud et al., 2001). Dichloromethane extract of B. latifolia leaves promotes anti-inflammatory activity at doses of 300 mg.kg−1, while acetone extract inhibits 89% of cancer cells in epithelial tissue (Prada et al., 2016; Calle et al., 2017). Derivatives of thymol (Kłeczek et al., 2019) and sesquiterpenes (Wang et al., 2019) have been found in its roots, while diterpenes from the labdane and germacrene nucleus (Zdero and Bohlmann, 1989) have been reported in the plant’s upper part. Regarding its biological activity, its cytotoxic, antiproliferative, antifungal and anti-inflammatory effects have been studied (Abad et al., 2006; Sequeda-Castañeda et al., 2015; Prada et al., 2016).
+
+Fig. 1: Baccharis latifolia
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+81 A number of investigations related to the synthesis of Ag NPs using plant extracts have been conducted (Jha et al., 2009; Song and Kim, 2009; Tippayawat et al., 2016); however, the use of B. latifolia in the preparation of Ag NPs has not been reported. Similar plants from the Asteraceae family (Calendula Officinalis L, Some Launaea and Tagetes erecta) have been studied and even larvicidal application has been found (Scampicchio et al., 2006; Özyürek et al., 2012; Akkoc et al., 2019). This study determined total polyphenolic content and antioxidant activity of the B. latifolia extract and the Ag NPs prepared with it to relate the reducing potential of the phenolic compounds contained in the extract with the nanoparticle formation as a method of chemical analysis. Materials and Methods Collection of B. latifolia Leaves B. latifolia leaves were obtained from San Miguel de Arcángel in the city of Ibarra, Ecuador (geographical coordinates 0.353060, -78.101828). The collection was carried out with a Wildlife Management Patent N°06-2019-ICFAU-FLO DPAI/MAE from the Herbarium ECAA-PUCESI and authorization for Scientific Research N°006-2019-IC-FAU-FLODPAI/MAE from the Ministry of the Environment of Ecuador. A botanical voucher was previously deposited for reference at Herbaria of the PUCESI. The plant material was dried for 4 h at 30°C. Dehydration was performed in a Termokool oven for 20 min. Finally, a Retsch Grindomix GM 200 knife mill was used for four min at 4500 rpm. The optimal conditions for extract preparation were selected with Statgraphics Centurion XVI software through a completely randomized 2^3 factorial type screening design (degrees of freedom: 35) and by following the extract preparation protocol reported by (Jaiswal et al., 2010). A total of 36 replicates were performed, varying parameters of plant mass, stirring time and reaction temperature. For each parameter, the following levels were used: Vegetable mass of 0.5 and 1.0 g; temperature of 20, 45 and 70°C; and heating time of 20, 40 and 60 min. The optimal plant extract was prepared with 0.63 g of plant sample with a stirring time of 60 min using a Boeco plate at room temperature (20°C). Finally, the extract was filtered through vacuum filtration and stored at 4°C. Synthesis of Ag NPs Synthesis was performed with a microwave-assisted procedure (Indurama MWI 28 BL) as suggested by Oukarroum et al. (2012). For the selection of optimal conditions, a fractional factorial type 2^4 screening design with two blocks and two central points per block (24 degrees of freedom) was applied. A total of 36 experimental tests were performed, varying the parameters of the concentration of AgNO3 as the metallic precursor, volume of the extract, pH and heating time. The levels for each factor were: AgNO3 concentration of 0.5 and 2.0 mm; extract volume of 0.5 and 2.0 mL; pH of 7 and 10; heating time 30 and 120 s. The response variables were absorbance and maximum wavelength, both obtained by visible spectrophotometry; target values were 1.000 UA and 410 nm, respectively. For optimal Ag NPs synthesis, a 1.54 mm silver solution was prepared using a high purity reagent (Merck 99.9%); 1.29 mL of aqueous extract at a pH of 8 was used for 49 s at a power of 800 W. The colloidal solution was cooled in an ice bath and stored in an amber bottle at 4°C. Characterization of Ag NPs Ag NPs were characterized using an FEI Tecnai G2 Twin Transmission Electron Microscope (TEM) operating at 80 kV, which allowed us to determine the size of the nanoparticles. To calculate average size, 412 nanoparticles were measured using Fiji software (Borase et al., 2014). Additionally, an X-Ray Diffraction (XRD) analysis was performed. Diffractograms were obtained using an Empyrean PANanalytical diffractometer in a Bragg-Brentano configuration of θ-2θ (generator-detector) equipped with a nickel filter, Cu Kalpha (λ = 1.541Å) and an X’Celerator detector. Prior to the analysis, the liquid sample was dried at 30°C on a microscope slide, which generates a thin layer while avoiding organic degradation. The average of 6 XRD patterns from 5° a 90° (configuration 2θ) was taken to obtain the final diffractogram. Total Polyphenol Content Total polyphenols were determined by the FolinCiocalteu spectrophotometric method (Folin and Ciocalteu, 1927). Oxygen Radical Absorbance Capacity Fluorescence Antioxidant Capacity Oxygen Radical Absorbance Capacity Fluorescence (ORAC-FL) analysis was carried out on a PerkinElmer EnSpire multimode plate reader using 96-well plates made of Nunc white polystyrene (Copenhagen, Denmark) by means of a Trolox calibration curve (3.0 to 20 μm). All reaction mixtures were prepared in triplicate and at least three independent assays were performed for each sample. The area under the fluorescence decay curve (ABC) was calculated by integrating the decrease in fluorescence. Data processing was performed with Origin Pro 8.5 SR2 software (Origin Lab Corporation, Washington, USA).
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+82 Results Synthesis and Characterization of Ag NPs The experimental design was applied to determine the optimal conditions for the preparation of the aqueous extract of B. latifolia leaves. With this methodology, it is possible to assess the effect of each one of the variables in the experimental result, as well as their interactions, while considering statistical significance (p≤0.05). Pareto diagrams (Fig. 2) show significant effects from the following factors: Plant mass, temperature and, to a lesser extent, the interaction between these two. Experimental design results for Ag NPs synthesis (Fig. 3) show that silver nitrate concentration is the only common factor with a significant effect (p≤0.05) on the targeted wavelength and absorbance. In Fig. 4, UV-Vis spectrum of the Ag NPs obtained with all parameters is shown. Figure 5 shows the micrograph of the Ag NPs analyzed using TEM and the frequency histogram. The XRD patterns of the silver nanoparticles synthesized according to the protocol described in section 3.2 are shown in Fig. 6. Total Polyphenol Content The results of total polyphenol content for B. latifolia and Ag NPs are shown in Table 1. Table 1. Total polyphenols present in B. latifolia and Ag NPs. Antioxidant Activity The results of antioxidant activity for B. latifolia and Ag NPs are shown in Table 2. Electrochemical Behavior Results concerning the electrochemical behavior of the B. latifolia extract and Ag NPs are shown in Figs. 7 to 9.
+
+Fig. 2: Pareto diagram for optimization of maximum wavelength (above) and absorbance (below) in the selection of conditions for preparing B. latifolia leaf extract C: Temperature
+
+AC
+
+A: Plant mass
+
+B: Time
+
+BC
+
+CC
+
+BB
+
+AB A: Plant mass
+
+AB
+
+C: Temperature
+
+B: Time
+
+AC
+
+BC
+
+CC
+
+BB 0 2 4 6 8 10 Standardized effect Standardized effect 0 2 4 6 8 10
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+83
+
+Fig. 3: Pareto diagram for optimization of the maximum wavelength (above) and absorbance (below) in the selection of Ag NPs synthesis conditions with B. latifolia aqueous extract
+
+Fig. 4: UV-Vis spectrum of Ag NPs synthesized with B. latifolia extract A: Extract volume
+
+B: AgNO3 (mM)
+
+AB
+
+BD
+
+AD AC
+
+BC
+
+C: pH
+
+CD
+
+D: Time D: Time
+
+B: AgNO3 (mM)
+
+BC
+
+C: pH
+
+AC
+
+BD
+
+AB
+
+CD
+
+AD
+
+A: Extract volume 0 2 4 6 8 10 Standardized effect 0 2 4 6 8 10 Standardized effect 1.40
+
+1.20
+
+1.00
+
+0.80
+
+0.60
+
+0.40
+
+0.20
+
+0.00 Absorbance (U.A) 415.01;1.25 300 400 500 600 700 800 900 Wavelength (n m)
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+84
+
+Fig. 5: TEM micrograph of Ag NPs (a) and size frequency histogram (b)
+
+Fig. 6: XRD diffractometer for Ag NPs
+
+Fig. 7: Cyclic voltammograms of: (a) B. latifolia extract in 0.10 mol L−1 sodium acetate solution and (b) blank acetate solution, using a GC electrode. Scanning rate 50 mVs−1 Vs Ag/AgCl at 25°C 220
+
+200
+
+180
+
+160
+
+140
+
+100
+
+120
+
+80
+
+60
+
+40
+
+20
+
+0 Size (nm) 0 2 4 6 8 10 12 14 16 18 20 22 24 Counts Counts 2000
+
+1500
+
+1000
+
+500 10 20 30 40 50 60 70 80 38.04* (111) 44.06* (200) Position [*2] (copper (Cu)) 64.34* (220) 25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+-10 -0.3 0.0 0.3 0.6 0.9 1.2 1.5 E/V(vs. Ag/AgCl) b a l/µA
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+85
+
+Fig. 8: Differential pulse voltammetry analysis of: (a) B. latifolia extract electrode in 0.10 mol L−1 sodium acetate solution and (b) blank acetate solution, using a GC. Scanning rate 50 mV. s−1 Vs Ag/AgCl at 25°C
+
+Fig. 9: Cyclic voltammograms of: (a) 5 mmol L−1 AgNO3 + 0.10 mol L−1 sodium acetate solution and (b) Ag NPs- B. latifolia in 0.10 mol L−1 sodium acetate solution, using a GC electrode. Scanning rate 50 mV. s−1 Vs Ag/AgCl at 25°C
+
+Table 1: Total polyphenols present in B. latifolia and Ag NPs
+
+Total polyphenols Sample (mg EAG/100 g dry mass) B. latifolia 598.5±16.7 Ag NPs 146.1±3.2
+
+Table 2: Antioxidant capacity of B. latifolia and Ag NPs
+
+ORAC-FL (µm Trolox Sample equivalent/l g extract) B. latifolia 27183±3183 Ag NPs 3497±742 Discussion Synthesis and Characterization of Ag NPs The optimization analysis indicated the following experimental parameters of Ag NPs synthesis with B. latifolia leaves as optimal: 0.63 g of vegetable matter, 20 mL of distilled water, 60 min of stirring and a temperature of 20°C. Since the maximum absorption wavelength (λ) is related to the size of the nanoparticles, the experimental design response was optimized to obtain a lambda as close to 410 nm as possible. The obtained Pareto diagram (Fig. 2) 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 E/V(vs. Ag/AgCl) 9.0
+
+7.5
+
+6.0
+
+4.5
+
+3.0
+
+1.5 l/µA -0.6 -0.3 0.0 0.3 0.6 0.9 1.2 E/V(vs. Ag/AgCl) 20
+
+10
+
+0
+
+-10
+
+-20 b a b
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+86 indicates that temperature and vegetable mass, as well as their interaction, are the factors that significantly affect obtaining the desired wavelength, therefore the NPs size. On the other hand, we considered that absorbance should have a high value as it is related to Ag NPs concentration, based on which the response optimization was performed to obtain a value close to 1000 UA. In this case, it was observed that vegetal mass and the interaction of vegetal mass with time are the two factors with significant effects, the former having greater magnitude. The temperature had a positive effect on lambda, meaning that at a higher temperature, the synthesized Ag NPs’ wavelength was greater, which is not desirable. Conversely, the plant mass had a negative effect on both wavelength and absorbance, indicating that a low proportion of the aqueous extract of B. latifolia leaves should be maintained to maximize absorbance; however, this would affect the size of the Ag NPs synthesized with the extract. To balance these factors, an optimization of multiple responses was performed through the desirability function created with the aforementioned wavelength and absorbance values. With this, it was established that the best extraction conditions to reach a maximum absorption at 410 nm and an absorbance of 1000 UA for nanoparticle synthesis were: 0.63 g of B. latifolia leaves and a temperature of 20°C. Other factors, although being non-significant, were optimized as follows: 20 mL of distilled water, 60 min of agitation. As in the previously described optimization, the target values for colloidal solutions of Ag NPs were a maximum wavelength near 410 nm and an absorbance close to 1000 UA. The performed experimental design shows that the concentration of silver nitrate directly influences both (maximum lambda and absorbance), so its balance is critical to obtain the desired characteristics, since a high concentration achieves a higher lambda (undesirable) but also a greater absorbance (desirable). It is key to note the reaction stoichiometry’s influence, since changes in any of the reagents’ concentrations affect the size of the obtained NPs, as evidenced by the effect of the AB interaction: Extract volume and silver nitrate concentration (Fig. 3). The inversely proportional relationship between extract volume and the wavelength of maximum absorption could be explained by the organic coating that remained on the Ag NPs, thus increasing their size. On the other hand, regarding absorbance, several factors and interactions had positive effects, time and pH being the most predominant. The interaction of H+ ions with nitrate concentration and with extract volume is an important aspect related to the reduction reaction necessary to synthesize nanoparticles, since the pH influences the chemical form in which molecules from the extract will be in its active form to participate as reducing agents. When performing the optimization based on the desirability parameter created from the absorbance and lambda target values, the following conditions were obtained: AgNO3 1.54 mM, 1.29 mL of plant extract, a pH of 8.2 and a time of 49 s. When applied to the synthesis procedure, Ag NPs formation was evidenced by the color change in the solution. The color of the aqueous extract of B. latifolia leaves is normally brown and it changed to yellowish-brown, which implies the presence of Ag NPs in the solution. The above is corroborated in Fig. 4, where it is also observed that the maximum absorption is 415 nm and the band has an absorbance of 1.25 UA, denoting compliance with the optimization performed through the experimental design. Similar studies using plant extracts from the Asteraceae family to prepare Ag NPs indicate that the maximum absorption band is between 414 and 430 nm. Morejón et al. (2018) found a maximum absorbance of 414 nm using Ambrosia arborescens extract, while (Padalia et al., 2015; Mousavi et al., 2018) obtained maximum absorbance at 430 nm with Artemisia turcomanica and Calendula officinalis, respectively. The average size of the nanoparticles was 4.86±2.44 nm. As can be seen in the TEM image (Fig. 5a) and size frequency histogram (5b), the organic layer that covers the silver nanoparticles measures 1 nm. Previously reported TEM analysis for Ag NPs obtained with extracts of Ambrosia arborescens, Artemisia turcomanica and Caléndula officinalis indicate an average size of 14, 21.22 and 46.11 nm, respectively. The size of the Ag NPs obtained in this study was significantly smaller, thanks to the experimental design approach we employed. In Figure 6 the peaks observed at the 2θ angle for the silver nanoparticles are the following: 38.04, 44.06 and 64.34°, which correspond to the (110), (200) and (220) reflection planes, respectively, of the FCC silver lattice (ICSD No. 98-018-0878) (Kumar et al., 2016). The most intense peak in the diffractogram, corresponding to the predominant orientation of Ag nanocrystals, is along the (111) plane and the Debye-Scherrer equation predicts an Ag NPs average size of around 15 nm, which is consistent with the value obtained by TEM. Other peaks correspond to the formation of AgCl and the presence of a bio-organic phase on the particles’ surface (Kumar et al., 2017); this indicates that the reaction is competitive and not just Ag NPs nanocrystals are produced (Gorji et al., 2019). Total Polyphenol Content Prior to beginning this study, a phytochemical screening was performed on the B. latifolia aqueous extract to confirm the presence of polyphenolic compounds. Recent studies on Asteraceae plants have reported that total polyphenol content can be between 265 and 1334 mg EAG/100 g of dry mass; Helianthus annuus L. is the plant with the lowest phenolic content, while
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+87 Echinacea purpurea L. Moench has the highest content (Güneş et al., 2019). As can be seen in the results for B. latifolia (Table 1), the concentration of polyphenolic compounds is within the range reported by (Güneş et al., 2019). However, the characteristics of the solvent used to extract the phenolic compounds suggest that the quantified polyphenols’ chemical nature (mainly organic acids of low molecular weight or glycosylated polyphenols) differs from that described above. In addition, it is important to keep in mind that not only can polyphenolic compounds reduce Folin’s reagent (the solvent used in the extraction), but other compounds with reducing capacity, such as carbohydrates with terminal reducing ends, could cause a false positive in this type of assay. Therefore, the results must be complemented with other techniques to accurately assess polyphenolic compounds. The decrease in the amount of phenolic compounds in Ag NPs when compared to the extract is because part of the concentration of polyphenols extracted from B. latifolia transforms Ag+ to Ag0. Therefore, the difference between the two values could be the result of some polyphenols being used to form Ag NPs. This suggests that with the solvent used, most of the reducing compounds were polyphenols or organic acids that have the necessary reducing power to form Ag0. Antioxidant Activity The antioxidant capacity of the B. latifolia aqueous extract was determined by the reaction of the phenolic compounds present in the extract with oxygen-centered radicals (RO/ROO●) generated by the thermolysis of the ABAP azo compound. The extract showed greater antioxidant capacity than the Ag NPs because to convert Ag+ to Ag0, the antioxidant compounds were oxidized, thus decreasing their concentration to quench the free radicals formed through this methodology. Therefore, some of the B. latifolia extract’s antioxidant capacity was used to create Ag NPs, which accounts for the difference in antioxidant capacity between the extract and the Ag NPs. The antioxidant capacity of the B. latifolia extract was found to be greater than that described for several other plants from the Asteraceae family (Ledoux et al., 2018). This could possibly be because of the solvent used to extract phenolic compounds, which could consist of mainly glycosylated compounds or low molecular weight organic acids such as gallic acid. Electrochemical Behavior Oxidation potential is a physicochemical parameter that determines the energy necessary for a compound to yield electrons. The current study’s oxidation potential values are linked to antioxidant capacity such that low oxidation potential implies a greater antioxidant capacity. By means of Cyclic Voltammetry (CV), the electrochemical behavior of the B. latifolia aqueous extract was evaluated. Figure 7a shows the cyclic voltamperogram of the extract using 0.1 mol L−1 sodium acetate as a supporting electrolyte; here, two oxidation waves at potentials between (-0.1 V; 0.2 V) and (0.71 V; 1.0 V) suggest the presence of at least two types of reducing species or a reducing species that can be oxidized by two stable intermediates. The voltamperogram shows waves toward a reduction potential between (+0.75 and +0.8 V) and (-0.2 and +0.2 V), signals apparently coupled with the anodic processes in direct scanning, suggesting a certain degree of electrochemical reversibility. If this is the case, it could be attributed to quinone groups formed in the oxidation scan from -OH groups present in the structures of oxidants. This is consistent with the presence of species of phenolic character in the extract. To corroborate the results obtained by CV, Differential Pulse Voltammetry (DPV) was used. This technique results in current-potential signals with greater sensitivity (Bar et al., 2009) because it can eliminate the contribution of the background current obtained in cyclic voltamperograms, which does not allow the signals per CV to be precisely defined and can also deconvolve the current signals in order to demonstrate the existence of other additional waves in the system. Figure 8b shows the presence of two oxidation waves at the same intervals of potentials obtained for the CV signals and, in addition, a third wave at +1.16 V, which confirms the existence of three types of species with antioxidant capacity in the extract. Current values for the first two waves have the same order of magnitude, indicating that both types of species could be present in similar amounts in the extract, while the third wave at +1.16 V, which is a greater current value, suggests that this species has a higher concentration in the extract than the first two. On the other hand, if we consider that each of the signals corresponds to a chemical species with individual characteristics and behavior, the extracted compounds may have different antioxidant capacity, that is one with less capacity (+1.16 V) and the other two with greater capacity (+0.2 and +0.9 V). The electrochemical behavior of the Ag NPs and B. latifolia extract was evaluated using CV (Fig. 9b), which was compared to that of an aqueous solution of five mmol L−1 of silver nitrate (Fig. 9a). The latter showed a reduction signal at +0.027 V and an oxidation signal at +0.559 V Vs. Ag/AgCl; the reduction peak is associated with the electrodeposition of silver ions on the surface of the vitreous carbon electrode, while the oxidation peak corresponds to the redissolution signal of the silver deposited on the electrode in the reduction scan. The voltamperogram obtained for the Ag NPs and B. latifolia extract does not show reduction waves but an oxidation signal at +0.30 V. The absence of cathodic signal suggests the non-existence or low presence of Ag+ ions in said extract, which shows that it comprises mostly Ag0
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+88 nanoparticles, products of the extract’s reducing action. The oxidation signal at +0.30 V is associated with the oxidation of Ag particles present in the extract. These results also show the ability of B. latifolia extract to stabilize Ag0 nanoparticles. Conclusion The proposed method of Ag NPs synthesis using aqueous extract of B. latifolia leaves was reliable, easy, fast, economical and environmentally friendly. Antioxidant capacity tests are reliable as similar results are obtained by different analytical and electrochemical techniques. Regarding total polyphenolic content and antioxidant capacity as analyzed by ORAC-FL and CV/DPV, the results in all cases indicate a significant decrease in Ag NPs compared to the extract, suggesting that the polyphenolic compounds present in the plant sample intervene in the synthesis process as reducing agents. It is a simple and fast Ag NPs formation technique, since the color change is evident in the formation of the surface plasmon, in addition to being a readily available and non-toxic plant reducer. The reducing effect of the aqueous extract from B. latifolia leaves demonstrated in this study could be extrapolated to antioxidants’ biological effect on free radicals within an organism. Phenolic compounds react in the presence of reactive chemical species, such as chemical monitors. This effect could potentially be applied in the phytochemical, pharmaceutical and food industries, among others, for the detection of antioxidant substances. In addition, the optimization by experimental design allowed the best parameters for both the preparation of the aqueous extract of B. latifolia leaves and the Ag NPs synthesis to be determined, resulting in a reduced nanoparticle size (mean diameter <5 nm). Funding Information This research was funded by the Pontificia Universidad Católica del Ecuador www.puce.edu.ec. Author’s Contributions Fernanda Pilaquinga: Conceived and designed the experiments; Performed the experiments; Analyzed and interpreted the data; Wrote the paper. Camila Granja and Josué Pozo: Performed the experiments. Eliza Jara, Mauricio Moncada-Basualto, Lenys Fernández, Patricio Espinoza-Montero, Alexis Debut and Fernanda López: Analyzed and interpreted the data. Wrote the paper. Claudio Olea-Azar: Analyzed and interpreted the data. Ethics This article is original and contains unpublished material. The corresponding author confirms that all of the other authors have read and approved the manuscript and no ethical issues involved. References Abad, M. J., & Bermejo, P. (2007). Baccharis (Compositae): a review update. Arkivoc, 7(1), 76-96. http://pdf.lookchemmall.com/pdf/21/8c64af3b-6d4c4c82-846f-b318fc334a9e.pdf Abad, M. J., Bessa, A. L., Ballarin, B., Aragón, O., Gonzales, E., & Bermejo, P. (2006). Antiinflammatory activity of four Bolivian Baccharis species (Compositae). Journal of Ethnopharmacology, 103(3), 338-344.
+
+doi.org/10.1016/j.jep.2005.08.024 Abou El-Nour, K. M., Eftaiha, A. A., Al-Warthan, A., & Ammar, R. A. (2010). Synthesis and applications of silver nanoparticles. Arabian Journal of Chemistry, 3(3), 135-140.
+
+https://doi.org/10.1016/j.arabjc.2010.04.008 Akkoc, Y., Lyubenova, L., Grausgruber, H., Janovská, D., Yazici, A., Cakmak, I., & Gozuacik, D. (2019). Minor cereals exhibit superior antioxidant effects on human epithelial cells compared to common wheat cultivars. Journal of Cereal Science, 85, 143-152. https://doi.org/10.1016/j.jcs.2018.12.006 Avello, M., & Suwalsky, M. (2006). Free radicals, natural antioxidants and protection mechanisms. Athena (Concepción), (494), 161-172.
+
+https://doi.org/10.4067/S0718-04622006000200010 Bar, H., Bhui, D. K., Sahoo, G. P., Sarkar, P., De, S. P., & Misra, A. (2009). Green synthesis of silver nanoparticles using latex of Jatropha curcas. Colloids and surfaces A: Physicochemical and Engineering Aspects, 339(1-3), 134-139. https://doi.org/10.1016/j.colsurfa.2009.02.008 Barrón-Yánez, RM, García-Mateos, M., Soto-Hernández, MR, Colinas-León, T., & Kite, G. (2011). Flavonoids and antioxidant activity of Calia secundiflora (Ort.) Yakovlev. Mexican Fitotecnia Magazine, 34 (3), 151-157. http://www.scielo.org.mx/scielo.php?script=sci_artt ext&pid=S0187-73802011000300005 Bennett, R. N., & Wallsgrove, R. M. (1994). Secondary metabolites in plant defence mechanisms. New Phytologist, 127(4); 617-633. Borase, H. P., Salunke, B. K., Salunkhe, R. B., Patil, C. D., Hallsworth, J. E., Kim, B. S., & Patil, S. V. (2014). Plant extract: A promising biomatrix for ecofriendly, controlled synthesis of silver nanoparticles. Applied Biochemistry and Biotechnology, 173(1), 1-29. doi.org/10.1007/s12010-014-0831-4
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+89 Bourgaud, F., Gravot, A., Milesi, S., & Gontier, E. (2001). Production of plant secondary metabolites: a historical perspective. Plant Science, 161(5), 839-851. doi.org/10.1016/S0168-9452(01)00490-3 Calle, A., San Martin, Á., Melgarejo, M., Flores, Y., & Almanza, G. R. (2017). Evaluation of flavonoid contents and antibacterial activity of five Bolivian Baccharis species. Bolivian Journal of Chemistry, 34 (4), 112-122.
+
+https://www.redalyc.org/pdf/4263/426353866002.pdf Ceborska, M. (2017). Structural investigation of the βcyclodextrin complexes with chiral bicyclic monoterpenes–Influence of the functionality group on the host-guest stoichiometry. Journal of Molecular Structure, 1145, 204-210.
+
+https://doi.org/10.1016/j.molstruc.2017.05.102 Cowan, M. M. (1999). Plant products as antimicrobial agents. Clinical Microbiology Reviews, 12(4), 564-582. https://cmr.asm.org/content/12/4/564.short da Fonseca, M. M. R., & de Carvalho, C. C. C. R. (2006). Biotransformation of terpenes. Biotechnology Advance, 24, 134-142.
+
+https://doi.org/10.1016/j.biotechadv.2005.08.004 Devaraj, P., Kumari, P., Aarti, C., & Renganathan, A. (2013). Synthesis and characterization of silver nanoparticles using cannonball leaves and their cytotoxic activity against MCF-7 cell line. Journal of Nanotechnology, 2013. https://doi.org/10.1155/2013/598328 Fogliano, V., Verde, V., Randazzo, G., & Ritieni, A. (1999). Method for measuring antioxidant activity and its application to monitoring the antioxidant capacity of wines. Journal of Agricultural and Food Chemistry, 47(3), 1035-1040. https://doi.org/10.1021/jf980496s Folin, O., & Ciocalteu, V. (1927). On tyrosine and tryptophane determinations in proteins. Journal of Biological Chemistry, 73(2), 627-650. https://cpb-usw2.wpmucdn.com/sites.wustl.edu/dist/f/1200/files/2 018/10/Folin_1927-2553row.pdf Gorji, N. E., O’Connor, R., & Brabazon, D. (2019, August). XPS, XRD and SEM characterization of the virgin and recycled metallic powders for 3D printing applications. In IOP Conference Series: Materials Science and Engineering (Vol. 591, No. 1, p. 012016). IOP Publishing.
+
+https://doi.org/10.1088/1757-899X/591/1/012016 Güneş, A., Kordali, Ş., Turan, M., & Bozhüyük, A. U. (2019). Determination of antioxidant enzyme activity and phenolic contents of some species of the Asteraceae family from medicanal plants. Industrial Crops and Products, 137, 208-213.
+
+doi.org/10.1016/j.indcrop.2019.05.042 Harman-Ware, A. E., Davis, M. F., Peter, G. F., Wang, Y., & Sykes, R. W. (2017). Estimation of terpene content in loblolly pine biomass using a hybrid fastGC and pyrolysis-molecular beam mass spectrometry method. Journal of Analytical and Applied Pyrolysis, 124, 343-348. doi.org/10.1016/j.jaap.2017.01.011 Hoyos Vargas, K. M., & Yep Chu, M. Y. (2008). Design of a formulation for topical application based on Baccharis latifolia (Chilca), with anti-inflammatory effect. http://cybertesis.unmsm.edu.pe/handle/20.500.1267 2/1615 Iravani, S. (2011). Green synthesis of metal nanoparticles using plants. Green Chemistry, 13(10), 2638-2650. https://doi.org/10.1039/c1gc15386b Iravani, S., Korbekandi, H., Mirmohammadi, S. V., & Zolfaghari, B. (2014). Synthesis of silver nanoparticles: chemical, physical and biological methods. Research in Pharmaceutical Sciences, 9(6), 385. doi.org/10.1111/j.1551-2916.2006.01044.x Jadhav, V. M., Thorat, R. M., Kadam, V. J., & Salaskar, K. P. (2009). Chemical composition, pharmacological activities of Eclipta alba. Journal of Pharmacy Research, 2(8), 1129-1231. http://citeseerx.ist.psu.edu/viewdoc/download?doi=1 0.1.1.735.3833&rep=rep1&type=pdf Jaiswal, S., Duffy, B., Jaiswal, A. K., Stobie, N., & McHale, P. (2010). Enhancement of the antibacterial properties of silver nanoparticles using βcyclodextrin as a capping agent. International Journal of Antimicrobial Agents, 36(3), 280-283. doi.org/10.1016/j.ijantimicag.2010.05.006 Jemilugba, O. T., Parani, S., Mavumengwana, V., & Oluwafemi, O. S. (2019). Green synthesis of silver nanoparticles using Combretum erythrophyllum leaves and its antibacterial activities. Colloid and Interface Science Communications, 31, 100191. doi.org/10.1016/j.colcom.2019.100191 Jha, A. K., Prasad, K., Kumar, V., & Prasad, K. (2009). Biosynthesis of silver nanoparticles using Eclipta leaf. Biotechnology Progress, 25(5), 1476-1479. doi.org/10.1002/btpr.233 Jini, D., & Sharmila, S. (2020). Green synthesis of silver nanoparticles from Allium cepa and its in vitro antidiabetic activity. Materials Today: Proceedings, 22, 432-438.
+
+doi.org/10.1016/j.matpr.2019.07.672 Kähkönen, M. P., Hopia, A. I., Vuorela, H. J., Rauha, J. P., Pihlaja, K., Kujala, T. S., & Heinonen, M. (1999). Antioxidant activity of plant extracts containing phenolic compounds. Journal of Agricultural and Food Chemistry, 47(10), 3954-3962.
+
+doi.org/10.1021/jf990146l
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+90 Kim, J. S., Kuk, E., Yu, K. N., Kim, J. H., Park, S. J., Lee, H. J., ... & Cho, M. H. (2007). Antimicrobial effects of silver nanoparticles. Nanomedicine: Nanotechnology, Biology and Medicine, 3(1), 95-101. doi.org/10.1016/j.nano.2006.12.001 Kłeczek, N., Malarz, J., Kosecka-Strojek, M., Musielak, B., & Stojakowska, A. (2019). Thymol derivatives from the roots of Xerolekia speciosissima an endemic species of the pre-Alpine area. Phytochemistry Letters, 30, 235-237.
+
+doi.org/10.1016/j.phytol.2019.01.010 Kumar, B., Smita, K., Cumbal, L., & Debut, A. (2017). Green synthesis of silver nanoparticles using Andean blackberry fruit extract. Saudi Journal of Biological Sciences, 24(1), 45-50.
+
+doi.org/10.1016/j.sjbs.2015.09.006 Kumar, B., Smita, K., Debut, A., & Cumbal, L. (2016). Extracellular green synthesis of silver nanoparticles using Amazonian fruit Araza (Eugenia stipitata McVaugh). Transactions of Nonferrous Metals Society of China, 26(9), 2363-2371.
+
+doi.org/10.1016/S1003-6326(16)64359-5 Ledoux, A., Cao, M., Jansen, O., Mamede, L., Campos, P. E., Payet, B., ... & Smadja, J. (2018). Antiplasmodial, anti-chikungunya virus and antioxidant activities of 64 endemic plants from the Mascarene Islands. International Journal of Antimicrobial Agents, 52(5), 622-628.
+
+doi.org/10.1016/j.ijantimicag.2018.07.017 Loayza, I., Abujder, D., Aranda, R., Jakupovic, J., Collin, G., Deslauriers, H., & Jean, F. I. (1995). Essential oils of Baccharis salicifolia, B. latifolia and B. dracunculifolia. Phytochemistry, 38(2), 381-389. https://www.sciencedirect.com/science/article/abs/pi i/0031942294006287 Luo, J., Brotchie, J., Pang, M., Marriott, P. J., Howell, K., & Zhang, P. (2019). Free terpene evolution during the berry maturation of five Vitis vinifera L. cultivars. Food Chemistry, 299, 125101.
+
+doi.org/10.1016/j.foodchem.2019.125101 Mantena, S. K., Badduri, S. R., Siripurapu, K. B., & Unnikrishnan, M. K. (2003). In vitro evaluation of antioxidant properties of Cocos nucifera Linn. Water. Food/Nahrung, 47(2), 126-131.
+
+doi.org/10.1002/food.200390023 Meeran, M. N., Al Taee, H., Azimullah, S., Tariq, S., Adeghate, E., & Ojha, S. (2019). β-Caryophyllene, a natural bicyclic sesquiterpene attenuates doxorubicininduced chronic cardiotoxicity via activation of myocardial Cannabinoid type-2 (CB2) receptors in rats. Chemico-Biological Interactions, 304, 158-167. doi.org/10.1016/j.cbi.2019.02.028 Michna, A., Morga, M., Adamczyk, Z., & Kubiak, K. (2019). Monolayers of silver nanoparticles obtained by green synthesis on macrocation modified substrates. Materials Chemistry and Physics, 227, 224-235. doi.org/10.1016/j.matchemphys.2019.01.072 Mittal, A. K., Chisti, Y., & Banerjee, U. C. (2013). Synthesis of metallic nanoparticles using plant extracts. Biotechnology Advances, 31(2), 346-356. doi.org/10.1016/j.biotechadv.2013.01.003 Morejón, B., Pilaquinga, F., Domenech, F., Ganchala, D., Debut, A., & Neira, M. (2018). Larvicidal activity of silver nanoparticles synthesized using extracts of Ambrosia arborescens (Asteraceae) to control Aedes aegypti L. (Diptera: Culicidae). Journal of Nanotechnology, 2018.
+
+doi.org/10.1155/2018/6917938 Morones, J. R., Elechiguerra, J. L., Camacho, A., Holt, K., Kouri, J. B., Ramírez, J. T., & Yacaman, M. J. (2005). The bactericidal effect of silver nanoparticles. Nanotechnology, 16(10), 2346.
+
+https://doi.org/10.1088/0957-4484/16/10/059 Mousavi, B., Tafvizi, F., & Zaker Bostanabad, S. (2018). Green synthesis of silver nanoparticles using Artemisia turcomanica leaf extract and the study of anti-cancer effect and apoptosis induction on gastric cancer cell line (AGS). Artificial Cells, Nanomedicine and Biotechnology, 46(sup1), 499-510.
+
+https://doi.org/10.1080/21691401.2018.1430697 Oukarroum, A., Bras, S., Perreault, F., & Popovic, R. (2012). Inhibitory effects of silver nanoparticles in two green algae, Chlorella vulgaris and Dunaliella tertiolecta. Ecotoxicology and Environmental Safety, 78, 80-85.
+
+https://doi.org/10.1016/j.ecoenv.2011.11.012 Özyürek, M., Güngör, N., Baki, S., Güçlü, K., & Apak, R. (2012). Development of a silver nanoparticle-based method for the antioxidant capacity measurement of polyphenols. Analytical Chemistry, 84(18), 8052-8059. doi.org/10.1021/ac301925b Padalia, H., Moteriya, P., & Chanda, S. (2015). Green synthesis of silver nanoparticles from marigold flower and its synergistic antimicrobial potential. Arabian Journal of Chemistry, 8(5), 732-741. https://doi.org/10.1016/j.arabjc.2014.11.015 Palá-Paúl, J., Usano-Alemany, J., Granda, E., & Soria, A. C. (2009). Chemical composition, antifungal and antibacterial activity of the essential oil of Chamaecyparis nootkatensis from Spain. Natural Product Communications, 4(7), 1934578X1200701036. doi.org/10.1177/1934578X0900400728
+
+Fernanda Pilaquinga et al. / American Journal of Applied Sciences 2021, Volume 18: 79.91 DOI: 10.3844/ajassp.2021.79.91
+
+91 Prada, J., Ordúz-Díaz, LL, & Coy-Barrera, E. (2016). Baccharis latifolia: A little valued Asteraceae with Chemical and Biological potential in the Neotropics. Journal of the Faculty of Basic Sciences, 12 (1), 92-105. doi.org/10.18359/rfcb.1858 Prior, R. L., Cao, G., Martin, A., Sofic, E., McEwen, J., O'Brien, C., ... & Mainland, C. M. (1998). Antioxidant capacity as influenced by total phenolic and anthocyanin content, maturity and variety of Vaccinium species. Journal of Agricultural and Food Chemistry, 46(7), 2686-2693.
+
+doi.org/10.1021/jf980145d Rauwel, P., Küünal, S., Ferdov, S., & Rauwel, E. (2015). A review on the green synthesis of silver nanoparticles and their morphologies studied via TEM. Advances in Materials Science and Engineering, 2015. doi.org/10.1155/2015/682749 Ribeiro, J. S., Santos, M. J. M. C., Silva, L. K. R., Pereira, L. C. L., Santos, I. A., da Silva Lannes, S. C., da Silva, M. V., Mesa, A., Gaviria, C., Cardona, F., Sáez, J., Blair, S., & Rojano, B., 2010. Actividad antioxidante y contenido de fenoles totales de algunas especies del género Calophyllum Antioxidant activity and total phenols content from some species of Calophyllum genus. Meat Science. 148, 181–188. doi.org/10.1016/j.meatsci.2018.10.016 Robledo, S. N., Pierini, G. D., Nieto, C. H. D., Fernández, H., & Zon, M. A. (2019). Development of an electrochemical method to determine phenolic monoterpenes in essential oils. Talanta, 196, 362-369. doi.org/10.1016/j.talanta.2018.12.069 Roco, M. C., & Bainbridge, W. S. (2005). Societal implications of nanoscience and nanotechnology: Maximizing human benefit. Journal of Nanoparticle Research, 7(1), 1-13. https://doi.org/10.1007/s11051004-2336-5 Scampicchio, M., Wang, J., Blasco, A. J., Sanchez Arribas, A., Mannino, S., & Escarpa, A. (2006). Nanoparticle-based assays of antioxidant activity. Analytical Chemistry, 78(6), 2060-2063. doi.org/10.1021/ac052007a Sequeda-Castañeda, L. G., Célis, C., & Luengas-Caicedo, P. E. (2015). Phytochemical and therapeutic use of Baccharis latifolia (Ruiz & Pav.) pers. (Asteraceae). Shafi, P. M., Nambiar, M. G., Clery, R. A., Sarma, Y. R., & Veena, S. S. (2004). Composition and antifungal activity of the oil of Artemisia nilagirica (Clarke) Pamp. Journal of Essential Oil Research, 16(4), 377-379. doi.org/10.1080/10412905.2004.9698748 Song, J. Y., & Kim, B. S. (2009). Rapid biological synthesis of silver nanoparticles using plant leaf extracts. Bioprocess and Biosystems Engineering, 32(1), 79-84. doi.org/10.1007/s00449-008-0224-6 Sotiriou, G. A., Teleki, A., Camenzind, A., Krumeich, F., Meyer, A., Panke, S., & Pratsinis, S. E. (2011). Nanosilver on nanostructured silica: Antibacterial activity and Ag surface area. Chemical Engineering Journal, 170(2-3), 547-554.
+
+doi.org/10.1016/j.cej.2011.01.099 Tippayawat, P., Phromviyo, N., Boueroy, P., & Chompoosor, A. (2016). Green synthesis of silver nanoparticles in aloe vera plant extract prepared by a hydrothermal method and their synergistic antibacterial activity. PeerJ, 4, e2589. doi.org/10.7717/peerj.2589 Tripathi, D., Modi, A., Narayan, G., & Rai, S. P. (2019). Green and cost effective synthesis of silver nanoparticles from endangered medicinal plant Withania coagulans and their potential biomedical properties. Materials Science and Engineering: C, 100, 152-164. https://doi.org/10.1016/j.msec.2019.02.113 Vijayakumar, M., Priya, K., Nancy, F. T., Noorlidah, A., & Ahmed, A. B. A. (2013). Biosynthesis, characterisation and anti-bacterial effect of plant-mediated silver nanoparticles using Artemisia nilagirica. Industrial Crops and Products, 41, 235-240. doi.org/10.1016/j.indcrop.2012.04.017 Wang, Y., Zhang, C. L., Liu, Y. F., Liang, D., Shi, G. R., Wang, X., ... & Yu, D. Q. (2019). Sesquiterpenes and nor sesquiterpenes from Schefflera leucantha R. Vig.(Araliaceae). Biochemical Systematics and Ecology, 83, 7-9.
+
+doi.org/10.1016/j.bse.2018.12.007 Wei, L., Lu, J., Xu, H., Patel, A., Chen, Z. S., & Chen, G. (2015). Silver nanoparticles: synthesis, properties and therapeutic applications. Drug Discovery Today, 20(5), 595-601. https://doi.org/10.1016/j.drudis.2014.11.014 Whitesides, G. M. (2005). Nanoscience, nanotechnology and chemistry. Small, 1(2), 172-179. doi.org/10.1002/smll.200400130 Zaman, M., Ahmad, E., Qadeer, A., Rabbani, G., & Khan, R. H. (2014). Nanoparticles in relation to peptide and protein aggregation. International Journal of Nanomedicine, 9, 899.
+
+doi.org/10.2147/IJN.S54171 Zambrano-Moreno, E. L., Chávez-Jáuregui, R. N., Plaza, M. D. L., & Wessel-Beaver, L. (2015). Phenolic content and antioxidant capacity in organically and conventionally grown eggplant (Solanum melongena) fruits following thermal processing. Food Science and Technology, 35(3), 414-420. doi.org/10.1590/1678-457X.6656 Zdero, C., & Bohlmann, F. (1989). Sesquiterpene lactones and other terpenes from Geigeria species. Phytochemistry, 28(11), 3105-3120.
+
+doi.org/10.1016/0031-9422(89)80289-4 Zheng, W., & Wang, S. Y. (2001). Antioxidant activity and phenolic compounds in selected herbs. Journal of Agricultural and Food Chemistry, 49(11), 5165-5170. doi.org/10.1021/jf010697n

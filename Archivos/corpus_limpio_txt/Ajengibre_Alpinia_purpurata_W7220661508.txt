@@ -1,0 +1,123 @@
+Research Journal of Chemistry and Environment__________________________________Vol. 30 (11) November (2026) Res. J. Chem. Environ. https://doi.org/10.25303/3011rjce1730177
+
+173 Review Paper: Phytochemical and Pharmacological Potential of Alpinia purpurata: A Review Mohapatra Barnali, Parida Reena* and Panigrahi Rajashree Molecular Biology and Genetic Engineering Laboratory, Centre for Biotechnology, Siksha O Anusandhan University, Bhubaneswar - 751003, Odisha, INDIA *reenaparida@soa.ac.in
+
+Abstract Alpinia purpurata (Vieill.) K. Schum is a perennial herbaceous plant commonly referred to as ‘red ginger’ of family Zingiberaceae. It is native to tropical Asia and in India it is found in Andhra Pradesh, Kerala and Assam for ornamental purposes due to its long-lasting and attractive flowers. Its phenolics, flavonoids and terpenoids give it distinct pharmacological characteristics. Upon the reports we reviewed the plant essential oil, leaf and rhizome extracts having anticancer, antioxidant and antimicrobial activities.
+
+The plant is used in the treatment of stomach complaints, cough, hypertension, tuberculosis. This plant is fast disappearing due to slow growth and over exploitation by pharmaceutical industries. Hence further steps must be taken for its conservation, improvement of drug yielding potential and genetic studies in A. purpurata plantlets.
+
+Keywords: Alpinia purpurata, Gas Chromatography and Mass Spectrometry analysis, Anticancer, Antioxidant, Antimicrobial, Micropropagation.
+
+Introduction Alpinia purpurata or ‘red ginger’ member of Zingiberaceae family is an economically important ornamental ginger native to tropical Asia and other Pacific Islands6. A. purpurata is mainly cultivated for ornamental purposes because of its attractive flowers and potential therapeutic properties5. The genus Alpinia, which includes this species, is studied for its phytochemical and pharmacological properties, revealing a variety of medicinal benefits primarily due to the presence of various bioactive compounds. Recent reviews highlight that various species of the genus Alpinia, including A. purpurata, possess significant medicinal properties due to the presence of essential oils, which are rich in flavonoids, terpenoids and kavalactones.
+
+These compounds are known for their therapeutic applications, particularly in traditional medicine, where they are employed to treat ailments such as arterial hypertension and inflammatory processes22. The phytochemical profile of Alpinia species features a wide range of bioactive compounds. Notably, these include diarylheptanoids, terpenoids, flavonoids and phenolics which contribute to their broad-spectrum pharmacological activities. Antioxidant, antibacterial, anti-inflammatory and other biological activities of the plant have been discovered. These benefits are of great interest for their possible therapeutic uses24. The therapeutic value of A. purpurata and related species lies in their phytochemical richness which allows them to play key roles in various health and medicinal contexts. This includes their use in treating not only inflammation and hypertension but potentially contributing to cancer treatment approaches.
+
+Owing to its careless gathering and overuse for profit in order to meet the needs of the pharmaceutical sectors, the A. purpurata is rapidly vanishing and is in danger. The slow growth and uprooting of conventional plants make plant less available for commercialization. In vitro culture approaches would facilitate large scale propagation, preservation, quality improvement and molecular characterization of this medicinal plant for pharmaceutical applications9.
+
+Plant description A. purpurata or red ginger, exemplifies its importance both as an attractive and therapeutic plant. It is renowned for its vivid red spikes and bracts, while the actual blooms are little and white. The species features a robust growth habit, with upright stems displaying long lanceolate leaves. The leaves of A. purpurata can attain significant lengths, enhance its visual attractiveness while growing at appropriate temperatures2.
+
+Gas Chromatography-Mass Spectrometry analysis: GCMS technique revealed phenylephrine and n-methyl-3methoxyamphetamine to be the major secondary metabolites present in the extracts of A. purpurata15. The blooms of the red and pink varieties of A. purpurata, a popular tropical decorative plant, were hydrodistilled to produce essential oil and aqueous extracts. GC-MS study identified 42 essential oil components, with α-pinene, β-pinene and βcaryophyllene being the principal constituents. The oils from the red and pink types showed significant larvicidal activity against Aedes aegypti in fourth instar, with LC50 values of 80.70 and 71.50 ppm respectively. Furthermore, two aqueous extracts showed effect against larvae of dengue mosquito (LC50 values of 18.30 and 12.60 %). The oil of red cultivar prohibited the development of both Gram positive and negative bacteria16.
+
+The GC-MS data showed various components in leaves of A. purpurata like 4-morpholinomethyl-7-methoxycoumarin (1.42 %) methanesulfonate of (3R, 4S), 1-hydroxy-3phenyl-3-butenyl-4-[(R)-3-propargyloxy],
+
+1-p-
+
+Research Journal of Chemistry and Environment__________________________________Vol. 30 (11) November (2026) Res. J. Chem. Environ. https://doi.org/10.25303/3011rjce1730177
+
+174 methoxyphenyl -2-azetidinone (2.28 %), 5-butyl-3-methyl1,2,3, 8a-tetrahydroindolizine (6.48%), phenol, 4-(3,7dimethyl-3-ethenylocta-1,6-dienyl)-(6.99 %), 1naphthalenepropanol, β-ethenyldeca hydro-à,5,5,8atetramethyl-2-methylene-[1S-[1à (R*), 4aá, 8aà], methenolone (10.93 %), nonanamide (9.29%) and 5hydroxy-5-methyl-2-(2-methylpropyl) (25.80 %) Nbenzyl10. Hydrodistillation has been used in studies to extract the hydrosol and essential oil from A. purpurata. The essential oil has β-caryophyllene, geranial, neral, α-pinene and β-pinene which gave pharamacological activities but components of hydrosol are unknown.
+
+Distillation times of 1, 1.5, 2 and 2.5 hours were used to extract the powdered sample at 60, 80 and 1000C. The hydrosol study was done by GC-MS and FTIR as Fouriertransform infrared spectroscopy. GC-MS and FTIR analyses indicated that the predominant constituent in A. purpurata hydrosol, distilled at 100 °C for 2.5 hours, is 1dodecanamine (40.08 %), with the functional groups identified as O-H, N-H, C-H and C=H stretching. The chemicals in the extracted hydrosol were denaturated as a result of the higher heating temperature and longer distillation period. Both qualitatively and quantitatively, the chemical components of hydrosol differed significantly from those of essential oil18.
+
+Red ginger oil's chemical composition was examined using the GC-MS technique. To find and measure the adulterants, FTIR was used in conjunction with principle component regression (PCR), partial least squares (PLS), discriminant analysis (DA) and multivariate analysis. Terpenoid chemicals made up 55.72 % of the total, with monoterpenes contributed 34.29 % and sesquiterpenes 21.43 %. The main components were found to be 1, 8-cineole as 5.84 %, camphene as 4.92 %, e-citral as 19.01 %, z-citral as 14.82 %, geraniol as 9.56 % and geranyl acetate as 11.90 % respectively. The range between 3100–2700 and 1850–650 per cm was used for soybean adulterants identification, optimal PLS model for identifying the quantity of palm oil in RGO at wavenumber 3100–2700 per cm. Without the use of a solvent, red ginger oil was quickly and effectively verified using FTIR spectroscopy and chemometrics20.
+
+Anticancer activity: With an IC50 of 130.20 gm/l and a dose dependent drop in cell count across all doses, the extract demonstrated potential anticancer action at 48 hours. The findings indicated that long-term ingestion of A. purpurata demonstrated antioxidant and anticancer actions, suggesting that its anticancer qualities could be further utilized14. Additionally, the cytotoxic activity of Alpinia essential oils has been investigated indicating possible anticancer action21. In seminal vesicle and prostate tissues of cancer group, biochemical measures such as total protein, membrane-bound enzymes and enzymatic and nonenzymatic antioxidants dropped while LPO, tumor markers and nucleic acid components increased. Serum levels of prostate, kidney and liver indicators were elevated and hematological and lipid parameters got changed.
+
+Histopathological examination of the liver, kidney, prostate gland and seminal vesicle verified that A. purpurata did not contain any hazardous substances because the group treated with plant extract alone showed no discernible change. Based on research, A. purpurata may be utilized as an anticancer medication to treat cancer11. The immunomodulatory effects of certain Alpinia plants and their secondary metabolites, particularly on immune cell signaling pathways, have been studied. Through a number of pathways including MAPKs, PI3K/Akt, NF-κB and Wnt signaling pathways, many reports showed immunomodulatory properties of the extracts and their components.
+
+Figure 1: Alpinia purpurata (Vieill.) K. Schum plant
+
+Research Journal of Chemistry and Environment__________________________________Vol. 30 (11) November (2026) Res. J. Chem. Environ. https://doi.org/10.25303/3011rjce1730177
+
+175 The bioactive metabolites from Alpinia species that showed significant immunomodulatory effects, are: ACA, 1, 8cineole, cardamomin, lectin, rutin and yakuchinone. The use of these chemicals into conventional therapy to treat inflammation, hyperlipidemia and even cancer improves their therapeutic use25. Diarylheptanoids, terpenoids, flavonoids and phenolics are among the many bioactive compounds present in Alpinia species that have demonstrated noteworthy pharmacological activity including anticancer properties24.
+
+Antioxidant activity: Alkaloids, carbohydrates, cardioglycosides, flavonoids, oils and lipids, steroids, tannins and terpenoids, were present in A. purpurata nhexane leaf extracts, according to phytochemical analyses10. The rhizome aqueous extract of A. purpurata exhibited lower antioxidant activity than ethanolic and chloroform extracts using ABTS as 2,2'-azino-bis(3ethylbenzothiazoline-6-sulfonic acid), DPPH as 2,2diphenyl-1-picrylhydrazyl and FRAP as ferric reducing antioxidant power methods. The main components of the antioxidant activity seen in the A. purpurata rhizome extracts were found to be ascorbic acid and phenolics19. Alpha amylase and alpha glucosidase assays were used to test the antidiabetic and antioxidant properties of A. purpurata leaves.
+
+Using the DPPH scavenging method, methanolic extract antioxidant activity was done. According to the research, plant extracts at varying concentrations showed strong radical scavenging capability. At a concentration of 100 µg/ml with standard acarbose treatment, significant αamylase (74 %) and α-glucosidase (78 %) inhibitory activity was seen in the leaves of A. purpurata. Thus, it may be a source of natural antioxidant and antidiabetic compounds6. A. purpurata ethanol extract has a higher total phenolic content than its flavonoid level, suggesting that it may be a substantial natural antioxidant source. In the DPPH experiment, however, the extract shows substantial nitric oxide (NO) scavenging activity (IC50 of 22.73 ± 7.57 µg/ml) but modest antioxidant activity (IC50 of 219.06 ± 8.15 µg/ml).
+
+Antimicrobial activity: The antibacterial efficacy of ethanol, petroleum ether and chloroform extracts from A. purpurata leaves, roots and rhizomes against a variety of human pathogenic bacteria and fungi was examined. Rhizome ethanolic extracts showed the widest range of efficacy against all tested microorganisms, measuring 14.4 ± 0.4 mm. In general, petroleum ether and chloroform extract did not yield any noteworthy outcomes9. Red galangal rhizome extract has been shown in several studies to prevent Staphylococcus aureus bacteria from forming biofilms. The method used was the test tube method with crystal violet dye. The mean gray value (MGV) of the CS6 program in Adobe Photoshop was used to measure the results of the tube test procedure, which were recorded on camera. The biofilm is thicker when the MGV value was lower. For treatment, the extract concentrations were 50 %, 25 %, 12.5 %, 6.25 %, 3.125 %, 1.56 % and 0 %. 96 % ethanol solvent was used in the maceration process to create crimson galangal extract. Statistical study revealed that the biofilm ring generated was smaller at higher extract concentrations. 12.5 % concentration of ethanol extract of red galangal rhizome may be able to minimally suppress the production of S. aureus biofilms23. When natural extracts were examined for bioactivity against C. krusei (ATCC 6258), the MIC50 values for A. purpurata extracts were found to be 1.435 x 105 μg/ml.
+
+The enzyme lanosterol-14-α-demethylase is bound by natural extracts of benzotriazole, 1-(4-methyl-3nitrobenzoyl), 1,3,4-eugenol acetate, stigmasta-5,22-dien-3ol, acetate (3 beta) and farnesyl acetate with binding energies of -8.91, -6.04, -13.53 and -7.15 kcal/mol. The LD50 for A. purpurata extracts was more than 8000 mg/kg BW in the oral acute toxicity test. The acute cutaneous toxicity test revealed that the extract's LD50 was higher than 6000 mg/kg BW. It has been demonstrated that A. purpurata extracts were useful substitutes for treating Candida krusei resistance1. The study's objective was to assess A. purpurata rhizome methanol extract's antibacterial activity against Streptococcus pyogenes and Klebsiella pneumoniae.
+
+The well method was used to assess the rhizomes antibacterial efficacy after they were extracted using methanol solvent. The study had six groups: 20 %, 40 %, 60 % and 80 % concentration groups, the distilled water negative control group and the chloramphenicol positive control group. At 80 % concentration, the highest inhibitory zone diameter was observed, averaging 25.50 mm for Streptococcus pyogenes bacterium and 28.73 mm for Klebsiella pneumonia. The rhizomes methanol extract worked well against the germs Streptococcus pyogenes and Klebsiella pneumonia13.
+
+Micropropagation: It was observed that A. purpurata explants were grown in vitro in a culture of Murashige and Skoog Media (MS) given with various hormones. Inflorescence buds of A. purpurata immediately developed into plantlets. The flavonoids detection in plantlets of A. purpurata was done by High-Performance Liquid Chromatography (HPLC) analysis. The BAP or 6Benzylaminopurine, IAA or Indole-3-acetic acid, TDZ or Thidiazuron with control was taken in MS liquid medium. All the treatments showed high kaempferol-3-O-glucuronide rather than rutin, with the exception of the control media, where plants did not synthesize this molecule.
+
+Treatments with BAP as 2 mg/l and IAA as 2 mg/l with TDZ as 2 mg/l were used to confirm a considerable rise in kaempferol-3-O-glucuronide content. Rutin concentration similarly rose in 1:4 ratio when 2 mg/l BAP was added in comparison to control3. Using rhizome bud explants, a repeatable and effective method for inducing numerous shoots in A. purpurata was described. When KIN (2 mg/l)
+
+Research Journal of Chemistry and Environment__________________________________Vol. 30 (11) November (2026) Res. J. Chem. Environ. https://doi.org/10.25303/3011rjce1730177
+
+176 and BA (3 mg/l) were added to MS basal media, the regeneration rate reached 6.4 ± 0.32 shoots/explants. Shoots spontaneously rooted at the same cytokinin concentration. 4.8 ± 0.67 leaves and 8.4 ± 0.70 profuse roots allowed for 100 % plant survival during acclimation. The naturally occurring flavonoid rutin has antioxidant, antihypertensive and antihyperglycemic properties.
+
+The specific objectives were to identify rutin by investigating several simple methods and less costly alternatives for A. purpurata micropropagation. HighPerformance Thin Liquid Chromatography (HPTLC) was used to assess the flavonoid accumulation in organogenic cultures of A. purpurata. A. purpurata was cultivated on MS agar medium supplemented with inexpensive substitutes such as commercial corn flour, coconut water, sugar and BA, KIN, NAA, IAA and 2, 4-D at varying concentrations for callus, shoots and root initiation. It suggests that using inexpensive medium in A. purpurata tissue cultures could be a useful substitute method for producing rutin8.
+
+The study on micro propagated A. purpurata was done in ‘Red Ginger’ and ‘Pink Ginger’ cultivars under LED tubes and fluorescent sources. A factorial system (2x2), a fully randomized design, four treatments totalling ten replicates and an experimental unit made up of one flask containing five explants were all used in the experiment. After 55 days, ‘Red Ginger’ and White LED generated the most shoots. The cultivar ‘Red Ginger’ with white LED lighting produced better results in terms of leaf count. When cultivated under fluorescent lighting, the cultivar ‘Red Ginger’ demonstrated greater shoot length; however, when grown under LED lighting, ‘Pink Ginger’ demonstrated superiority. Therefore, it was recommended to employ white LED lighting for A. purpurata multiplication in vitro in different genotypes12.
+
+Conclusion There are various medicinal plants in Zingiberaceae family having pharmacological properties. A. purpurata is an important plant of this family which is depleting in forests for which necessary steps must be taken. As the plant is beneficial in various ways, we should conserve and enhance the leaf biomass by tissue culture methods for future drug development.
+
+Acknowledgement The authors are grateful to Prof. Manoj Ranjan Nayak, President, Siksha O Anusandhan University for his encouragement and support.
+
+References 1. Aisy D.U.R., Adawiyah R., Rozaliyani A., Estuningtyas A. and Fadilah F., The antifungal activities of Syzygium aromaticum and Alpinia purpurata extracts against Candida krusei: Bioactivity tests, molecular modeling and toxicity tests, Asian Pacific Journal of Cancer Prevention, 24(10), 3403-3409 (2023)
+
+2. Chan E.W.C. and Wong S.K., Phytochemistry and pharmacology of ornamental gingers, Hedychium coronarium and Alpinia purpurata: a review, Journal of Integrative Medicine, 13(6), 368379 (2015)
+
+3. Cristiane P.V., Kuster R.M., Lage C.L.S. and de Produtos Naturais N.D.P., Production of rutin and kaempferol-3-Oglucuronide by tissue cultures of Alpinia purpurata (Vieill) K. Schum, Latin American Journal of Pharmacy, 28(4), 613-616 (2009)
+
+4. Djati M.S., Azerlyn D.R.N., Kusuma K.H., Rosyadah N., Kamila F.S., Annisa Y. and Widodo N., Antioxidant Properties and Quantification of Phenolic and Flavonoid Compounds in Alpinia purpurata (Viell.) K. Schum Ethanol Extract, Biotropika: Journal of Tropical Biology, 13(1), 11-15 (2025)
+
+5. França R.P.A.D., Botini A.F., Koch A.K., Caetano A.P.S., Silva I.V.D., Krause W. and Silva C.A., Floral and reproductive biology of Alpinia purpurata (Vieill.) K. Schum.(Zingiberaceae): An important tropical ornamental plant, Revista Colombiana de Ciencias Hortícolas, 14(2), 257-266 (2020)
+
+6. Haseena M., Antidiabetic and antioxidant activity of leaves of Alpinia purpurata by alpha amylase and alpha glucosidase assay method, Scholar: National School of Leadership, 8(2.2), 1-14 (2019)
+
+7. Islam M.S., Mehraj H., Roni M.Z.K., Mahasen M. and Jamal Uddin A.F.M., Influence of sucrose and ascorbic acid on vase life of red ginger (Alpinia purpurata Vieill.), Bangladesh Research Publication Journal, 8(1), 104-106 (2013)
+
+8. Kale V.M. and Namdeo A.G., Micropropogation of Alpinia purpurata using low cost media for quantification of rutin, Scholar Research Library, 7(5), 50-57 (2015)
+
+9. Kochuthressia K.P., Britto S.J., Jaseentha M.O., Raj L.J.M. and Senthilkumar S.R., Antimicrobial efficacy of extracts from Alpinia purpurata (Vieill.) K. Schum. against human pathogenic bacteria and fungi, Agriculture and Biology Journal of North America, 1(6), 1249-1252 (2010)
+
+10. Oirere E.K., Anusooriya P., Malarvizhi D., Raj C.A. and Gopalakrishnan V.K., Antioxidant, cytotoxic and apoptotic activities of crude extract of Alpinia purpurata on cervical cancer cell line, Research Article, 6, 28-34 (2016)
+
+11. Palanirajan A., Kannappan P. and Kanniappan G.V., Anticancer activity of Alpinia purpurata (Vieill) K. Schum. against MNU and testosterone induced prostate cancer in male Wistar albino rats, Pharmacological Research-Modern Chinese Medicine, 3, 1-14 (2022)
+
+12. Pinheiro M.V.M. et al, In vitro propagation of Alpinia cultivars in different light sources, Ornamental Horticulture, 25(1), 49-54 (2019)
+
+13. Putri D.P.U., Dewi L.M. and Bestari R.S., Antibacterial Effectiveness Test of Methanol Extract of Red Galangal Rhizome (Alpinia purpurata (Vieill) K. Schum) Against Streptococcus pyogenes and Klebsiella pneumonia Bacteria, Eureka Herba Indonesia, 5(2), 436-440 (2024)
+
+14. Raj C.A., Ragavendran P., Sophia D., Rathi M.A. and Gopalakrishnan V.K., Evaluation of in vitro antioxidant and
+
+Research Journal of Chemistry and Environment__________________________________Vol. 30 (11) November (2026) Res. J. Chem. Environ. https://doi.org/10.25303/3011rjce1730177
+
+177 anticancer activity of Alpinia purpurata, Chinese Journal of Natural Medicines, 10(4), 263-268 (2012)
+
+15. Rakhi K.P., Preethi T.P., Shinija K., Sabu M., Madhusoodanan P.V. and Benjamin S., Micropropagation and chemical profiling of Alpinia purpurata and Hitchenia careyana, Journal of Tropical Medicine, 11(2), 159-162 (2010)
+
+16. Santos G.K., Dutra K.A., Barros R.A., da Câmara C.A., Lira D.D., Gusmao N.B. and Navarro D.M., Essential oils from Alpinia purpurata (Zingiberaceae): Chemical composition, oviposition deterrence, larvicidal and antibacterial activity, Industrial Crops and Products, 40, 254-260 (2012)
+
+17. Setiawati T., Susilawati A., Mutaqin A.Z., Nurzaman M., Annisa A., Partasasmita R. and Karyono K., Morpho-anatomy and physiology of red galangal (Alpinia purpurata) and white galangal (Alpinia galanga) under some salinity stress levels, Biodiversitas Journal of Biological Diversity, 19(3), 809-815 (2018)
+
+18. Sivem S., Abd Aziz M.A., Hairunnaja M.A. and Hamid N., Identification on Chemical Constituent of Alpinia purpurata Hydrosol Extracted by Hydro Distillation Method, Engineering, Agriculture, Science and Technology Journal, 1(1), 26-43 (2022)
+
+19. Subramanian V. and Suja S., Evaluation of antioxidant activity of Alpinia purpurata rhizome (Vieill), International Journal of Research in Pharmaceutical Sciences, 2(4), 601-607 (2016)
+
+20. Syafri S., Jaswir I., Yusof F., Rohman A. and Hamidi D., The use of GC-MS and FTIR spectroscopy coupled with multivariate analysis for the detection of red ginger oil adulteration, Rasayan Journal of Chemistry, 15(4), 2231-2236 (2022)
+
+21. Van H.T., Thang T.D., Luu T.N. and Doan V.D., An overview of the chemical composition and biological activities of essential oils from Alpinia genus (Zingiberaceae), RSC Advances, 11(60), 37767-37783 (2021)
+
+22. Victorio C.P., Therapeutic value of the genus Alpinia, Zingiberaceae, Revista Brasileira de Farmacognosia, 21, 194-201 (2011)
+
+23. Winarsih S., Rizal A. and Ratu E., Effects of Red Galangal Rhizome Extract (Alpinia purpurata) as an Inhibitor of Staphylococcus aureus Bacterial Biofilm, Eureka Herba Indonesia, 4(4), 349-354 (2023)
+
+24. Youn I., Han A.R., Piao D., Lee H., Kwak H., Lee Y. and Seo E.K., Phytochemical and pharmacological properties of the genus Alpinia from 2016 to 2023, Natural Product Reports, 41(9), 13461367 (2024)
+
+25. Yuandani Jantan I., Haque M.A., Rohani A.S., Nugraha S.E., Salim E. and Ibrahim S., Immunomodulatory effects and mechanisms of the extracts and secondary compounds of Zingiber and Alpinia species: A review, Frontiers in Pharmacology, 14, 126 (2023).
+
+(Received 08th November 2025, accepted 12th December 2025)
