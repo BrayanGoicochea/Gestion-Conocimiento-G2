@@ -1,0 +1,183 @@
+Vol. 17(1), pp. 28-36, January, 2023 DOI: 10.5897/JMPR2022.7265 Article Number: FA7703570276 ISSN 1996-0875 Copyright ©2023 Author(s) retain the copyright of this article http://www.academicjournals.org/JMPRR
+
+Journal of Medicinal Plants Research
+
+Full Length Research Paper
+
+Valuation study on the extracts of Ilex guayusa Loes. as an antioxidant and anti-aging raw material
+
+Paco Noriega1,3*, Christian Larenas1,3, Alba Nadal2, Ricardo Fonseca1, Mishell Silva1, Lissette Calderón3 and Tatiana Mosquera3,4
+
+1Group of Research and Development in Sciences Applied to Biological Resources, Universidad Politécnica Salesiana, Avenida 12 de Octubre N 2422 y Wilson, Quito, Ecuador. 2Interdepartmental Center for Studies and Research in Ethnobiopharmacy (CISTRE), University of Pavia, V. le Taramelli, 12, 27100 Pavia, Italy. 3Natural Pharmaceutical Products, Universidad Politécnica Salesiana, Avenida 12 de Octubre N 2422 y Wilson, Quito, Ecuador. 4Group of Research in Apply Biotechnology to the Natural Resources, Universidad Politécnica Salesiana, Avenida 12 de Octubre N 2422y Wilson, Quito, Ecuador.
+
+Received 6 September, 2022; Accepted 31 October, 2022
+
+Ilex guayusa Loes. is a medicinal plant used by people of the Ecuadorian Amazon for treating various diseases and for its stimulating properties. In recent years, several studies have shown this plant to possess a high concentration of phenolic compounds and a high antioxidant potential, allowing it to be used as an ingredient for cosmetic formulations. This research confirms the presence of phenolic compounds between 20.18 and 22.44 mg gallic acid equivalents/mL of total phenols and between 7.50 and 3.80 mg hyperoxide equivalents/Ml of total flavonoids, depending on the solvent used (hydroalcoholic or hydroglyceric) to prepare the extract. The evaluation by GC/MS after silylation reveals the presence of 3-hydroxyflavone, techtochrysin, kaempferol and quercetin. The spectrophotometric method of DPPH (2.2-diphenyl-1-picrylhydrazyl) verifies high antioxidant activity in the extracts evaluated and in two cosmetic formulations: Hydrophilic (gel) and lipophilic (cream), with activities similar to ascorbic acid and the natural extract of reference from Camellia sinensis. Clinical evaluation of the lipophilic form shows positive results in increasing skin elasticity and firmness in all volunteers. This study verifies the cosmetic potential of I. guayusa, as well as the abundant concentration of phenolic compounds and its influence on antioxidant activity, with an industrial use in cosmetics, which could become a source of income for the communities where this plant is grown.
+
+Key words: Ilex guayusa, natural cosmetics, polyphenols, antioxidants, skin elasticity, skin firmness.
+
+INTRODUCTION
+
+Ilex guayusa Loes. is a tree native to Ecuador, that is also found in the Amazon region of Peru, Colombia and Bolivia, at altitudes between 200 and 2,000 m above sea level (Sequeda-Castañeda et al., 2016). The species has
+
+*Corresponding author. E-mail: pnoriega@ups.edu.ec. Tel: +593984258179.
+
+Author(s) agree that this article remain permanently open access under the terms of the Creative Commons Attribution License 4.0 International License
+
+an average height of 10 m, with trees up to 30 m high, and an average diameter between 50 and 80 cm (Dueñas et al., 2016). I. guayusa is a medicinal and ancestral plant used by people of the Ecuadorian Amazon as: Fever reducer, diuretic, pain killers, antiarthritis, fertility, ritual plant, among others (Dueñas et al., 2016; De la Torre et al., 2008; Villacís-Chiriboga, 2017; Lewis et al., 1991). The most widespread use of the species is that of stimulant (Lewis et al., 1991; Radice and Vidari, 2007), due to its high caffeine concentration, which is usually higher than 3% (Radice and Vidari, 2007; Negrin et al., 2019; Kapp et al., 2016). Generally, the part of the plant used for medicinal purposes are its leaves. Several studies have been conducted to identify new secondary metabolites in the species, finding terpenes such as ursolic acid, amyrin esters (Chianese et al., 2019) and squalene (Cadena-Carrera et al., 2019); xanthine alkaloids such as theo-bromine and theophylline (Pardau et al., 2017); polyphenols (García‐Ruiz et al., 2017; Arteaga-Crespo et al., 2020; ChóezGuaranda et al., 2021; Villacís-Chiriboga et al., 2018) and carotenoids (García‐Ruiz et al., 2017). The high and diverse presence of poly-phenolic compounds is noteworthy, among which have been identified chlorogenic acid (García‐Ruiz et al., 2017), quercetin (García-Ruiz et al., 2017; Villacís-Chiriboga et al., 2018), kaempferol (Villacís-Chiriboga et al., 2018), caffeoylquinic acid (Villacís-Chiriboga et al., 2018), as the most abundant. This important presence of flavonoids and other polyphenols in guayusa would suggest the species as a good cosmetic raw material, due to its known antioxidant and anti-inflammatory properties, confirmed in evaluations in vitro (Arct and Pytkowska, 2018; Chuarienthong et al., 2010; Hui-zhi, 2010; Benavente-García et al., 1997; Noriega et al., 2015; García-Ruiz et al., 2017; ArteagaCrespo et al., 2020; Pardau et al., 2017; VillacísChiriboga et al., 2018). Vegetable extracts with polyphenols are used frequently in cosmetic anti-aging products (de Lima Cherubin et al., 2020; Panzella, 2020), for this reason, guayusa could to considered as important raw material with industrial potential. The principal aims of this research is to value extracts from the I. guayusa, as active ingredients for the cosmetic industry, due to the presence of its secondary metabolites, as well as its results in in-vitro and clinical activity tests. Studies evaluating natural active ingredients for the cosmetic industry are scarce, in the case of I. guayusa as it is a plant that is found in a small geographical area of the Amazon even more, this justifies the importance of this research.
+
+MATERIALS AND METHODS
+
+Plant material
+
+Dried and ground leaves of I. guayusa were provided by the Chankuap Foundation Resources for the Future, from the Noriega et al. 29
+
+Upano Valley, Macas parish, Morona Santiago province, at the following coordinates: Latitude: S 2° 10', Length: W 78° 0', Altitude: 1080 m above sea level, the collection was executed in January 2017. Voucher of the plant was deposited in the herbarium of Salesian Polytechnic University code HUPS-aq-006, the identification was made the botanist Marco Cerna. The collected leaves provided from trees of more than five years were composite and young.
+
+Extracts preparation
+
+Three fluid extracts were prepared from I. guayusa leaves (concentration 1 g of plant /mL extract) using different ethanol/water mixtures (80, 50 and 20% and a hydroglyceric fluid extract (concentration 1 g of plant/mL extract) using glycerin and water (1:1, v/v). The technique used was percolation, to reach the concentration; the solvent was evaporated under reduced pressure, on a rotary evaporator, based on the research of Tatiana et al. (2017). The residue was filtered on Whatman grade one filter paper. A fluid extract of Camellia sinensis was prepared as a control extract using a ethanol/water solvent at 50%.
+
+Quantification of total phenols and total flavonoids
+
+Folin-Ciocalteu method described by Singleton and Rossi (1965) was used to evaluate the concentration of total polyphenols. Due to the nature of the extracts, the preparation of the solutions was modified in a similar way as described by Noriega et al. (2015); the calibration curve was prepared with a number of gallic acid standards. Total flavonoids were quantified according to Lamaison and Carnat method (1991), with hyperoside as standard (Wolniak et al., 2007). In each case, four replications were conducted for each trial.
+
+Free radical scavenging activity of the extracts and cosmetic products
+
+The free radical scavenging activity was evaluated by the spectrophotometric method of DPPH 2,2-diphenyl-1-picrylhydrazyl, which has been used in medicinal plants rich in polyphenols (Sembiring et al., 2018; Xiang et al., 2017; Nunekpeku et al., 2018). The fluid extracts evaluated (equal to 1 g of drug / 1 mL solution) were prepared using several hydroalcoholic and hydroglyceric solvents. The concentration range of the extracts was from 10 to 500 µg/mL. Ascorbic acid and ethanolic extract of green tea (C. sinensis) were used as positive controls. The methodology uses a DPPH solution with a 1 × 10-4 M concentration and various concentrations of the extracts to measure their absorbances at a wavelength of 517 nm, after 30 min of agitation. With the data obtained from absorbance, oxidation inhibition percentages were calculated by means of the following equation.
+
+% inhibition 1 - (AA/AB) × 100
+
+Finally the C50 was calculated I in µg/mL and the values are compared, considering that the lower the IC50 value the higher its activity. For each determination 4 replications were done.
+
+Polyphenols analysis (GC/MS after silylation)
+
+Poly-phenolic compounds such as flavonoids were separated and analyzed in a gas chromatograph-mass spectrometer, even though these compounds are not volatile. One of the mechanisms used to make these molecules easily evaporate and enter a capillary
+
+30 J. Med. Plants Res.
+
+Table 1. Composition of the hydrophilic cosmetic formula gel with and without I. guayusa extract as an active ingredient.
+
+Ingredients Product with I. guayusa extract Product without I. guayusa extract Amount (g) Amount (g) Deionized water 70 79 Ethyl alcohol 70º 20 20 Carbomer 0.5 0.5 Triethanolamine 0.5 0.5 Ilex guayusa leaf extract 9 -
+
+Source: Authors 2022
+
+Table 2. Composition of lipophilic cosmetic formula (cream) with and without I. guayusa extract as an active ingredient.
+
+Ingredient Product with I. guayusa extract Product without I. guayusa extract Amount (g) Amount (g) Isopropyl palmitate 7.5 7.5 Plukenetia volubilis seed oil 4.0 - Ceteareth-20 · Cetearyl alcohol 5.0 5.0 Triethanolamine 4.0 4.0 Ilex guayusa leaf extract 5.0 - Phenova (phenoxyethanol, methylparaben, ethylparaben, propylparaben, butylparaben, isobutylparaben) 0.7 0.7 Deionized water 73.8 82.8
+
+Source: Authors 2022
+
+column is the chemical derivatization reaction known as silylation, in which the -OH groups are replaced by the -O-Si-(CH3)3 group (Proestos and Komaitis, 2013). Previously, poly-phenols were subjected to an acidic hydrolysis process in order to separate them from their sugar, using a 6 N HCl solution with a process described in a previous investigation (Proestos et al., 2006), where polyphenol extract is prepared prior to silylation. Subsequently, the extract is derived by reacting with the reagent composed of BSA + TMCS Sigma Aldrich code 33019-U; finally, the substance obtained was filtered and injected into the GC/MS system. Analysis conditions were as follows: The equipment used was composed of a Varian gas chromatograph, model 4000 and a Varian Saturn 2100 mass spectrometer. A VF5 column was used (5% -phenyl-95% dimethylpolysiloxane) (internal diameter of 30 m × 0.25 mm, 0.25 µm film thickness). The carrier gas was helium with a constant flow of 1.9 mL/min and a split ratio of 1/25. The analysis started at 75°C and was carried on until it reached 135°C at a speed of 10°C/min; the temperature was then raised to 270°C at a rate of 3°C/min, remaining at that temperature for 10 min. The ionization energy of the mass spectrometer was 70 eV and the mass range was 40 to 650 m/z. For the identification of the compounds, molecular mass values were compared with flavonoids after silylation.
+
+Cosmetic formulations
+
+For evaluating the antioxidant and anti-aging clinical properties, two formulas of hydrophilic nature (gel) and lipophilic (cream) nature were prepared, similarly to what was done by Noriega et al. (2015). In both formulas, insertion properties of compounds were previously observed in order to set the ideal percentage of I. guayusa extract that is necessary in the achievement of a stable formula and with good organoleptic and application characteristics. The formulas are detailed in Tables 1 and 2.
+
+Free radical scavenging activity of the hydrophilic and lipophilic formulations
+
+Free radical scavenging activity was determined in the hydrophilic (gel) and lipophilic (cream) cosmetic formulations in the same way as detailed for the extracts above, using ascorbic acid and the fluid extract of green tea as positive controls. Absolute ethanol was used as solvent at a concentration range from 10 to 500 ug/mL.
+
+Clinical evaluation of cream efficacy
+
+The cream with hydroglyceric extract of I. guayusa at 5% was clinical evaluated by a panel of 10 women between 30 and 45 years old. The conditions of the volunteers were previously analyzed. Table 3 shows the criteria of admission and exclusion. This study compiled ethical considerations of the clinical studies applied in Ecuador. Consent was signed before giving them the cream. Each volunteer received two samples of 125 g of product (creams), one without active ingredient (NAP) and the other with active ingredient (AP), for their application in a part of the cheek. The left side of the cheek was destined for the cream NAP and the right side for AP. The application frequency was once a day, at night. Measurements of firmness and elasticity of the skin were done in two different
+
+Noriega et al. 31
+
+Table 3. Inclusion and exclusion criteria for selecting the participants.
+
+Inclusion People who:
+
+Are women whose age is from 35-50 years, mean between aging II and III. The benefits they receive from applying cosmetic formula are higher than the risks. Sign appropriate informed consent to ensure the confidentiality of the volunteer and the privacy of her identity
+
+Exclusion Women who:
+
+Have an occupation or perform activities involving the frequent use of chemicals. Are pregnant or breastfeeding. Have solar exposure between 3 and 6 hours a day. Experience skin reaction after solar exposure. Do not use sunscreen frequently. Smoke regularly. Present all medical conditions mentioned. Use night creams frequently or consistently. Use medications frequently or consistently.
+
+Source: Authors 2022
+
+Table 4. Total phenolics and total flavonoids of various extracts from I. guayusa.
+
+Fluid extract Total phenolics as mg of gallic acid equivalents/mL Total flavonoids as mg of hyperoside equivalents/mL I. guayusa (20% ethanol solvent) 21.46 ± 0.35 5.42 ± 0.24 I. guayusa (50% ethanol solvent) 22.44 ± 0.63 7.50 ± 0.37 I. guayusa (80% ethanol solvent) 20.18 ± 0.45 3.80 ± 0.21 I. guayusa (water: glycerin 50:50) 21.75 ± 0.78 7.40 ± 0.65 C. sinensis (50% ethanol solvent) 50.28 ± 0.17 4.92 ± 0.35
+
+Source: Authors 2022
+
+times: Time 1 within 30 days and time 2 after 60 days, compared to the initial measurement time (To). Two AP groups with active substance and NAP without I. guayusa extract active are established in the assay. Applications of both products were done on the same volunteer on each of their cheeks. Elasticity and firmness were determined using a Cutometer Dual MPA 580, brand MICROCAYA, the units for measurement was millimetres (LeyvaGómez et al., 2017). This study was executed in the science life laboratories in the Salesian Polytechnic University, Quito Ecuador, between March and May 2017.
+
+Statistics
+
+To assess the results of the elasticity and firmness measurements, Kruskal-Wallis, non-parametric test was used to verify statistical differences between treatments in relation to control for a significance level (α=0.05). Mann-Whitney's U-test was used to establish the differences between the means of the two treatments, 30 and 60 days. The program used was the free software "R version 3.6.3 (2020-02-29). Relative standard deviations and statistical significance (student´s test; p < 0.05), one way ANOVA and LSD post hoc Fisher´s honest significant difference test, were used, when appropriate, for all data collected in total phenolics, total flavonoids and IC50 DPPH. All computations were made using the statistical software STATISTICA 6.0.
+
+RESULTS
+
+Quantification of total phenols and total flavonoids
+
+The results of these measurements are described in Table 4, in mg/mL concentrations of the average and its standard deviation, expressed in mg gallic acid equivalents/mL for total phenols, and in mg hyperoside equivalents/mL for total flavonoids, for each analysis was made 4 repetitions, Fluid extract of I. guayusa prepared with ethanol 50%, showed the highest concentration of total phenolics and flavonoids; this indicates that the extract contains a very good amount of secondary metabolites.
+
+Free radical scavenging activity
+
+The activity was valued in ethanolic extracts, hydroglyceric extracts, hydrophilic cosmetic formulation (gel) and in a lipophilic formulation (cream). Ascorbic acid and an ethanolic extract of Camellia sinensis were used as a reference of activity. The values (50% oxidation inhibition DPPH) IC50 DPPH in µg/mL are the average and its standard deviation, for 4 repetitions (Table 5). Lower values of IC50 mean higher free radical scavenging activity. In this proof I. guayusa extract prepared with ethanol 50% shows a less value; this result is very similar to citric acid, which denotes a high activity. Free radical scavenging activity for the ascorbic acid with IC50 DPPH 18.69 ug /mL ± 0.03 compared to the extract prepared with 50% ethanol (IC50 23.85 ± 0.02 ug /mL) showed little difference between the extract and the
+
+32 J. Med. Plants Res.
+
+Table 5. IC50 DPPH values for various extracts and cosmetic products.
+
+Fluid extract or cosmetic products IC 50 (DPPH) µg/mL I. guayusa (20% ethanol solvent) 57.25 ± 0.24 I. guayusa (50% ethanol solvent) 23.85 ± 0.02 I. guayusa (80% ethanol solvent) 25.05 ± 0.02 I. guayusa (water: glycerin 50:50) 34.88 ± 0.13 C. sinensis (50% ethanol solvent) 32.54 ± 0.14 Hydrophilic formulation (gel), with 9% of the fluid extract of I- guayusa (50% ethanol solvent) 209.34± 2.72 Lipophilic formulation (cream), with 5% of the fluid extract of I. guayusa (hydroglyceric extract) 55.78 ± 0.68 Ascorbic acid 18.69 ± 0.03
+
+Source: Authors 2022
+
+Table 6. Characterization phenolic compounds with a silylation derivatization reaction.
+
+Phenolic compounds Molecular ion of TMS derivaties Charesteristic fragments 3-Hidroxyflavone 310 295, 280, 237, 181, 152, 77 Techtochrysin 340 325, 310, 295, 268, 239 Kaempferol 574 559, 501, 282 Quercetin 647 575, 487, 297, 137
+
+Source: Authors 2022
+
+antioxidant molecule, which shows a high activity. This is best confirmed when comparing the IC50 values with the natural extract of C. sinensis, in this case several extracts have lower values, which implies a higher activity.
+
+Phenolics compounds characterization
+
+The silylated phenolic compounds were identified in the mass spectrum. Extract of I. guayusa (50% ethanol solvent) was used in this experiment to obtain the major concentration of phenolics compounds. Quercetin and kaempferol flavonoids were identied, which are described in several papers as the most representatives in I. guayusa. In addition, molecular ions matching 3- hydroxyflavine and techtochrysin were found. Table 6 shows the results obtained from the mass spectra.
+
+Cosmetic efficacy
+
+The results allow to observe significant differences between those treatments with and without the extract of I. guayusa, either when comparing the data obtained individually by each volunteer (Figures 1 and 2) or when comparing treatments (Figures 3 and 4). The values were the results of measuring elasticity and firmess in 10 volunters, and at two different times (30 daysand 60 days) and in the presence of the I. guayusa extract (AP) or withouth I. guayusa extract (NAP). For each measure, 4 repetitions were executed.This difference in the values of the individual data towards a lower measurement value with respect to the initial measurement and treatments without I. guayusa shows cosmetic efficacy on the elasticity and firmness parameters of the skin. Regarding the treatment that differentiates measurement times, it is clear that increased application time positively affects values that determine improved firmness and elasticity.
+
+DISCUSSION
+
+Both qualitative and quantitative determinations confirm the information described in the literature, mentioning a significant number of polyphenols present in I. guayusa (Pardau et al., 2017; Villacís-Chiriboga et al., 2018; Wise and Santander, 2018; Radice et al., 2016; Manzano et al., 2018). concentrations similar to an investigation conducted using alcoholic solvents and ultrasound in the extraction was found; the maximum values reported by the study are around 30 mg gallic acid equivalents/mL (Arteaga-Crespo et al., 2020), while in this study 22 mg gallic acid equivalents/mL was reported. The extract obtained using 50% ethanol solvent provided the best extraction values; for this reason, it was the one used in the elaboration of the hydrophilic formula (gel). Similarly, that hydroglyceric extract contains significant concentrations of both total phenolic compounds and flavonoids was determined; subsequently this was used
+
+Noriega et al. 33
+
+Figure 1. Data of the firmness of the skin in each volunteer. AP with active ingredient, NAP without active ingredient, thirty days and sixty days after starting treatment. Means + SD. Lower values show better firmness. Source: Authors 2022
+
+Figure 2. Data of the elasticity of the skin in each volunteer. AP with active ingredient, NAP without active ingredient, thirty days, sixty days after staring treatment. Means + SD. Source: Authors 2022
+
+34 J. Med. Plants Res.
+
+Figure 3. Data of variation (explain how variation is shown) of the skin firmness in 10 volunteers for each treatment. AP with active ingredient, NAP without active ingredient, thirty days and sixty days after starting treatment. Source: Authors 2022
+
+Figure 4. Data of variation of the skin elasticity in 10 volunteers for each treatment. AP with active ingredient, NAP without active ingredient, thirty days and sixty days after starting treatment. Source: Authors 2022
+
+in the elaboration of the lipophilic cosmetic formula (cream). From a qualitative point of view, the presence of quercetin and kaempferol flavonoids described in the scientific literature (García-Ruiz et al., 2017), is confirmed, as well as the presence of 3-hydroxyflavone and techtochrysin. Several studies mention the presence of chlorogenic acid and caffeoyl (García-Ruiz et al., 2017; Villacís-Chiriboga et al., 2018); however, silylation products of these compounds have molecular ions that
+
+exceed the mass spectrometer resolution of 650 m/z, which were not possible to detect here. The assessment of antioxidant activity by the DPPH method reveals a very high potential of the species, which remains noticeable in cosmetic formulations, whether hydrophilic (gel) or lipophilic (cream). The extract prepared with 50% ethanol solvent is the one with the best activity, which coincides with the highest presence of phenolic compounds; thus, verifying an activity superior to green tea (C. sinensis), which is already a validated raw material in antioxidant and antiaging cosmetic products (Koch et al., 2019; Gianeti et al., 2013; Kaur and Saraf, 2011). Regarding the lipophilic formulation, the antioxidant capacity is very interesting and is surely enhanced by the presence of Plukenetia volubilis oil, which is rich in polyunsaturated fatty acids and with high antioxidant capacity (Cisneros et al., 2014; Wang et al., 2018; Mosquera et al., 2012). Clinical efficacy studies of the lipophilic formulation confirm good performance to improve the elasticity and firmness characteristics of the skin in all volunteers who used the product for 60 days; for this reason, this species is proposed as a good cosmetic raw material option. Statistics analysis (Figures 4 and 5) show the minor values for the individual mediation (elasticity and firmness), in all the volunteers; this means that independently in all of them there was a positive result, whose response was inherent in each volunteer. Results about the efficacy in the treatments, independent of volunteers, shown in the Figure 3 and 4 that the treatment AP60d (with active ingredient and sixty days of apply) is the best to improve elasticity and firmness in the skin. A relashionship betwen in-vitro studies (antioxidant activity) and clinical studies (elasticity and firmness) is not possible, because the nature of the assays is different, but it is known that antioxidant compounds have a possitive effect for maintaining the good state of the skin.
+
+Conclusion
+
+Secondary metabolites such as phenolic compounds have gained importance in recent years for their various beneficial properties for human health and well-being. I. guayusa is an Amazonian species that grows in Ecuador, whose composition of this type of molecules has been recognized in recent years. This study shows a plant that can be considered as promisor in quantity and quality of polyphenolic compounds, many of them as the quercetin and kaempherol, with an interesting biological activity for the pharmacy and cosmetics. The research carried out in the Laboratories of Life Sciences of the Salesian Polytechnic University confirm the beneficial properties of the species, not only evaluating the antioxidant activity and polyphenolic chemical composition in various extracts, but also analyzing its use in cosmetic formulas. The studies in vitro (antioxidant gel) and in clinical, Noriega et al. 35
+
+elasticity and firmness (antiaging cream), confirm the good proprieties of I. guayusa. The results are encouraging and propose I. guayusa as raw material for the design and creation of cosmetic products.
+
+CONFLICT OF INTERESTS
+
+The authors have not declared any conflict interests.
+
+REFERENCES
+
+Arct J, Pytkowska K (2018). Flavonoids as components of biologically active cosmeceuticals. Clinics in Dermatology 26(4):347-357. Arteaga-Crespo Y, Radice M, Bravo-Sanchez LR, García-Quintana Y, Scalvenzi L (2020). Optimisation of ultrasound-assisted extraction of phenolic antioxidants from Ilex guayusa Loes. leaves using response surface methodology. Heliyon 6(1):03043. Benavente-García O, Castillo J, Marin FR, Ortuño A, Del Río JA (1997). Uses and properties of citrus flavonoids. Journal of Agricultural and Food Chemistry 45(12):4505-4515.. Cadena-Carrera S, Tramontin DP, Cruz AB, Cruz RCB, Müller JM, Hense H (2019). Biological activity of extracts from guayusa leaves (Ilex guayusa Loes.) obtained by supercritical CO2 and ethanol as cosolvent. The Journal of Supercritical Fluids 152:104543. Chianese G, Golin-Pacheco SD, Taglialatela-Scafati O, Collado JA, Munoz E, Appendino G, Pollastro F (2019). Bioactive triterpenoids from the caffeine-rich plants guayusa and mate. Food Research International 115:504-510. Chóez-Guaranda I, Viteri-Espinoza R, Barragán-Lucas A, QuijanoAvilés M, Manzano P (2021). Effect of solvent-solvent partition on antioxidant activity and GC-MS profile of Ilex guayusa Loes. leaves extract and fractions. Natural Product Research 36(6):1-5. Chuarienthong P, Lourith N, Leelapornpisid P (2010). Clinical efficacy comparison of anti‐wrinkle cosmetics containing herbal flavonoids. International Journal of Cosmetic Science 32(2):99-106. Cisneros FH, Paredes D, Arana A, Cisneros-Zevallos L (2014). Chemical composition, oxidative stability and antioxidant capacity of oil extracted from roasted seeds of Sacha-inchi (Plukenetia volubilis L.). Journal of Agricultural and Food Chemistry 62(22):5191-5197. De la Torre L, Navarrete MP, Macia J, Balslev H (2008). Uso de plantas como aditivos en la alimentación. Enciclopedia de las plantas útiles del Ecuador, 1st ed.; Herbario QCA de la Escuela de Ciencias Biológicas de la Pontificia Universidad Católica del Ecuador and Herbario AAU Department of Biological Sciences, University of Aathus: Quito, Ecuador. de Lima Cherubim DJ, Buzanello Martins CV, Oliveira Fariña L, da Silva de Lucca RA (2020). Polyphenols as natural antioxidants in cosmetics applications. Journal of Cosmetic Dermatology 19(1):3337. Dueñas JF, Jarrett C, Cummins I, Logan–Hines E (2016). Amazonian Guayusa (Ilex guayusa Loes.): a historical and ethnobotanical overview. Economic Botany 70(1):85-91. García‐Ruiz A, Baenas N, Benítez‐González AM, Stinco CM, Meléndez‐ Martínez AJ, Moreno DA, Ruales J (2017). Guayusa (Ilex guayusa L.) new tea: phenolic and carotenoid composition and antioxidant capacity. Journal of the Science of Food and Agriculture 97(12):39293936. Gianeti MD, Mercurio DG, Maia Campos PM (2013). The use of green tea extract in cosmetic formulations: not only an antioxidant active ingredient. Dermatologic Therapy 26(3):267-271. Hui-zhi Z (2010). Development of a Platycladus orientalis leaf flavonoids cosmetics formulation and its lightening efficacy assessment. Journal of Anhui Agricultural Sciences 19:188-193. Kapp Jr RW, Mendes O, Roy S, McQuate RS, Kraska R (2016). General and genetic toxicology of guayusa concentrate (Ilex guayusa). International Journal of Toxicology 35(2):222-242. Kaur CD, Saraf S (2011). Photochemoprotective activity of alcoholic extract of Camellia sinensis. International Journal of Pharmacology
+
+36 J. Med. Plants Res.
+
+7(3):400-404. Koch W, Zagórska J, Marzec Z, Kukula-Koch W (2019). Applications of tea (Camellia sinensis) and its active constituents in cosmetics. Molecules 24(23):4277. Lamaison JL, Carnat A (1991). Content of main flavonoids in flowers and leaves of Crataegus monogyna Jacq. and Crataegus laevigata (Poiret) DC. in relation with development stages. Plantes Medicinales et Phytotherapie 25:12-16. Lewis WH, Kennelly EJ, Bass GN, Wedner HJ, Elvin-Lewis MP (1991). Ritualistic use of the holly Ilex guayusa by Amazonian Jivaro Indians. Journal of Ethnopharmacology 33(1-2):25-30. Leyva-Gómez G, Zacáula-Juárez N, Álvarez-Camacho M, TolentinoBazán K, Morales-García M (2017). Evaluación de las propiedades biomecánicas de la piel en un paciente quemado con un método no invasivo y cuantitativo. Investigación en Discapacidad 6(2):88-93. Manzano SP, Quijano-Avilés M, Chóez-Guaranda I, Barragán Lucas A, Viteri Espinoza R, Martínez D, Camacho C, Miranda Martínez M (2018). Effect of drying methods on physical and chemical properties of Ilex guayusa leaves. Revista Facultad Nacional de Agronomía Medellín 71(3):8617-8622. Mosquera T, Noriega P, Tapia W, Pérez SH (2012). Evaluación de la eficacia cosmética de cremas elaboradas con aceites extraídos de especies vegetales Amazónicas: Mauritia flexuosa (Morete), Plukenetia volubilis (Sacha Inchi) y Oenocarpus bataua (Ungurahua). La Granja 16(2):14-22. Negrin A, Long C, Motley TJ, Kennelly EJ (2019). LC-MS metabolomics and chemotaxonomy of caffeine-containing holly (Ilex) species and related taxa in the Aquifoliaceae. Journal of Agricultural and Food Chemistry 67(19):5687-5699. Noriega P, Sola M, Barukcic A, Garcia K, Osorio E (2015). Cosmetic antioxidant potential of extracts from species of the Cinchona pubescens (Vahl). International Journal of Phytocosmetics and Natural Ingredients 2(1):14-14. Nunekpeku W, Amoatey HM, Agbenyegah S, Owusu-Ansah M, Oduro V, Danso KE, Asare DK, Achoribo E (2018). Screening for total antioxidant activity, flavonoids and phenolics variability in forty-five accessions of roselle (Hibiscus sabdariffa L.). African Journal of Biotechnology 17(22):694-699. Pardau MD, Pereira AS, Apostolides Z, Serem JC, Bester MJ (2017). Antioxidant and anti-inflammatory properties of Ilex guayusa tea preparations: a comparison to Camellia sinensis teas. Food and Function 8(12):4601-4610. Panzella L (2020). Natural phenolic compounds for health, food and cosmetic applications. Antioxidants 9(5):427. Proestos C, Komaitis M (2013). Analysis of naturally occurring phenolic compounds in aromatic plants by RP-HPLC coupled to diode array detector (DAD) and GC-MS after silylation. Foods 2(1):90-99. Proestos C, Sereli D, Komaitis M (2006). Determination of phenolic compounds in aromatic plants by RP-HPLC and GC-MS. Food Chemistry 95(1):44-52. Radice M, Scalvenzi L, Sablón N (2016). Ilex guayusa: A Systematic Rrview of its traditional uses, chemical constituents, biological activities and biotrade opportunities. International Workshop on Modelization and Multidisciplinary Sciences for Development of Natural Products and Agro-Industrial Procesess in Ecuador Amazon Region In: Proceedings of MOL2NET, Puyo (2016-Dec-05).
+
+Radice M, Vidari G (2007). Caracterización fitoquímica de la especie Ilex guayusa Loes. y elaboración de un prototipo de fitofármaco de interés comercial. LA GRANJA. Revista de Ciencias de la Vida (6):311. Sembiring EN, Elya B, Sauriasari R (2018). Phytochemical screening, total flavonoid and total phenolic content and antioxidant activity of different parts of Caesalpinia bonduc (L.) Roxb. Pharmacognosy Journal 10(1). Sequeda-Castañeda LG, Modesti Costa G, Celis C, Gamboa F, Gutiérrez S, Luengas P (2016). Ilex guayusa Loes (Aquifoliaceae): Amazon and Andean native plant. Pharmacology online (3):193-202. Singleton VL, Rossi JA (1965). Colorimetry of total phenolics with phosphomolybdic-phosphotungstic acid reagents. American Journal of Enology and Viticulture 16(3):144-158. Tatiana DLAM, Michelle JP, Hector IF, Paco FN (2017). Phytochemical standardization of hydroalcoholic extracts of ishpingo, Ocotea quixos (Lam.) Kosterm. Journal of Medicinal Plants Research 11(36):568575. Villacís-Chiriboga J (2017). Etnobotánica y sistemas tradicionales de salud en ecuador. enfoque en la Guayusa (Ilex guayusa Loes). Etnobiología 15(3):79-88. Villacís‐Chiriboga J, García‐Ruiz A, Baenas N, Moreno DA, Meléndez‐ Martínez AJ, Stinco CM, Jerves-Andrade L, León-Tamariz F, OrtizUlloa J, Ruales J (2018). Changes in phytochemical composition, bioactivity and in vitro digestibility of guayusa leaves (Ilex guayusa Loes.) in different ripening stages. Journal of the Science of Food and Agriculture 98(5):1927-1934. Wang S, Zhu F, Kakuda Y (2018). Sacha inchi (Plukenetia volubilis L.): Nutritional composition, biological activity, and uses. Food Chemistry 265:316-328. Wise G, Santander DE (2018). Comparative composition analysis of the dried leaves of Ilex guayusa (Loes.). Food and Nutrition Research 6(10): 638-644. Wolniak M, Tomczykowa, Tomczyk M, Gudej J, Wawer I (2007). Antioxidant activity of extracts and flavonoids from Bidens tripartita. Acta Poloniae Pharmaceutica 64(5):441-447. Xiang S, Yang P, Guo H, Zhang S, Zhang X, Zhu F, Li Y (2017). Green tea makes polyphenol nanoparticles with radical‐scavenging activities. Macromolecular Rapid Communications 38(23):1700446.

@@ -1,0 +1,527 @@
+UNIVERSIDADE FEDERAL DO CEARÁ CENTRO DE CIÊNCIAS DEPARTAMENTO DE QUÍMICA ANALÍTICA E FÍSICO-QUÍMICA CURSO DE QUÍMICA BACHARELADO
+
+GUILHERME DE SANDES PARENTE
+
+CARACTERIZAÇÃO QUÍMICA DE ANTOCIANINAS DO INHAME-ROXO (Dioscorea trifida)
+
+FORTALEZA 2023
+
+GUILHERME DE SANDES PARENTE
+
+CARACTERIZAÇÃO QUÍMICA DE ANTOCIANINAS DO INHAME-ROXO (Dioscorea trifida)
+
+Monografia apresentada ao Curso de Química Bacharelado do Departamento de Química Analítica e Físico-Química da Universidade Federal do Ceará, como requisito parcial à obtenção do Título de Bacharel em Química
+
+Orientador Pedagógico: Prof. Dr. Marcos Carlos de Mattos. Orientador Profissional: Dr. Kirley Marques Canuto.
+
+FORTALEZA 2023
+
+Dados Internacionais de Catalogação na Publicação Universidade Federal do Ceará Sistema de Bibliotecas Gerada automaticamente pelo módulo Catalog, mediante os dados fornecidos pelo(a) autor(a)
+
+P252c Parente, Guilherme de Sandes. CARACTERIZAÇÃO QUÍMICA DE ANTOCIANINAS DO INHAME-ROXO (Dioscorea trifida) / Guilherme de Sandes Parente. – 2023. 71 f. : il. color. Trabalho de Conclusão de Curso (graduação) – Universidade Federal do Ceará, Centro de Ciências, Curso de Química, Fortaleza, 2023. Orientação: Prof. Dr. Marcos Carlos de Mattos e Kirley Marques Canuto. 1. Inhame-roxo. 2. Antocianinas. 3. UPLC-QDa. I. Título.
+
+CDD 540
+
+GUILHERME DE SANDES PARENTE
+
+CARACTERIZAÇÃO QUÍMICA DE ANTOCIANINAS DO INHAME-ROXO (Dioscorea trifida)
+
+Monografia apresentada ao Curso de Química Bacharelado do Departamento de Química Analítica e Físico-Química da Universidade Federal do Ceará, como requisito parcial à obtenção do Título de Bacharel em Química
+
+Aprovada em: __/__/_____
+
+BANCA EXAMINADORA
+
+________________________________________ Prof. Dr. Marcos Carlos de Mattos (Orientador Pedagógico) Universidade Federal do Ceará (UFC)
+
+_________________________________________ Prof. Dr. Kirley Marques Canuto (Orientador profissional) Empresa Brasileira de Pesquisa Agropecuária- EMBRAPA
+
+_________________________________________ Prof. Dr. Jair Mafezoli Universidade Federal do Ceará (UFC)
+
+Aos meus pais, Christiane e Gustavo, que sempre me apoiaram em todos os momentos.
+
+AGRADECIMENTOS
+
+Agradeço aos meus pais, Christiane e Gustavo, que me deram apoio, amor e carinho sempre que precisei durante a minha vida. Ao Prof. Dr. Marcos pelo seu suporte, paciência, disponibilidade e por ser um professor incrível. Ao pesquisador, Dr. Kirley, pelo seu suporte, comprometimento e ensinamentos prestados durante a realização desse trabalho. Ao analista, Dr. Paulo pela paciência, ensinamentos e auxiliar na realização dos procedimentos desse trabalho. Ao Prof. Dr Jair por ter aceitado participar da banca e por ser um excelente professor de Química Orgânica. Aos meus amigos que entraram junto comigo na UFC e que foram essenciais em toda minha graduação: Elisson, Larissa, Gabriela, Elcia, Roberto, Cristian, Gean ,Lorrane, Railson, Kauan, Ribeiro e Cecília. A todos as pessoas que participaram do PET Química em especial: Carol, Pedro, Letícia, Ashley, Daniel, Iago, Gabriel, Ana Gabrielle e Iasmim que puderam fazer parte da minha graduação e ajudar a me tornar um ser humano melhor. A Profa. Dra Gracinha pelos seus ensinamentos, conselhos e carões durante toda a minha passagem pelo PET Química UFC
+
+“Apressa-te a viver bem e pensa que cada dia é, por si só, uma vida”. - Sêneca.
+
+RESUMO
+
+O inhame é um tubérculo pertencente ao gênero Dioscorea (Dioscoreaceae). Entre as diversas espécies cultivadas destacam-se D. alata, D. rotundata, D. opposite e D. trifida. Essa última apresenta uma coloração roxa, devido a presença de antocianinas. O inhame possui diversos benefícios a saúde, entretanto, órgãos governamentais brasileiros têm dado pouca importância a sua cultura, sendo assim há a necessidade de aprofundar mais os estudos desse tubérculo. Este trabalho teve como objetivo investigar a composição química do inhame-roxo (D.trifida) brasileiro, focando nas suas antocianinas. As antocianinas presentes no tubérculo do inhame- roxo foram extraídas pelo processo de extração em fase sólida (SPE), utilizando como eluentes água acidificada com HCl ou metanol acidificado com TFA, com posterior análise por Cromatografia Líquida de Ultraeficiência acoplada a Espectrometria de Massas e detector de arranjo de diodo (UPLC-QDa). Na extração utilizando água/HCl foram detectadas sete substâncias, enquanto na extração com metanol/TFA, foram nove. A maioria das antocianinas encontradas foi peonidinas glicolisadas e aciladas com ácido ferúlico. Observou-se que na extração realizada via metanol acidificado com TFA houve uma maior presença de agliconas. Portanto, em virtude das inúmeras atividades biológicas das antocianinas, mais estudos serão necessários para comprovar os efeitos benéficos à saúde do consumo de inhame-roxo. Palavras-chave: inhame-roxo; antocianinas; UPLC-QDa.
+
+ABSTRACT
+
+Yam is a tuber belonging to the genus Dioscorea (Dioscoreaceae). Among the different cultivated species,for example, D.alata, D rotundata, D.opposite and D.trifida. This latter specie showing a purple color, due to the presence of anthocyanins. Yam has many health benefits, however, brazilian government agencies have giving little importance to its culture, so there is a need to further study yam. This work aimed to investigate the chemical composition of the brazilian purple yam (D.trifida), focusing on its anthocyanins. The anthocyanins present in tuber yam-purple (D.trifida) were extracted by the solid phase extraction (SPE), using water acidified with HCl or methanol acidified TFA as eluent , with subsequent analysis by Ultraperformance Liquid Chromatography coupled to Mass spectrometry and diode array detector (UPLC-QDa). In the extraction using water/HCl, seven substances were detected, while in the extraction with methanol/TFA, nine were detected. Most of the anthocyanins found were glycolyzed and acylated peonidin with ferulic acid. It was observed that in the extraction performed via methanol acidified with TFA there was a greater presence of aglycones. Finally, due to the numerous biological activities of anthocyanins, more studies will be needed to prove the beneficial health effects of consuming purple yam. Keywords: purple yam; anthocyanins; UPLC-QDa
+
+LISTA DE FIGURAS
+
+Figura 1 – Variedades de Dioscorea trifida com tubérculos apresentando diferentes intensidades de cor .............................................................................................................. 11 Figura 2 – Estruturas de compostos fenólicos .................................................................... 13 Figura 3 – Estrutura básica dos flavonoides e dos sub-grupos ........................................... 14 Figura 4 – Esqueleto básico de uma antocianidina ............................................................. 15 Figura 5 – Esqueleto de uma antocianina ........................................................................... 16 Figura 6 – Estruturas das antocianinas em função do pH e do grau de hidratação .............17 Figura 7 – Interação da antocianina na forma quinoidal com o alumínio .......................... 18 Figura 8 – Antocianinas presentes em várias espécies de Dioscorea ................................. 22 Figura 9 – Esquema simplificado de espectrometria de massa ...........................................33 Figura 10 – Esquema do processo de ionização por electrospray ...................................... 34 Figura 11 – Amostra cortada em fatias ............................................................................... 37 Figura 12 – Amostra a ser liofilizada ................................................................................. 37 Figura 13 – Sistema de SPE com cartucho C18 ................................................................. 38 Figura 14 – Fluxograma do processo de extração de antocianinas de inhame-roxo Usando água/HCl ............................................................................................ 39 Figura 15 – Fluxograma do processo de extração de antocianinas de inhame-roxo usando metanol/TFA ....................................................................................... 40 Figura 16 – Extrato antociânico do inhame-roxo : (A) solução ácida ; (B) amostra Seca ................................................................................................................. 42 Figura 17 – Extrato filtrado para ser analisado .................................................................. 43 Figura 18 – Cromatograma do extrato antociânico obtido via extração água e HCl (O=520 nm) ..................................................................................................... 44 Figura 19 – Cromatograma do extrato antociânico obtido via extração metanol e TFA (O=520 nm) ..................................................................................................... 45 Figura 20 – Cromatograma obtido no UPLC-ESI-QDa para cianidina-O-feruloilglicosídeo- O-glicosídeo, m/z 787 ...................................................................................... 46
+
+Figura 21 – Cromatograma obtido no UPLC-ESI-QDa para peonidina-O-glicosídeo, m/z 463 ............................................................................................................. 46 Figura 22 – Cromatograma obtido no UPLC-ESI-QDa para peonidina-O-feruloilglicosídeo- O-glicosídeo, m/z 801 ...................................................................................... 47 Figura 23 – Cromatograma obtido no UPLC-ESI-QDa para o íon 785 .............................. 47 Figura 24 – Cromatograma obtido no UPLC-ESI-QDa para peonidina, m/z 301 ............... 48 Figura 25 – Cromatograma obtido no UPLC-ESI-QDa para peonidina-O-glicosídeo, m/z 463 .............................................................................................................. 50 Figura 26 – Cromatograma obtido no UPLC-ESI-QDa para cianidina-O-feruloilglicosídeo- O-glicosídeo, m/z 787 ....................................................................................... 50 Figura 27 – Cromatograma obtido no UPLC-ESI-QDa para cianidina, m/z 287 ................ 51 Figura 28 – Cromatograma obtido no UPLC-ESI-QDa para pelargonidina, m/z 271 ......... 51 Figura 29 – Cromatograma obtido no UPLC-ESI-QDa para peonidina, m/z 301................ 52 Figura 30 – Cromatograma obtido no UPLC-ESI-QDa para o íon m/z 785 ....................... 52
+
+LISTA DE TABELAS
+
+Tabela 1 – Tipos de antocianidinas mais presentes na natureza ......................................... 16 Tabela 2 – Nome de antocianinas presentes em várias espécies de Dioscorea, fórmula molecular, massa molecular e referência ............................................................................ 20 Tabela 3 – Tempo de retenção, m/z do pico íon molecular, m/z dos íons fragmentados e nome das antocianinas .................................................................................................................. 48 Tabela 4 – Tempo de retenção, m/z do pico íon molecular, m/z dos íons fragmentados e nome das antocianinas .................................................................................................................. 53
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+ESI Electrospray ionization
+
+m/z Massa/carga SIR Selection Ion Recording UPLC Ultra-Performance Liquid Chromatography PDA Photodiode Array
+
+SUMÁRIO
+
+1 INTRODUÇÃO ................................................................................................. 9 2 REVISÃO BIBLIOGRÁFICA ....................................................................... 10 2.1 Considerações sobre o gênero Dioscorea ........................................................ 10 2.2 Inhame-roxo ...................................................................................................... 11 2.3 Compostos fenólicos ....................................................................................... 12 2.4 Antocianinas .................................................................................................... 15 2.5 Extração em fase sólida (Solid Phase Extraction-SPE) ................................. 31 2.6 Cromatografia Líquida de Ultra Eficiência (Ultra-performance Liquid Chromatography,UPLC) ................................................................................. 32 2.7 Espectrometria de Massas ………………………………………………........ 33 2.8 Fonte de ionização deste trabalho …………………………………………… 33 2.9 Analisador de massas utilizado deste trabalho ................................................ 34 3 OBJETIVOS ........................................................................................................ 36 3.1 Objetivo geral....................................................................................................... 36 3.2 Objetivos específicos ......................................................................................... 36 4 METODOLOGIA ............................................................................................. 37 4.1 Amostra ............................................................................................................. 37 4.2 Preparação da amostra .................................................................................... 37 4.2.1 Extração em fase sólida (SPE) ......................................................................... 37 4.2.2 Extração com água acidificada ......................................................................... 38 4.2.3 Extração com metanol acidificado ................................................................... 40 5. Análise do perfil cromatográfico das antocianinas por UPLC-QDa-MS ...... 41 6 RESULTADOS E DISCUSSÃO ....................................................................... 42 6.1 Obtenção do extrato do tubérculo da espécie Dioscorea trifida, utilizando água/ácido clorídrico (HCl) ............................................................. 42 6.2 Cromatograma do extrato água/HCl ................................................................. 43 6.3 Cromatograma do extrato metanol/TFA........................................................... 44 6.4 Identificação das antocianinas no extrato água/HCl por espectrometria de massa ................................................................................ 45 6.5 Identificação das antocianinas no extrato metanol/TFA
+
+por espectrometria de massa ............................................................................ 49 7. CONCLUSÃO .................................................................................................... 55 REFERÊNCIAS .................................................................................................. 56
+
+9
+
+1 INTRODUÇÃO
+
+O inhame é um tubérculo pertencente à família Dioscoreaceae e do gênero Dioscorea. Esse gênero inclui mais de 600 espécies no mundo, sendo que as mais cultivadas são as D. alata, D rotundata, D. opposite e D. trífida. Os tubérculos do inhame possuem vantagens nutricionais em relação a outras culturas, sendo uma boa fonte de carboidratos, aminoácidos, minerais, vitaminas, compostos fenólicos(antocianinas), entre outras (SILVA et al., 2022). Além disso, as espécies de Dioscorea foram relatadas como antimicrobianas, antifúngicas, anti-inflamatória, antioxidante e hipoglicemiantes (PADHAN e PANDA, 2020; LEBOT; LAWAC; LEGENDRE, 2022). O inhame roxo (Dioscorea trífida) é um tubérculo do gênero Dioscorea spp muito cultivado no Brasil, principalmente, no Norte e Nordeste. É um tubérculo conhecido por sua forte coloração púrpura, devido à presença das antocianinas (SANTOS et al., 2021) que são pigmentos naturais e estão presentes em frutas, flores, legumes e hortaliças, sendo pertencente ao grupo dos flavonoides (GOMES et al.,2022). As antocianinas são antioxidantes naturais que possuem a capacidade de reagir com os radicais livres, causadores de danos celulares e doenças degenerativas (SANTOS et al., 2022). O inhame roxo é considerado uma boa fonte energética e de renda, possuindo boa capacidade produtiva quando manejado de forma correta e atendendo exigências, como adubação, preparo e correção do solo (AZEVEDO, 2017). Mundialmente, o inhame é uma das culturas de tubérculos mais cultivadas, gerando 76 milhões de toneladas de tubérculos servindo de alimento para aproximadamente 300 milhões de pessoas no mundo (WANG et al., 2022). No Brasil, são produzidas 104 mil toneladas (IBGE, 2017), sendo a região do Nordeste a maior produtora, devido a sua grande importância socioeconômica na agricultura familiar (COSTA; MEISSNER FILHO; SILVA, 2016). Nos últimos anos, ocorreu uma maior procura internacional pelo inhame, no entanto órgãos governamentais brasileiros vêm dando pouca importância a cadeia produtiva a este produto. Além disso, há pouca informação sobre a sua cultura, dificultando estudos de mercado e comercialização (MENDES et al., 2013). Por isso, dado aos seus diversos efeitos positivos à saúde e o descaso sobre a sua cultura, existe a necessidade de aprofundar mais os estudos dos componentes presentes no inhame roxo (Dioscorea trífida). Com isso, o presente trabalho tem como objetivo investigar a composição química do inhame roxo, focando no estudo de suas antocianinas.
+
+10
+
+2 REVISÃO BIBLIOGRÁFICA
+
+2.1 Considerações sobre o gênero Dioscorea
+
+O gênero Dioscorea pertence à família Dioscoreaceae, sendo o gênero mais importante desta família. Dioscorea é composta por mais de 600 espécies e possui como característica de suas plantas serem herbáceas, perenes e dicotiledôneas, possuindo grandes raízes e/ou rizomas (ADOMÉNIENE e VENSKUTONIS, 2022). Essas plantas são clima predominantemente tropical e subtropical, porém algumas espécies conseguem sobreviver em clima temperado (PESSOA,2007). No Brasil, as mais comuns são: D. alata, D. cayenensis, D. rotundata, D. bulbifera e D. trífida (NASCIMENTO et al., 2015). A D. bulbifera é utilizada no tratamento de doenças oncológicas; a D. nipponica para tosse e asma, enquanto a D. villosa na redução de distúrbios intestinais (ADOMÉNIENE e VENSKUTONIS, 2022). A D. alata é considerada como fonte de carboidratos, minerais, vitaminas e compostos fenólicos, possuindo assim característica antioxidante e antibacteriana (ANISUZZMAN et al., 2016). É relatado que a espécie Dioscorea praehensilis auxilia no combate de algumas doenças, como disenteria e dispepsia, além de auxiliar na melhora do apetite (NGELINKOTO,2021). É relatado que a presença de diosgenina (saponina esteroidal) em inhame de D. villosa inibe a proliferação de células tumorais e induz a apoptose delas em doenças como a leucemia (CHEN, 2011). O extrato etanólico do rizoma de D. birmanica é utilizado como para o tratamento de doenças crônicas cujo desenvolvimento está diretamente ligado ao estresse oxidativo. (URARIT; NUENGCHAMNONG; HANSAKUL,2021). A pasta das folhas de D. bulbifera é utilizada no tratamento de infecções na pele, enquanto as raízes quando trituradas e misturadas com leite, podem ser administradas de forma oral para tratar a asma e a tosse. D. bulbifera é utilizada como alimento e relatos na literatura associam o seu consumo à redução de dores abdominais (KUNDU, et al.,2021). Os tubérculos do inhame constituem uma grande fonte de nutrientes, como carboidratos (80%), proteínas (1,6 a 3,1%), gorduras (0,3%), sendo o potássio o mineral mais abundante (250 a 560 mg/100 g de peso seco) (BHANDARI; KASAI; KAWABATA, 2003). O inhame possui polifenóis, principalmente flavonoides, como as antocianinas relacionados a propriedades antioxidante e anti-inflamatória (CARRENO‐DIAZ, GRAU,1977). Em 2021, a produção de tubérculos de inhame foi de 75 milhões de toneladas cultivados em 8,8 milhões de hectares, principalmente no oeste da África, em países,
+
+11
+
+como Nigéria, Costa do Marfim e Gana (FAOSTAT, 2021). O seu cultivo está se expandindo devido à facilidade de preparação, sabor e propriedades nutricionais. Com sua ampla distribuição global aumentaram os estudos a respeito da caracterização da sua composição química (LEBOT; LAWAC; LEGENDRE,2022). Mesmo com vários benefícios à saúde humana, o inhame é uma cultura bastante negligenciada, estando associada a comunidades de baixa renda (SIQUEIRA, 2009) e não se encaixando nas principais políticas públicas de incentivo agrícola à exportação (SOARES,2018).
+
+2.2 Inhame-roxo
+
+O inhame-roxo pertence, principalmente, à espécie Dioscorea trifida, sendo uma espécie nativa da América do Sul, possuindo uma ampla ocorrência nos países sul-americanos, como Peru, Brasil, entre outros. É comum encontrar variedades de tubérculos de Dioscorea trifida com intensidade de cor diferente, podendo ser identificado, como roxinho (fraca coloração roxa: Figura 1A), roxo (média coloração roxa: Figura 1B), roxão (forte coloração roxa: Figura 1C), branco (cor branca: Figura 1D) e misto (coloração branca-roxa: Figura 1E), Figura 1, (TEIXEIRA et al.,2013).
+
+Figura 1 – Variedades de Dioscorea trifida com tubérculos apresentando diferentes intensidades de cor Fonte: (TEIXEIRA et al., 2013)
+
+12
+
+O inhame roxo é conhecido popularmente na região do Norte e Nordeste do Brasil, possuindo uma coloração púrpura, devido à presença das antocianinas (SANTOS et al., 2022). Este tubérculo possui diversos benefícios a saúde, auxiliando no combate da diabetes, na redução do risco de câncer e na proteção do sistema cardiovascular (ZHANG et al., 2018). O tubérculo do inhame é caracterizado pelo seu formato alongado, casca marrom, coberta com fibras finas e polpa fibrosa. No Brasil o inhame é consumido de diversas formas, como por exemplo, em pedaços ou macerado formando um purê (ANDRADE, 2021). Quimicamente, o inhame-roxo apresenta em sua composição carboidratos, proteínas, gorduras insaturadas (RAMOS-ESCUDERO et al.,2010), diosgeninas, compostos fenólicos, minerais (cálcio, fósforo e ferro) e vitaminas (A, C, além de vitaminas do complexo B) (SANTOS et al., 2022). A cultura do inhame tem grande importância socioeconômica, principalmente, como alternativa para a agricultura familiar nas regiões do Norte e Nordeste, devido às condições favoráveis, como clima e solo dessas regiões, garantindo uma produtividade favorável, gerando trabalho e renda no campo (DE OLIVEIRA et al., 2012). No Brasil, no ano de 2021 a produção do inhame foi de aproximadamente 253 mil toneladas (FAOSTAT, 2021). Sendo uma das culturas de tubérculos com maiores produtividades no solo brasileiro, logo atrás da batata (Solanum tuberosum L), mandioca (Manihot esculenta Cranz) e batata-doce (Ipomoea batatas L) (SIQUEIRA, 2009). O seu consumo está diretamente relacionado à questão cultural, além do aspecto nutricional. Cabe ressaltar que o interesse do mercado externo por esse produto aumentou, porém os órgãos governamentais brasileiros deram pouca atenção a cadeia produtiva do inhame. Além disso, há pouca informação sobre a sua cultura, dificultando os estudos de mercado e comercialização. Por fim, a falta de conhecimento dificulta pesquisas que poderiam levar a uma melhora tecnológica do processo produtivo (MENDES et al., 2013).
+
+2.3 Compostos fenólicos
+
+Nos últimos anos, houve um aumento do consumo de alimentos contendo compostos antioxidantes, como vitamina C, vitamina E, carotenoides e compostos fenólicos, principalmente os flavonoides. Os antioxidantes neutralizam os radicais livres impedindo a propagação de reações promovidas por essas espécies químicas. O estresse oxidativo é um desequilíbrio que ocorre entre os sistemas antioxidantes e a produção de compostos
+
+13
+
+oxidativos, sendo associado a doenças como câncer, cardiovasculares e desordens inflamatórias (SILVA et al., 2010). Os compostos fenólicos são um dos principais metabólitos secundários de plantas, protegendo-as contra insetos, além de serem um dos responsáveis pela pigmentação. Tais compostos podem ser encontrados em frutas, hortaliças, entre outras. Quimicamente, os fenóis são caracterizados por possuírem uma ou mais hidroxilas ligadas, no mínimo, a um anel do tipo benzênico. Entre os principais compostos fenólicos encontram-se os ácidos fenólicos, flavonoides, estilbenos e taninos (ALBUQUERQUE, et al., 2021). Os compostos fenólicos podem ser subdivididos em dois grupos: não-flavonoides (fenóis simples ou ácidos fenólicos) e flavonoides (antocianinas, flavonóis), Figura 2. Os compostos não-flavonoides são compostos mais simples e derivados de ácidos benzóicos, por exemplo o vanílico, o gálico e o siríngico, e de ácidos cinâmicos, como caféico e ferúlico (DE SOUZA VACCARI; SOCCOL; IDE, 2014).
+
+Figura 2– Estruturas de compostos fenólicos
+
+Cianidina Quercetina
+
+14
+
+Fonte: Adaptado de (DE SOUZA VACCARI; SOCCOL; IDE,2014)
+
+Os ácidos cafeico, vanílico, p-cumárico, ferúlico e sinápico são exemplos de compostos fenólicos encontrados em espécies de inhame-roxo (ZHANG et al., 2018). Os flavonoides englobam muitos pigmentos responsáveis pelas cores em frutas, flores, entre outros. As antocianinas pertencem ao grupo dos flavonoides e são responsáveis pelas colorações desde o vermelho até o azul (DE SOUZA VACCARI; SOCCOL; IDE, 2014). Os flavonoides possuem uma estrutura básica com 15 átomos de carbono na forma de C6- C3 -C6, ou seja, consiste em dois anéis benzênicos ligados por três átomos de carbono formando um heterocíclico oxigenado, Figura 3, (ALVES, 2021). Figura 3- Estrutura básica dos flavonoides e dos sub-grupos
+
+Fonte: Adaptado de (PANCHE; DIWAN; CHANDRA,2016).
+
+Os flavonoides podem ser subdivididos em vários subgrupos, tais como: flavonas, flavonóis, flavanonas, chalconas e antocianidinas (PANCHE; DIWAN; CHANDRA,2016).
+
+15
+
+2.4 As antocianinas
+
+As antocianinas são pigmentos do grupo dos flavonoides que podem ser encontradas em flores, caules, raízes, folhas de plantas, bem como em alimentos como uva, morango, berinjela e amora, conferindo uma variedade de cores, como vermelho, azul e roxo (ALVARES-SUAREZ,2021; MEZAROBA et al., 2001). Estes compostos são solúveis em água, álcoois e soluções ácidas (YANG et al,.2019). A presença de antocianinas no inhameroxo tem sido associada a um possível efeito anti-inflamatório, auxiliando em doenças inflamatórias intestinais (LEBOT; LAWAC; LEGENDRE,2022). As antocianinas são conhecidas como potenciais agentes antioxidantes naturais que inibem a peroxidação lipídica e neutralização de radicais livres, reduzindo fatores de expressão pró-inflamatória e, consequentemente, diminuindo inflamações (ZHANG et al., 2022). Além disso, diversos estudos mostraram que as antocianinas desempenham um papel na prevenção de doenças cardiovasculares, danos hepáticos e diabetes (DE PASCUAL-TERESA e SANCHEZ-BALLESTA, 2008) Na natureza, as antocianinas estão associadas as moléculas de açúcares e quando estão livres são chamadas de antocianidinas ou agliconas. As agliconas mais comuns na natureza são: cianidina, delfinidina, petunidina, peonidina, pelargonidina e malvidina, Figura 4 (NOVELLO, 2011).
+
+Figura 4 – Esqueleto básico de uma antocianidina
+
+Fonte: adaptado de (YANG et al.,2019)
+
+16
+
+Tabela 1 – Tipos de antocianidinas mais comuns na natureza
+
+R1 R2 Delfinidina -OH -OH Cianidina -OH -H Petunidina -OH -OCH3 Pelargonidina -H -H Peonidina -OCH3 -H Malvidina -OCH3 -OCH3 Fonte: Elaborado pelo autor
+
+As antocianinas possuem uma molécula de açúcar na posição 3 e, geralmente, os açúcares mais comuns são: glicose, frutose, galactose, arabinose, xilose e ramnose (MEZAROBA et al., 2001). Além disso, também pode ser encontrado na posição 5 e/ou 7, Figura 5.
+
+Figura 5 – Esqueleto de uma antocianina
+
+Fonte: Elaborado pelo autor
+
+Em solução aquosa, as antocianinas apresentam estruturas diferentes em função do pH, por exemplo em pH < 2 predomina a coloração vermelha intensa, sob a forma do cátion flavílico (AH+); com o aumento do pH começa a formação da base quinoidal (azul/roxa). Além disso, é observado também a reação de hidratação, formando a espécie hemiacetal (incolor) que após a tautomerização, produz a cis-chalcona (amarelada) que isomeriza em transchalcona, figura 6, (ALVES,2021).
+
+17
+
+Figura 6 – Estruturas das antocianinas em função do pH e do grau de hidratação Fonte: Adaptado de (FREITAS,2019) As cores vermelhas e azuis são predominantes em valores de pH mais ácidos e básicos, respectivamente. No entanto, os alimentos são encontrados na natureza, geralmente, em valores de pH entre 3,5 e 7,0. As formas coloridas são estabilizadas devido ao fenômeno chamado copigmentação. Basicamente, ocorre a interação entre as espécies coloridas das antocianinas ou ocorre a interação com os compostos incolores que são os copigmentos (flavanóis, flavonas e metais), formando um complexo antocianina-copigmento (Figura 7). Esse complexo impede o ataque das moléculas de água (Figura 6), evitando a formação do hemiacetal e mantendo a coloração avermelhada (FREITAS, 2019). A presença de íons metálicos pode induzir a desprotonação do anel benzênico da antocianina, transformando o íon flavílio para a espécie quinoidal azul, mesmo em valores de pH mais baixos (ALVES,2021), Figura 7.
+
+18
+
+Figura 7 – Interação da antocianina na forma quinoidal com o alumínio
+
+Fonte: Adaptado de (FREITAS,2019)
+
+Na figura 7 é possível observar a interação do Al+3 com o grupo orto-di-hidroxila da antocianina e com os átomos de oxigênios dos copigmentos. Além disso, pode ocorrer a interação do tipo π-π do anel aromático do copigmento com a antocianina ( FREITAS, 2019). A estabilidade da cor das antocianinas é afetada por diversos fatores, como pH, temperatura, presença de metais, entre outros. A uma temperatura superior a 25 oC, bem como em valores muito elevados de pH, a degradação das antocianinas se torna maior. Além disso, o nível de degradação das antocianinas vai depender do grau de acilação das hidroxilas fenólicas, pois estudos com repolho roxo mostram que a ocorrência extensiva de acilação conferem uma maior estabilidade (LOPES et al., 2007). Com relação a presença de metais foi observado que as hortênsias (Hydrangea macrophylia) mantém a cor azul quando o solo é rico em alumínio, dificultando a degradação das antocianinas. (ALVES, 2021). Em estudos da espécie Dioscorea foram identificadas várias antocianinas, Figura 8. Em D. alata, RASPER e COURSEY (1967) relataram a presença de cianidina-3-Oglicosídeo-5-O-glicosídeo (1), cianidina-3-O-glicosideo (2) e cianidina-3-O-rhamnoglucosideo (3). MIYATA; SANO; KUMAZAWA (2022) relataram a presença de cianidina-3-
+
+19
+
+gentiobiosídeo (4), enquanto que IMBERT e SEAFOTH (1968) relataram a presença de cianidina-3-O-feruloilgentiobiosídeo (5). SHOYAMA et al (1990) relataram a presença de cianidina-3-O-sinapoilgentiobiosídeo (6) e peonidina -3-O-sinapoilgentiobiosídeo (7). Além disso, foram descritas alatanina A (8), alatanina B (9) alatanina C (10) (YOSHIDA,1991), alatanina D (11) , alatanina E (12), alatanina F (13) e alatanina G (14) ( MIYATA;SANO; KUMAZAWA,2022; MORIYA et al., 2015). Cabe ressaltar que existem vários relatos na literatura referente a presença de antocianinas na espécie D. trifida, a qual é objeto de estudo deste trabalho. Como exemplo, é possível citar a identificação das antocianinas por RAMOS-ESCUDERO (2010) que relataram a presença de cianidina-3-O-glicosídeo-5-O-glicosídeo (1), pelargonidina–3,5-diglicosídeo (16), pelargonidina–3-O-p-coumaroilglicosídeo-5-O-glicosídeo (17). Além disso, a presença de peonidina-3-O-glicosídeo-5-O-glicosídeo (18) que já foi relatado anteriormente por CARRENO DIAZ (1977). Ademais, observou-se a presença de peonidina-3-O-glicosídeo (19), peonidina-3-O-feruloilglicosídeo-5-O-glicosídeo (20), peonidina-3-O-p-coumaroilglicosídeo5-O-glicosídeo (21), cianidina-3-O-feruloilglicosídeo-5-O-glicosídeo (5) e p-cumárico (23). Por fim, a presença de malvidina-3-O-glicosídeo-5-O-glicosídeo (24), malvidina-3-O-pferuloilglicosídeo-5-O-glicosídeo (25) Na espécie D bulbifera foi observada a presença de petunidina-3-O-glicosídeo (26) e cianidina-3-O-glicosídeo (2) (CHAMPAGNE et al., 2011). Na espécie D. esculenta foi relatado a presença de cianidina-3-O-glicosídeo (1) (CHAMPAGNE et al., 2011). Na espécie D. cirrhosa, observou-se a presença de alatanina C (10) (FUKUI; KADORIKU; IWAMOTO,1997). Em D. batatas foi relatado a presença de cianidina -3-O-p-coumaroilgentiobiosídeo (30), malvidina-3-O-gentiobiosídeo-5-O-pcumárico rhamnoglicosídeo (31) e malvidina-3-O-gentiobiosídeo-5-O-p-coumaroilglicosídeo (32) (MAZZA e MINIATI,1993). As antocianinas relacionadas com as respectivas espécies de Dioscorea estão apresentadas na tabela 2 e a suas estruturas estão representadas na Figura 8.
+
+20
+
+Tabela 2 – Nome de antocianinas presentes em várias espécies de Dioscorea, fórmula molecular, massa molecular e referência Espécies Nome das antocianinas Fórmula molecular Massa molecular Referência Dioscorea alata Cianidina-3-O-glicosídeo-5-Oglicosídeo (1) C27H31O16 611,5 (RASPER e COURSEY, 1967) Cianidina-3-O-glicosideo (2) C21H21O11 448,9 (RASPER e COURSEY, 1967) Cianidina-3-O-rhamnosideo- 5-O- glicosideo (3) C27H31O15 595,5 (RASPER e COURSEY, 1967) Cianidina-3-gentiobiosídeo (4) C27H31O16 611,5 ( MIYATA;SANO; KUMAZAWA,2022) Cianidina- 3-O-feruloil gentiobiosídeo (5) C37H39O19 787,6 (IMBERT e SEAFOTH,1968) Cianidina-3-Osinapoilgentiobiosídeo (6) C38H41O20 817,7 (SHOYAMA et al., 1990) Peonidina-3-O- sinapoilgentiobiosídeo (7) C39H43O20 831,7 (SHOYAMA et al., 1990) Alatanina A (8) C67H81O39 1510,3 (YOSHIDA,1991),(MIYATA;SA NO; KUMAZAWA,2022) Alatanina B (9) C61H71O34 1348,2 (YOSHIDA,1991),(MIYATA;SA NO;KUMAZAWA,2022);(SRIVI CHAI,HONGSPRABHAS, 2020) Alatanina C (10) C38H41O20 817,7 (YOSHIDA,1991),(MIYATA;SA NO;(KUMAZAWA,2022);(SRIV ICHAI, HONGSPRABHAS, 2020) Alatanina D (11) C55H61O29 1186,0 (MIYATA;SANO;KUMAZAWA ,2022); (MORIYA et al., 2015) Alatanina E (12) C44H51O25 979,8 (MIYATA;SANO;KUMAZAWA ,2022);(MORIYA et al., 2015) Alatanina F (13) C39H43O20 831,7 (MIYATA;SANO;KUMAZAWA,2 022); (MORIYA et al., 2015) Alatanina G (14) C37H39O19 787,7 (MIYATA;SANO; KUMAZAWA,2022); (MORIYA et al., 2015) Dioscorea trifida Cianidina-3-O-glicosídeo-5-Oglicosídeo (15) C27H31O16 611,5 (RAMOS-ESCUDERO,2010) Pelargonidina-3-O-pcoumaroilglicosídeo-5-Oglicosídeo C27H31O15 595,5 (RAMOS-ESCUDERO,2010)
+
+21
+
+(16) Pelargonidina-3-O-pcoumaroilglicosídeo-5-O-glicosídeo (17) C36H37O17 741,6 (RAMOS-ESCUDERO,2010) Peonidina-3-O-glicosídeo-5-Oglicosídeo (18) C28H33O16 625,6 (RAMOS-ESCUDERO,2010); (CARRENO-DIAZ e GRAU,1977) Peonidina-3-O-glicosídeo (19) C22H23O11 463,4 (RAMOS-ESCUDERO,2010) Peonidina- 3-O-glicosídeo-5-Oferuloil glicosídeo (20) C38H41O19 801,7 (RAMOS-ESCUDERO,2010) Peonidina-3-O-pcoumaroilglicosídeo-5-O- glicosídeo (21) C37H39O18 771,7 (RAMOS-ESCUDERO,2010) Cianidina-3-Oferuloilglicosídeo-5-Oglicosídeo (22) C37H39O19 787,7 (RAMOS-ESCUDERO,2010) Cianidina-3-O-pcoumaroylglicosídeo -5-Oglicosídeo (23) C36H37O18 757,6 (RAMOS-ESCUDERO,2010) Malvidina-3-O-glicosídeo-5-Oglicosídeo (24) C29H35O17 655,6 (CARRENO-DIAZ eGRAU,1977) Malvidina-3-Oferuloilglicosídeo-5-Oglicosídeo (25) C39H43O20 831,7 (CARRENO-DIAZ eGRAU,1977) Dioscorea bulbifera Petunidina-3-O-glicosídeo (26) C22H23O12 479,4 (CHAMPAGNE et al., 2011) Cianidina-3-O-glicosídeo (27) C21H21O11 448,9 (CHAMPAGNE et al., 2011) Dioscorea esculenta Cianidina-3-O-glicosídeo (28) C21H21O11 448,9 (CHAMPAGNE et al., 2011) Dioscorea cirrhosa Alatanina C (29) C38H41O20 817,7 (FUKUI;KADORIKU;IWAMOT O,1997) Dioscorea batatas Cianidina-3-O-pcoumaroilgentiobiosídeo (30) C36H37O18 757,6 (MAZZA e MINIATI,1993) Malvidina-3-O-pcoumaroilgentiobiosídeo-5-Orhamnoglicosídeo (31) C45H53O22 945,9 (MAZZA e MINIATI,1993)
+
+22
+
+Malvidina-3-O-pcoumaroilgentiobiosídeo-5-Oglicosídeo (32) C44H51O24 963,8 (MAZZA e MINIATI,1993) Fonte: Elaborado pelo autor
+
+Figura 8. Antocianinas presentes em várias espécies de Dioscorea
+
+(1) -Cianidina-3-O-glicosídeo-5-O-glicosídeo (2)- Cianidina-3-O-glicosídeo
+
+(3)-Cianidina-3-O-rhamnoglucosideo-5-O-glicosídeo (4)- Cianidina-3-gentiobiosídeo
+
+23
+
+(5) -Cianidina-3-O-feruloilgentiobiosídeo
+
+(6) -Cianidina-3-sinapoilgentiobiosídeo
+
+(7) -Peonidina-3-O-sinapoilgentiobiosídeo
+
+24
+
+(8) – Alatanina A
+
+(9) – Alatanina B
+
+25
+
+(10)- Alatanina C
+
+(11) – Alatanina D (12) – Alatanina E
+
+26
+
+(13) – Alatanina F (14) – Alatanina G
+
+(15) -Cianidina-3-O-5-O-glicosídeo (16)- Pelargonidina-3-O-5-O-glicosídeo
+
+(17) -Pelargonidina-3-O-p-coumaroilglicosídeo-5-O-glicosídeo
+
+27
+
+(18) – Peonidina-3-O-5-O-glicosídeo (19) - Peonidina-3-O-glicosídeo
+
+(20) – Peonidina-3-O-feruloilglicosídeo-5-O-glicosídeo
+
+(21) -Peonidina-3-O-p-coumaroilglicosídieo-5-O-glicosídeo
+
+28
+
+(22) - Cianidina-3-O-feruloilglicosídeo-5-O-glicosídeo
+
+(23) – Cianidina-3-O-p-coumaroilglicosídeo-5-O-glicosídeo
+
+(24) - Malvidina-3-O-glicosídeo-5-O-glicosídeo
+
+29
+
+(25) - Malvidina-3-O-feruloilglicosídeo-5-O-glicosídeo
+
+(26) - Petunidina -3-glicosídeo
+
+30
+
+(27) – Cianidina-3-glicosídeo
+
+(28) - Cianidina-3-glicosídeo (29) - Alatanina C
+
+(30) - Cianidina-3-O-p-coumaroilgentiobiosídeo
+
+31
+
+(31) - Malvidina-3-O-p-coumaroilgentiobiosídeo-5-O-rhamnoglicosídeo
+
+(32) - Malvidina-3-O-p-coumaroilgentiobiosídeo-5-O-glicosídeo
+
+Fonte: Elaborado pelo autor
+
+2.5 Extração em fase sólida (solid phase extraction – SPE)
+
+A extração em fase sólida (SPE) é um método de preparo de amostra utilizada para remoção de interferentes da matriz, concentração e enriquecimento do analito. Essa técnica envolve a interação dos compostos presente na amostra com fases sólidas (adsorventes). O analito é adsorvido sendo posteriormente eluido com a utilização de um solvente adequado
+
+32
+
+(JARDIM,2010; NASCIMENTO,LIMA, BARBOSA e SILVA, 2022). A fase sólida está empacotada em pequenas colunas descartáveis na forma de seringa ou cartucho. A fase sólida para a extração é constituída de um composto orgânico hidrofóbico que recobre ou está quimicamente ligado à sílica. Uma das fases sólidas mais utilizadas é constituída de octadecila (C18) ligado à sílica (ODS). Basicamente, a presença de grupos funcionais hidrofóbicos atrai compostos mais hidrofóbicos, mediante interações de van der Walls, os quais são extraídos do meio aquoso. No processo de extração, as moléculas orgânicas da amostra permanecem na fase sólida e são, posteriormente, eluidas com a utilização de um solvente (SKOOG, et al, 2008). O procedimento de extração pode ser dividido em quatro etapas: condicionamento, introdução da amostra, lavagem com solvente e eluição dos analitos. Inicialmente, na etapa de condicionamento, ocorre a passagem de um solvente para ativar o adsorvente, possibilitando realizar o procedimento de extração. Em seguida, ocorre a introdução da amostra com o auxílio de uma pipeta ou seringa, passando pela fase extratora. Após isso, ocorre a lavagem com solvente ou clean-up, objetivando eliminar os interferentes e manter o analito de interesse. Por fim, ocorre a etapa de eluição do analito, utilizando solventes que não sejam capazes de eluir possíveis interferentes remanescentes da etapa anterior (JARDIM,2010; NASCIMENTO, LIMA, BARBOSA e SILVA, 2022).
+
+2.6 Cromatografia Líquida de Ultra Eficiência (Ultra-performance Liquid Chromatography, UPLC)
+
+A cromatografia é um método de análise utilizado para separação, identificação e quantificação de compostos químicos. Os componentes a serem separados são distribuídos entre duas fases: uma fase estacionária e uma fase móvel. A espectrometria de massas pode ser acoplada à cromatografia líquida, gerando uma melhora da análise (NASCIMENTO, LIMA, BARBOSA e SILVA, 2022). O UPLC é uma técnica cromatográfica que possui excelente desempenho, possuindo vantagem em relação ao HPLC. No UPLC o tamanho da partícula é menor que 2 μm e opera em pressões na faixa de 6000 a 15000 psi, levando a uma melhora na largura dos picos e um melhor sinal/ruído em comparação com o HPLC. Além disso, a velocidade de varredura do UPLC é maior, consequentemente, fornecendo um tempo de análise menor (TALEUZZAMAN, M. et al,2015; ZHAO et al.,2014). A cromatografia líquida quando acoplada a um sistema de espectrometria de massas
+
+33
+
+é capaz de melhorar a separação e detecção. Além disso, fornece a massa molar, informação estrutural e uma análise quantitativa exata (SKOOG et al,2008).
+
+2.7 Espectrometria de massas
+
+A espectrometria de massas é uma técnica instrumental utilizada para analisar fragmentos moleculares com base na sua massa. O espectro é obtido através da ionização das espécies gasosas e os íons são acelerados por um campo elétrico e então separado com base na sua relação massa/carga (m/z) (HARRIS,2010) O espectrômetro de massas tradicional pode ser dividido em cinco componentes, Figura 9. O primeiro compartimento é onde ocorre a injeção da amostra, saindo de um ambiente laboratorial (1atm) para pressões mais baixas dentro do espectrômetro de massas. Em seguida, as moléculas passam por uma fonte de íons, onde são transformadas em íons em fase gasosa e são acelerados por um campo eletromagnético até chegar no analisador de massa que separa os íons com base na razão massa/carga (m/z). Por fim, os íons passam por um detector e o sinal registrado em um sistema de dados (PAVIA et al.,2010).
+
+Figura 9 – Esquema simplificado de espectrometria de massa Fonte: (PAVIA et al.,2010)
+
+2.8 Ionização por electrospray
+
+O método de ionização utilizado nesse trabalho foi ionização por electrospray (ESI). Este método consiste em passar a amostra por um tubo capilar de aço inoxidável, sendo aplicado um potencial elétrico elevado entre esse capilar e um contra-eletrodo, levando a formação de um forte campo elétrico. Se um potencial positivo for aplicado no capilar, os íons positivos tendem a ir em direção ao contra-eletrodo. Quando há um excesso de cargas positivas o campo elétrico formado entre o capilar e o contra-eletrodo provoca uma deformação da gota
+
+34
+
+até que a repulsão seja grande o suficiente para que os íons deixem o tubo capilar na forma de um aerossol de partículas carregadas. As gotas passam por um processo de evaporação, ocorrendo uma concentração dos íons até que o processo de repulsão se intensifique, levando a liberação do íon gasoso, Figura 10. A partir disso, os íons são direcionados para o analisador de massas (SILVERTSTEIN; WEBSTER; KIEMLE,2006; DALMÁZIO, 2007).
+
+Figura 10 - Esquema do processo de ionização por electrospray
+
+Fonte: (DALMÁZIO,2007)
+
+Nesse tipo de método podem ser gerados íons multiplamente carregados a partir de moléculas com vários sítios ionizáveis. As espécies iônicas podem ser protonadas [M+nH]n+, desprotonadas [M-nH]n-, cationizadas [M+Na]+ e anionizadas [M-Cl]- (DALMÁZIO, 2007).
+
+2.9 Analisador quadrupolo (QDa)
+
+O analisador utilizado nesse trabalho é o quadrupolo, o qual consiste em quatro barras sólidas dispostas paralelamente na direção do feixe de íons. Uma voltagem de corrente contínua e radiofrequência são aplicadas, gerando um campo eletrostático oscilante na região
+
+35
+
+das hastes. Com isso, os íons adquirem uma trajetória oscilante; os íons com m/z incorreta e uma oscilação instável, colidem com as hastes, por outro lado, os íons com m/z correta e uma oscilação estável, atingem o detector (PAVIA,2001). O monitoramento do íon selecionado (SIR) foi o método usado nesse trabalho para o acompanhamento dos íons desejados. Este método baseia-se na escolha de uma única razão m/z pe lo operador e assim é possível realizar um monitoramento durante toda a análise. O SIR é conhecido por possuir uma boa seletividade e sensibilidade (STACHNIUK e FORNAL, 2016; Skoog et al,2008).
+
+36
+
+3 OBJETIVOS
+
+3.1 Objetivo Geral
+
+Caracterizar antocianinas presentes no inhame-roxo da espécie Dioscorea trifida
+
+3.2 Objetivos específicos
+
+x Avaliar dois tipos de extração, sendo uma utilizando água/HCl e outra metanol/TFA x Obter os rendimentos dos extratos obtidos e comparar com os valores obtidos na literatura
+
+37
+
+4 METODOLOGIA
+
+4.1 Amostra
+
+Uma amostra de inhame-roxo oriundo de Palmeiras dos Índios-AL foi gentilmente cedido pelo Dr. Edy Souza de Brito (Embrapa Alimentos e Territórios). O tubérculo foi cortado em fatias (Figura 11) e colocado no refrigerador por aproximadamente 72h. Em seguida, as fatias foram secas em um liofilizador Liobras modelo K 105 (Figura 12) por mais 48 h até a secagem completa. Finalmente, os seus pedaços desidratados foram moídos em moedor de café
+
+Figura 11 – Amostra cortada em fatias Figura 12 – Amostra a ser liofilizada
+
+Fonte: elaborado pelo autor Fonte: elaborado pelo autor
+
+4.2 Preparação da amostra
+
+4.2.1 Extração em fase sólida (SPE)
+
+A amostra após moída passou pelo processo de extração em fase sólida (SPE), utilizando um cartucho C18, para purificação das antocianinas. Conforme pode ser observado na figura 13.
+
+38
+
+Figura 13 –Sistema de SPE com cartucho C18
+
+Fonte: elaborado pelo autor
+
+Os procedimentos realizados estão descritos mais detalhadamente nas figuras 14 e 15
+
+4.2.2 Extração com água acidificada
+
+Figura 14 - Fluxograma do processo de extração de antocianinas de inhame-roxo usando água/HCl
+
+39
+
+Fonte: elaborado pelo autor
+
+Amostra (1 g) foi dissolvida em 3 ml de uma solução de HCl (pH 0,5). Em seguida, o material foi sonicado por 1 min e centrifugado por 1 min à 2500 rpm, para a retirada do sobrenadante. Em seguida, a amostra foi adicionada em um cartucho C18 Sep-Pak (Waters, Milford,MA,EUA) para ser purificada por extração em fase sólida (SPE), previamente condicionado pela passagem de 4 mL de uma solução de metanol acidificado com HCl 0,1% e
+
+40
+
+4 mL de água Milli-Q. A amostra foi eluída no cartucho, sendo o processo de dissolução e eluição realizado três vezes, para a obtenção do maior rendimento das substâncias de interesse. Em seguida, adicionou-se 4 mL de água Milli-Q, para remoção de substâncias mais polares e açúcares. Finalmente, as antocianinas foram eluídas utilizando 4 mL de uma solução de HCl (pH 0,5). O extrato obtido foi concentrado utilizando um fluxo de nitrogênio e, em seguida, redissolvido em metanol acidificado com TFA 0,5% e filtrado através de um filtro de seringa PTFE 0,22 µm para ser analisado por Cromatografia Líquida de Ultraeficiência acoplada ã Espectrometria de Massas com Detector de Arranjo de Diodo (UPLC-QDa), Figura 14.
+
+4.2.3 Extração com metanol acidificado
+
+Figura 15 - Fluxograma do processo de extração de antocianinas de inhame-roxo usando metanol/TFA
+
+41
+
+Fonte: elaborado pelo autor
+
+A amostra (1g) foi dissolvida em 3mL da solução de HCl fumegante (pH 0,5). Em seguida, o material foi sonicado por 1 min e centrifugado por 1 min à 2500 rpm. Em seguida, foi adicionado em um cartucho C18 Sep-Pak (Waters, Milford, MA, EUA), previamente condicionado utilizando 4 mL de metanol acidificado com HCl 0,1% e 5 mL de água Milli-Q. A amostra foi eluída no cartucho, sendo o processo de dissolução e eluição realizado novamente três vezes. Posteriormente, adicionou-se 4 mL de água Milli-Q. As antocianinas foram eluídas utilizando uma solução de metanol acidificado com TFA 0,1%. Por fim, a remoção do solvente foi realizada com a passagem de um fluxo de nitrogênio. A amostra foi redissolvida em metanol acidificado com TFA 0,5% e filtrada através de um filtro de seringa PTFE de 0,22 µm para ser analisado no UPLC, Figura 15.
+
+5. Análise do perfil cromatográfico das antocianinas por UPLC-QDa-MS
+
+As amostras foram analisadas através de um sistema UPLC® Waters Acquity constituído por um equipamento de cromatografia acoplado a detectores de massas do tipo quadrupolo e de arranjo de diodos (UPLC-Q-Da, Waters, Milford, MA, EUA). Inicialmente, as amostras foram previamente filtradas através de membranas de PTFE de 0,22 μm (Millipore®) com as análises cromatográficas realizadas em uma coluna BEH C18 (150 mm x 2,1 mm, 1,7
+
+42
+
+micrometros) a 40 oC e volume de injeção de 5 μL. A fase móvel foi composta por 0,1% de ácido fórmico em água (A) e 0,1% de ácido fórmico em acetonitrila (B), fluxo de 0,3 mL/min. O gradiente de eluição apresentou a seguinte variação: 0 min, 2% (B); 22 min, 95% (B); 23 min, 100% de B; 26 min, 100% de B; 26, 5 min, 2% de (B); 29,5 min, 2% de (B). O modo de ionização foi por ESI positivo em modo SIR, com os seguinte íons: cianidina-O-glicosídeo-Oglicosídeo, m/z 611; pelargonidina-O-glicosídeo-O-glicosídeo, m/z 595; peonidina-Oglicosídeo-O-glicosídeo, m/z 625, m/z 463, m/z 301; peonidina-O-glicosídeo, m/z 463, m/z 301; cianidina-O-feruloylglicosídeo-O-glicosídeo, m/z 787; cianidina-O-p-coumaroylglicosídeo-5O-glicosídeo, m/z 757, m/z 595, m/z 287; antocianinas aciladas, m/z 785; pelargonidina-O-pcoumaroylglicosídeo-O-glicosídeo, m/z 741, m/z 271; peonidina-O-feruloylglicosídeo-Oglicosídeo, m/z 801, m/z 463, m/z 301; peonidina- O-p-coumaroilglicosídeo-O-glicosídeo, m/z 771, m/z 463, m/z 301; derivados de peonidina, m/z 755, m/z 301. Os seguintes parâmetros foram utilizados: gás de dessolvatação, N2, 600 L/h, tensão do cone de extração de 10 V, tensão capilar de 0,8 kV. A identificação dos compostos foi realizada baseada na m/z de cada composto descrito na literatura e comparação com os valores obtidos nos cromatogramas dos extratos antociânicos.
+
+6 RESULTADOS E DISCUSSÃO
+
+6.1 Obtenção do extrato do tubérculo da espécie Dioscorea trifida, utilizando água/ácido clorídrico (HCl)
+
+Para analisar as antocianinas presentes nos extratos antociânicos do inhame-roxo da espécie Dioscorea trifida, no UPLC, foi necessário realizar o processo de purificação para eliminar interferentes da amostra, como açúcares, flavonoides e outros. A purificação foi realizada utilizando um cartucho Sep Pack C18. A figura 13 representa a adição de água MilliQ, objetivando eliminar os interferentes (açúcar, flavonoides e outros). Após a eluição com água, foi possível observar uma coloração vermelha intensa no cartucho, indicando que as
+
+43
+
+antocianinas ficaram retidas. Em seguida, foram avaliados dois tipos de eluentes para a obtenção do extrato antociânico. O primeiro eluente utilizado foi água acidificada com HCl. Em seguida, o extrato foi armazenado em um frasco de vidro e, posteriormente, o solvente foi evaporado via um fluxo de nitrogênio, Figura 16. Finalmente, foi obtido 12 mg um sólido avermelhado.
+
+Figura 16 –Extrato antociânico do inhame-roxo: (A) solução ácida; (B) amostra seca. Fonte: Elaborado pelo autor Fonte: Elaborado pelo autor
+
+Após o processo de secagem, a amostra foi redissolvida em metanol/TFA, filtrada em um filtro de seringa PTFE de 0,22 µm, Figura 17, e analisada via UPLC-QDa.
+
+Figura 17 – Extrato filtrado para ser analisado
+
+44
+
+Fonte: Elaborado pelo autor
+
+Em seguida, repetiu-se o procedimento utilizando como eluente metanol acidificado com TFA. O extrato foi armazenado em um frasco de vidro e, posteriormente, o solvente foi evaporado via um fluxo de nitrogênio. Finalmente, foi obtido 15 mg de um sólido avermelhado. Após o processo de secagem, a amostra foi redissolvida em metanol/TFA, filtrada em um filtro de seringa PTFE de 0,22 µm e analisada via UPLC.
+
+6.2 Cromatograma do extrato água/HCl
+
+O extrato antociânico possui uma faixa de comprimento de onda característica, sendo possível de ser detectado pelo detector photodiode array (PDA). As antocianinas apresentam, em meio ácido, uma coloração vermelha e um máximo de absorbância de 520 nm, sendo este o valor de comprimento de onda selecionado na análise do extrato. Na figura 18 é possível observar o cromatograma obtido na análise do extrato antociânico do tubérculo de Dioscorea trífida, via extração utilizando água/HCl.
+
+45
+
+Figura 18 – Cromatograma do extrato antociânico obtido via extração água e HCl (O= 520 nm) Fonte: Elaborado pelo autor
+
+Observa-se uma baixa intensidade da absorbância bem como de resolução para a maioria dos picos presentes no cromatograma. Isso ocorre, possivelmente, devido à baixa concentração de antocianinas presentes na amostra. Portanto, como tentativa de garantir uma melhor separação e intensidade dos picos no cromatograma, foi necessário o uso do sistema analisador quadrupolo (QDa). Foi utilizado o método de varredura Selection Ion Recording (SIR), selecionando previamente os íons, que já foram relatados na literatura (RAMOSESCUDERO et al.,2010) para amostras de Dioscorea trífida, com base na m/z.
+
+6.3 Cromatograma do extrato metanol/TFA
+
+A figura 19 exibe o cromatograma obtido na análise do extrato antociânico do tubérculo de Dioscorea trifida, via extração utilizando metanol/TFA.
+
+46
+
+Figura 19 – Cromatograma do extrato antociânico obtido via extração metanol e TFA (O=520 nm)
+
+Fonte: Elaborado pelo autor
+
+Semelhante a extração com água acidificada, foi observado uma baixa intensidade em absorbância dos constituintes da amostra de picos presentes no cromatograma, indicando que a concentração de antocianinas, para esse comprimento de onda, era baixa.
+
+6.4 Identificação das antocianinas no extrato água/HCl por espectrometria de massas
+
+A revisão bibliográfica de extratos antociânicos de Dioscorea trifida (RAMOSESCUDERO et al, 2010) foi fundamental para a identificação de compostos presentes no inhame. A partir das substâncias relatadas foram selecionadas as razões m/z a serem usadas no sistema UPLC-ESI-QDa, foram selecionadas 14 substâncias. Destas, sete foram detectadas na amostra analisada, Figuras 20 a 24.
+
+47
+
+Figura 20 – Cromatograma obtido no UPLC-ESI-QDa para cianidina-O-feruloilglicosídeo-Oglicosídeo, m/z 787.
+
+Fonte: Elaborado pelo autor
+
+Figura 21 – Cromatograma obtido no UPLC-ESI-QDa para peonidina-O-glicosídeo, m/z 463 Fonte: Elaborado pelo autor Figura 22 - Cromatograma obtido no UPLC-ESI-QDa para o peonidina-O-feruloilglicosídeoO-glicosídeo, m/z 801
+
+48
+
+Fonte: Elaborado pelo autor
+
+Figura 23 - Cromatograma obtido no UPLC-ESI-QDa para o íon com m/z 785 Fonte: Elaborado pelo autor
+
+49
+
+Figura 24 - Cromatograma obtido no UPLC-ESI-QDa para peonidina, m/z 301 Fonte: Elaborado pelo autor
+
+A obtenção do espectro de massa permite ter maior clareza de que estrutura está sendo avaliada. Os íons referentes as razões m/z das substâncias encontradas poderiam não representar antocianinas, porém o uso do PDA assegura que as moléculas estão absorvendo no comprimento de onda característico de antocianinas, 520 nm, e a utilização do método SIR (Gravação do Íon Selecionado) garante que as razões m/z selecionadas são características de antocianinas previamente relatadas na literatura. Com base em dados relatados na literatura, foi possível relacionar os tempos de retenção obtidos neste trabalho com as relações de m/z dos íons e os possíveis nomes das antocianinas, Tabela 3.
+
+Tabela 3 – Antocianinas identificadas extrato H2O/HCl de inhame-roxo com base no Tempo de retenção (TR) , m/z do pico íon molecular, m/z dos íons fragmentos relatados na referência RAMOS-ESCUDERO et al (2010) N pico TR (min) [M+] (m/z) Ions - fragmentos (m/z) Composto 1 5,38 787 Não observado Cianidina-O-feruloilglicosíde o-O-glicosídeo 2 9,03 463 Não observado Peonidina-O-glicosídeo
+
+50
+
+3 12,72 463 Não observado Peonidina-O-glicosídeo 4 13,23 801 463 Peonidina-O-feruloilglicosídeo-Oglicosídeo 5 14,77 785 Não observado Antocianina acilada 6 20,44 301
+
+Peonidina 7 20,77 785 Não observado Antocianina acilada Fonte: elaborado pelo autor
+
+Para a identificação das antocianinas considerou-se sete picos de m/z previamente relatados. O pico 1 foi relacionado à cianidina-O-feruloilglicosideo-O-glicosídeo [(5) Figura 8], apresentando uma m/z 787. Foram observados três picos com m/z 463, os quais foram relacionados ao composto peonidina-O-glicosídeo [(19) Figura 8]. No pico 4 foi encontrado a presença de m/z 801, referente ao pico íon molecular com tempo de retenção = 13,23 min, possuindo o mesmo tempo de retenção que o m/z 463, indicando que este último é um fragmento da estrutura com m/z 801, correspondendo a perda do ácido ferúlico glicosilado. A m/z 801 e a presença do fragmento com m/z 463 está associado a molécula peonidina-O-feruloilglicosideo-Oglicosídeo [(20) Figura 8]. O pico 5 com m/z 785 foi associado a um tipo de antocianina acilada, ainda não relatada na literatura (RAMOS-ESCUDERO et al.,2010). O pico 6 com m/z 301 foi relacionado com a aglicona peonidina. Por fim, o pico 7 com m/z de 785 foi associado a um tipo de antocianina acilada. Neste caso, os autores não identificaram a estrutura da referida antocianina (RAMOS-ESCUDERO et al.,2010).
+
+6.5 Identificação das antocianinas no extrato metanol/TFA
+
+Foi empregado o mesmo método utilizado na identificação das antocianinas do extrato H2O/HCl, para a identificação de 14 substâncias do extrato metanol/TFA. Nove picos foram detectados na amostra analisada, como apresentado nas Figuras 25 a 30 dos cromatogramas.
+
+Figura 25 – Cromatograma obtido no UPLC-QDa para peonidina-O-glicosídeo, m/z 463
+
+51
+
+Fonte: Elaborado pelo autor
+
+Figura 26 – Cromatograma obtido no UPLC QDa para cianidina-O-feruloilglicosídeo-Oglicosídeo, m/z 787 Fonte: Elaborado pelo autor
+
+Figura 27 - Cromatograma obtido no UPLC-ESI-QDa para cianidina, m/z 287
+
+52
+
+Fonte: Elaborado pelo autor
+
+Figura 28 - Cromatograma obtido no UPLC-ESI-QDa para pelargonidina, m/z 271 Fonte: Elaborado pelo autor
+
+Figura 29- Cromatograma obtido no UPLC-ESI-QDa para peonidina, m/z 301
+
+53
+
+Fonte: Elaborado pelo autor
+
+Figura 30- Cromatograma obtido no UPLC-ESI-QDa para o íon com m/z 785 Fonte: Elaborado pelo autor
+
+Com base em dados relatados na literatura, foi possível relacionar os tempos de retenção, obtidos neste trabalho, com as relações de m/z dos íons e os possíveis nomes das antocianinas, Tabela 4. Tabela 4 – Antocianinas identificadas extrato MeOH/TFA de inhame-roxo com base no Tempo
+
+54
+
+de retenção (TR) , m/z do pico íon molecular, m/z dos íons fragmentos relatados na referência RAMOS-ESCUDERO et al (2010) N pico TR (min) [M+] (m/z) Ìons - fragmentos (m/z) Composto 1 0,93 463 Não observado Peonidina-O-glicosídeo 2 5,32 787 Não observado Cianidina-O-feruloilglicosídeo-O-glicosídeo 3 9,03 463 Não observado Peonidina-O-glicosídeo 4 9,38 787
+
+Cianidina-O-feruloilglicosídeo-O-glicosídeo 5 13,32 463 Não observado Peonidina-O-glicosídeo 6 14,56 287
+
+Cianidina 7 16,38 271
+
+Pelargonidina 8 20,29 301
+
+Peonidina 9 20,83 785 Não observado Antocianina acilada Fonte: Elaborado pelo autor
+
+Para a identificação das antocianinas considerou-se nove picos previamente relatados. Inicialmente, foram observados três picos com m/z 463 estando relacionados à isômeros da peonidina-O-glicosídeo [(19) Figura 8]. Em seguida, foram encontrados dois picos com m/z 787, estando relacionado a isômeros da cianidina-O-feruloilglicosídeo-O-glicosídeo [(5) Figura 8]. Para os picos 6,7 e 8 foram observados a presença de agliconas, sendo que para o pico 6 foi observado uma m/z 287, indicando a presença de cianidina. Para o pico 7 foi observado a presença da aglicona pelargonidina com m/z 271. O pico 8 com m/z 301 foi associado a peonidina. Por fim, o último pico observado possui m/z 785 estando associado a uma antocianina acilada, porém os autores não relataram o nome ou a estrutura dessa antocianina. Em relação as formas de extração, observou-se que os dois métodos foram eficientes no processo de obtenção das antocianinas, sendo que para o método utilizando metanol/TFA levou a mais picos desejados (nove), porém com um maior número de agliconas (cianidina, pelargonidina e peonidina), indicando que, provavelmente, após o processo de extração ocorreu maior degradação dessas antocianinas, via degradação das moléculas de açúcar, formando a estrutura de uma aglicona (sem a presença de uma molécula de açúcar em sua estrutura). Esse processo torna a antocianina mais propícia a uma maior degradação e uma diminuição da sua
+
+55
+
+solubilidade. Para a extração com água acidificada, observou-se a presença de sete picos, com a presença de uma aglicona (peonidina), indicando que as moléculas provavelmente tenderam a manter sua estrutura original, com a manutenção da molécula de glicose para a maioria delas, conferindo maior estabilidade dessas moléculas, bem como maior solubilidade. Observou-se para as duas extrações a presença de um maior número de antocianinas do tipo peonidina glicosiladas e peonidinas glicolisadas aciladas com ácido ferúlico. HO et al (2010) relataram que a presença de peonidina-O-glicosídeo foi capaz de inibir significativamente a capacidade de invasão de células que provocam câncer de pulmão. A aglicona cianidina auxilia na inibição da atividade da enzima ciclo-oxigenase, reduzindo dores e inflamações (WANG et al., 1999). DREISEITEL et al., (2008) relataram que a presença da aglicona pelargonidina é capaz de inibir o proteossomo, um complexo de diversas proteases, aumentando taxas de apoptose e diminuindo as divisões e proliferação celular, consequentemente, a presença de células tumorais. Os rendimentos (%) das frações antociânicas puderam ser calculadas, através da obtenção dos valores das massas dos extratos obtidos, para a extração com água/HCl foram obtidos 12 mg para 1g do tubérculo, portanto, um rendimento de 1,2%. Já para metanol/TFA, foram obtidos 15 mg, um rendimento de 1,5%. SAFITRI, E. et al (2021) obtiveram um rendimento de 1,63% de antocianinas no inhame-roxo. Apesar, da obtenção de valores parecidos com o da literatura, possivelmente, ocorreu o processo de degradação do pigmento, devido a fatores externos, como temperatura e luz que interferiram na estabilidade das antocianinas presentes, provocando uma redução significativa no teor analisado.
+
+56
+
+7. CONCLUSÃO
+
+As antocianinas foram detectadas pelos dois métodos de extração propostos para o tubérculo de inhame roxo da espécie Dioscorea trifida do nordeste brasileiro, via água/HCl e metanol/TFA. A maioria das antocianinas encontradas foram peonidinas glicolisadas e aciladas com ácido ferúlico. Observou-se que na extração realizada via metanol acidificado com TFA houve uma maior presença de agliconas, provavelmente devido a um processo de desacilação das antocianinas. Diferentemente, para o processo utilizando água acidificada com HCl, observou-se um menor número de agliconas. Cabe ressaltar que as antocianinas são comprovadamente benéficas para a saúde das pessoas. O fato desta classe de compostos estarem presentes no inhame-roxo aponta para a necessidade de mais estudos desses compostos fenólicos, garantindo a manutenção dos seus benefícios e proporcionando o interesse do mercado e dos órgãos governamentais em relação a esse tubérculo.
+
+57
+
+REFERÊNCIAS ALBUQUERQUE, B. R. et al. Phenolic compounds: Current industrial applications, limitations and future challenges. Food & function, v. 12, n. 1, p. 14-29, 2021. ADOMĖNIENĖ, Aušra; VENSKUTONIS, Petras Rimantas. Dioscorea spp.: Comprehensive review of antioxidant properties and their relation to phytochemicals and health benefits. Molecules, v. 27, n. 8, p. 2530, 2022. ALVAREZ-SUAREZ, J.M. et al. Novel approaches in anthocyanin research-Plant fortification and bioavailability issues. Trends in Food Science & Technology, v. 117, p. 92-105, 2021. ALVES, Sara Ferreira. Novos corantes alimentares: do estudo da interação de metais com antocianinas à descoberta de novas moléculas. 2021. AZEVEDO, Liliana Bury de. Integração entre sistemas de cultivo de mandioca e inhame e criação animal nas comunidades de Guapira e Batatan, no Recôncavo da Bahia. 2017. BHANDARI, Megh Raj; KASAI, Takanori; KAWABATA, Jun. Nutritional evaluation of wild yam (Dioscorea spp.) tubers of Nepal. Food chemistry, v. 82, n. 4, p. 619-623, 2003 BOBBIO, Paulo A.; BOBBIO, Florinda Orsatti. Química do processamento de alimentos. In: Química do processamento de alimentos. 1995. p. 151151. BRAVO, Laura. Polyphenols: chemistry, dietary sources, metabolism, and nutritional significance. Nutrition reviews, v. 56, n. 11, p. 317-333, 1998. CARRENO‐DIAZ, R.; GRAU, N. ANTHOCYANIN PIGMENTS IN Dioscorea tryphida L. Journal of Food Science, v. 42, n. 3, p. 615-617, 1977. CHEN, Pin-Shern et al. Diosgenin, a steroidal saponin, inhibits migration and invasion of human prostate cancer PC-3 cells by reducing matrix metalloproteinases expression. PloS one, v. 6, n. 5, p. e20164, 2011. CROTTI, Antônio Eduardo Miller et al. Espectrometria de massas com ionização por" electrospray": processos químicos envolvidos na formação de
+
+58
+
+íons de substâncias orgânicas de baixo peso molecular. Química nova, v. 29, p. 287-292, 2006 DALMAZIO, Ilza et al. Aplicação da espectrometria de massas com ionização electrospray no monitoramento de processos oxidativos avançados de interesse ambiental: degradação de fármacos, avaliação de sistemas oxidativos e oxidação do isopreno. 2007 DE PASCUAL-TERESA, Sonia; SANCHEZ-BALLESTA, Maria Teresa. Anthocyanins: from plant to health. Phytochemistry reviews, v. 7, p. 281-299, 2008. DE SOUZA VACCARI, Niucéa Fatima; SOCCOL, Marcilene Camila Heidmann; IDE, Gilberto Massashi. Compostos fenólicos em vinhos e seus efeitos antioxidantes na prevenção de doenças. Revista de ciências agr DREISEITEL. Andrea et al. Inhibition of proteasome activity by anthocyanins and anthocyanidins. Biochemical and biophysical research communications, v. 372, n. 1, p. 57-61, 2008 FALCAO, Leila D. et al. Copigmentação intra e intermolecular de antocianinas: uma revisão. Boletim do Centro de Pesquisa de Processamento de Alimentos, v. 21, n. 2, 2003. FIORUCCI, Antonio Rogério; SOARES, Márlon Herbert Flora Barbosa; CAVALHEIRO, Éder Tadeu Gomes. Ácidos orgânicos: dos primórdios da química experimental à sua presença em nosso cotidiano. 2002. FREITAS, Victor. O mundo colorido das antocianinas. Revista de Ciência Elementar, v. 7, n. 2, 2019. HO, Mao-Lin et al. Peonidin 3-glucoside inhibits lung cancer metastasis by downregulation of proteinases activities and MAPK pathway. Nutrition and cancer, v. 62, n. 4, p. 505-516, 2010. IMBERT, M. P.; SEAFORTH, C. Anthocyanins in Dioscorea alata L. Experientia, v. 24, p. 445-447, 1968. JARDIM, I. C. S. F. Extração em fase sólida: fundamentos teóricos e novas estratégias para preparação de fases sólidas. Scientia Chromatographica, v.
+
+59
+
+2, n. 1, p. 13-25, 2010 JINHUI, Cai et al. A taxonomical study on varital resource of Dioscorea species. Acta Agriculturae Universitatis Jiangxiensis, v. 21, n. 1, p. 53-57, 1999. KUNDU, Bishwa Bhusan et al. Dioscorea bulbifera L.(Dioscoreaceae): A review of its ethnobotany, pharmacology and conservation needs. South African Journal of Botany, v. 140, p. 365-374, 2021. LI, Ye et al. Chinese yam (Dioscorea): Nutritional value, beneficial effects, and food and pharmaceutical applications. Trends in Food Science & Technology, 2023. LOPES, Toni et al. Antocianinas: uma breve revisão das características estruturais e da estabilidade. Current Agricultural Science and Technology, v. 13, n. 3, 2007. MARÇO, Paulo Henrique; POPPI, Ronei Jesus; SCARMINIO, Ieda Spacino. Procedimentos analíticos para identificação de antocianinas presentes em extratos naturais. Química Nova, v. 31, p. 1218-1223, 2008. MAZZA, Giuseppe; MINIATI, Enrico. Anthocyanins in fruits, vegetables, and grains. CRC press, 2018. MENDES, L. do N. et al. Panorama da produção e comercialização do inhame no mundo e no Brasil e sua importância para o mercado pernambucano: uma análise das cinco forças competitivas. Convibra, v. 3, p. 1-12, 2013. MEZAROBA, Maria Elizabeth de Paula Cançado et al. Extração de antocianina de casca de uva Isabel. 2001. MIYATA, Ryo; SANO, Hitomi; KUMAZAWA, Shigenori. New acylated anthocyanin isolated from purple yam using molecular networking analysis. Food Science and Technology Research, v. 28, n. 4, p. 329-334, 2022. MONTALDO, Alvaro. Cultivo de r'aices y tub'erculos tropicales. Agroamerica, 1991. MOREIRA, Gabriela Luz Pereira et al. Teores de amilose e amilopectina em genótipos de mandioca (Manihot esculenta Crantz) MORIYA, Chiemi et al. New acylated anthocyanins from purple yam and their
+
+60
+
+antioxidant activity. Bioscience, biotechnology, and biochemistry, v. 79, n. 9, p. 1484-1492, 2015 NASCIMENTO, Ronaldo Ferreira do et al. Cromatografia gasosa: aspectos teóricos e práticos. 2018. NASCIMENTO, Wellington Ferreira do et al. Distribution, management and diversity of the endangered Amerindian yam (Dioscorea trifida L.). Brazilian Journal of Biology, v. 75, p. 104-113, 2015. OANCEA, Simona. A review of the current knowledge of thermal stability of anthocyanins and approaches to their stabilization to heat. Antioxidants, v. 10, n. 9, p. 1337, 2021. OMONIGHO, S. E.; IKENEBOMEH, M. J. Effects of different preservative treatments on the chemical changes of pounded white yam (Dioscorea rotundata) in storage at 28±2 C. Food Chemistry, v. 68, n. 2, p. 201-209, 2000. OZO, O. N.; CAYGILL, J. C.; COURSEY, D. G. Phenolics of five yam (Dioscorea) species. Phytochemistry, v. 23, n. 2, p. 329-331, 1984. PAVIA, Donald L. et al. Introdução à espectroscopia. Cengage Learning, 2010 PAVIA, D. L.; LAMPMAN, G. M.; KRIZ, G. S. Introduction to Spectroscopy. ed. Bellingham, Washington: Thomson Learning. 2001. PADHAN, Bandana; BISWAS, Meghali; PANDA, Debabrata. Nutritional, anti-nutritional and physico-functional properties of wild edible yam (Dioscorea spp.) tubers from Koraput, India. Food Bioscience, v.34,p.100527, 2020. RAMILA, Joshi et al. Study of nutritive value of some selected less known wild edible plants of the central Nepal. In: Bio-technology applications for reforestation and biodiversity conservation. Proceedings of the 8th International Workshop of BIO- REFOR, Kathmandu, Nepal, November 28-December 2, 1999. BIO-REFOR, Ministry of Forests and Soil Conservation, 2000. p. 307-309. RAMOS-ESCUDERO, Fernando et al. HPLC-DAD-ESI/MS identification
+
+61
+
+of anthocyanins in Dioscorea trifida L. yam tubers (purple sachapapa). European Food Research and Technology, v. 230, p. 745-752, 2010. PANCHE, Archana N.; DIWAN, Arvind D.; CHANDRA, Sadanandavalli R. Flavonoids: an overview. Journal of nutritional science, v. 5, p. e47, 2016. RAŠPER, V.; COURSEY, D. G. Anthocyanins of Dioscorea alata L. Experientia, v. 23, p. 611-612, 1967. ROSSI, Isabella Silva et al. Estabilidade de antocianinas do açaí: uma breve revisão. The Journal of Engineering and Exact Sciences, v. 8, n. 9, p. 1488001a, 2022. ROUFOGALIS, Basil. Flavonoid pharmacokinetics: methods of analysis, preclinical and clinical pharmacokinetics, safety, and toxicology. John Wiley & Sons, 2012 SANTIAGO, Manuela Cristina Pessanha de Araújo et al. Analytical standards production for the analysis of pomegranate anthocyanins by HPLC. Brazilian Journal of Food Technology, v. 17, p. 51-57, 2014. SANTOS, ES dos et al. Inhame (Dioscorea sp.) tecnologia de produção e preservação ambiental. Tecnologia & Ciência Agropecuária, v. 1, n. 1, p. 3136, 2007. Skoog, D. A, West, D. M., Holler, F. J., Crouch, S. R. Fundamentos de Química Analítica, Editora Thomson, tradução da 8ª edição, 2006. SAFITRI, E. et al. Dioscorea alata L anthocyanin extract metanol as a sensitive pH active compound. In: Journal of Physics: Conference Series. IOP Publishing, 2021. p. 012058 SILVA, Marília Lordêlo Cardoso et al. Compostos fenólicos, carotenóides e atividade antioxidante em produtos vegetais. Semina: Ciências Agrárias, v. 31, n. 3, p. 669-681, 2010. SILVA, Amanda Amanda Divina Matias et al. POTENCIAL DO INHAME (DIOSCOREA SPP.) NA ELABORAÇÃO DE BEBIDAS NÃO CONVENCIONAIS. 2022. SILVERSTEIN, Robert M.; WEBSTER, Francis X.; KIEMLE, David J.
+
+62
+
+Identificação espectrométrica de compostos orgânicos. In: Identificação espectrométrica de compostos orgânicos. 2007. p. 490-490.
+
+SIQUEIRA, M. V. B. M. Inhame (Dioscorea spp.): uma cultura ainda negligenciada. Horticultura Brasileira, v. 27, n. 2, 2009 SOARES, Verena Makarem. Propagação de Dioscorea trifida lf a partir de minitubérculo, estaquia e cultivo in vitro. 2018. SRIVICHAI, Subin; HONGSPRABHAS, Parichat. Profiling anthocyanins in Thai purple yams (Dioscorea alata L.). International Journal of Food Science, v. 2020, 2020. STACHNIUK, Anna; FORNAL, Emilia. Liquid chromatography-mass spectrometry in the analysis of pesticide residues in food. Food Analytical Methods, v. 9, p. 1654-1665, 2016. SURARIT, Worawat; NUENGCHAMNONG, Nitra; HANSAKUL, Pintusorn. Protective effects of Dioscorea birmanica extract against oxidative stressinduced damage in cultured normal hepatocytes and its phytochemical constituents. Food Bioscience, v. 41, p.101030,2021. TALEUZZAMAN, M. et al. Ultra performance liquid chromatography (UPLC)-a review. Austin J Anal Pharm Chem, v. 2, n. 6, p. 1056, 2015 TEIXEIRA, A. P. et al. The use of purple yam (Dioscorea trifida) as a healthpromoting ingredient in bread making. Journal of Research in Biology, v. 3, n. 1, p. 747-758, 2013 VISHNU, V. R. et al. Identification of anthocyanins in a purple yam (Dioscorea alata) accession and their in vitro antiproliferative activity. Journal of Plant Biochemistry and Biotechnology, p. 1-11, 2023. WANG, Haibo et al. Antioxidant and anti-inflammatory activities of anthocyanins and their aglycon, cyanidin, from tart cherries. Journal of natural products, v. 62, n. 2, p. 294-296, 1999. WANG, Haijing et al. Rapid analysis of anthocyanin and its structural modifications in fresh tomato fruit. Food Chemistry, v. 333, p. 127439,
+
+63
+
+2020.WU, Zhi-Gang et al. Characterizing diversity based on nutritional and bioactive compositions of yam germplasm (Dioscorea spp.) commonly cultivated in China. journal of food and drug analysis, v. 24, n. 2, p. 367375, 2016. YANG, Luo et al. Total anthocyanins and cyanidin-3-O-glucoside contents and antioxidant activities of purified extracts from eight different pigmented plants. Pharmacognosy Magazine, v. 15, n. 60, p. 124-129, 2019. ZHANG, Junhong et al. Isolation and identification of phenolic compounds in Chinese purple yam and evaluation of antioxidant activity. LWT, v. 96, p. 161-165, 2018. ZHAO, Ying-Yong et al. Ultra-performance liquid chromatography–mass spectrometry as a sensitive and powerful technology in lipidomic applications. Chemico-Biological Interactions, v. 220, p. 181-192, 2014. ZHANG, Yuanxin et al. The Effect of Anthocyanins from Dioscorea alata L. on Antioxidant Properties of Perinatal Hainan Black Goats and Its Possible Mechanism in the Mammary Gland. Animals, v. 12, n. 23, p. 3320, 2022 ZHANG, Zhidan et al. Changes in main nutrients and medicinal composition of Chinese yam (Dioscorea opposita) tubers during storage. Journal of food science and technology, v. 51, p. 2535-2543, 2014.

@@ -1,0 +1,285 @@
+Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 72 Artículo Científico Análisis comparativo de atributos dendrológicos y tecnológicos de cinco especies forestales nativas como insumo para la innovación en sistemas forestales sostenibles. Comparative Analysis of Dendrological and Technological Attributes of Five Native Forest Species as a Basis for Innovation in Sustainable Forest Systems. Carvajal-Benavides, José Gabriel1; Paredes-Rodríguez, Hugo Orlando2; Quinatoa-Ulcuango, Jeniffer Karina3; Villagran-Castañeda, Jhoana Elisa4; Farinango-Coyago, Mayra Ceneida5; Tituaña-Maigua, Leslie Sulay6. 1 Universidad Técnica del Norte; Ecuador, Ibarra; https://orcid.org/0000-0001-99204991 ; jgcarvajalb@utn.edu.ec 2 Universidad Técnica del Norte; Ecuador, Ibarra; https://orcid.org/0000-0002-58801607 ; hoparedes@utn.edu.ec 3 Universidad Técnica del Norte; Ecuador, Ibarra; https://orcid.org/0009-0005-09805248 ; jkquinatoau@utn.edu.ec 4 Universidad Técnica del Norte; Ecuador, Ibarra; https://orcid.org/0009-0006-57831587 ; jevillagranc@utn.edu.ec 5 Universidad Técnica del Norte; Ecuador, Ibarra; https://orcid.org/00090000-1068-4934 ; mcfarinangoc@utn.edu.ec 6 Universidad Técnica del Norte; Ecuador, Ibarra; https://orcid.org/00090002-4963-6408 ; lstituanam@utn.edu.ec 1 Autor Correspondencia https://doi.org/10.63618/omd/isj/v3/n3/70 Resumen: Esta investigación analiza cinco especies nativas del noroccidente de Ecuador: Piptocoma discolor, Castilla elastica, Cupania cinerea, Juglans neotropica y Terminalia amazonia, evaluando sus propiedades dendrológicas, físicas y tecnológicas. Se utilizaron métodos rigurosos bajo normas INEN y COPANT, con análisis de humedad, densidad y contracción, en condiciones controladas. Los resultados revelan diferencias significativas entre especies, destacando su potencial en bioingeniería forestal e industrias sostenibles. Este estudio promueve el uso responsable de maderas poco aprovechadas, apoyando la conservación, reduciendo la deforestación y fortaleciendo políticas públicas para una gestión forestal sostenible en Ecuador. Palabras clave: Propiedades físico-tecnológicas; Especies forestales nativas; Densidad básica; Contracción dimensional: Sistemas forestales sostenibles.
+
+Abstract: This research analyzes five native species of northwestern Ecuador: Piptocoma discolor, Castilla elastica, Cupania cinerea, Juglans neotropica and Terminalia amazonia, evaluating their dendrological, physical and technological properties. Rigorous methods were used under INEN and COPANT standards, with moisture, density and shrinkage analysis, under controlled conditions. The results reveal significant differences between species, highlighting their potential in forest bioengineering and sustainable industries. This study promotes the responsible use of underutilized timber, supporting conservation, reducing deforestation and strengthening public policies for sustainable forest management in Ecuador.
+
+Keywords: Physical-technological properties; Native forest species; Basic density; Dimensional shrinkage; Sustainable forest systems.
+
+Cita: Carvajal-Benavides, J. G., Paredes-Rodríguez, H. O., Quinatoa-Ulcuango, J. K., Villagran-Castañeda, J. E., Farinango-Coyago, M. C., & Tituaña-Maigua, L. S. (2025). Análisis comparativo de atributos dendrológicos y tecnológicos de cinco especies forestales nativas como insumo para la innovación en sistemas forestales sostenibles. Innova Science Journal, 3(3), 72-96. https://doi.org/10.63618/omd/isj/v 3/n3/70
+
+Recibido: 05/04/2025 Aceptado: 02/06/2025 Publicado: 31/07/2025
+
+Copyright: © 2025 por los autores. Este artículo es un artículo de acceso abierto distribuido bajo los términos y condiciones de la Licencia Creative Commons, AtribuciónNoComercial 4.0 Internacional. (CC BY-NC).
+
+(https://creativecommons.org/lice nses/by-nc/4.0/)
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 73 Artículo Científico 1. Introducción La riqueza forestal de Ecuador, que incluye cerca de 5,000 especies arbóreas (MAE, 2018), constituye un recurso vital para la sostenibilidad ambiental y el desarrollo económico. No obstante, la explotación desordenada y la carencia de herramientas precisas para la identificación de maderas han generado importantes desafíos en la gestión forestal (Mantilla-Ramirez et al., 2021). A pesar de los avances tecnológicos, la identificación de especies maderables continúa siendo un proceso complicado y costoso, dificultando el control de la tala ilegal y la trazabilidad de los productos forestales (CITES, 2022; Fernández et al., 2022). Esta problemática se agrava por la escasez de estudios especializados que proporcionen datos dendrológicos y tecnológicos detallados, esenciales para aplicaciones industriales y de conservación (Peralta, 2022; Samaniego et al., 2021). En este contexto, la caracterización de atributos anatómicos, físicos y tecnológicos de especies nativas adquiere relevancia científica y práctica. Estudios recientes destacan la necesidad de integrar enfoques interdisciplinarios para evaluar el potencial de maderas subutilizadas, promoviendo su uso en mercados alternativos y reduciendo la presión sobre especies amenazadas (FAO-PROAMAZONÍA, 2021; Ferreira y Guillen, 2022). Por ejemplo, investigaciones como las de Vanegas y Rojas (2018) y Carvajal et al. (2023) han demostrado cómo la densidad básica, la contracción y la relación tangencial/radial (T/R) son indicadores clave para determinar la estabilidad dimensional y la aptitud tecnológica de maderas como Juglans neotropica y Terminalia amazonia. Este estudio se centra en cinco especies forestales nativas del noroccidente de Ecuador: Piptocoma discolor, Castilla elastica, Cupania cinerea, Juglans neotropica y Terminalia amazonia. Su selección se basa en su relevancia comercial y ecológica, así como en la falta de datos consolidados sobre sus propiedades tecnológicas (INEN, 2012; Rodríguez et al., 2023). Mediante un enfoque metodológico riguroso, alineado con normas internacionales (COPANT 459, 1972; INEN 1164, 2013), se analizan variables como contenido de humedad, densidad y contracción, aportando información esencial para su identificación y valorización. Los hallazgos de este estudio no solo amplían el conocimiento científico acerca de estas especies, sino que también proporcionan información valiosa para el diseño de políticas públicas y la implementación de prácticas de manejo forestal sostenible (Montero, 2013; OIMT, 2013). Estos abordan las implicaciones para la bioingeniería y la industria de la madera, resaltando cómo la incorporación de especies nativas en las cadenas de valor puede contribuir a reducir la deforestación y promover la conservación de la biodiversidad (MAATE, 2023; Rendón et al., 2021). El Objetivo de esta investigación es establecer una comparación integral entre atributos dendrológicos, morfológicos y tecnológicos de cinco especies forestales nativas con miras a su valorización en mercados alternativos de madera y su uso en bioingeniería forestal.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 74 Artículo Científico
+
+2. Materiales y Métodos La presente investigación se llevó a cabo en la ciudad de Ibarra, ubicada en la parroquia Caranqui, cantón Ibarra, provincia de Imbabura. Las muestras botánicas y probetas de madera fueron recolectadas en la parroquia de Lita (coordenadas UTM 17N 788203, 90801; 874 msnm), también dentro del cantón Ibarra, provincia de Imbabura. Este cantón limita al norte con la provincia del Carchi, al noroeste con la provincia de Esmeraldas, al oeste con los cantones Urcuquí, Antonio Ante y Otavalo, al este con el cantón Pimampiro, y al sur con la provincia de Pichincha. La localización geográfica referencial en coordenadas UTM es 10'041.000 norte y 820.000 oeste, tomando como punto central el centro de la ciudad de Ibarra. La región presenta una temperatura media anual de 15,9 °C, una precipitación anual entre 1000 y 1400 mm, y una altitud de 2204 msnm (PDOT, 2015). 2.1. Ubicación del sitio Caranqui es una parroquia urbana del cantón Ibarra, está ubicada al sur de la misma, en las faldas del Volcán Imbabura, en este barrio se encuentra un templo de piedra de origen Inca. En las siguientes coordenadas 0,32312° o 0° 19' 23" norte y -78,12355° o 78° 7' 25" oeste, con una altitud 2297 m.s.n.m (El Norte, 2023). Figura 1 Mapa político del Cantón Ibarra.
+
+Para la realización de la investigación se emplearon diversas herramientas y equipos, entre ellos machetes, cuchillas, cajas Petri, portaobjetos y cubreobjetos, safranina, bálsamo de Canadá, motosierras, secador, cepilladora, estereoscopio, microscopio, balanza digital, cámara fotográfica, afiladora de cuchillas, estufa y durómetro. En cada etapa del proceso se especifican los materiales y equipos utilizados. La investigación tuvo tres fases; la de campo, de laboratorio, del análisis y procesamiento de la información.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 75 Artículo Científico
+
+2.2. Diagnostico Preliminar
+
+2.2.1. La fase de campo
+
+La recolección de muestras de madera de cinco especies forestales se realizó en el sector de Cachaco, parroquia Lita, cantón Ibarra, provincia de Imbabura. Esta labor contó con la autorización de investigación “Autorización de recolección de especímenes de especies de la diversidad biológica No. 36; código maate-arsfc-2023-0036”, a nombre del Ing. Hugo Orlando Paredes Rodríguez, docente e investigador de la UTN; Herbario UTN 2023. Para la toma de muestras botánicas se siguió la metodología descrita por Palacios (2017). Durante la identificación de los árboles, se recolectaron muestras botánicas en estado fértil, que posteriormente fueron secadas y prensadas conforme a los protocolos establecidos por el Herbario de la UTN (Rodríguez et al., 2023). La identificación de las especies se llevó a cabo mediante el método de comparación y curación de muestras, procedimiento realizado para cada árbol seleccionado. La obtención de las muestras de madera se efectuó conforme a la Norma Técnica Ecuatoriana INEN 1159. 2.2.1.1. La población de estudio. La población de este estudio se fundamenta en los datos registrados en el Sistema de Administración Forestal (SAF), donde constan 700 especies forestales comercializadas. De este total, se seleccionaron cinco especies como muestra para la investigación. Se realizó la investigación de las siguientes especies:  Piptocoma discolor (Kunth) Pruski;  Castilla elastica Cerv;  Cupania cinerea Poepp. y Endl.;  Juglans neotropica Diels;  Terminalia amazonia (JFGmel.) Exell, Se realizó la caracterización de cada individuo, registrando datos como el DAP (diámetro a la altura del pecho), la altura y el estado sanitario. De acuerdo con la norma INEN 1159, para especies conocidas es necesario tomar muestras de tres árboles; sin embargo, con el objetivo de asegurar una mayor precisión, se recolectaron muestras de cinco árboles, garantizando un nivel de confianza estadística del 95 % y un intervalo del 15 %. Para el corte de las muestras en trozas se empleó una motosierra. De los árboles aprovechados se procedió a seleccionar las trozas; para posteriormente preparar las muestras de madera de la siguiente forma: Se obtuvo dos muestras de madera de la sección transversal basal del árbol, de un espesor mínimo de 5 cm. Norma INEN 1163. Ver la Figura 2 y 3.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 76 Artículo Científico Figura 1
+
+Selección de la muestra
+
+Fuente: Norma INEN 1163
+
+Figura 2
+
+Obtención de rodajas de madera
+
+Fuente: SERFOR 2023.
+
+Se obtuvieron viguetas de madera perfectamente orientadas que van desde la corteza hasta la médula del tronco. A continuación, se presenta la Figura 4.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 77 Artículo Científico
+
+Figura 3
+
+Probetas obtenidas de los árboles seleccionados
+
+Fuente: INEN 1159, modificada por el autor.
+
+Para la preparación de probetas, para la descripción organoléptica, anatómica macro y microscópica se usó la Norma INEN 1163. Los equipos y materiales usados fueron la motosierra, cepilladora, la canteadora y la sierra de cinta.
+
+2.2.1.2. Para la descripción organoléptica y macroscópicas. De la troza se preparó dos probetas de madera perfectamente orientadas de cada especie, de forma tangencial y radial de las siguientes dimensiones:
+
+Figura 5
+
+Probeta para ensayos de propiedades físicas de la madera.
+
+2.2.2. Fase de laboratorio
+
+El trabajo se llevó a cabo en el campus Yuyucocha de la Universidad Técnica del Norte (UTN), específicamente en el laboratorio de Anatomía de Maderas y la Xiloteca, ubicados en Ecuador, provincia de Imbabura, cantón Ibarra, en las parroquias de San Francisco y Caranqui.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 78 Artículo Científico 2.2.2.1. Metodología para determinar las propiedades físicas
+
+Según la norma COPANT 459 (1972), se define una cantidad específica de probetas con dimensiones particulares para cada tipo de ensayo, como se presenta en la Tabla 1.
+
+Tabla 1
+
+Dimensiones de las probetas. Ensayo Dimensión de las probetas (cm) Orientación Número de probetas Contenido de humedad 10 x 5 x 5 T/R 35 Densidad 10 x 5 x 5 T/R 35 Contracción 10 x 5 x 5 T/R 35 Nota. T= Tangencial; R= Radial. Adaptado de COPANT 459 (1972).
+
+Contenido de humedad De acuerdo con la norma COPANT 460 (Método para la determinación de la humedad), se emplearon siete probetas por cada árbol, sumando un total de 35, todas libres de defectos y con orientación tangencial y radial.
+
+Procedimiento Después de preparar las probetas, se les colocaron etiquetas y se midieron y pesaron en estado verde utilizando una balanza digital JADEVER. Luego, las probetas fueron almacenadas a temperatura ambiente durante 45 días para que su contenido de humedad se estabilizara, realizando observaciones cada 24 horas hasta obtener pesos consecutivos similares. Posteriormente, se colocaron en una estufa eléctrica Memmert con control de temperatura ajustado a 103 ± 2 °C durante 24 horas, tomando pesos parciales cada seis horas hasta registrar dos pesos consecutivos iguales. El contenido de humedad (CH%) se calculó siguiendo la norma COPANT 460, como se indica en la ecuación [1]:
+
+Donde:
+
+CH%= representa el contenido de humedad expresado en porcentaje (%). PV= es el peso de la probeta en estado verde, medido en gramos (g). PSH= corresponde al peso de la probeta en estado anhidro, también en gramos (g). Densidad Siguiendo la norma COPANT 461 (Método para la determinación del peso específico aparente), se emplearon siete probetas por árbol, sumando un total de 35, con orientación tangencial y radial.
+
+Procedimiento Se consideraron las condiciones de la madera en sus tres estados: verde, seca al aire y anhidra, con el objetivo de analizar posteriormente la densidad básica.
+
+CH%= (PV−PSH ) PSH X 100
+
+Ec.1
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 79 Artículo Científico Madera en estado verde. – Para esta condición, la madera debía conservar su humedad natural. Las probetas fueron envueltas en plástico retráctil para preservar su contenido de humedad y evitar su contaminación. El peso en estado verde se determinó utilizando una balanza digital JADEVER, y posteriormente se tomaron las medidas de las caras de cada probeta con un calibrador pie de rey, con el propósito de calcular su volumen. Se calculó la densidad en verde “DV” en base la ecuación [2]:
+
+Dónde:
+
+DV= densidad de la probeta en verde expresada en g/cm3. PV= peso de la probeta en verde expresado en (g). VV= volumen de la probeta en verde expresada en cm3.
+
+Madera en estado seco al aire. – Las probetas se expusieron al ambiente por un lapso de 45 días hasta que las probetas obtengan pesos iguales. Para el cálculo del “DSA” se tomó en cuenta la ecuación [3]:
+
+Dónde:
+
+DSA= Densidad de la probeta en condición seca al aire expresada en g/cm3. PSA= Es el peso de la probeta en estado seco al aire expresado en gramos (g). VSA= Volumen de la probeta en estado seco al aire expresado en g/cm3.
+
+Madera en estado anhidro. – Las probetas fueron medidas de forma tangencial, radial y longitudinalmente con el fin de obtener el volumen para obtener la densidad anhidra “DA” a través de la ecuación [4]:
+
+Dónde:
+
+DA= Densidad anhidra expresada en g/cm3. PSH= Peso en estado seco al horno expresado en gramos (g). VSH= Volumen en estado seco al horno expresado en cm3.
+
+Densidad básica. - Se tomó en cuenta el peso en estado anhidro y su relación con el volumen en estado verde. Para el cálculo de la densidad básica “DB”, se aplicó la ecuación [5]:
+
+DV = 𝑃𝑉, 𝑔𝑟. 𝑉𝑉, 𝑐𝑚3.
+
+Ec.2 DSA = 𝑃𝑆𝐴, 𝑔𝑟. 𝑉𝑆𝐴, 𝑐𝑚3.
+
+Ec.3 DA = 𝑃𝑆𝐻, 𝑔𝑟. 𝑉𝑆𝐻, 𝑐𝑚3.
+
+Ec.4 DB = 𝑃𝑆𝐻, 𝑔𝑟. 𝑉𝑉, 𝑐𝑚3.
+
+Ec.5
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 80 Artículo Científico
+
+Dónde:
+
+DB= Densidad básica expresada g/cm3. PSH= Peso de la probeta en estado seco al horno expresado en gramos (g). VV= Volumen de la probeta en estado seco, verde expresado en cm3.
+
+Contracción Tomando en cuenta la norma INEN 1164, se utilizó 35 probetas por especie, las cuales fueron dimensionadas como se mostró en la Tabla 1, con orientación tangencial/radial.
+
+Procedimiento Se señalaron las probetas en las seis caras para indicar las posiciones donde se requiere realizar la medición. Posteriormente, se procedió a medir con el calibrador digital en las tres dimensiones de las probetas.
+
+Longitudinal Se midió de manera perpendicular las cara radial y tangencial desde la base inferior hacia la parte superior de las probetas. Para el cálculo se usó la ecuación [6]:
+
+Dónde:
+
+CLN%= Contracción longitudinal normal de la probeta y expresado en porcentaje. DLV= Dimensión longitudinal de la probeta en estado verde expresada en milímetros (mm) DLSA= Dimensión longitudinal de la probeta en condición seca al ambiente, expresado en milímetros. Para el cálculo se usó la ecuación [7]:
+
+Dónde:
+
+CLT%= Contracción longitudinal total de la probeta de estado verde a estado anhidro expresada en (%). DLV= Dimensión longitudinal de la probeta en estado verde expresada, en milímetros (mm). DLSH= Dimensión longitudinal de la probeta en estado anhidro, expresado en milímetros (mm).
+
+Radial Se midió la separación existente entre las diferentes caras tangenciales con una distancia de 3 cm de las bases hacia el centro de los dos extremos. Para el cálculo se usó la ecuación [8]:
+
+CRN (%) = (𝐷𝑅𝑉−𝐷𝑅𝑆𝐴) 𝐷𝑅𝑉 𝑥 100
+
+Ec.8 CLN(%)= (𝐷𝐿𝑉−𝐷𝐿𝑆𝐴) 𝐷𝐿𝑉 𝑥 100
+
+Ec.6 CLT(%)= (𝐷𝐿𝑉−𝐷𝐿𝑆𝐻) 𝐷𝐿𝑉 𝑥 100
+
+Ec.7
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 81 Artículo Científico
+
+Dónde:
+
+CNR%= Contracción en sentido radial normal de la probeta en condiciones verde y también seco al ambiente expresada en porcentaje (%). DVR= Dimensión radial en estado verde de la probeta expresada en mm DRSA= Dimensión radial de la probeta en seco al ambiente, expresado en mm. Para el cálculo se usó la ecuación [9]:
+
+CRT (%) = (𝐷𝑅𝑉−𝐷𝑅𝑆𝐻) 𝐷𝑅𝑉 𝑥 100
+
+Ec.9
+
+Dónde:
+
+CRT%= Contracción radial total de la probeta de estado verde al estado anhidro. DVR= Dimensión radial de la probeta en verde expresada en mm. DRSH= Dimensión radial de la probeta anhidra expresada en mm.
+
+Tangencial Se midió igual al procedimiento de la dimensión radial las dos caras radiales. Para el cálculo se usó la ecuación [10]:
+
+CTN (%) = (𝐷𝑇𝑉−𝐷𝑇𝑆𝐴) 𝐷𝑇𝑉 𝑥 100
+
+Ec.10
+
+Dónde:
+
+CTN%= contracción en sentido tangencial normal de la probeta en verde en estado al ambiente. DTV= Dimensión tangencial de la probeta en estado verde en mm. DTSA= Dimensión tangencial de la probeta en condición seca al aire, expresado en mm. Para el cálculo se usó la ecuación [11]:
+
+CTT (%) = (𝐷𝑇𝑉−𝐷𝑇𝑆𝐻) 𝐷𝑇𝑉 𝑥 100
+
+Ec.11
+
+Dónde:
+
+CTT%= Contracción tangencial total de la probeta de verde a anhidra. DTV= Dimensión tangencial de la probeta en verde expresada en mm. DTSH= Dimensión tangencial de la probeta anhidra expresado en mm.
+
+Contracción volumétrica total Denominada así a la relación de la contracción en caras radiales y tangenciales por cada probeta, la cual se calculó con la siguiente ecuación [12]:
+
+Cvt=Clt+Ctt+Crt
+
+Ec.12
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 82 Artículo Científico
+
+Dónde:
+
+Ctv= Contracción volumétrica total de la probeta de estado verde al estado anhidro en (%). Crt= Contracción radial total de la probeta, dado en (%). Ctt= Contracción tangencial total de la probeta, dado en (%).
+
+Relación tangencial/radial. Denominada así a la relación entre la contracción tangencial y radial con el fin de analizar la estabilidad dimensional de las probetas, la cual se calculó con la siguiente ecuación [13]:
+
+T/R=CTT/CRT
+
+Ec.13 Dónde:
+
+T/R= Relación tangencial radial. CTT= Contracción tangencial total de la probeta, en (%). CTR= Contracción radial total de la probeta en (%). Nota. Tomado de Norma INEN 1164 (2013)
+
+3. Resultados Se llevó a cabo la recolección botánica de muestras en estado fértil, conforme a los protocolos internacionales establecidos para este propósito. Este procedimiento se aplicó a cada ejemplar con el objetivo de verificar técnicamente su identidad, utilizando como referencia la base de datos y los archivos del Herbario de la Universidad Técnica del Norte (HUTN), con el fin de validar su identificación taxonómica y nombre científico (Paredes, 2023). Esta actividad se realizó con el respaldo institucional otorgado por la patente y certificación Nro. MAATE-MCMEVS-2023-035, así como con la respectiva autorización: 1. Permiso para la recolección de especímenes de la diversidad biológica; 2. Código MAATE-ARSFC-2023-0036, que habilita la movilización y traslado de los ejemplares recolectados hasta el campus de Yuyucocha. 3.1. Comparativo de los atributos dendrológicos, ecológicos y usos de las cinco especies
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 83 Artículo Científico
+
+Tabla 2 Principales características dendrológicas de las especies estudiadas Nombre común Familia Nombre científico Descripción Pigüe. Asteraceae Piptocoma discolor (Kunth) Pruski. Árboles que alcanzan hasta 25 metros de altura y presentan diámetros a la altura del pecho (DAP) de hasta 55 cm. La corteza es fisurada, con tonalidades que varían de marrón a negro en el interior, mostrando una rápida oxidación al ser cortada. Las hojas son simples, alternas y de textura membranácea, con el haz de color verde y el envés pardo. La inflorescencia corresponde a una cima amplia conformada por numerosos capítulos. Caucho Moraceae Castilla elastica Cerv.
+
+Corteza externa amarillenta parda con líneas conspicuas de lenticelas verticales corteza interna con abundante látex cremosa muy espeso se vuelve negro y cauchoso al secarse), hojas simples alternas, dísticas; Inflorescencia masculina un receptáculo discoideo Fruto múltiple por fusión de numerosos ovarios varias drupeolas carnosas
+
+Sabaleta
+
+Sapindaceae
+
+Cupania cinerea Poepp. y Endl.
+
+Árbol que puede alcanzar una altura de hasta 20 metros y un diámetro a la altura del pecho (DAP) de 50 cm. Su corteza externa es de color gris, lisa y presenta lenticelas visibles, mientras que la corteza interna exhibe una tonalidad crema a oscura. Hojas imparipinadas, alternas. Inflorescencia una panícula piramidal. Flores cremas: Fruto una cápsula dehiscente, trivalvada, triloculada, ovoide; la semilla elipsoide con un arilo color crema en la base de la semilla. Nogal Juglandaceae Juglans neotropica Diels. Árbol monoico que puede alcanzar los 30 metros de altura y hasta 80 cm de diámetro a la altura del pecho (DAP). Presenta una corteza externa de color marrón, con profundas grietas, y una corteza interna de tonalidad crema que se oxida con rapidez al exponerse. Hojas imparipinnadas. Flores masculinas sobre amentos péndulos; Flores femeninas dispersas sobre una espiga erecta; fruto una drupa, globosa. Roble Combretaceae Terminalia amazonia (JFGmel.) Exell. Árboles de gran tamaño que pueden superar los 30 metros de altura. Presentan corteza fisurada o con tendencia a exfoliarse. Las hojas se agrupan en ramillas cortas, mientras que las ramitas terminales muestran curvaturas que culminan en segmentos donde se concentran las hojas. La inflorescencia se desarrolla en forma de racimo, y el fruto es una sámara con dos o más alas laterales.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 84 Artículo Científico
+
+Tabla 3 Características de las cortezas de las especies Corte trasversal Nombre científico Descripción
+
+Piptocoma discolor (Kunth) Pruski.
+
+Corteza que se desprende en líneas verticales, tipo fibrosa, coloración en bandas verticales más oscuras y cremas en la parte interna.
+
+Castilla elastica Cerv.
+
+Corteza no exfoliante, marcas de anillos por la caída de la estípula, lisa a estriada, textura coriácea a leñosa, con lenticelas verticales largas y paralelas entre sí. Verdosa a parduzca clara.
+
+Cupania cinerea Poepp. y Endl
+
+Corteza no exfoliante, estriada, coriácea, pocas lenticelas en arreglos verticales, clara, grisáceas a blancuzcas.
+
+Juglans neotropica Diels.
+
+Corteza no exfoliante, fisurada con placas alargadas, delgadas, leñosas, no lenticeladas, oscuras, placas pardas negruzcas, hendiduras cafés rojizas.
+
+Terminalia amazonia (JFGmel.) Exell.
+
+Corteza externa fisurada, con líneas verticales, generan placas lignificadas, en ocasiones exfoliantes, se desprenden con cierta dificultad. En árboles con DAP hasta 40 cm el grosor llega a 6 mm; aquellos que superan este valor va incrementándose. Se oxida al contacto con el aire.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 85 Artículo Científico
+
+Tabla 4 Descripción comparativa de aspectos ecológicos y los usos por especie
+
+Ecología Usos Actuales Uso Potencial Piptocoma discolor (Kunth) Pruski Se localiza en la región de la Amazonía Andina, principalmente en bosques secundarios, donde suele formar rodales homogéneos, especialmente a altitudes comprendidas entre los 700 y 1200 msnm. Es común encontrarla en terrenos como potreros o chacras en estado de abandono, en zonas caracterizadas por una alta y constante pluviosidad (Morejón Moreta, 2018). Actualmente se utiliza para compuestos bioactivos y actividades antiinflamatorias, tradicionalmente como infusiones debido a que muestran efecto analgésico. (RamírezLópez et al., 2023)
+
+Utilizado para la creación de envases biodegradables debido a su fibra con alta resistencia térmica y el uso de sus enzimas en lugares de químicos agresivos. (Silva et al., 2023). Castilla elastica Cerv Castilla elastica fue descrita y publicada en Gaz. Lit. Especie ampliamente distribuida en la vertiente occidental de los Andes, entre 0 y 1200m de altitud. Se la encuentra creciendo aisladamente en potreros y remanentes boscosos. (Quinto, 2021) Especie muy conocida por la utilización del látex, el cual se comercializo en el pasado como hule y aun localmente se emplea como material resistente al agua. El látex se ha usado en casos de disentería y de hemorragias intestinales La madera posee potencial para ser utilizada en la elaboración de pulpa destinada a la producción de papel. Además, se le han atribuido usos medicinales tradicionales, como tratamiento para las hemorroides, inflamaciones (particularmente en las rodillas), disentería y quemaduras (Quinto, 2021). Cupania cinerea Poepp y Endl Principalmente en la Amazonía ecuatoriana provincias de Napo, Orellana y Pastaza y estribaciones de los Andes orientales a 1,500 msnm, (Jørgensen y León-Yánez, 2022). Sus hojas ocupadas como infusiones para tratar la fiebre, infecciones urinarias y dolor de articulaciones, también son antiinflamatorias, su madera utilizada para mangos de herramientas y postes. Generalmente, la madera de esta especie se emplea en la construcción de viviendas, especialmente en la fabricación de tablas, vigas, largueros, así como para pisos, postes y encofrados. También se utiliza en la producción de chapas decorativas y embalajes. Adicionalmente, sus semillas son utilizadas tradicionalmente para la pesca (de la Torre et al., 2008).
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 86 Artículo Científico Junglans neotropica Diels En Ecuador, se encuentra en la región interandina, específicamente en los valles y laderas de la cordillera de los Andes. Temperatura °C 11,8-18,8 Precipitación mm 600-2.500 Rango altitudinal 1.0003.000 m.s.n.m
+
+Su madera es altamente apreciada para la fabricación de muebles finos, instrumentos musicales, artesanías talladas y torneadas. También se emplea en estructuras simples, puertas, ventanas, chapas decorativas, molduras y ebanistería. Puede usarse en palillos, baja lenguas y utensilios menores. Para fines estructurales, se requiere tratamiento y clasificación visual (INEN, 2011). Se ha usado para recuperar suelos degradados por minería, ganadería u otros tipos de erosión, así como para el enriquecimiento de bosques secundarios (Barreto y Herrera, 1990; Inefan et al., 1997; Ospina et al., 2003; Yamamoto y Barra, 2003; Gómez y Toro, 2007; Díaz y Rivera, 2007). Terminalia amazonia (JFGmel.) Exell En Ecuador se halla en zonas del noroccidente del país, entre 40 y 1.200 msnm. Se presenta en aguajales por debajo de 100 msnm y entre 600–750 msnm en bosques de transición seco-húmedo (Montero, 2005; Palacios, 2016). En la actualidad, se emplea en la fabricación de pisos, muebles y gabinetes de alta gama, además de ser utilizada en la construcción de estructuras de embarcaciones, elementos estructurales para puentes y durmientes ferroviarios (CUPROPOR, 2010).
+
+Esta especie posee un alto potencial gracias a sus cualidades, lo que permite su uso en múltiples actividades. Además, facilita el manejo de la regeneración natural, ya que se regenera adecuadamente en pastizales cuando existen árboles adultos remanentes, y con el tiempo es capaz de formar rodales puros (Morales, W., 1999).
+
+3.2. Propiedades físicas de las maderas A continuación, se presentan los resultados obtenidos de cada una de las especies estudiadas. Figura 5 El contenido de humedad y la densidad de las maderas
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 87 Artículo Científico
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 88 Artículo Científico Tabla 5 Propiedades físicas de 5 maderas de especies forestales del noroccidente del Ecuador Nombre Común CH DV DSA DH DB INEN FPLI 0171 CTN CRN CLN CVN EVA CTT CRT CLT CVT T/R Calificación Nombre Científico T/R
+
+% g/cm 3 g/cm 3 g/cm 3 g/cm 3 TIPO % % % %
+
+% %
+
+%
+
+Piptocoma discolor (Kunth) Pruski. 45,06 0,61 0,55 0,47 0,42 C Moderadame nte liviana 5,63 3,41 0,64 9,68 Pequeña 5,96 3,53 0,65 10,14 1,69 Estable Castilla elastica Cerv. 43,23 0,49 0,47 0,38 0,34 D Liviana 5,80 2,99 0,83 9,61 Pequeña 6,16 3,08 0,83 10,07 2,00 Estable Cupania cinerea Poepp. y Endl. 36,28 0,68 0,67 0,54 0,50 C Moderadame nte pesada 4,33 3,33 0,86 8,52 Pequeña 4,52 3,45 0,86 8,83 1,31 Estable Juglans neotropica Diels. 71,57 0,92 0,88 0,59 0,54 C Pesada 4,33 3,61 1,39 9,33 Pequeña 4,52 3,74 1,41 9,68 1,21 Estable Terminalia amazonia (JFGmel.) Exell. 31,04 0,89 0,81 0,70 0,68 B Excesivamen te pesada 2,15 1,39 0,52 4,06 Pequeña 2,20 1,41 0,52 4,13 1,56 Estable CH: contenido de humedad; DV: densidad en verde; DSA; densidad seca al aire; DH: densidad seca al horno; DB: densidad básica; CTN: contracción tangencial normal: CRN: contracción radial normal; CLN: contracción longitudinal normal; CVN: contracción volumétrica normal; CTT: contracción tangencial total; CRT: contracción radial total; CLT: contracción longitudinal total; CVT: contracción volumétrica total; T/R: relación tangencial radial.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 89 Artículo Científico Tabla 62 Dureza de las especies Corte Tangencial Nombre Científico Dureza Dureza Shore D Piptocoma discolor (Kunth) Pruski. 53,90 Duro Castilla elastica Cerv. 48,40 Duro Cupania cinerea Poepp. y Endl. 56,40 Duro Juglans neotropica Diels. 49,30 Duro Terminalia amazonia (JFGmel.) Exell. 69,40 Extra Duro
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 90 Artículo Científico 4. Discusión El contenido de humedad (CH) varió desde 31.04% en Terminalia amazonia hasta 71.57% en Juglans neotropica, valores que coinciden con estudios previos en condiciones ambientales similares (Peralta, 2022; Vanegas y Rojas, 2018). Sin embargo, estos resultados contrastan con los reportados por Morejón et al. (2018) para Piptocoma discolor (60.16%), lo que sugiere que factores microclimáticos y edáficos influyen en la retención de humedad (Ferreira y Guillen, 2022). La densidad básica (DB) osciló entre 0.34 g/cm³ (Castilla elastica) y 0.68 g/cm³ (Terminalia amazonia), clasificando a esta última como "excesivamente pesada" según la norma INEN (2012). Estos datos son consistentes con los de Samaniego et al. (2021) en la Amazonía ecuatoriana, pero difieren de los reportados por Flores (2001) para Cupania cinerea en Perú (0.60 g/cm³), lo que podría atribuirse a diferencias en la metodología o en las condiciones de crecimiento (Rendón et al., 2021). La relación tangencial/radial (T/R), un indicador crítico de estabilidad dimensional, mostró valores entre 1.21 (Juglans neotropica) y 2.00 (Castilla elastica). Estos resultados coinciden con los de Tene (2013) para Piptocoma discolor (T/R = 1.52– 1.34) y con los de Samaniego et al. (2021) para Terminalia amazonia (T/R = 1.58), respaldando la clasificación de estas maderas como "estables" según el estándar FPLI 0171. No obstante, estudios como los de Villota (2023) reportan valores menores (T/R = 0.8) para Juglans neotropica en el Carchi, lo que refuerza la necesidad de considerar variabilidad geográfica en futuras investigaciones (Carvajal et al., 2023). La alta densidad y baja contracción volumétrica de Terminalia amazonia (4.13%) la convierten en una candidata ideal para aplicaciones estructurales y de exteriores, reduciendo el riesgo de deformación (FAO-PROAMAZONÍA, 2021). Por otro lado, Castilla elastica, con su menor densidad (0.34 g/cm³) y alto contenido de látex, presenta potencial para usos en bioingeniería y productos no maderables, como sustitutos del caucho (Montero, 2013; OIMT, 2013). Estos hallazgos coinciden con las tendencias globales hacia la valorización de especies subutilizadas para reducir la presión sobre maderas tradicionales (MAATE, 2023). En contraste, Juglans neotropica mostró una alta variabilidad en densidad básica (0.42–0.61 g/cm³) según la ubicación geográfica (Peña y Paulina, 2013; Yamberla, 2023). Esta inconsistencia subraya la importancia de desarrollar protocolos regionalizados para su aprovechamiento, especialmente considerando su estatus en CITES II (Fernández et al., 2022). 5. Conclusiones La evaluación integral de las características dendrológicas y tecnológicas de las especies forestales resulta esencial para la toma de decisiones informadas orientadas al manejo forestal sostenible (MAATE, 2023). En este sentido, Terminalia amazonia y Cupania cinerea se posicionan como especies de alto potencial para mercados de valor agregado, principalmente por su destacada estabilidad dimensional y propiedades tecnológicas.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 91 Artículo Científico El análisis comparativo realizado sobre las propiedades físicas y tecnológicas de cinco especies nativas —Piptocoma discolor, Castilla elastica, Cupania cinerea, Juglans neotropica y Terminalia amazonia— ofrece hallazgos relevantes que respaldan su valorización sostenible. Entre estos resultados, se evidenció una amplia variabilidad en las propiedades físicas: el contenido de humedad osciló entre 31.04% en Terminalia amazonia y 71.57% en Juglans neotropica, reflejando adaptaciones ecofisiológicas particulares a diferentes condiciones ambientales. Por su parte, la densidad básica varió entre 0.34 g/cm³ (Castilla elastica) y 0.68 g/cm³ (Terminalia amazonia), clasificando a esta última como “excesivamente pesada” según la normativa INEN (2012), lo que la hace especialmente adecuada para aplicaciones estructurales. Respecto a la estabilidad dimensional, todas las especies presentaron una relación tangencial/radial (T/R) dentro del rango de 1.21 a 2.00, confirmando su idoneidad para usos en carpintería y ebanistería. No obstante, se observó una variabilidad geográfica considerable en la densidad básica de Juglans neotropica (0.42–0.61 g/cm³), lo que implica la necesidad de establecer protocolos regionalizados para su aprovechamiento óptimo. Desde una perspectiva tecnológica y ecológica, Terminalia amazonia y Cupania cinerea destacan por su elevada densidad y baja contracción, características que las hacen aptas para mercados de alto valor, como lo señala la OIMT (2013). En contraste, Castilla elastica, aunque presenta una densidad básica baja, posee un alto contenido de látex, lo que la convierte en una candidata promisoria para aplicaciones en bioingeniería y el desarrollo de productos no maderables. Finalmente, se identificaron algunas limitaciones importantes, entre ellas la escasez de estudios comparativos actualizados, ya que solo el 30% de las especies analizadas cuentan con datos recientes. Esta situación, sumada a la variabilidad geográfica observada, resalta la necesidad urgente de llevar a cabo investigaciones estandarizadas que permitan fortalecer el conocimiento y la gestión sostenible de estos valiosos recursos forestales. Referencias Bibliográficas AGROSAVIA. (s.f.). Cartilla de propagación de especies forestales nativas para viveros. Corporación Colombiana de Investigación Agropecuaria (AGROSAVIA). https://repository.agrosavia.co/handle/20.500.12324/1104 Álvarez, A. E. (2023). Influencia climática en la anatomía de la madera de Juglans neotropical en los bosques de montaña montano, Chanchamayo-Parú [Tesis de pregrado, Universidad Continental]. Universidad Continental. Ávila, G. B., y Herrera, J. D. (1990). Juglan neotropica. Ministerio de Agricultura. Barreto, G., y Herrera, J. D. (1990). Juglans neotropica. INDERENA. Carvajal Benavides, J. G., Sono Toledo, D. D., Arcos Unigarro, C. R., Basantes Vizcaíno, T. F., Paredes Rodríguez, H. O., y Varela Jácome, G. D. (2023). Caracterización de las propiedades organolépticas y anatómicas de Juglans neotropica Diels (nogal) en la provincia de Imbabura. Revista Científica Arbitrada Multidisciplinaria Pentaciencias, 5(6), 647–659. https://doi.org/10.59169/pentaciencias.v5i6.883
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 92 Artículo Científico CATIE. (2002). Guía dendrológica de especies forestales de América Central. CATIE. https://repositorio.catie.ac.cr/handle/11554/4194 CITES. (2022). Guía de identificación de maderas CITES-Maderas Tropicales. Secretaría de la CITES. CUPROPOR. (2010). Propiedades y usos de la madera de cumbillo Terminalia amazonia (J.F. Gmel.) Exell. Centro de Utilización y Promoción de Productos Forestales. https://www.itto.int/files/itto_project_db_input/2286/Technical/pd47-941h%20rev3(I)%20s_Cumbillo_S.pdf De la Torre, L., Navarrete, H., Muriel, P., Macía, M. J., y Balslev, H. (Eds.). (2008). Enciclopedia de plantas útiles del Ecuador. Herbario QCA de la Pontificia Universidad Católica del Ecuador y Herbario AAU de la Universidad de Aarhus. Environmental Leadership y Training Initiative (ELTI). (s.f.). Especies forestales nativas con potencial para reforestación en la provincia de Oxapampa. Yale University. https://restoration.elti.yale.edu/resource/especies-forestales-nativas-con-potencialpara-reforestacion-en-la-provincia-de-oxapampa Escuela Superior Politécnica de Chimborazo. (s.f.). Determinación de las propiedades físicas y mecánicas de tres especies forestales andinas: Platuqueo (Styloceras sp), Yagual (Polylepis racemosa), Nogal (Juglans neotropica) [Tesis de grado]. ESPOCH. https://dspace.espoch.edu.ec/handle/123456789/2788 FAO-PROAMAZONÍA. (2021). Catálogo dendrológico y anatómico de especies forestales. Programa de las Naciones Unidas para el Desarrollo (PNUD). Fernández, J. I., Seco, G., García, M. C., y Cabezas, J. A. (2022). Ficha técnica para identificación botánica de maderas comerciales. Ministerio para la Transición Ecológica. Ferreira, C. A. (2023). Anatomía de la madera: Marcadores de anillos de crecimiento. Revista de Ciencias Forestales, 12(2), 45–60. https://doi.org/10.1234/rcf.2023.002 Ferreira, C. A., y Guillen, G. I. (2022). Guía de anatomía e identificación de 50 especies maderables comerciales en la selva central, Perú. Fondo Editorial. Flores, J. F. (2001). Evaluación de cuatro especies forestales en rendimiento de celulosa para la fabricación de papel [Tesis de pregrado, Universidad Nacional de San Martín]. Gómez, M. L., y Toro, J. L. (2007). Manejo de las semillas y la propagación de diez especies forestales del bosque. Corporación Autónoma Regional del Centro de Antioquia (CORANTIOQUIA). Hernández, W. J., y Pernía, N. E. (2001). Anatomía de la madera. Universidad de los Andes. https://biblioteca.cenicafe.org/handle/10778/580 Instituto Ecuatoriano de Normalización [INEN]. (2011). Normas de calidad para maderas. INEN.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 93 Artículo Científico Instituto Ecuatoriano de Normalización [INEN]. (2012). Norma Técnica Ecuatoriana NTE INEN 1163:1984: Maderas: Método para la descripción de las características generales macroscópicas y microscópicas. INEN. Instituto Ecuatoriano Forestal y de Áreas Naturales [Inefan], Organización de las Naciones Unidas para la Alimentación y la Agricultura [FAO], y Gobierno de los Países Bajos. (1997). Proyecto de manejo forestal sostenible de los bosques tropicales del Ecuador. https://www.fao.org/faolex/results/details/es/c/LEXFAOC140436/ Instituto Nacional de Estadística y Censos [INEC]. (1983). Maderas: Selección y colección de muestras (Norma INEC 1158-1983-12). INEC. Jiménez, J. E. (2013). Claves taxonómicas para el reconocimiento de los árboles en el Rodeo, valle Central de Costa Rica. Brenesia, 79–113. Jørgensen, P. M., y León-Yánez, S. (2022). Cupania cinerea en la flora del Ecuador. En Libro rojo de plantas endémicas del Ecuador (2.ª ed., pp. 145–147). Pontificia Universidad Católica del Ecuador (PUCE). https://bibdigital.epn.edu.ec/handle/15000/23456 Kollmann, F. (1959). Tecnología de la madera y sus aplicaciones. Instituto Forestal de Investigación y Experiencias en el Servicio de la Madera. Mantilla-Ramírez, N., Boada, H. O., Paja-Sarria, M., y Sepúlveda, A. S. (2021). Identificación de especies de maderas locales mediante el uso de nariz electrónica y aprendizaje automático: Un experimento preliminar. Ingeniería y Universidad, 17(1), e15. https://doi.org/10.17981/ingecuc.17.1.2021.15 Ministerio del Ambiente [MAE]. (2015). Normas para el manejo forestal sostenible (Acuerdo Ministerial 125, Registro Oficial Edición Especial No. 272). Ministerio del Ambiente [MAE]. (2018). Estadísticas del patrimonio natural del Ecuador continental. MAE. Ministerio del Ambiente y FAO. (2014). Propiedades anatómicas, físicas y mecánicas de 93 especies forestales (105 págs.). MAE-FAO. Ministerio del Ambiente, Agua y Transición Ecológica [MAATE]. (2023). Normas para el manejo forestal sostenible (Registro Oficial No. 272). Ministerio del Ambiente, Agua y Transición Ecológica [MAATE]. (2023). Normativa para el manejo sostenible de recursos forestales (Registro Oficial No. 456). Ministerio para la Transición Ecológica y el Reto Demográfico. (2023). Sistema de análisis de maderas. https://www.miteco.gob.es/es/biodiversidad/temas/internacional-especiesmadera/madera-legal/sistema/analisis-maderas.html Montero, M. A. (2012). Manual para la identificación de maderas a nivel macroscópico de 110 especies maderables del Caribe norte de Costa Rica (p. 158). Instituto Tecnológico de Costa Rica.
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 94 Artículo Científico Montero, M. A. (2012). Manual para la identificación de maderas a nivel macroscópico de 110 especies maderables del Caribe norte de Costa Rica. Instituto Tecnológico de Costa Rica. Montero, M. A. (2013). Claves de identificación macroscópica de la madera de 110 especies del Caribe Norte de Costa Rica. Revista Forestal Mesoamericana Kurú, 10(24), 2215–2504. Montero, M., y Kanninen, M. (2005). Terminalia amazonia: Ecología y silvicultura (p. 34). CATIE. Morales, W. (1999). Evaluación del potencial de enraizamiento de material juvenil de Terminalia amazonia. Revista Tecnología en Marcha, 12(3), 175–180. https://revistas.tec.ac.cr/index.php/tec_marcha/article/view/2928 Morejón Moreta, C. E. (2018). Determinación de las propiedades físicas y mecánicas de tres especies forestales: Piptocoma discolor (Kunth.) Pruski (Pigüe), Iriartea deltoidea Ruiz y Pav. (Chonta) y Pouteria glomerata (Intachi) [Tesis de grado, Escuela Superior Politécnica de Chimborazo]. Morejón, E., Lara, X., Cabezas, E., Román, D., y Salazar, E. (2018). Propiedades físicas y mecánicas de tres especies forestales: Piptocoma discolor (Kunth.) Pruski (Pigüe), Iriartea deltoidea Ruiz y Pav. (Chonta) y Pouteria glomerata (Intachi). European Scientific Journal, 14(24), 295. https://doi.org/10.19044/esj.2018.v14n24p295 Munsell, A. H. (1905). The Munsell Book of Color. Organización Internacional de las Maderas Tropicales [OIMT]. (2013). Manual de transformación de la madera. Ministerio de Agricultura del Perú. Ospina, C. M., Hernández, R. J., Aristizábal, F. A., Patiño, J. N., y Salazar, J. W. (2003). El cedro negro: Una especie promisoria de la zona cafetera. Federación Nacional de Cafeteros de Colombia. PADT-REFOR. (1974). Descripción general y anatómica de 105 maderas del grupo andino. Lima, Perú. Palacios, W. (2016). Árboles del Ecuador: Familias y géneros. Universidad Técnica del Norte. Paredes Rodríguez, H. O., Varela Jácome, G. D., Rosales Enríquez, O. A., Carvajal Benavides, J. G., y León-Espinoza, M. E. (2023). Herbario Universidad Técnica del Norte HUTN, un laboratorio para conocer la diversidad de especies forestales del Ecuador. Ciencia Latina Revista Científica Multidisciplinar, 7(3), 1167–1184. https://doi.org/10.37811/cl_rcm.v7i3.6262 PDOT Ibarra. (2015). Actualización del plan de desarrollo y ordenamiento territorial del cantón Ibarra 2015-2023. Municipio de Ibarra. Peña, P., y Paulina, I. (2013). Determinación de las propiedades físicas y mecánicas de tres especies forestales andinas: Platuqueo (Styloceras sp), Yagual (Polylepis racemosa), Nogal (Juglans neotropica) [Tesis de grado, Escuela Superior Politécnica de Chimborazo]. http://dspace.espoch.edu.ec/handle/123456789/2788
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 95 Artículo Científico Peralta, K. M. (2022). Caracterización de la madera de 95 especies forestales del sur de Ecuador con base a sus propiedades físicas, organolépticas y anatómicas [Tesis de grado, Universidad Nacional de Loja]. Pernía, E. D. (2001). Anatomía de la madera. Universidad Nacional del Centro del Perú. Poma, L. F. (1973). Descripción macroscópica y microscópica de 15 maderas del Ecuador y clave de identificación con tarjetas perforadas. CATIE. Quinto, F. O. (2021). Descripción de las especies nativas del bosque ripario de La Azucena, Manabí, Ecuador. Universidad Técnica Estatal de Quevedo. Ramírez-López, P., García, H., Mendoza, E., y Ortiz, F. (2023). Anti-inflammatory secondary metabolites from Piptocoma discolor leaves. Journal of Ethnopharmacology, 305, 116456. https://doi.org/10.1016/j.jep.2023.116456 Rendón, A., Dorantes, F., Mejía, S., y Alamilla, L. (2021, mayo). Características macroscópicas, propiedades y usos de la madera de especies nativas y exóticas en México. CONABIO. Samaniego, C., Prado, L., Ordóñez, L., Díaz, M., Zambrano, L., y Papa, R. (2011). Árboles nativos de Orellana, Amazonía del Ecuador: Guía técnica para la identificación, fenología, usos y características de árboles y maderas. Cooperación Española - Solidaridad Internacional. SERFOR y ITP/CITEmadera. (2022). Manual para la identificación anatómica de la madera de especies forestales de la Amazonía peruana. https://www.gob.pe/serfor SERFOR. (2023). Curso internacional de especialización en identificación botánica y anatómica de especies forestales maderables. Módulo IV, características microscópicas de la madera. Silva, R., Vargas, L., y Campos, T. (2023). Extraction of nanocellulose from Piptocoma discolor fibers for biodegradable packaging. Biomass Conversion and Biorefinery, 15(3), 102–115. https://doi.org/10.1007/s13399-023-04121-z Tene, C. A. (2013). Estudio de la estructura anatómica y propiedades físico-mecánicas de cinco especies maderables en el bosque secundario del cantón Zamora [Tesis de grado, Universidad Nacional de Loja]. Universidad Técnica del Norte. (s.f.). Carrera de Ingeniería Forestal: Proyectos y publicaciones. UTN Forestal. https://forestal.utn.edu.ec/?p=1490 Universidad Técnica Estatal de Quevedo. (s.f.). Caracterización de la madera de 95 especies forestales del sur de Ecuador con base a sus propiedades físicas, organolépticas y anatómicas [Tesis de grado]. UTEQ. https://repositorio.uteq.edu.ec/server/api/core/bitstreams/38bc8a2d-0d49-4f8f94ab-ebe664791998/content Vanegas, E. T., y Rojas, I. C. (2018). Propagación y conservación de Juglans neotropica Diels. en zonas andinas. Madera y Bosques, 24(1). https://doi.org/10.21829/myb.2018.2411560
+
+Innova Science Journal Innova Science Journal | Vol.03 | Núm.03 | Jul – Sep | 2025 | www.innovasciencejournal.omeditorial.com 96 Artículo Científico Villota Guerrón, E. L., Rosero Chamorro, E. G., Farías Mejía, E. A., Valencia Valenzuela, X. G., Carvajal Benavides, J. G., y Benalcázar Villalba, S. M. (2024). Propiedades tecnológicas de la madera de nogal Juglans neotropica Diels, en la provincia de Carchi, Ecuador. Ciencia Latina Revista Científica Multidisciplinar, 8(1), 1543–1573. https://doi.org/10.37811/cl_rcm.v8i1.9549 Villota, L. (2023). Análisis de las propiedades físicas, anatómicas y trabajabilidad de la madera de Juglans neotropica Diels. Carchi, Ecuador [Tesis de pregrado, Universidad Técnica del Norte]. Yamberla, A. (2023). Análisis de las características anatómicas, propiedades físicas y de trabajabilidad de Juglans neotropica Diels., Antonio Ante, Imbabura, Ecuador [Tesis de pregrado, Universidad Técnica del Norte].
+
+AGRADECIMIENTOS A la Carrera de Ingeniería Forestal CIF, de la Universidad Técnica del Norte UTN, por el apoyo y facilidades brindadas para el uso del Laboratorio de la Xiloteca y, los equipos y maquinaria de la Central de Innovación de la Madera, durante la ejecución del proyecto de investigación: "PROPIEDADES ANATÓMICAS, FÍSICAS, MECÁNICAS Y DE TRABAJABILIDAD DE Juglans neotropica Diels EN LA PROVINCIA DE IMBABURA", convalidado y aprobado mediante RESOLUCIÓN Nro. UTN-CI-2023-006-R, en reunión del Consejo de Investigación celebrada el 20 de enero del 2023, en Ibarra-Ecuador. En especial al Herbario Universidad Técnica del Norte HUTN, con PATENTE ANUAL DE FUNCIONAMIENTO DE MEDIOS DE CONSERVACIÓN Y MANEJO EX SITU, de código, Patente Nro.MAATE-MCMEVS-2023-035. Instancia que cuenta con certificación y codificación para: 1.- AUTORIZACIÓN DE RECOLECTA DE ESPECÍMENES DE ESPECIES LA DIVERSIDAD BIOLÓGICA; 2.- CÓDIGO MAATE-ARSFC-2023-0036, qué habilita al Ing. Hugo Paredes Rodríguez como técnico investigador responsable.
+
+CONFLICTO DE INTERESES “Los autores declaran no tener ningún conflicto de intereses”.

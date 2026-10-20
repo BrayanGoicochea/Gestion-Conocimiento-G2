@@ -7,8 +7,9 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 # -------------------------------------------------------------
 # CONFIGURACIÓN DE RUTAS
 # -------------------------------------------------------------
-CARPETA_CORPUS = r"C:\Users\Usuario\Videos\EXTRA\Archivos\corpus_rag_tsachila"
 DIRECTORIO_ACTUAL = os.path.dirname(os.path.abspath(__file__))
+CARPETA_RAIZ = os.path.dirname(DIRECTORIO_ACTUAL)
+CARPETA_CORPUS = os.path.join(CARPETA_RAIZ, "Archivos", "corpus_rag_tsachila")
 ARCHIVO_SALIDA_JSONL = os.path.join(DIRECTORIO_ACTUAL, "chunks_tsachila.jsonl")
 
 def ejecutar_parte1_langchain():

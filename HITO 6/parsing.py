@@ -31,10 +31,17 @@ def limpiar_texto(texto: str) -> str:
     return texto_final.strip()
 
 
+DIRECTORIO_ACTUAL = os.path.dirname(os.path.abspath(__file__))
+CARPETA_RAIZ = os.path.dirname(DIRECTORIO_ACTUAL)
+
+DEFAULT_ENTRADA = os.path.join(CARPETA_RAIZ, "Archivos", "corpus_rag_tsachila")
+DEFAULT_SALIDA_TXT = os.path.join(CARPETA_RAIZ, "Archivos", "corpus_limpio_txt")
+DEFAULT_JSON = os.path.join(CARPETA_RAIZ, "Archivos", "corpus_procesado.json")
+
 def parsear_y_limpiar_corpus(
-    carpeta_entrada=r"C:\Users\Usuario\Videos\EXTRA\corpus_rag_tsachila",
-    carpeta_salida_txt=r"C:\Users\Usuario\Videos\EXTRA\corpus_limpio_txt",
-    archivo_json_salida=r"C:\Users\Usuario\Videos\EXTRA\corpus_procesado.json",
+    carpeta_entrada=DEFAULT_ENTRADA,
+    carpeta_salida_txt=DEFAULT_SALIDA_TXT,
+    archivo_json_salida=DEFAULT_JSON,
     max_paginas_por_doc=None,
 ):
     """
@@ -120,7 +127,7 @@ def parsear_y_limpiar_corpus(
     print("RESUMEN DE EXTRACCIÓN Y LIMPIEZA:")
     print(f"- Total de PDFs procesados con éxito: {len(corpus_procesado)}")
     print(f"- Archivos de texto individuales guardados en: '{carpeta_salida_txt}'")
-    print(f"- Archivo consolidado JSON listo: '{archivo_json_salida}'")[cite: 7]
+    print(f"- Archivo consolidado JSON listo: '{archivo_json_salida}'")
     print("=" * 50)
 
 

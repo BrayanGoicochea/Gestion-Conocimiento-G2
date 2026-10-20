@@ -1,0 +1,229 @@
+Nigerian Journal of Science and Environment 2025 Volume 23 (1) 101 œ 10 7 ISN: 3043 œ 40
+
+htps:/doi.org/10.61 48/njse231258
+
+101
+
+Impact of Fermentation on Amino Acid Profile of Cold and Hot Water Extracts of Justicia carnea Leaves
+
+Jeroh, P. and Achuba, F.I.
+
+Department of Biochemistry, Delta State University Abraka.
+
+Coresponding Author: jerohpatience@gmail.com
+
+Abstract
+
+This study investigates the impact of fermentation on the amino acid profile of Justicia carnea
+
+leaves extracts and the fermented must of the hot water extract. The cold water extract (C)
+
+(25 0 C) , hot water extract (H) at 10 0 c and the fermented must (W) us ing bakers yeast ( Sacharamyces cerevisiae ) were analyzed with High - Performance Liquid Chromatography (HPLC) to determine changes in amino acid concentrations. The results show that fermentation significantly (p<0.05) alters the amino acid composition, wit h increases in key amino acids such as L - Proline, L - Serine, and L - Leucine relative to the hot water and cold water extracts. These findings highlight the potential of fermentation to enhance the amino acid profile of J . carnea water extract, a plant known f or its medicinal properties.
+
+Keywords
+
+Justicia carnea , fermentation, amino acids, hot water extract, nutrition.
+
+Introduction
+
+Justicia carnea which is the largest genus of the family of plants known as Acanthaceae , is a medicinal plant known for its bioactive properties, some local names include Ewueje by the yorubas and ogwuobara by the Ibos. it is comonly known as jacobina, brazilian plume, etc (Onyeabo et al ., 2017; Anarado et al. , 2021,). It is traditionaly used for its potential in improving blod levels, obesity control, treatment of malaria, diabetes, blod presure reduction and suporting overal health (Okwu and Josiah 206; Olayinka & Adesina, 2020; Igbinovia et al ., 2020; Anigboro et al.,
+
+2021a; Anigboro et al., 2021b; Ajuru et al ., 2021; Andrew et a., 2024). Various studies have shown that justicia carnea
+
+is rich in phytochemicals and antioxidants, which includes; flavonoids, phenols, tanins, saponins alkaloids and cardiac glycosides (Akinmoladun et al ., 2016; Adebayo et al . 2018; Ogunyemi et al ., 2020). Amino acids, the building blocks of proteins, play a critical role in celular function and health maintenance. They are involved in the regulation of key metabolic pathways and proceses that are crucial for the growth and the maintenance of organisms. (Cesari et al ., 205; Wu, 209).
+
+Fermentation, a biochemical proces involving microrganisms, is known to improve the bioavailability of nutrients in plant extracts by breaking down complex molecules. (Adams, 190; Holzapfel 195; Gagia, et al.,201; Rizelo et al .,2016). Fermentation has ben shown to break down complex plant molecules, making nutrients more bio - available and potentialy altering the amino acid profile (Azat et al ., 2016).
+
+Nigerian Journal of Science and Environment 2025 Volume 23 (1) 101 œ 10 7 ISN: 3043 œ 40
+
+htps:/doi.org/10.61 48/njse231258
+
+102
+
+Fermentation based proceses have ben of great interest for humans since the ancient times because of their potential aplication. This is because fermented fod condiments enhance flavour and improve the protein content, esential amino acids and faty acids of fods (Ojinaka et al., 20 1 Poutanen, et al ., 209 Çabuk, et al ., 2018). The outcome of fermentation gives insights into enhancing the nutritional value of plant based products. By understanding these changes, we can explore new ways to enhance the nutritional and therapeutic val ue of the plant.
+
+While Justicia carnea has ben studied for its health benefits, limited researches on the efects of fermentation on its amino acid profile has not ben observed. The aim of this study was to adres this gap by examining how fermentation afects the amino acid concentration in Justicia carnea
+
+hot water extracts.
+
+Materials and Methods:
+
+Colection and Cleaning of Plant Leaf
+
+Fresh J . carnea leaves were localy colected from a nearby bush in Abraka, Ethiope East Local Governmen t Area of Delta State and authenticated by a taxonomist, Prof, Joseph Ebiguai of the Dept. of Botany, Faculty of biological Science, University of Calabar, with Voucher number: UC - BOT/038 The leaves were weighed and cleaned by rinsing in clean potable wate r.
+
+Preparation of Justiciacarnea extracts
+
+Cold extract preparation
+
+Ten grams of J . carnea leaves were freshly harvested, weighed and washed with tap water respectively. The weighed leaves were then transfered into a mortar and crushed under cold ice. 10 mL (1 litre) of distiled water was utilized for the homogenization, the extract was then filtered through chese cloth with fine pore, and the filtrate was filtered for the second time using Whatman No. 1 filter paper. The resulting filtrat e was then used for the study. Storage of filtrate was done in a refrigerator at 4 0 C (Sahira and Catherine, 2015).
+
+Hot extract preparation
+
+The decoction of hot water (10%w/v) of the J . carnea was prepared by weighing a freshly washed 10 gram of the leaves and boiled with 10ml of distiled water for 10 mins under a mild heat condition. The extract was obtained from a two - step filtration employed by chese cloth and Whatman No. 1 filter paper respectively. The filtrate obtained was stored in refrigerator at 4 0 C. (Sahira and Catherine, 2015).
+
+Fermentation of hot water extract
+
+Fiften litres (15 L) of the hot water extract was fermented for 9 days. The fermentation vesel was washed and sterilized with a weak bleach solution and rinsed with plenty of water. Aluminium hydrogen sulfite (Al(HSO 3 ) 3 ) was aded in the ratio of 0.14 g/L to prevent the growth of wild strains of bacteria/ fungi. (Gutierez, et al ., 2017). The must for fermentation was prepared by ading sugar in the ratio of 10 g/L (making a total weight of 1.5 Kg.) to the hot water extract of J. carnea . and inoculated with a fermentation broth prepared from scratch as described below.
+
+Preparatio n of Broth: A mineral salt (amonium and magnesium) solution containing 0.6 g/L baker‘s yeas S. cerevisiae ), for nutrients 4.0 g/L amonium tetraoxosulphate (vi), (NH 4 ) 2 SO 4 and 2.0 g/L of magnesium tetraoxosulphate (vi), MgSO 4
+
+Nigerian Journal of Science and Environment 2025 Volume 23 (1) 101 œ 10 7 ISN: 3043 œ 40
+
+htps:/doi.org/10.61 48/njse231258
+
+103
+
+was aded and this was dis olved in 375mLs of the extract. This was then autoclaved at 121 o C for 15 min and alowed to col.
+
+This was mixed with the extract and sugar solution and alowed to ferment for 9 days.
+
+(Ogodo et. al., 2018)
+
+The profiling of amino acids was caried out for t he cold and hot water extracts, and the fermented must using the high - performance liquid chromatography (HPLC)
+
+Al results were expresed as mean and standard deviation using the SPS Version 16 software. One way anova analysis was used for comparison usin g turkey post hoc tol.
+
+Results and Discusion
+
+Table 1 shows the amino acid concentrations of the cold water extract, hot water extract and the fermented must. (C, H and W).
+
+Table 1: The variation in the amount of amino acids found in the e xtracts of J. carnea and the fermented must
+
+Amino Acid
+
+Cold
+
+Hot
+
+Fermented must
+
+Aspartic acid
+
+5.6 ±0.04 a 8.58 ±0.01 b 8.74±0.02 c Glutamic acid
+
+1.94±0.04 a 1.02±0.40 b 1.91±0.03 a Asparagine
+
+0.23±0.02 a 0.39±0.01 b 1.26±0.02 c Serine
+
+2.70±0.04 a 5.70±0.04 b 8.08±0.04 c Glutamine
+
+0.12±0.02 a 2.36±0.02 b 2.58±0.04 c Histidine
+
+0.26±0.03 a 0.47±0.02 b 0.68±0.03 c Glycine
+
+1.4±0.04 a 3.89±0.01 b 3.92±0.03 c Threonine
+
+1.04±0.02 a 3.01±0.01 b 3.06±0.02 c Arginine
+
+5.62±0.02 a 5.43±0.01 b 5.5±0.03 c Alanine
+
+3.50 ±0.01 a 3.54±0.03 b 3.79±0.02 c Tyrosine
+
+1.05±0.03 a 2.87±0.01 b 2.92±0.02 b Cystine
+
+0.09±0.01 a 1.02±0.01 b 1.06±0.02 c Valine
+
+1.03±0.04 a 3.90±0.02 b 3.98±0.02 c Methionine
+
+1.06±0.04 a 2.25 ±0.03 b 2.16±0.03 c Tryptophan
+
+4.13±0.04 a 0.82±0.06 b 1.87±0.06 c Phenylalanine
+
+0.42±0.03 a 3.37±0.06 b 5.41±0.07 c Isoleucine
+
+3.13±0.03 a 3.5 2±0.05 b 4.59±0.09 c Leucine
+
+1.16±0.07 a 6.08±0.05 b 7.09±0.07 c Lysine
+
+4.27±0.05 a 4.08±0.10 b 4.14±0.04 b Proline
+
+31.2±0.93 a 60.0±0.38 b 70.7±0.71 c
+
+Fermentation has ben noted to improve the quality of procesed fod (Ros et al ., 2021) The result of this study indicates that fermentation significantly increased the concentration of an important amino acid, Proline. This amino acid, Proline is involved in colagen production, wound healin g and imune function. This increase sugests that fermentation may enhance the synthesis or stability of proline in plant matrix which could contribute to the enhanced health benefits of fermented Justicia carnea extract (Wu et al ., 2014).
+
+Similarly, ther e are increases in the concentration of serine and leucine in the hot water extract (H) and fermented must (W). Serine is important for protein synthesis and
+
+Nigerian Journal of Science and Environment 2025 Volume 23 (1) 101 œ 10 7 ISN: 3043 œ 40
+
+htps:/doi.org/10.61 48/njse231258
+
+104
+
+phospholipid metabolism. leucine is a
+
+branched - chain amino acid that is esential for muscle protei n synthesis (Zhao et al ., 2018). These findings aligned with previous research showing that fermentation can bost the availability of esential amino acids in plant - based fods (Rizelo et al ., 2016).
+
+While most amino acids increased as a result of fermentation, L - Glutamic acid, which plays a key role in nitrogen metabolism and neurotransmision, showed a decrease in the hot extract H (1.02 mg/L)compared to the cold extract C (1.94 mg/L). This reduction
+
+may be due to the conversion of L - Glutamic acid into other metabolites as observed in other studies (Tamang et al ., 2016).Also,
+
+lysine, tryptophan and arginine depict to be heat liable amino acids as it was observed in this study, astheir concentrations s ignificantly decrease (p<0.05) in hot extract,the heat treatment during fod procesing aid in the softening of cel wal matrix of fod materials and ensure the availability of nutrients. Heat treatment proces in fod procesing afects heat liable compo unds that are in cytosolic bounds . Thus, the amino acids of glutamate, lysine, tryptophan and arginine could have posibly ben cytosolic bound amino acids in J . carnea leaves. With the exception of lysine, histidine and cysteine, the yeast cels can deri ve it nitrogen source from the rest seventen (17) L - amino acids (Takagi, 2019). Changes in the biomolecules of must are largely influenced by the dynamism of yeast adaptive nature (cel physiology and metabolism) in circumventing the environmental and ind ustrial growth conditions (Jach et al ., 202). The influence of these both factor s are depicted by the shift in the organism‘s metabolic enzymes, membranes and cel wal composition, which consequently alter the proteome, lipidome (lipid components of the cel membrane) and carbohydrate composition of the cels (Zhou et al ., 202). Yeast driven fermentation proces of wine production are geared towards desirable changes in composition of amino acids profiles, these changes influence changes in taste (glutam ine, aspartate) and colour (aromatic amino acids) are largely influences by the availability of fre amino acids in the fermenting bio - system (Tome et al ., 2021). Fermentation enhances the probiotics composition and reduce the level of anti - nutrient conten t in fod materials. This reduction in fod anti - nutrients foster easily digestion and availability of fod nutrients in the cels. Amino acids are the building blocks of protein plays specialized celular function, the regulate neurological activities, ge netic information transfer, inate imunity etc. and such the enhancements of this biological compounds eficiency ensure the fortification of the human body against disease conditions.
+
+Conclusion
+
+Fod procesing methods largely influence their nutritiona l composition, the changes in the concentration of the amino acids profile of cold extract, hot extract and fermented must of J . carnea clearly depicts that the heat treatment of J . carnea significantly caused decrease (p< 0.05) in concentration of amino acids of glutamate, lysine, arginine and tryptophan. Although the heat treatment and fermentation enhanced other amino acids by causing their release from bounded celular organ compartments and components. The aplication o f fermentation to can use to enhance the amino acid composition of J . carnea extracts there bolstering its the therapeutic potentials.
+
+References
+
+Adams, M. R. (190). Topical aspects of fermented fods. Trends in Fod Science & Technology , 1, 140 œ14.
+
+Nigerian Journal of Science and Environment 2025 Volume 23 (1) 101 œ 10 7 ISN: 3043 œ 40
+
+htps:/doi.org/10.61 48/njse231258
+
+105
+
+Adeb ayo, A. H., Abolaji, A. O., Opata, T. K., and Adegbenro, I. K. (2018). Hypotensive and antihypertensive efects of the aqueous leaf extract of Justicia carnea in rats. Journal of Ethnopharmacology , 26, 49 - 57.
+
+Ajuru, M. G., Kpekot, A. K., Omubo, J. and Mor rison, I. (2021). Comparative Study of Proximate and Phytochemical Analysis of the Rots of Justicia carnea Lindi . and Justicia secunda Vahl . Nigerian Anals Of Pure And Aplied Sciences , 4 (1), 2 - 3.
+
+Akinmoladun, F. O., Olaleye, M. T., and Onibiyo, E. M. (2016). Chemical composition, antioxidant and antimicrobial properties of Justicia carnea leaf extract. Journal of Medicinal Plants Research , 10(3), 573 - 580
+
+Anarado, C.E., Ajiwe V.I.E, Anarado, C.J.O. Obumselu O.F, Umedum N.L, and S.E. Okafor. (2021). —The Phytochemistry, Ethnomedicinal and Pharmacology Uses of Justicia carnea Lindl Used in Traditional Medicine in Nigeria - A Review “. South Asian Research Journal of Natural Products , 4 (3), 234 - 42.
+
+And rew, C., Andrew, A.C., Nwaoguikpe, R.N., Ujowundu, C.O. and Ujowundu, F. N. (2024). Biochemical analysis of Justiciacarnea leaves used as a hematinic. GSC Biological and Pharmaceutical Sciences , 26(2), 105 - 14.
+
+Anigboro A. A.,
+
+Avwioroko , O.J.,
+
+Ohwok evwo , O.A., Beruoritse P ., and
+
+Tonukari , N.J (2021). Phytochemical profile, antioxidant, Į- amylase inhibition, binding interaction and docking studies of Justicia carnea bioactive compounds with Į - amylase, Biophysical Chemistry 269 Article 106529
+
+Anigboro A. A., Oghenetega J., Avwioroko B.C, Akeghware O. A, Tonukari, N.J (2021). Anti - obesity, antioxidant and in silico evaluation of Justicia carnea bioactive compounds as potential inhibitors of an enzyme linked with obesity: Insights from kinetics, semi - empirical quantum mechanics and molecul ar docking analysis Biophysical Chemistry 274 Article 10607
+
+Azat, R., Liu, Y., Li, W., Kayir, A., Lin, D. B., Zhou,W. W. and Zheng,X. D. (2016), Probiotic properties of lactic acid bacteria isolated from traditionaly fermented Xinjiang chese. Journal o f Zhejiang University - Science B, 17(8), 597 - 609.
+
+Çabuk, b., Nosworthy, M., Stone, A., Korber, D., Tanaka, T., House, J. and Nickerson, M. (2018) fod technology and biotechnology . 2018 Jun; 56(2):257 œ264.
+
+Cesari, M., Rosi, G.P., Stichi, D. and Pesina, A.C. (205). Is homocysteine important as risk factor for coronary heart disease? Nutritional Metabolism and Cardiovascular Diseases . 15(2):140 œ147.
+
+Gagia, F., Di Gioia, D., Bafoni, L. and Biavati, B. (20 1). The role of protective and probiotic cultures in
+
+Nigerian Journal of Science and Environment 2025 Volume 23 (1) 101 œ 10 7 ISN: 3043 œ 40
+
+htps:/doi.org/10.61 48/njse231258
+
+106
+
+fod and fed and their impact on fod safety. Trends in Fod Science & Technology, 2(1), 58 œ6.
+
+Gutierez, D., Malet, S., Cabalero, A., and Rojas, H. (2017). Antibacterial activity of aluminum in c lay from the Colombian Amazon. Environmental Science & Technology , 51(24), 14345 œ14352.
+
+Holzapfel, W. H. (195). Biological preservation of fods with reference to protective cultures, bacteriocins, and fod - grade enzymes. International Journal of Fod Mic robiology , 24(3), 343 œ 362.
+
+Igbinovia P., Kabari, K., Chikwue, T (2020): phytochemical and anti - anaemic properties of ethaniol leaf extract of justicia carnea.Vahl (acanthaceae. Nigerian journal for Pharmaceutical and aplied science research, 8(2:5 - 61.
+
+Ja ch, M. E., Serefko, A., Ziaja, M. and Kieliszek, M. (202). Yeast protein as an easily acesible fod source. Metabolites, 12 (1), 63.
+
+Ogodo, A.C., Ubogu, A. E., and Ezeonu, C.S. (2015). Production of Mixed Fruit (Pawpaw, Banana and Watermelon) Wine Using Sacharomyces cerevisiae Isolated from Palm Wine. Aplied Microbiology 4:683 - 9 Ogunyemi, T. S., Olalekan, O. D. and Okoye, P. C. (2020). Evaluation of the safety profile of Justicia carnea leaf extract in Wistar rats. Toxicology Reports , 7, 1345 - 1353.
+
+Ojin naka, C. M., Ojimelukwe C,P. and Ezeama C.F. (2013). Efect of fermentation period on the organic acid and amino acid contents of Ogiri from castor oil bean seds. Malaysian Journal of Microbiology , 9(3), 201 - 212
+
+Okwu, D. E. and Josiah, C. (206).Evaluation of the chemical composition of two Nigerian medicinal plants. African Journal of Biotechnology , 5(4), 357 - 361.
+
+Olayinka, B. U., and Adesina, B. S. (2020). Hematopoietic efects of Justicia carnea leaf extract in Wistar rats. African Journal of Traditional, Complementary, and Alternative Medicines , 17(3), 54 - 61.
+
+Onyeabo, C., Achi, N. K., Ekeleme - Egedigwe, C. A., Ebere, C. U. and Okoro, C. K. (2017). Haematological and biochemical studies on Justiciacarnea leaves e xtract in phenylhydrazine induced - anemia in albino rats. ActaScientiarum Polonorum Technologia Alimentaria

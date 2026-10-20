@@ -1,0 +1,243 @@
+Vol. 16(3), pp. 39-46, July-September 2022 DOI: 10.5897/AJBR2022.1153 Article Number: 9FE649069739 ISSN 1996-0778 Copyright © 2022 Author(s) retain the copyright of this article http://www.academicjournals.org/AJBR
+
+African Journal of Biochemistry Research
+
+Full Length Research Paper
+
+Antioxidants and antigenotoxic properties of Rhizopus oligosporus fermented cassava (Manihot esculenta Crantz)
+
+Egoamaka O. Egbune1*, Theresa Ezedom2, Akpovwehwee A. Anigboro1, Eferhire Aganbi1, Alex-Ifo Amata3 and Nyerhovwo J. Tonukari1
+
+1Department of Biochemistry, Faculty of Science, Delta State University, Abraka, Delta State, Nigeria. 2Department of Medical Biochemistry, Faculty of Basic Medical Science, Delta State University, Abraka, Delta State, Nigeria. 3Department of Animal Science and Fisheries, Faculty of Agricultural Science, Delta State University, Abraka, Delta State, Nigeria.
+
+Received 8 July, 2022; Accepted 21 September, 2022
+
+The antioxidant and antigenotoxic effects of solid state fermented cassava (Manihot esculenta Crantz) using Rhizopus oligosporus were investigated. Solid state fermentation was carried out for 72 h at room temperature under acidic and basic conditions. Total phenolic content was significantly (p<0.05) higher in fermented peeled and unpeeled cassava at pH 7 and 5 when compared with unfermented. Similarly, the total flavonoid contents of fermented peeled and unpeeled cassava at pH 4 and 7 were significantly (p<0.05) higher than in unfermented. Allium cepa assay was used to assess the antigenotoxic effects of unfermented and fermented peeled and unpeeled cassava. The fermented extracts did not induce chromosomal type aberrations in the treated cells. The present study thus showed that R. oligosporus has the ability to breakdown cassava and considerably increase the antioxidant properties in peeled and unpeeled fermented cassava, which may serve as natural antioxidants in industrial broiler chickens.
+
+Key words: Cassava, fermentation, Rhizopus oligosporus, antioxidants, antigenotoxicity.
+
+INTRODUCTION
+
+Recently, the poultry industry has made immense efforts in obtaining alternative energy sources for its livestock production (Morgan and Choct, 2016; Abomohra et al., 2020; Egbune et al., 2021b). Maize has been the main energy source used in poultry feeds due to its palatability, high-energy value and the presence of pigments and essential fatty acids. However, due to the demand for maize for biofuel production, food for humans among others, maize price has risen dramatically in recent years (Ghosh et al., 2019). The increases in the cost of traditional raw materials used for poultry feeds have driven the quest for alternative feed resources at a reduced production cost. According to Tonukari et al. (2015), cassava is a carbohydrate-rich staple crop, with potential to totally replace maize as an energy source in poultry diets.
+
+Corresponding author. E-mail: egbuneegoamaka@gmail.com .
+
+Author(s) agree that this article remain permanently open access under the terms of the Creative Commons Attribution License 4.0 International License
+
+40 Afr. J. Biochem. Res.
+
+Cassava (Manihot esculenta Crantz) is a popular tuber crop in Nigeria, with an estimated annual yield of 45 million tonnes (Ehebha and Eguaoje, 2018). Tonukari et al. (2015) reported that cassava-based animal feed has the potential to enhance feed production while cutting feed costs in both commercial and subsistence agricultural settings. However, research has shown that cassava's widespread usage as a primary feed component in animal feeding regimens is limited due to the presence of deadly cyanogenic compounds as well as high fibre and ash levels found in particular fractions and cultivars (Asaolu et al., 2012; Lukuyu et al., 2014). Thus, to optimize its use in chicken feed formulations, cassava's nutritional value must be increased through appropriate processing techniques. Solid state fermentation (SSF) is a microbiological approach used to improve the nutritional value of animal feed (Okhonlaye and Foluke, 2016; Anigboro et al., 2022). Studies have shown that fermentation improves micronutrient bioavailability and aids in the breakdown of antinutritional compounds (Morgan and Choct, 2016). It has also been employed to give functional properties that may be beneficial to broiler chickens (Sugiharto and Ranjitkar, 2018). Cassava's cyanogenic glucoside concentration is a crucial quality indicator since it is harmful if taken in quantities more than 30 ppm (Ferraro et al., 2015). Studies have shown that increased total cyanogens content of garri diet deplete as fermentation period increased (Abiodun et al., 2020). There is likelihood that cyanide has been linked to pancreatic islet damage and diabetes (Akanji, 1994). Various test systems, using human and animal models (especially with animals e.g. rats) has been used to provide data, as a scientific basis for improving the processing of cassava product; however literature is scanty on the use of plant models. Allium cepa test has been recognized as a reliable indication for safety evaluation of cyto-genotoxicity monitoring of chemicals, drinking water, wastewaters, and complicated mixes, according to Kassa (2021). Investigations into the evaluation of the anti-genotoxicity of cassava are not much. Synthetic antioxidants are commonly utilized as feed additives in an effort to improve chicken feed quality, particularly during heat stress and during vaccination (Sugiharto, 2019; Gouda et al., 2020). Antioxidants can shield the body from the negative effects of oxidative stress. Excessive usage of synthetic antioxidants, on the other hand, may be carcinogenic and/or mutagenic to consumers (Fellenber and Speisky, 2006). As a result, nutritionists are looking for natural antioxidants in industrial broiler chickens. Antioxidants are prevalent in the filamentous fungus Grifola frondosa, Monascus purpureus, Pleurotus species, Lentinula edodes, and Trametes versicolor, according to Smith et al. (2015). Similarly, Sugiharto et al. (2016) found Acremonium charticola, Rhizopus oryzae,
+
+and Chaetomorpha crassa as promising natural antioxidant sources. Other filamentous fungi with antioxidant capacities include Aspergillus PR78 and PR66 (Arora and Chandra, 2010), Chaetomium species, Cladosporium species, Torula species, Phoma species (Huang et al., 2007), and Mycelia sterilia (Moon et al., 2006; Huang et al., 2007). Rhizopus oligosporus is a filamentous fungi that has been employed less often (Egbune et al., 2022). It generates no harmful substances, easy to culture, and lacks pathogenic potential (Sugiharto, 2019; Aganbi et al., 2020). It grows quickly at 34 to 45°C and is used to produce food and feed. The current work intends to assess the antioxidant and antigenotoxic properties of solid-state fermented cassava (M. esculenta Crantz) utilizing the fungus R. oligosporus.
+
+MATERIALS AND METHODS
+
+Plant and starter organism
+
+Cassava (M. esculenta Crantz) roots, variety TME 419 were collected from Sapele, Songhai, Amukpe, Delta State, Nigeria. Skins were removed from tubers after thorough washing to achieve tubers without peels. Peeled and unpeeled tubers were cut into bits separately and dried to a uniform weight. The dried materials were milled and kept at room temperature until assays were performed. The strains of R. oligosporus (produced by Aneka Fermentasi Industry. PT - Ragi dalam BANDUNG) were obtained from the Harmony Path Limited, Sapele, Delta State. Solid state fermentation was carried out in Petri plates for 72 h at room temperature under acidic and basic conditions (pH 3 - 9) using 50 mM phosphate and citrate buffers.
+
+Substrate preparation for solid state fermentation
+
+One gram of R. oligosporus (1.4 × 102 CFU/g) was calculated using the method published by Ofuya and Nwajiuba (1990), homogenized in 10 ml of prepared citrate and phosphate buffers ranging from pH 3 to 9 in seven different Petri dishes which were labeled according to the corresponding pH. In the homogenization phase, 10 g of the ground peeled and unpeeled cassava roots were utilized; they were allowed to ferment for 72 h at 25°C. An unfermented control (containing dried and ground peeled and unpeeled cassava, devoid of any presence of molds with buffer only, and without any cells) was prepared alongside the test samples. Following fermentation, 6 g of the mixture was removed from each of the Petri dishes at the various pH levels; 40 ml of distilled water was added prior to homogenization using mortar and pestle; and 10 ml of homogenate was centrifuged at 3500 rpm for 10 min to get supernatant. The supernatant served as the crude extract or sample for the different tests, which were performed in triplicate.
+
+Determination of free radical inhibition activities of 2,2diphenyl-1- (DPPH) radical
+
+The antioxidant activities of peeled and unpeeled cassava tubers were evaluated using the DPPH assay. This was computed using the method provided by Hatano et al. (1988). A 2.8 ml methanolic solution of DPPH radical (6 × 10-5 mol/l) was put to 0.3 ml of extract. To get consistent absorption readings, the mixture was rapidly
+
+agitated and placed in the dim for 60 min. The absorbance at 517 nm was utilized to calculate the DPPH radical's reduction. Ascorbic acid was utilized as a control. The radical scavenging activity was calculated by the formula:
+
+%RSA = ((ADPPH – AS) / ADPPH) × 100
+
+where %RSA = % DPPH discolouration; A is absorbance of DPPH solution and AS is absorbance of the solution after a certain amount of sample was added
+
+Determination of total phenol content
+
+This was done in line with the protocol outlined by Singleton and Rossi (1965). One milliliter of Folin C reagent was added to 1 ml of the material. After 3 min, 1 ml of saturated sodium carbonate Na2CO3 solution was added, followed by 10 ml of distilled water. For 90 min, the reaction mixture was maintained in the dark. At 725 nm, the absorbance was measured. Catechin was used as standard.
+
+Determination of total flavonoid contents
+
+Colorimetric determination of total flavonoid contents was done using the method of Jia et al. (1999). 250 µl of the extract was combined with 1.25 ml of distilled water and 75 µl of 5% sodium nitrite (NaNO2). After 5 min, 150 µl of 10% AlCl3 H2O, 500 µl of 1 M NaOH, and 275 µl of distilled water were added. The solution was thoroughly mixed, and the mixture color intensity was measured at 510 nm. Catechin served as the standard.
+
+Determination of antigenotoxic activities
+
+Preparation of extracts
+
+Four hundred grams of fermented peeled and unpeeled cassava flour was measured at room temperature and placed in a basin with 120 cl of tap water. This was left to saturate for 5 min before being agitated and the extract pressed and sieved through a cheese cloth. The leftover particles were thrown away.
+
+A. cepa assay
+
+Onion bulbs (A. cepa L., 2n=16) of average size (15-22 mm diameter) were purchased locally. After six weeks of sun drying, to uncover the nascent meristematic tissues, with a fine razor blade, the dry roots at the base of the onion bulbs were meticulously scraped out. To keep the primodial cells from dehydrating, the bulbs were immersed in newly produced purified water. To account for a number of bulbs in the population that would be naturally slow or poor growing, seven replicate bulbs were used for each test sample and control (tap water) and the best five bulbs were chosen at the approximate time for examination (Rank and Nielsen, 1993). Blotting paper was used to dry the bulbs. To determine root growth inhibition, newly obtained stock extracts were watered into five concentrations of 20, 10, 5, 2.5, and 1%. For each concentration of each extract and the control, seven onion bulbs were used (tap water). For 72 h in the dark, the bases of each bulb were hung on the extracts in 100 mL beakers. The test extracts were refreshed on a regular basis. After the exposure time, the roots of the five onion bulbs that grew the quickest at each concentration were detached with forceps and their lengths (in cm) were measured using a metre rule. The percentage root growth inhibition in comparison to the negative control and the EC50 Egbune et al. 41
+
+(effective concentration at which root growth equals 50% of the controls) for each extract were computed using weighted averages for each concentration and the control (Fiskesjo, 1985). The effect of each sample on the morphology of growing roots was also studied. To test chromosomal aberration induction, 5 onion bulbs were suspended for 48 h on 10, 5, 2.5, and 1% (v/v) concentrations of each extract and the control. After 48 h, the root tips of these bulbs were stored in a solution of ethanol:glacial acetic acid (3:1, v/v). These were hydrolyzed in 1N HCl for 5 min at 60°C before being rinsed in distilled water. After pressing two root tips onto each slide for 10 min, they were coloured with acetocarmine and cover slips were carefully attached to exclude air bubbles. The cover slips were sealed on the slides with clear fingernail polish as suggested by Soares et al. (2020). This is to prevent drying out of the preparation by the heat of the microscope (Sharma, 1983). Six slides were created for each concentration and the control, with five (at 1000 cells per slide) examined for chromosomal aberration induction at 1000 magnification. The mitotic index was calculated by dividing the total number of cells by the number of cells identified per 1000 (Fiskesjo, 1985, 1997). The proportion of abnormal cells was calculated by dividing the total number of cells examined at each concentration of each extract by the number of abnormal cells (Bakare et al., 2000).
+
+Statistical analysis
+
+All statistical analyses were performed using SPSS 19.0 software (SPSS Inc., Chicago, IL, USA). Values were reported as Mean ± Standard deviation and the experimental results were analyzed using analysis of variance (ANOVA) and also a Fischer test of least significance (LSD) was carried out to compare the various group means. The results were considered significant at p-values of less than 0.05, that is, at 95% confidence level (p< 0.05).
+
+RESULTS
+
+Figure 1 depicts the free radicals scavenging activity of DPPH in peeled and unpeeled cassava tubers. The findings indicated a substantial (p<0.05) increase in DPPH free radical-scavenging activity from 17.81±1.38 and 44.40±1.27% in peeled and unpeeled cassava to 26.88±0.46% in fermented peeled at pH 4 and 56.91±1.72% in fermented unpeeled at pH 6. Figure 2 depicts the phenolic content of fermented peeled and unpeeled cassava. The phenol content of fermented peeled and unpeeled cassava increased significantly (p<0.05) as compared to the experimental control. The total phenolic content increased from 20.4±0.91 and 20.6±0.45 (μg/ml) in peeled and unpeeled cassava to 72.5±3.03 μg/ml in fermented peeled cassava at pH 7 and 47.71±4.21 μg/ml in fermented unpeeled cassava at pH 5. A rise in phenolic content was also seen at different pH levels. The total flavonoid level of fermented peeled and unpeeled cassava is as shown in Figure 3. Total flavonoid concentration increased significantly (p<0.05) from 8.61±0.25 and 9.59±1.12 μg/ml in peeled and unpeeled cassava to 24.4±0.46 μg/ml in fermented peeled at pH 6 and 25.59±1.02 μg/ml in fermented unpeeled at pH 7. At various pH levels, fermentation
+
+42 Afr. J. Biochem. Res.
+
+0 10 20 30 40 50 60 70 Control pH3 pH4 pH5 pH6 pH7 pH8 pH9 DPPH radical scavanging activity (%) Fermentation pH Peeled Cassava Unpeeled Cassava a b c b b b b a a a b d b b c d
+
+Figure 1. Antioxidant activities inhibition of 2,2-diphenyl-1-prycrilhydrazil (DPPH) radical of peeled and unpeeled cassava tubers. At p<0.05, the labeling of each bar with a distinct letter resulted in a significant difference. Source: Authors
+
+0 10 20 30 40 50 60 70 80 Total Phenol (μg/ml) Fermentation pH Peeled Cassava Unpeeled Cassava a a f b d c e e c c d d b b b b
+
+Figure 2. Total phenolic content in the R. oligosporus fermented peeled and unpeeled cassava tubers. At p<0.05, the labeling of each bar with a distinct letter resulted in a significant difference. Source: Authors
+
+resulted in a rise in total flavonoid. The results of the influence of unfermented and fermented peeled and unpeeled cassava extracts on the growth of A. cepa are shown in Table 1. The highest root outshoot was obtained in the control, which was free of any morphological abnormalities. They were stable, uncomplicated, and white in hue. Root development was greatest at the 1% (percent) absorption of the unpeeled fermented cassava extract (3.75±0.21). Alternatively, with 10% unfermented peeled cassava extract (0.2±0.03), the average root size was the lowest (0.2±0.03). Obstruction of root development was concentration dependent and
+
+Egbune et al. 43
+
+0 5 10 15 20 25 30 Total Flavonoid (μg/ml) Fermentation pH Peeled Cassava Unpeeled Cassava a d c c c c c b b c b d d e c a
+
+Figure 3. Total flavonoid content in the R. oligosporus fermented peeled and unpeeled cassava tubers. At p<0.05, the labeling of each bar with a distinct letter resulted in a significant difference. Source: Authors
+
+mathematically significant (P<0.05) at verified levels, with no progress at any extracts at a concentration of 20%. The EC50 values for unfermented, fermented, peeled, and unpeeled cassava extracts were 2.50, 3.10, 3.50, and 4.0%. Table 2 displays the results of the microscopic inspection. There was no chromosomal abnormality in the fermented extracts, and the mitotic index (MI) in the control was 40%. There was an absorption-dependent decrease in all concentrations of the unfermented extracts compared to the fermented extracts when equated to the control MI of 40%. The lowest MI of 9 was found for 10% unfermented peeled cassava extract. Unfermented extracts completely produced disorder of the mitotic spindle abnormalities, which were significant (p<0.05) as compared to fermented extracts.
+
+DISCUSSION
+
+Studies have shown that antioxidants are important in diets for a variety of reasons, including extending food shelf life, promoting good health, and preventing sickness in consumers, notably animals and humans (Atta et al., 2018). Polyphenolic substances have been associated to antioxidant, anti-cancer, and antibacterial activities (Sumazian et al., 2010; Tonukari et al., 2016). This necessitated the assessment of the DPPH free radicalscavenging capacity, total phenolic content, and total flavonoid content inherent in fermented peeled and unpeeled cassava. This may give insight into the antioxidant capacity of the anticipated livestock feed composition in comparison to the unfermented version. The findings of this investigation revealed that fermented peeled and unpeeled cassava had a substantial increase in DPPH free radical-scavenging capability, total phenolic content and total flavonoid content when compared with the unfermented sample. The findings are consistent with previous reports, implying that solid-state fermentation (SSF) is an exciting technique for increasing the antioxidant potentials of fermented peeled and unpeeled cassava due to their high polyphenolic content, which is necessary for the sequestration of reactive oxygen species (ROS) produced by the lipid peroxidation process (Nuri et al., 2010; Chiunghui et al., 2010; Francilene et al., 2011; Egbune et al., 2021a). This shows that the inherent polyphenolic chemicals in pulverized fermented peeled and unpeeled cassava in the presence of R. oligosporus strain may function as proton donors to ROS, terminating the lipid peroxidation process through the creation of more stable and less reactive molecules. Table 1 displays the antigenotoxic activity of solid state fermented peeled and unpeeled cassava. This shows the effects of unfermented and fermented peeled and unpeeled cassava extracts on the growth of A. cepa. The highest root outshoot was obtained in the control, which was free of any morphological abnormalities. They were
+
+44 Afr. J. Biochem. Res.
+
+Table 1. Root growth of A. cepa full-grown in unfermented and fermented peeled and unpeeled cassava.
+
+Conc. (%) Unfermented peeled cassava
+
+Unfermented unpeeled cassava
+
+Fermented peeled cassava
+
+Fermented unpeeled cassava Mean root length±SD RG (%) of control 95% CL
+
+Mean root length±SD RG (%) of control 95% CL
+
+Mean root length±SD RG (%) of control 95% CL
+
+Mean root length±SD RG (%) of control 95% CL 0 4.9 ± 0.17 - 0.22
+
+4.9 ± 0.17 - 0.26
+
+4.9 ± 0.17 - 0.27
+
+4.9 ± 0.17 - 0.13 1 1.5 ± 0.12 71.09* 0.38
+
+2.0 ± 0.22 79.09* 0.35
+
+3.75±0.21 88.7* 0.31
+
+3.75±0.21 90.7* 0.51 2.5 0.5 ± 0.04 69.65* 0.34
+
+0.8 ± 0.09 71.02* 0.44
+
+2.13±0.17 85.1* 0.34
+
+2.13±0.17 87.3* 0.24 5 0.3 ± 0.03 46.62* 0.42
+
+0.4 ± 0.11 56.92* 0.51
+
+2.04±0.14 42.9* 0.42
+
+2.04±0.14 62.4* 0.21 10 0.2 ± 0.03 30.51* 0.58
+
+0.3 ± 0.03 40.51* 0.51
+
+1.56±0.08 30.6* 0.58
+
+1.56±0.08 56.1* 0.41 20 There is no root development -
+
+There is no root development -
+
+There is no root development
+
+There is no root development EC 50 2.50% - -
+
+3.10% - -
+
+3.50% - -
+
+4.00% - -
+
+The root growth percentage (RG) of the control is expressed as a percentage of the control's root growth. 95% CL: Confidence limit of 95%. *P<0.05, amount of influence of root progression blockage compared to control. Source: Authors
+
+Table 2. The effects of unfermented and fermented peeled and unpeeled cassava extracts on A. cepa cells were studied cytologically.
+
+Conc. (%) Unfermented peeled cassava
+
+Unfermented unpeeled cassava
+
+Fermented peeled cassava
+
+Fermented unpeeled cassava No. of dividing cells Mitotic index % of aberrant cells
+
+No. of dividing cells Mitotic index % of aberrant cells
+
+No. of dividing cells Mitotic index % of aberrant cells
+
+No. of dividing cells Mitotic index % of aberrant cells 0 207 40 -
+
+207 40 -
+
+207 40 -
+
+207 40 - 1 101 19 0.11
+
+105 20 0.11
+
+201 39 0.14
+
+203 40 0.06 2.5 63 14 -
+
+73 14 -
+
+198 38 -
+
+196 39 0.12 5 31 11 -
+
+32 11 -
+
+133 37 -
+
+190 37 0.14 10 41 9 0.02
+
+41 9 0.02
+
+142 21 0.04
+
+176 36 0.16 20 40 3 0.1
+
+45 5 0.1
+
+150 10 0.1
+
+160 10 0.02
+
+*5000 cells (5 slides) for each absorption of the control and each emission. Source: Authors
+
+stable, uncomplicated, and white in hue. Root development was greatest at 1% absorption of the unpeeled fermented cassava extract (3.75±0.21). Alternatively, with 10% unfermented peeled cassava extract (0.2±0.03), the average root size was the lowest (0.2±0.03). Obstruction of root development was concentration dependent and mathematically significant (P<0.05) at verified levels, with no progress at any extracts at a concentration of 20%. The EC50 values for unfermented, fermented, peeled, and unpeeled cassava extracts were 2.50, 3.10, 3.50, and 4.0%. The antigenotoxic effects of fermented peeled and unpeeled cassava extracts on A. cepa were investigated in this study. Based on the EC50 values of fermented peeled and unpeeled cassava extracts, the effect of fermented peeled and unpeeled cassava extracts on A. cepa root progress revealed that there was a concentration drop in root progress inhibition. These data suggest that the trials were lethal; unpeeled cassava extracts had the most inhibitory and mitodepressive effects of any extract tested. This might be due to a cynogenic component found in garri and all poorly fermented cassava meals (Apeh et al., 2020). When there is root progress reluctance, the number of separate cells in A.
+
+cepa is always reduced (Fiskesjo, 1997; Bakare and Wale-Adeyemo, 2004). The presence of heavy metals in the extracts might account for the suppression of root development in A. cepa. Table 2 displays the results of the microscopicinspection. There was no chromosomal abnormality in the fermented extracts, and the MI in the control was 40%. There was an absorption-dependent decrease in all concentrations of the unfermented extracts compared to the fermented extracts when related to the control. The lowest MI of 9 was found for 10% unfermented peeled cassava extract. Unfermented extracts completely produced disorder of the mitotic spindle abnormalities, which were significant (p<0.05) as compared to fermented extracts. Chromosomal abnormalities are changes in chromosome configuration caused by a disruption or exchange of chromosome structure. Among the oddities identified in the unfermented cassava extract were the beginnings of gluey chromosomes, bridges, and the rupture of spindle fibers in onion root cells at various stages of mitotic division. When chromosomal abnormalities occurred in A. cepa, certain developmental limitations were virtually invariably present (Fiskesjo, 1997). The majorities of these anomalies are harmful and can cause genetic defects, whether somatic or inherited (Swierenga et al., 1991).
+
+Conclusion
+
+Solid state fermentation has been used to provide functional qualities that may benefit broiler chickens. Filamentous fungus has the potential to operate as fermentation starters, antioxidant sources, and enzyme makers. Results obtained show that R. oligosporus has the ability to breakdown cassava and efficiently elevate antioxidant properties in peeled and unpeeled fermented cassava. The results also indicate that the fermented unpeeled extracts tested exhibited inhibitory, mitodepressive, and turbagenic effects on A. cepa root formation, cell division, and chromosomal behavior.
+
+CONFLICT OF INTERESTS
+
+The authors have not declared any conflict of interests.
+
+REFERENCES
+
+Abiodun OA, Ayano B, Abiodun AA (2020). Effect of fermentation periods and storage on the chemical and physicochemical properties of biofortified cassava gari. Journal of Food Processing and Preservation 44(12):e14958. Abomohra AE, Elsayed M, Esakkimuthu S, El-Sheekh M, Hanelt D (2020). Potential of fat, oil and grease (FOG) for biodiesel production: A critical review on the recent progress and future perspectives. Progress in Energy and Combustion Science 81:100868. Aganbi E, Anigboro AA, Tonukari NJ (2020). Changes in glucose, amylase and soluble proteins levels in solid-state fermented yam (Dioscorea sp.) peels by Rhizopus oligosporus. Nigerian Journal of Egbune et al. 45
+
+Science and Environment 18(1):161-167. Akanji AO (1994). Cassava intake and risk of diabetes in humans. Acta Horticulture 375:349-359. Anigboro AA, Egbune EO, Akeghware O, Evie P, Samofordu AA, Tonukari NJ. (2022). Biochemical parameters of solid-state fermented cocoyam (Colocasia esculenta) using Rhizopus oligosporus at different inoculum sizes. Nigerian Journal of Biotechnology 39(1):68-74. Apeh DO, Mark O, Onoja VO, Awotunde M, Ojo T, Christopher P, Makun HA (2020). Hydrogen cyanide and mycotoxins: Their incidence and dietary exposure from cassava products in Anyigba, Nigeria. Food Control 121:107663. Arora DS, Chandra P (2010). Assay of antioxidant potential of two Aspergillus isolates by different methods under various physiochemical conditions. Brazilian Journal of Microbiology 41(3):765-777. Asaolu V, Binuomote R, Akinlade J, Aderinola O, Oyelami O (2012). Intake and growth performance of West African dwarf goats fed Moringa oleifera, Gliricidiasepium and Leucaena leucocephala dried leaves as supplements to cassava peels. Journal of Biology, Agriculture and Healthcare 2(10):76-88. Atta EM, Mohamed NH, Abdelgawad AA (2018). Antioxidants: An overview on the natural and synthetic types. European Chemical Bulletin 6(8):365-375. Bakare AA, Mosuro AA, Osibanjo O (2000). Effect of simulated leachate on chromosomes and mitosis in roots of Allium cepa (L). Journal of Environmental Biology 21(3):263-271. Bakare, AA, Wale-Adeyemo AR (2004). The mutagenic and cytotoxic effects of leacheates from domestic solid wastes and Aba-Eku landfill, Nigeria on Allium cepa. Nature Environment and Pollution Technology 3(4):455- 462. Chiunghui L, Minghong Y, Shihfang T, Kimhong G, Hsueyin H, Chunnan L (2010). Antioxidant triterpenoids from the stems of Momordica charantia. Food Chemistry 118(3):751-756. Egbune EO, Avwioroko OJ, Anigboro AA, Aganbi E, Amata A, Tonukari NJ (2022). Characterization of a surfactant-stable α-amylase produced by solid-state fermentation of cassava (Manihot esculenta Crantz) tubers using Rhizopus oligosporus: Kinetics, thermal inactivation thermodynamics and potential application in laundry industries. Biocatalysis and Agricultural Biotechnology 39:102290. Egbune EO, Eze E, Edwards RA, Ezedom T, Tonukari NJ (2021a). Enhancement of the nutritional value of elephant grass (Pennisetum purpureum Schum.) for use as animal feeds and for xylanase production. Nigerian Journal of Science and Environment 19(2): 7983. Egbune EO, Ezedom T, Tonukari NJ (2021b). Inclusion of a locally produced animal performance supplement in broilers’ ration. Nigerian Journal of Science and Environment 19:2 Ehebha ETE, Eguaoje AS (2018). Haematological and Serum Biochemical Indices of Broiler Chickens fed Varying Dietary Levels of Sundried Cassava (Manihot esculenta) Peel Meal Supplemented with Enzyme (MAXIGRAIN®). Asian Journal of Animal and Veterinary Advances 1(4):1-9. Fellenber MA, Speisky H (2006). Antioxidants: Their Effects on Broiler Oxidative Stress and Its Meat Oxidative Stability [Abstract]. World's Poultry Science Journal 62(1):53-70. Ferraro V, Piccirillo C, Tomlins K, Pintado ME (2015). Cassava (Manihot esculentaCrantz) and Yam (Dioscoreaspp.) Crops and Their Derived Foodstuffs: Safety, Security and Nutritional Value. Critical Reviews in Food Science and Nutrition 56(16):2714-2727. Fiskesjo G (1985). The Allium test as a standard in environmental monitoring. Hereditas 102:99-112. Fiskesjo G (1997). Allium test for screening chemicals; evaluation of cytologic parameters. In: Wang W, Gorsuch JW, Hughes JS. (Eds.), Plants for Environmental Studies. CRC Lewis Publishers, Boca Raton, New York 307-333. Francilene GKV, Graciele DSCB, Cristiane C, Patricia FDP, Eduardo DCN, Roseane F (2011). Phenolic compounds and antioxidant activity of the apple flesh and peel of eleven cultivars grown in Brazil. Scientia Horticulturae 128(3):261-266. Ghosh P, Westhoff P, Debnath D (2019). Biofuels, food security, and sustainability. InBiofuels, bioenergy and food security 211-229. Academic Press.
+
+46 Afr. J. Biochem. Res.
+
+Gouda AC, Ndjiondjop MN, Djedatin GL, Warburton ML, Goungoulou A, Kpeki SB, N’Diaye A, Semagn K. (2020). Comparisons of sampling methods for assessing intra- and inter-accession genetic diversity in three rice species using genotyping by sequencing. Scientific Reports 10(1):13995. Hatano T, Kagawa H, Yasuhara T, Okuda T (1988). Two New Flavonoids and Other Constituents in Licorice Root: Their Relative Astringency and Radical Scavenging Affects. Chemical and Pharmaceutical Bulletin 36(6):2090-2097. Huang WY, Cai YZ, Hyde KD, Corke H, Sun M (2007). Endophytic fungi from Nerium oleander L (Apocynaceae): main constituents and antioxidant activity. World Journal of Microbiology and Biotechnology 23(9):1253-1263. Jia Z, Tang M, Wu J (1999). The determination of flavonoid contents of murlberry and their scavenging effects on superoxide radicals. Food Chemistry 64:555-559. Kassa BA (2021). Cytotoxicity and Genotoxicity evaluation of municipal wastewater discharged into the head of Blue Nile River using the Allium Cepa test, Scientific African 13:e00911. Lukuyu B, Okike I, Duncan A, Beveridge M, Blümmel, M (2014). Use of cassava in livestock and aquaculture feeding programs. ILRI Discussion Paper 25. Nairobi, Kenya: International Livestock Research Institute. Moon BS, Ryoo IJ, Yun BS, Bae KS, Lee KD, Yoo ID, Kim JP (2006). Glyscavins A, B and C, new phenolic glycoside antioxidants produced by a fungus Mycelia sterilia F020054. Journal of Antibiotics 59(11):735-739. Morgan NK, Choct M (2016). Cassava: Nutrient composition and nutritive value in poultry diets. Animal Nutrition 2(4):253-261. Nuri A, Ratna B, Diny AS, Bradley B, Hanny W (2010). Flavonoid content and antioxidant activity of vegetables from Indonesia. Food Chemistry 121(4):1231-1235. Ofuya CO, Nwajiuba CJ (1990). Microbial degradation and utilization of cassava peel. World Journal of Microbiology and Biotechnology 6(2):144-148. Okhonlaye AO, Foluke OO (2016). Fermentation of Cassava (Manihot esculenta) and Ripe Plantain Peels (Musa paradisiaca) in the Production of Animal Feed. Journal of Advances in Microbiology 1(2):230-238. Rank J, Nielsen MH (1993). A modified Allium test as a tool in the screening of the genotoxicity of complex mixtures. Hereditas 118(1):49-53. Sharma CBSR (1983). Plant meristems as monitors of genetic toxicity of environmental chemicals. Current Science 52(21):1000-1002. Singleton VL, Rossi JA. (1965). Colorimetry of Total Phenolics with Phosphomolybdic-Phosphotungstic Acid Reagents. American Journal of Enology and Viticulture 16(3):144-158. Smith H, Doyle S, Murphy R (2015). Filamentous fungi as a source of natural antioxidants. Food Chemistry 185:389-397. Soares FAF, Carvalho CR, Sattler MC, Silva JC, Pinto DEE, Passamani PZ, Clarindo WR (2020). Plant Chromosome-Specific Probes by Microdissection of a Single Chromosome: Is That a Reality? Frontiers in Plant Science 11:334.
+
+Sugiharto S (2019). A review of filamentous fungi in broiler production: Annals of Agricultural Sciences 64(1):1-8. Sugiharto S, Ranjitkar S (2018). Recent advances in fermented feeds towards improved broiler chicken performance, gastrointestinal tract microecology and immune responses: A review. Animal nutrition 5(1):1-0. Sugiharto S, Yudiarti T, Isroli I (2016). Assay of Antioxidant Potential of Two Filamentous Fungi Isolated from the Indonesian Fermented Dried Cassava. Antioxidants 5(1):6. Sumazian Y, Syahida A, Hakiman M, Maziah M (2010). Antioxidant activities, flavonoids, ascorbic acid and phenolic contents of Malaysian vegetables. Journal of Medicinal Plants Research 4(10):881-890. Swierenga SH, Heddle JA, Sigal EA, Gilman JP, Brillinger RL, Douglas GR, Nestmann, ER (1991). Chromosome aberrations and sisterchromatid exchange in Chinese hamster ovary. Mutation Research 24(2):301-322. Tonukari NJ, Egbune EO, Avwioroko OJ, Aganbi E, Orororo OC, Anigboro AA (2016). A novel pig feed formulation containing Aspergillus niger CSA35 pretreated-cassava peels and its effect on growth and selected biochemical parameters of pigs. African Journal of Biotechnology 15(19):776-785. Tonukari NJ, Ezedom T, Enuma CC, Sakpa OS, Avwioroko OJ, Linda EL, Enovwo OE (2015). White Gold: Cassava as an Industrial Base. American Journal of Plant Sciences 6(07):972-979.

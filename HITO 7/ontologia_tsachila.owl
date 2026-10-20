@@ -5,83 +5,148 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+     xmlns:foodon="http://purl.obolibrary.org/obo/foodon.owl#"
+     xmlns:mesh="http://id.nlm.nih.gov/mesh/">
 
     <owl:Ontology rdf:about="http://www.semanticweb.org/ontologia_tsachila">
-        <rdfs:comment xml:lang="es">Ontología formal del Conocimiento Etnobotánico y Medicina Ancestral Tsáchila.</rdfs:comment>
-        <rdfs:label xml:lang="es">Ontología Etnobotánica Tsáchila</rdfs:label>
+        <rdfs:comment xml:lang="es">Ontología formal del Conocimiento Etnobotánico, Medicina Ancestral y Gastronomía Tsáchila, alineada con Darwin Core, FoodOn y MeSH.</rdfs:comment>
+        <rdfs:label xml:lang="es">Ontología Etnobotánica y Gastronómica Tsáchila</rdfs:label>
+        <owl:versionInfo>2.0.0</owl:versionInfo>
     </owl:Ontology>
 
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Planta">
-        <rdfs:label xml:lang="es">Planta</rdfs:label>
-        <rdfs:comment xml:lang="es">Entidad vegetal empleada en la medicina tradicional Tsáchila</rdfs:comment>
+        <rdfs:label xml:lang="es">Planta Medicinal y Útil</rdfs:label>
+        <rdfs:comment xml:lang="es">Entidad vegetal empleada en la medicina tradicional y alimentación Tsáchila (Alineado con Darwin Core dwc:Organism).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://rs.tdwg.org/dwc/terms/Organism"/>
     </owl:Class>
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Patologia">
-        <rdfs:label xml:lang="es">Patologia</rdfs:label>
-        <rdfs:comment xml:lang="es">Enfermedad, síntoma o dolencia tratada</rdfs:comment>
+        <rdfs:label xml:lang="es">Patología o Síntoma</rdfs:label>
+        <rdfs:comment xml:lang="es">Enfermedad clínica, dolencia física o afectación espiritual tratada (Alineado con MeSH D004194).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://id.nlm.nih.gov/mesh/D004194"/>
     </owl:Class>
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#PartePlanta">
-        <rdfs:label xml:lang="es">PartePlanta</rdfs:label>
-        <rdfs:comment xml:lang="es">Órgano vegetal utilizado (hojas, corteza, fruto, raíz, etc.)</rdfs:comment>
+        <rdfs:label xml:lang="es">Parte Botánica de la Planta</rdfs:label>
+        <rdfs:comment xml:lang="es">Órgano vegetal recolectado y procesado: hoja, raíz, corteza, semilla, flor, tallo (Alineado con Plant Ontology PO_0009010).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://purl.obolibrary.org/obo/PO_0009010"/>
     </owl:Class>
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Preparacion">
-        <rdfs:label xml:lang="es">Preparacion</rdfs:label>
-        <rdfs:comment xml:lang="es">Forma galénica o ritual de elaboración del remedio</rdfs:comment>
+        <rdfs:label xml:lang="es">Técnica de Preparación Terapéutica</rdfs:label>
+        <rdfs:comment xml:lang="es">Forma galénica, método de elaboración curativo o ritual: infusión, maceración, cataplasma, baño purificador.</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://purl.obolibrary.org/obo/NCIT_C25627"/>
     </owl:Class>
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica">
-        <rdfs:label xml:lang="es">FamiliaBotanica</rdfs:label>
-        <rdfs:comment xml:lang="es">Taxonomía botánica de las especies</rdfs:comment>
+        <rdfs:label xml:lang="es">Familia Botánica</rdfs:label>
+        <rdfs:comment xml:lang="es">Rango taxonómico formal biológico al que pertenece la especie vegetal (Alineado con Darwin Core dwc:family).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://rs.tdwg.org/dwc/terms/family"/>
     </owl:Class>
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui">
-        <rdfs:label xml:lang="es">NombreTsafiqui</rdfs:label>
-        <rdfs:comment xml:lang="es">Denominación vernácula en lengua tsáfiqui</rdfs:comment>
+        <rdfs:label xml:lang="es">Denominación en Lengua Tsáfiqui</rdfs:label>
+        <rdfs:comment xml:lang="es">Nombre ancestral originario en lengua Tsáfiqui transmitido oralmente por los sabios Pone.</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://schema.org/name"/>
     </owl:Class>
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico">
-        <rdfs:label xml:lang="es">NombreCientifico</rdfs:label>
-        <rdfs:comment xml:lang="es">Nomenclatura botánica binomial</rdfs:comment>
+        <rdfs:label xml:lang="es">Nombre Científico Binomial</rdfs:label>
+        <rdfs:comment xml:lang="es">Nomenclatura taxonómica internacional en latín (Alineado con Darwin Core dwc:scientificName).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://rs.tdwg.org/dwc/terms/scientificName"/>
     </owl:Class>
-    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Receta">
-        <rdfs:label xml:lang="es">Receta</rdfs:label>
-        <rdfs:comment xml:lang="es">Fórmula medicinal tradicional compuesta</rdfs:comment>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#RecetaMedicinal">
+        <rdfs:label xml:lang="es">Fórmula Medicinal Ancestral</rdfs:label>
+        <rdfs:comment xml:lang="es">Preparación curativa compuesta por múltiples elementos bajo dirección shamánica.</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://schema.org/Recipe"/>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico">
+        <rdfs:label xml:lang="es">Plato Tradicional y Gastronomía Tsáchila</rdfs:label>
+        <rdfs:comment xml:lang="es">Preparación alimentaria o bebida ceremonial Tsáchila (Alineado con FoodOn foodon:FOODON_00002500).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://purl.obolibrary.org/obo/FOODON_00002500"/>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#IngredienteCulinario">
+        <rdfs:label xml:lang="es">Ingrediente o Condimento Culinario</rdfs:label>
+        <rdfs:comment xml:lang="es">Especie vegetal empleada para sazón, condimento o envoltura alimenticia tradicional (ej. bijao, achiote, chiliangua).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://purl.obolibrary.org/obo/FOODON_00001002"/>
     </owl:Class>
     <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#Actor">
-        <rdfs:label xml:lang="es">Actor</rdfs:label>
-        <rdfs:comment xml:lang="es">Especialista o practicante tradicional de la salud (p. ej., Poné)</rdfs:comment>
+        <rdfs:label xml:lang="es">Especialista o Practicante Tradicional</rdfs:label>
+        <rdfs:comment xml:lang="es">Rol social o médico ancestral en la comunidad (p. ej., Poné / Chamán, Curandera, Cocinera tradicional).</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://schema.org/Person"/>
+    </owl:Class>
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologia_tsachila#ComunidadOrigen">
+        <rdfs:label xml:lang="es">Comuna Tsáchila de Origen</rdfs:label>
+        <rdfs:comment xml:lang="es">Comuna ancestral Tsáchila de Santo Domingo donde se documenta el conocimiento tradicional.</rdfs:comment>
+        <rdfs:seeAlso rdf:resource="http://schema.org/Place"/>
     </owl:Class>
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#trataA">
         <rdfs:label xml:lang="es">trataA</rdfs:label>
+        <rdfs:comment xml:lang="es">Indica qué síntoma o patología trata la planta o receta.</rdfs:comment>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
     </owl:ObjectProperty>
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#usaParte">
         <rdfs:label xml:lang="es">usaParte</rdfs:label>
+        <rdfs:comment xml:lang="es">Órgano vegetal recolectado para la formulación.</rdfs:comment>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
     </owl:ObjectProperty>
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#preparadoComo">
         <rdfs:label xml:lang="es">preparadoComo</rdfs:label>
+        <rdfs:comment xml:lang="es">Método de procesamiento galénico o ceremonial.</rdfs:comment>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
     </owl:ObjectProperty>
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#perteneceAFamilia">
         <rdfs:label xml:lang="es">perteneceAFamilia</rdfs:label>
+        <rdfs:comment xml:lang="es">Taxonomía biológica de la especie.</rdfs:comment>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#FamiliaBotanica"/>
     </owl:ObjectProperty>
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#tieneNombreTsafiqui">
         <rdfs:label xml:lang="es">tieneNombreTsafiqui</rdfs:label>
+        <rdfs:comment xml:lang="es">Denominación en idioma originario Tsáfiqui.</rdfs:comment>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreTsafiqui"/>
     </owl:ObjectProperty>
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#tieneNombreCientifico">
         <rdfs:label xml:lang="es">tieneNombreCientifico</rdfs:label>
+        <rdfs:comment xml:lang="es">Nomenclatura binomial botánica.</rdfs:comment>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#NombreCientifico"/>
     </owl:ObjectProperty>
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#administradoPor">
         <rdfs:label xml:lang="es">administradoPor</rdfs:label>
+        <rdfs:comment xml:lang="es">Especialista tradicional que dirige el tratamiento.</rdfs:comment>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Actor"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#ingredienteDePlato">
+        <rdfs:label xml:lang="es">ingredienteDePlato</rdfs:label>
+        <rdfs:comment xml:lang="es">Uso alimenticio o culinario de la especie en un plato tradicional.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#originarioDeComuna">
+        <rdfs:label xml:lang="es">originarioDeComuna</rdfs:label>
+        <rdfs:comment xml:lang="es">Comuna Tsáchila territorial donde se registra el conocimiento.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#ComunidadOrigen"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#tieneContraindicacion">
+        <rdfs:label xml:lang="es">tieneContraindicacion</rdfs:label>
+        <rdfs:comment xml:lang="es">Restricción de consumo en ciertas afecciones o estados.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#tieneSaborPerfil">
+        <rdfs:label xml:lang="es">tieneSaborPerfil</rdfs:label>
+        <rdfs:comment xml:lang="es">Perfil sápido o aromático que aporta a la gastronomía.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#IngredienteCulinario"/>
+    </owl:ObjectProperty>
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologia_tsachila#asociadoACeremonia">
+        <rdfs:label xml:lang="es">asociadoACeremonia</rdfs:label>
+        <rdfs:comment xml:lang="es">Ritual de sanación específico en el que se suministra.</rdfs:comment>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologia_tsachila#RecetaMedicinal"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Actor"/>
     </owl:ObjectProperty>
 
@@ -1342,7 +1407,7 @@
         <rdfs:label xml:lang="es">Maceración con licor y espasmo de arco</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Donbada_Kapi">
-        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#RecetaMedicinal"/>
         <rdfs:label xml:lang="es">Don'bada Kapi</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Té_de_raíces_hervidas_con_piedras_de_río">
@@ -1350,7 +1415,7 @@
         <rdfs:label xml:lang="es">Té de raíces hervidas con piedras de río</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Muturupi">
-        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#RecetaMedicinal"/>
         <rdfs:label xml:lang="es">Muturu'pi</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Desintoxicación_corporal">
@@ -1362,28 +1427,60 @@
         <rdfs:label xml:lang="es">Hojas de múturu</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uru_Mala">
-        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico"/>
         <rdfs:label xml:lang="es">Uru Mala</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chicha_de_yuca_fermentada_en_hoja_de_bijao">
-        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico"/>
         <rdfs:label xml:lang="es">Chicha de yuca fermentada en hoja de bijao</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Yomala">
-        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico"/>
         <rdfs:label xml:lang="es">Yo'mala</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chicha_ceremonial_con_hongo_oreja_de_cerdo_y_maíz">
-        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Preparacion"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico"/>
         <rdfs:label xml:lang="es">Chicha ceremonial con hongo oreja de cerdo y maíz</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kanthi_Pi">
-        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Receta"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#RecetaMedicinal"/>
         <rdfs:label xml:lang="es">Kanthi Pi</rdfs:label>
     </owl:NamedIndividual>
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hojas_de_tabaco">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PartePlanta"/>
         <rdfs:label xml:lang="es">Hojas de tabaco</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Culantro_de_pozo">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Planta"/>
+        <rdfs:label xml:lang="es">Culantro de pozo</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Caldo_de_bagre_tsachila">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico"/>
+        <rdfs:label xml:lang="es">Caldo de bagre tsachila</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayampaco">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#PlatoGastronomico"/>
+        <rdfs:label xml:lang="es">Ayampaco</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Chigüilpe">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#ComunidadOrigen"/>
+        <rdfs:label xml:lang="es">Chigüilpe</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Búa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#ComunidadOrigen"/>
+        <rdfs:label xml:lang="es">Búa</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Otongo_Mapalí">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#ComunidadOrigen"/>
+        <rdfs:label xml:lang="es">Otongo Mapalí</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Consumo_de_alimentos_grasos">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Consumo de alimentos grasos</rdfs:label>
+    </owl:NamedIndividual>
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologia_tsachila#Irritación_ocular_directa">
+        <rdf:type rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Patologia"/>
+        <rdfs:label xml:lang="es">Irritación ocular directa</rdfs:label>
     </owl:NamedIndividual>
 
     <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Synechanthus_warsewiczianu">
@@ -2345,5 +2442,35 @@
     </rdf:Description>
     <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Kanthi_Pi">
         <administradoPor rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Poné"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Culantro_de_pozo">
+        <ingredienteDePlato rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Caldo_de_bagre_tsachila"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Achiote">
+        <ingredienteDePlato rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ayampaco"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Hoja_de_Yuca">
+        <ingredienteDePlato rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Uru_Mala"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Bacuaja_bijagua">
+        <ingredienteDePlato rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Ayampaco"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Uru_Mala">
+        <originarioDeComuna rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Chigüilpe"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Yomala">
+        <originarioDeComuna rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Búa"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Donbada_Kapi">
+        <originarioDeComuna rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Chigüilpe"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <originarioDeComuna rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Otongo_Mapalí"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ayahuasca">
+        <tieneContraindicacion rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Consumo_de_alimentos_grasos"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/ontologia_tsachila#Ortiga_brava">
+        <tieneContraindicacion rdf:resource="http://www.semanticweb.org/ontologia_tsachila#Irritación_ocular_directa"/>
     </rdf:Description>
 </rdf:RDF>
