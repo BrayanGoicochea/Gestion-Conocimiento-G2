@@ -10,7 +10,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 # -------------------------------------------------------------
 DIRECTORIO_ACTUAL = os.path.dirname(os.path.abspath(__file__))
 RUTA_CHROMA_DB = os.path.join(DIRECTORIO_ACTUAL, "chroma_db_tsachila")
-NOMBRE_COLECCION = "langchain"  # Nombre por defecto que usa Chroma.from_documents en la Parte 2
+NOMBRE_COLECCION = "corpus_tsachila"  # Nombre por defecto que usa Chroma.from_documents en la Parte 2
 MODELO_EMBEDDINGS = "BAAI/bge-m3"
 
 # Se piden más candidatos de los necesarios porque el corpus contiene PDFs
