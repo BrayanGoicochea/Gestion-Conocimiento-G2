@@ -1,0 +1,6 @@
+# La API key de Groq NUNCA se sube al repositorio
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.log
+*.err

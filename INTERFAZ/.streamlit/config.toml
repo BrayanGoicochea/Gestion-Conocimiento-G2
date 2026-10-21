@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#059669"
+backgroundColor = "#f6faf8"
+secondaryBackgroundColor = "#ecfdf5"
+textColor = "#1f2937"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+# El observador de archivos de Streamlit recorre todos los submódulos de transformers y
+# vuelve muy lenta la carga (y llena la consola de errores de torchvision). Se desactiva.
+fileWatcherType = "none"
